@@ -873,3 +873,56 @@ Processing technique: aerial (64 videos)
 2025-09-05 02:40:31,542 - INFO - Successfully downloaded: videos/aerial/261709538069.webp (1800722 bytes)
 2025-09-05 02:40:32,047 - INFO - Downloading video 58/64 for aerial
 2025-09-05 02:40:32,048 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/02/19/261708345479.webp -> videos/aerial/261708345479.webp
+2025-09-05 04:49:25,685 - INFO - Loaded 3 videos from test_metadata.json
+2025-09-05 04:49:25,685 - INFO - Downloading (attempt 1/3): https://httpbin.org/bytes/1024 -> test_downloads/aerial/Test Video 1.webp
+2025-09-05 04:49:27,020 - INFO - Successfully downloaded: test_downloads/aerial/Test Video 1.webp (1024 bytes)
+2025-09-05 04:49:27,530 - INFO - Loaded 3 videos from test_metadata.json
+2025-09-05 04:49:27,530 - INFO - Resume mode: Found 1 previously downloaded videos
+2025-09-05 04:49:27,530 - INFO - Limited to 3 videos
+2025-09-05 04:49:27,530 - INFO - Found videos for 1 techniques
+2025-09-05 04:49:27,530 - INFO - 
+Processing technique: unknown (3 videos)
+2025-09-05 04:49:27,531 - INFO - Downloading video 1/3 for unknown
+2025-09-05 04:49:27,531 - INFO - Skipping previously downloaded: https://httpbin.org/bytes/1024
+2025-09-05 04:49:27,531 - INFO - Downloading video 2/3 for unknown
+2025-09-05 04:49:27,531 - INFO - Downloading (attempt 1/3): https://httpbin.org/bytes/2048 -> test_downloads/unknown/Test Video 2.webp
+2025-09-05 04:49:28,822 - INFO - Successfully downloaded: test_downloads/unknown/Test Video 2.webp (2048 bytes)
+2025-09-05 04:49:29,327 - INFO - Downloading video 3/3 for unknown
+2025-09-05 04:49:29,328 - INFO - Downloading (attempt 1/3): https://httpbin.org/bytes/512 -> test_downloads/unknown/Test Video 3.webp
+2025-09-05 04:49:29,629 - INFO - Successfully downloaded: test_downloads/unknown/Test Video 3.webp (512 bytes)
+2025-09-05 04:49:30,134 - INFO - 
+==================================================
+2025-09-05 04:49:30,134 - INFO - DOWNLOAD STATISTICS
+2025-09-05 04:49:30,135 - INFO - ==================================================
+2025-09-05 04:49:30,135 - INFO - Total videos: 3
+2025-09-05 04:49:30,135 - INFO - Downloaded this session: 2
+2025-09-05 04:49:30,135 - INFO - Skipped (already exists): 1
+2025-09-05 04:49:30,135 - INFO - Failed: 0
+2025-09-05 04:49:30,135 - INFO - Total previously downloaded: 3
+2025-09-05 04:49:30,135 - INFO - Success rate: 66.7%
+2025-09-05 04:49:30,135 - INFO - Progress file: test_downloads/.download_progress.json
+2025-09-05 04:49:30,135 - INFO - ==================================================
+2025-09-05 04:49:30,138 - INFO - Loaded 3 videos from test_metadata.json
+2025-09-05 04:49:30,138 - INFO - Resume mode: Found 3 previously downloaded videos
+2025-09-05 04:49:30,138 - INFO - Limited to 3 videos
+2025-09-05 04:49:30,138 - INFO - Found videos for 1 techniques
+2025-09-05 04:49:30,138 - INFO - 
+Processing technique: unknown (3 videos)
+2025-09-05 04:49:30,138 - INFO - Downloading video 1/3 for unknown
+2025-09-05 04:49:30,139 - INFO - Skipping previously downloaded: https://httpbin.org/bytes/1024
+2025-09-05 04:49:30,139 - INFO - Downloading video 2/3 for unknown
+2025-09-05 04:49:30,139 - INFO - Skipping previously downloaded: https://httpbin.org/bytes/2048
+2025-09-05 04:49:30,139 - INFO - Downloading video 3/3 for unknown
+2025-09-05 04:49:30,139 - INFO - Skipping previously downloaded: https://httpbin.org/bytes/512
+2025-09-05 04:49:30,139 - INFO - 
+==================================================
+2025-09-05 04:49:30,139 - INFO - DOWNLOAD STATISTICS
+2025-09-05 04:49:30,139 - INFO - ==================================================
+2025-09-05 04:49:30,139 - INFO - Total videos: 3
+2025-09-05 04:49:30,139 - INFO - Downloaded this session: 0
+2025-09-05 04:49:30,139 - INFO - Skipped (already exists): 3
+2025-09-05 04:49:30,139 - INFO - Failed: 0
+2025-09-05 04:49:30,140 - INFO - Total previously downloaded: 3
+2025-09-05 04:49:30,140 - INFO - Success rate: 0.0%
+2025-09-05 04:49:30,140 - INFO - Progress file: test_downloads/.download_progress.json
+2025-09-05 04:49:30,140 - INFO - ==================================================

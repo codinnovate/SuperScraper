@@ -69,6 +69,49 @@ class VideoDownloader:
             'failed': 0,
             'skipped': 0
         }
+        
+        # Progress tracking for resume functionality
+        self.progress_file = self.base_download_dir / '.download_progress.json'
+        self.downloaded_urls = self.load_progress()
+    
+    def load_progress(self) -> set:
+        """
+        Load previously downloaded URLs from progress file.
+        
+        Returns:
+            Set of URLs that have been successfully downloaded
+        """
+        if not self.progress_file.exists():
+            return set()
+        
+        try:
+            with open(self.progress_file, 'r') as f:
+                progress_data = json.load(f)
+                return set(progress_data.get('downloaded_urls', []))
+        except Exception as e:
+            self.logger.warning(f"Could not load progress file: {e}")
+            return set()
+    
+    def save_progress(self, video_url: str):
+        """
+        Save successfully downloaded URL to progress file.
+        
+        Args:
+            video_url: URL of the successfully downloaded video
+        """
+        self.downloaded_urls.add(video_url)
+        
+        try:
+            progress_data = {
+                'downloaded_urls': list(self.downloaded_urls),
+                'last_updated': datetime.now().isoformat()
+            }
+            
+            with open(self.progress_file, 'w') as f:
+                json.dump(progress_data, f, indent=2)
+                
+        except Exception as e:
+            self.logger.warning(f"Could not save progress: {e}")
     
     def load_metadata(self, json_file: str) -> List[Dict]:
         """
@@ -131,7 +174,7 @@ class VideoDownloader:
     
     def download_video(self, video_info: Dict, technique_dir: Path) -> bool:
         """
-        Download a single video.
+        Download a single video with retry logic and resume capability.
         
         Args:
             video_info: Video metadata dictionary
@@ -140,60 +183,109 @@ class VideoDownloader:
         Returns:
             True if download successful, False otherwise
         """
-        try:
-            video_url = video_info.get('video_url') or video_info.get('url')
-            if not video_url:
-                self.logger.warning(f"No URL found for video: {video_info}")
-                return False
-            
-            # Generate filename
-            parsed_url = urlparse(video_url)
-            original_filename = os.path.basename(parsed_url.path)
-            
-            if not original_filename or not original_filename.endswith('.webp'):
-                # Generate filename from title or URL
-                title = video_info.get('title', '').strip()
-                if title:
-                    filename = f"{self.sanitize_filename(title)}.webp"
-                else:
-                    filename = f"video_{hash(video_url) % 10000}.webp"
-            else:
-                filename = self.sanitize_filename(original_filename)
-            
-            file_path = technique_dir / filename
-            
-            # Skip if file already exists
-            if file_path.exists():
-                self.logger.info(f"Skipping existing file: {file_path}")
-                self.download_stats['skipped'] += 1
-                return True
-            
-            # Download the video
-            self.logger.info(f"Downloading: {video_url} -> {file_path}")
-            
-            response = self.session.get(video_url, timeout=DOWNLOAD_TIMEOUT)
-            response.raise_for_status()
-            
-            # Save the video
-            with open(file_path, 'wb') as f:
-                f.write(response.content)
-            
-            self.logger.info(f"Successfully downloaded: {file_path} ({len(response.content)} bytes)")
-            self.download_stats['downloaded'] += 1
-            
-            # Add small delay to be respectful
-            time.sleep(REQUEST_DELAY)
-            
-            return True
-            
-        except Exception as e:
-            self.logger.error(f"Failed to download {video_info.get('url', 'unknown')}: {e}")
-            self.download_stats['failed'] += 1
+        video_url = video_info.get('video_url') or video_info.get('url')
+        if not video_url:
+            self.logger.warning(f"No URL found for video: {video_info}")
             return False
+        
+        # Generate filename
+        parsed_url = urlparse(video_url)
+        original_filename = os.path.basename(parsed_url.path)
+        
+        if not original_filename or not original_filename.endswith('.webp'):
+            # Generate filename from title or URL
+            title = video_info.get('title', '').strip()
+            if title:
+                filename = f"{self.sanitize_filename(title)}.webp"
+            else:
+                filename = f"video_{hash(video_url) % 10000}.webp"
+        else:
+            filename = self.sanitize_filename(original_filename)
+        
+        file_path = technique_dir / filename
+        temp_file_path = technique_dir / f"{filename}.tmp"
+        
+        # Check if video was already downloaded (from progress tracking)
+        if video_url in self.downloaded_urls:
+            self.logger.info(f"Skipping previously downloaded: {video_url}")
+            self.download_stats['skipped'] += 1
+            return True
+        
+        # Check if file already exists and is complete
+        if file_path.exists() and file_path.stat().st_size > 0:
+            self.logger.info(f"Skipping existing file: {file_path}")
+            # Add to progress tracking if not already there
+            self.save_progress(video_url)
+            self.download_stats['skipped'] += 1
+            return True
+        
+        # Clean up any incomplete temporary files from previous attempts
+        if temp_file_path.exists():
+            temp_file_path.unlink()
+            self.logger.info(f"Cleaned up incomplete download: {temp_file_path}")
+        
+        # Attempt download with retries
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                self.logger.info(f"Downloading (attempt {attempt}/{MAX_RETRIES}): {video_url} -> {file_path}")
+                
+                # Download with streaming to handle large files and connection issues
+                response = self.session.get(video_url, timeout=DOWNLOAD_TIMEOUT, stream=True)
+                response.raise_for_status()
+                
+                # Get expected file size if available
+                expected_size = int(response.headers.get('content-length', 0))
+                
+                # Download to temporary file first
+                downloaded_size = 0
+                with open(temp_file_path, 'wb') as f:
+                    for chunk in response.iter_content(chunk_size=CHUNK_SIZE):
+                        if chunk:  # Filter out keep-alive chunks
+                            f.write(chunk)
+                            downloaded_size += len(chunk)
+                
+                # Verify download completeness
+                if expected_size > 0 and downloaded_size != expected_size:
+                    raise Exception(f"Incomplete download: {downloaded_size}/{expected_size} bytes")
+                
+                # Move temporary file to final location
+                temp_file_path.rename(file_path)
+                
+                # Save progress to prevent re-downloading
+                self.save_progress(video_url)
+                
+                self.logger.info(f"Successfully downloaded: {file_path} ({downloaded_size} bytes)")
+                self.download_stats['downloaded'] += 1
+                
+                # Add small delay to be respectful
+                time.sleep(REQUEST_DELAY)
+                
+                return True
+                
+            except Exception as e:
+                self.logger.warning(f"Download attempt {attempt} failed for {video_url}: {e}")
+                
+                # Clean up failed temporary file
+                if temp_file_path.exists():
+                    temp_file_path.unlink()
+                
+                # If this was the last attempt, log as error
+                if attempt == MAX_RETRIES:
+                    self.logger.error(f"Failed to download after {MAX_RETRIES} attempts: {video_url}")
+                    self.download_stats['failed'] += 1
+                    return False
+                
+                # Wait before retry (exponential backoff)
+                wait_time = REQUEST_DELAY * (2 ** (attempt - 1))
+                self.logger.info(f"Waiting {wait_time:.1f}s before retry...")
+                time.sleep(wait_time)
+        
+        return False
     
     def download_all_videos(self, json_file: str, max_videos: int = None) -> None:
         """
         Download all videos from metadata file, organized by technique.
+        Automatically resumes from where it left off if interrupted.
         
         Args:
             json_file: Path to the JSON metadata file
@@ -203,6 +295,10 @@ class VideoDownloader:
         if not videos:
             self.logger.error("No videos found to download")
             return
+        
+        # Show resume information
+        if self.downloaded_urls:
+            self.logger.info(f"Resume mode: Found {len(self.downloaded_urls)} previously downloaded videos")
         
         # Limit videos if specified
         if max_videos and max_videos > 0:
@@ -246,10 +342,13 @@ class VideoDownloader:
         self.logger.info("DOWNLOAD STATISTICS")
         self.logger.info("="*50)
         self.logger.info(f"Total videos: {stats['total_videos']}")
-        self.logger.info(f"Downloaded: {stats['downloaded']}")
+        self.logger.info(f"Downloaded this session: {stats['downloaded']}")
         self.logger.info(f"Skipped (already exists): {stats['skipped']}")
         self.logger.info(f"Failed: {stats['failed']}")
+        self.logger.info(f"Total previously downloaded: {len(self.downloaded_urls)}")
         self.logger.info(f"Success rate: {(stats['downloaded'] / max(stats['total_videos'], 1)) * 100:.1f}%")
+        if self.progress_file.exists():
+            self.logger.info(f"Progress file: {self.progress_file}")
         self.logger.info("="*50)
 
 def find_latest_json_file() -> str:

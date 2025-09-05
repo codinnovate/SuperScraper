@@ -753,3 +753,16 @@
 2025-09-05 03:28:19,308 - INFO - Data saved to data/eyecandy_videos_20250905_032819.json and data/eyecandy_videos_20250905_032819.csv
 2025-09-05 03:28:19,308 - INFO - Scraping completed! Found 4825 WebP videos across 1 categories.
 2025-09-05 03:28:20,949 - INFO - Selenium driver closed successfully
+2025-09-05 04:49:41,294 - INFO - Starting Eyecandy scraper...
+2025-09-05 04:49:41,295 - INFO - Generated 137 technique pages for scraping
+2025-09-05 04:49:41,295 - INFO - Scraping 50 pages...
+2025-09-05 04:49:41,295 - INFO - Scraping page 1/50: https://eyecannndy.com/technique/aerial
+2025-09-05 04:49:43,215 - ERROR - Request failed for https://eyecannndy.com/technique/aerial: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/aerial
+2025-09-05 04:49:43,219 - INFO - ====== WebDriver manager ======
+2025-09-05 04:49:43,380 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-05 04:49:44,048 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-05 04:49:44,669 - INFO - Driver [/Users/samueladeyemi/.wdm/drivers/chromedriver/mac64/139.0.7258.154/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-05 04:49:45,222 - INFO - Selenium WebDriver initialized successfully
+2025-09-05 04:49:52,711 - INFO - Found 64 WebP videos on https://eyecannndy.com/technique/aerial
+2025-09-05 04:49:52,711 - INFO - Scraping page 2/50: https://eyecannndy.com/technique/trip
+2025-09-05 04:49:55,012 - ERROR - Request failed for https://eyecannndy.com/technique/trip: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/trip
