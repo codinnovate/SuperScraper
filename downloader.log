@@ -293,3 +293,583 @@ Processing technique: aerial (50 videos)
 2025-09-05 02:03:49,349 - INFO - Failed: 0
 2025-09-05 02:03:49,350 - INFO - Success rate: 46.0%
 2025-09-05 02:03:49,350 - INFO - ==================================================
+2025-09-05 02:35:18,475 - INFO - Loaded 3515 videos from data/eyecandy_videos_20250904_125042.json
+2025-09-05 02:35:18,475 - INFO - Limited to 50 videos
+2025-09-05 02:35:18,475 - INFO - Found videos for 1 techniques
+2025-09-05 02:35:18,475 - INFO - 
+Processing technique: aerial (50 videos)
+2025-09-05 02:35:18,476 - INFO - Downloading video 1/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 2/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 3/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 4/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 5/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 6/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 7/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 8/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261711603985.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 9/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704508408.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 10/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261720164658.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 11/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261707626497.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 12/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704368615.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 13/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261707626229.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 14/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704077050.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 15/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261707021425.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 16/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261715812336.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 17/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704365041.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 18/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261707021457.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 19/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261710664164.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 20/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704368663.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 21/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 22/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 23/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 24/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 25/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 26/50 for aerial
+2025-09-05 02:35:18,476 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:35:18,476 - INFO - Downloading video 27/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 28/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261711603985.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 29/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261704508408.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 30/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261720164658.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 31/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261707626497.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 32/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261704368615.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 33/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261707626229.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 34/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261704077050.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 35/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261707021425.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 36/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261715812336.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 37/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261704365041.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 38/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261707021457.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 39/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261710664164.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 40/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261704368663.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 41/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261711346859.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 42/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261704365455.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 43/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261705123075.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 44/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261704835059.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 45/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261710313129.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 46/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261720164595.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 47/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261709018151.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 48/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261711346967.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 49/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261704076286.webp
+2025-09-05 02:35:18,477 - INFO - Downloading video 50/50 for aerial
+2025-09-05 02:35:18,477 - INFO - Skipping existing file: videos/aerial/261711610807.webp
+2025-09-05 02:35:18,477 - INFO - 
+==================================================
+2025-09-05 02:35:18,477 - INFO - DOWNLOAD STATISTICS
+2025-09-05 02:35:18,477 - INFO - ==================================================
+2025-09-05 02:35:18,477 - INFO - Total videos: 50
+2025-09-05 02:35:18,477 - INFO - Downloaded: 0
+2025-09-05 02:35:18,477 - INFO - Skipped (already exists): 50
+2025-09-05 02:35:18,477 - INFO - Failed: 0
+2025-09-05 02:35:18,477 - INFO - Success rate: 0.0%
+2025-09-05 02:35:18,477 - INFO - ==================================================
+2025-09-05 02:35:25,222 - INFO - Loaded 3515 videos from data/eyecandy_videos_20250904_125042.json
+2025-09-05 02:35:25,222 - INFO - Limited to 50 videos
+2025-09-05 02:35:25,222 - INFO - Found videos for 1 techniques
+2025-09-05 02:35:25,222 - INFO - 
+Processing technique: aerial (50 videos)
+2025-09-05 02:35:25,222 - INFO - Downloading video 1/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 2/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 3/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 4/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 5/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 6/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 7/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 8/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261711603985.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 9/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704508408.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 10/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261720164658.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 11/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261707626497.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 12/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704368615.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 13/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261707626229.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 14/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704077050.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 15/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261707021425.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 16/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261715812336.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 17/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704365041.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 18/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261707021457.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 19/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261710664164.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 20/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704368663.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 21/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 22/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 23/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 24/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 25/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 26/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 27/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:35:25,223 - INFO - Downloading video 28/50 for aerial
+2025-09-05 02:35:25,223 - INFO - Skipping existing file: videos/aerial/261711603985.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 29/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261704508408.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 30/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261720164658.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 31/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261707626497.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 32/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261704368615.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 33/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261707626229.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 34/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261704077050.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 35/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261707021425.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 36/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261715812336.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 37/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261704365041.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 38/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261707021457.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 39/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261710664164.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 40/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261704368663.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 41/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261711346859.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 42/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261704365455.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 43/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261705123075.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 44/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261704835059.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 45/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261710313129.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 46/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261720164595.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 47/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261709018151.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 48/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261711346967.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 49/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261704076286.webp
+2025-09-05 02:35:25,224 - INFO - Downloading video 50/50 for aerial
+2025-09-05 02:35:25,224 - INFO - Skipping existing file: videos/aerial/261711610807.webp
+2025-09-05 02:35:25,224 - INFO - 
+==================================================
+2025-09-05 02:35:25,224 - INFO - DOWNLOAD STATISTICS
+2025-09-05 02:35:25,224 - INFO - ==================================================
+2025-09-05 02:35:25,224 - INFO - Total videos: 50
+2025-09-05 02:35:25,224 - INFO - Downloaded: 0
+2025-09-05 02:35:25,224 - INFO - Skipped (already exists): 50
+2025-09-05 02:35:25,224 - INFO - Failed: 0
+2025-09-05 02:35:25,224 - INFO - Success rate: 0.0%
+2025-09-05 02:35:25,224 - INFO - ==================================================
+2025-09-05 02:36:09,069 - INFO - Loaded 3515 videos from data/eyecandy_videos_20250904_125042.json
+2025-09-05 02:36:09,069 - INFO - Limited to 50 videos
+2025-09-05 02:36:09,069 - INFO - Found videos for 1 techniques
+2025-09-05 02:36:09,069 - INFO - 
+Processing technique: aerial (50 videos)
+2025-09-05 02:36:09,069 - INFO - Downloading video 1/50 for aerial
+2025-09-05 02:36:09,069 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:36:09,069 - INFO - Downloading video 2/50 for aerial
+2025-09-05 02:36:09,069 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:36:09,069 - INFO - Downloading video 3/50 for aerial
+2025-09-05 02:36:09,069 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:36:09,069 - INFO - Downloading video 4/50 for aerial
+2025-09-05 02:36:09,069 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 5/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 6/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 7/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 8/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261711603985.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 9/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704508408.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 10/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261720164658.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 11/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261707626497.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 12/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704368615.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 13/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261707626229.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 14/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704077050.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 15/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261707021425.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 16/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261715812336.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 17/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704365041.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 18/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261707021457.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 19/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261710664164.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 20/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704368663.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 21/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 22/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 23/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 24/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 25/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 26/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 27/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 28/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261711603985.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 29/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704508408.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 30/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261720164658.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 31/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261707626497.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 32/50 for aerial
+2025-09-05 02:36:09,070 - INFO - Skipping existing file: videos/aerial/261704368615.webp
+2025-09-05 02:36:09,070 - INFO - Downloading video 33/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261707626229.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 34/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261704077050.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 35/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261707021425.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 36/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261715812336.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 37/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261704365041.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 38/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261707021457.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 39/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261710664164.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 40/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261704368663.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 41/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261711346859.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 42/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261704365455.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 43/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261705123075.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 44/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261704835059.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 45/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261710313129.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 46/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261720164595.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 47/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261709018151.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 48/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261711346967.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 49/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261704076286.webp
+2025-09-05 02:36:09,071 - INFO - Downloading video 50/50 for aerial
+2025-09-05 02:36:09,071 - INFO - Skipping existing file: videos/aerial/261711610807.webp
+2025-09-05 02:36:09,071 - INFO - 
+==================================================
+2025-09-05 02:36:09,071 - INFO - DOWNLOAD STATISTICS
+2025-09-05 02:36:09,071 - INFO - ==================================================
+2025-09-05 02:36:09,071 - INFO - Total videos: 50
+2025-09-05 02:36:09,071 - INFO - Downloaded: 0
+2025-09-05 02:36:09,071 - INFO - Skipped (already exists): 50
+2025-09-05 02:36:09,071 - INFO - Failed: 0
+2025-09-05 02:36:09,071 - INFO - Success rate: 0.0%
+2025-09-05 02:36:09,071 - INFO - ==================================================
+2025-09-05 02:36:40,908 - INFO - Loaded 3515 videos from data/eyecandy_videos_20250904_125042.json
+2025-09-05 02:36:40,909 - INFO - Limited to 2000 videos
+2025-09-05 02:36:40,909 - INFO - Found videos for 22 techniques
+2025-09-05 02:36:40,909 - INFO - 
+Processing technique: aerial (64 videos)
+2025-09-05 02:36:40,909 - INFO - Downloading video 1/64 for aerial
+2025-09-05 02:36:40,909 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:36:40,909 - INFO - Downloading video 2/64 for aerial
+2025-09-05 02:36:40,909 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:36:40,909 - INFO - Downloading video 3/64 for aerial
+2025-09-05 02:36:40,909 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:36:40,909 - INFO - Downloading video 4/64 for aerial
+2025-09-05 02:36:40,909 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:36:40,909 - INFO - Downloading video 5/64 for aerial
+2025-09-05 02:36:40,909 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:36:40,909 - INFO - Downloading video 6/64 for aerial
+2025-09-05 02:36:40,909 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:36:40,909 - INFO - Downloading video 7/64 for aerial
+2025-09-05 02:36:40,909 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:36:40,909 - INFO - Downloading video 8/64 for aerial
+2025-09-05 02:36:40,909 - INFO - Skipping existing file: videos/aerial/261711603985.webp
+2025-09-05 02:36:40,909 - INFO - Downloading video 9/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704508408.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 10/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261720164658.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 11/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261707626497.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 12/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704368615.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 13/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261707626229.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 14/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704077050.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 15/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261707021425.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 16/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261715812336.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 17/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704365041.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 18/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261707021457.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 19/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261710664164.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 20/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704368663.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 21/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 22/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 23/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 24/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 25/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 26/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 27/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 28/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261711603985.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 29/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704508408.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 30/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261720164658.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 31/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261707626497.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 32/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704368615.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 33/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261707626229.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 34/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704077050.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 35/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261707021425.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 36/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261715812336.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 37/64 for aerial
+2025-09-05 02:36:40,910 - INFO - Skipping existing file: videos/aerial/261704365041.webp
+2025-09-05 02:36:40,910 - INFO - Downloading video 38/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261707021457.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 39/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261710664164.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 40/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261704368663.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 41/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261711346859.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 42/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261704365455.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 43/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261705123075.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 44/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261704835059.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 45/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261710313129.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 46/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261720164595.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 47/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261709018151.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 48/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261711346967.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 49/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261704076286.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 50/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Skipping existing file: videos/aerial/261711610807.webp
+2025-09-05 02:36:40,911 - INFO - Downloading video 51/64 for aerial
+2025-09-05 02:36:40,911 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/02/11/261707627103.webp -> videos/aerial/261707627103.webp
+2025-09-05 02:38:35,452 - INFO - Loaded 3515 videos from data/eyecandy_videos_20250904_125042.json
+2025-09-05 02:38:35,453 - INFO - Limited to 2000 videos
+2025-09-05 02:38:35,453 - INFO - Found videos for 22 techniques
+2025-09-05 02:38:35,453 - INFO - 
+Processing technique: aerial (64 videos)
+2025-09-05 02:38:35,453 - INFO - Downloading video 1/64 for aerial
+2025-09-05 02:38:35,453 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:38:35,453 - INFO - Downloading video 2/64 for aerial
+2025-09-05 02:38:35,453 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:38:35,453 - INFO - Downloading video 3/64 for aerial
+2025-09-05 02:38:35,453 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:38:35,453 - INFO - Downloading video 4/64 for aerial
+2025-09-05 02:38:35,453 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:38:35,453 - INFO - Downloading video 5/64 for aerial
+2025-09-05 02:38:35,453 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:38:35,453 - INFO - Downloading video 6/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 7/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 8/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261711603985.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 9/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704508408.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 10/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261720164658.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 11/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261707626497.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 12/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704368615.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 13/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261707626229.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 14/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704077050.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 15/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261707021425.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 16/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261715812336.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 17/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704365041.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 18/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261707021457.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 19/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261710664164.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 20/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704368663.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 21/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 22/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 23/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 24/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 25/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 26/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 27/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 28/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261711603985.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 29/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704508408.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 30/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261720164658.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 31/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261707626497.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 32/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704368615.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 33/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261707626229.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 34/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704077050.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 35/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261707021425.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 36/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261715812336.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 37/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704365041.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 38/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261707021457.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 39/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261710664164.webp
+2025-09-05 02:38:35,454 - INFO - Downloading video 40/64 for aerial
+2025-09-05 02:38:35,454 - INFO - Skipping existing file: videos/aerial/261704368663.webp
+2025-09-05 02:38:35,455 - INFO - Downloading video 41/64 for aerial
+2025-09-05 02:38:35,455 - INFO - Skipping existing file: videos/aerial/261711346859.webp
+2025-09-05 02:38:35,455 - INFO - Downloading video 42/64 for aerial
+2025-09-05 02:38:35,455 - INFO - Skipping existing file: videos/aerial/261704365455.webp
+2025-09-05 02:38:35,455 - INFO - Downloading video 43/64 for aerial
+2025-09-05 02:38:35,455 - INFO - Skipping existing file: videos/aerial/261705123075.webp
+2025-09-05 02:38:35,455 - INFO - Downloading video 44/64 for aerial
+2025-09-05 02:38:35,455 - INFO - Skipping existing file: videos/aerial/261704835059.webp
+2025-09-05 02:38:35,455 - INFO - Downloading video 45/64 for aerial
+2025-09-05 02:38:35,455 - INFO - Skipping existing file: videos/aerial/261710313129.webp
+2025-09-05 02:38:35,455 - INFO - Downloading video 46/64 for aerial
+2025-09-05 02:38:35,455 - INFO - Skipping existing file: videos/aerial/261720164595.webp
+2025-09-05 02:38:35,455 - INFO - Downloading video 47/64 for aerial
+2025-09-05 02:38:35,455 - INFO - Skipping existing file: videos/aerial/261709018151.webp
+2025-09-05 02:38:35,455 - INFO - Downloading video 48/64 for aerial
+2025-09-05 02:38:35,455 - INFO - Skipping existing file: videos/aerial/261711346967.webp
+2025-09-05 02:38:35,455 - INFO - Downloading video 49/64 for aerial
+2025-09-05 02:38:35,455 - INFO - Skipping existing file: videos/aerial/261704076286.webp
+2025-09-05 02:38:35,455 - INFO - Downloading video 50/64 for aerial
+2025-09-05 02:38:35,455 - INFO - Skipping existing file: videos/aerial/261711610807.webp
+2025-09-05 02:38:35,455 - INFO - Downloading video 51/64 for aerial
+2025-09-05 02:38:35,455 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/02/11/261707627103.webp -> videos/aerial/261707627103.webp
+2025-09-05 02:39:06,705 - INFO - Successfully downloaded: videos/aerial/261707627103.webp (2588854 bytes)
+2025-09-05 02:39:07,206 - INFO - Downloading video 52/64 for aerial
+2025-09-05 02:39:07,207 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/04/261704369409.webp -> videos/aerial/261704369409.webp
+2025-09-05 02:39:23,269 - INFO - Successfully downloaded: videos/aerial/261704369409.webp (1388296 bytes)
+2025-09-05 02:39:23,772 - INFO - Downloading video 53/64 for aerial
+2025-09-05 02:39:23,772 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/04/261704368478.webp -> videos/aerial/261704368478.webp
+2025-09-05 02:39:34,694 - INFO - Successfully downloaded: videos/aerial/261704368478.webp (1132926 bytes)
+2025-09-05 02:39:35,200 - INFO - Downloading video 54/64 for aerial
+2025-09-05 02:39:35,200 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/04/261704368969.webp -> videos/aerial/261704368969.webp
+2025-09-05 02:39:50,839 - INFO - Successfully downloaded: videos/aerial/261704368969.webp (1673502 bytes)
+2025-09-05 02:39:51,344 - INFO - Downloading video 55/64 for aerial
+2025-09-05 02:39:51,344 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/03/01/261709329389.webp -> videos/aerial/261709329389.webp
+2025-09-05 02:39:58,122 - INFO - Successfully downloaded: videos/aerial/261709329389.webp (952096 bytes)
+2025-09-05 02:39:58,627 - INFO - Downloading video 56/64 for aerial
+2025-09-05 02:39:58,627 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/05/20/261716237793.webp -> videos/aerial/261716237793.webp
+2025-09-05 02:40:15,033 - INFO - Successfully downloaded: videos/aerial/261716237793.webp (1625566 bytes)
+2025-09-05 02:40:15,538 - INFO - Downloading video 57/64 for aerial
+2025-09-05 02:40:15,538 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/03/04/261709538069.webp -> videos/aerial/261709538069.webp
+2025-09-05 02:40:31,542 - INFO - Successfully downloaded: videos/aerial/261709538069.webp (1800722 bytes)
+2025-09-05 02:40:32,047 - INFO - Downloading video 58/64 for aerial
+2025-09-05 02:40:32,048 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/02/19/261708345479.webp -> videos/aerial/261708345479.webp

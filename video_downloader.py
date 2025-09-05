@@ -14,7 +14,7 @@ import time
 from datetime import datetime
 
 # USER CONFIGURABLE CONSTANTS
-MAX_VIDEOS_TO_DOWNLOAD = 50  # Maximum number of videos to download (0 = unlimited)
+MAX_VIDEOS_TO_DOWNLOAD = 2000  # Maximum number of videos to download (0 = unlimited)
 DOWNLOAD_TIMEOUT = 30  # Timeout for each download in seconds
 REQUEST_DELAY = 0.5  # Delay between requests in seconds
 MAX_RETRIES = 3  # Maximum number of retry attempts for failed downloads

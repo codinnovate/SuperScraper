@@ -1,0 +1,689 @@
+{
+  "generated_at": "2025-09-05T02:44:19.208427",
+  "total_techniques": 136,
+  "techniques_with_data": 38,
+  "techniques_without_data": 98,
+  "total_videos": 3515,
+  "techniques": {
+    "aerial": {
+      "video_count": 64,
+      "sanitized_name": "aerial",
+      "has_data": true
+    },
+    "trip": {
+      "video_count": 215,
+      "sanitized_name": "trip",
+      "has_data": true
+    },
+    "traditional": {
+      "video_count": 0,
+      "sanitized_name": "traditional",
+      "has_data": false
+    },
+    "anthropomorphism": {
+      "video_count": 56,
+      "sanitized_name": "anthropomorphism",
+      "has_data": true
+    },
+    "arc-movement": {
+      "video_count": 0,
+      "sanitized_name": "arc-movement",
+      "has_data": false
+    },
+    "architexture": {
+      "video_count": 80,
+      "sanitized_name": "architexture",
+      "has_data": true
+    },
+    "bolt-cam": {
+      "video_count": 34,
+      "sanitized_name": "bolt-cam",
+      "has_data": true
+    },
+    "boomerang": {
+      "video_count": 12,
+      "sanitized_name": "boomerang",
+      "has_data": true
+    },
+    "breakdown": {
+      "video_count": 53,
+      "sanitized_name": "breakdown",
+      "has_data": true
+    },
+    "bullet-time": {
+      "video_count": 52,
+      "sanitized_name": "bullet-time",
+      "has_data": true
+    },
+    "camera-roll": {
+      "video_count": 85,
+      "sanitized_name": "camera-roll",
+      "has_data": true
+    },
+    "central-framing": {
+      "video_count": 120,
+      "sanitized_name": "central-framing",
+      "has_data": true
+    },
+    "choreo": {
+      "video_count": 60,
+      "sanitized_name": "choreo",
+      "has_data": true
+    },
+    "cinemagraph": {
+      "video_count": 81,
+      "sanitized_name": "cinemagraph",
+      "has_data": true
+    },
+    "close-up": {
+      "video_count": 543,
+      "sanitized_name": "close-up",
+      "has_data": true
+    },
+    "collage": {
+      "video_count": 128,
+      "sanitized_name": "collage",
+      "has_data": true
+    },
+    "color-shift": {
+      "video_count": 54,
+      "sanitized_name": "color-shift",
+      "has_data": true
+    },
+    "conveyor": {
+      "video_count": 77,
+      "sanitized_name": "conveyor",
+      "has_data": true
+    },
+    "crash-transition": {
+      "video_count": 12,
+      "sanitized_name": "crash-transition",
+      "has_data": true
+    },
+    "cut-ins": {
+      "video_count": 64,
+      "sanitized_name": "cut-ins",
+      "has_data": true
+    },
+    "datamosh": {
+      "video_count": 72,
+      "sanitized_name": "datamosh",
+      "has_data": true
+    },
+    "model": {
+      "video_count": 49,
+      "sanitized_name": "model",
+      "has_data": true
+    },
+    "distortions": {
+      "video_count": 26,
+      "sanitized_name": "distortions",
+      "has_data": true
+    },
+    "dolly-shot": {
+      "video_count": 142,
+      "sanitized_name": "dolly-shot",
+      "has_data": true
+    },
+    "dolly-zoom": {
+      "video_count": 64,
+      "sanitized_name": "dolly-zoom",
+      "has_data": true
+    },
+    "double-dolly": {
+      "video_count": 40,
+      "sanitized_name": "double-dolly",
+      "has_data": true
+    },
+    "double-exposure": {
+      "video_count": 89,
+      "sanitized_name": "double-exposure",
+      "has_data": true
+    },
+    "dreamcore": {
+      "video_count": 55,
+      "sanitized_name": "dreamcore",
+      "has_data": true
+    },
+    "duplication": {
+      "video_count": 155,
+      "sanitized_name": "duplication",
+      "has_data": true
+    },
+    "dutch-angle": {
+      "video_count": 66,
+      "sanitized_name": "dutch-angle",
+      "has_data": true
+    },
+    "dystopian": {
+      "video_count": 38,
+      "sanitized_name": "dystopian",
+      "has_data": true
+    },
+    "echo-printing": {
+      "video_count": 70,
+      "sanitized_name": "echo-printing",
+      "has_data": true
+    },
+    "epiphany-shot": {
+      "video_count": 23,
+      "sanitized_name": "epiphany-shot",
+      "has_data": true
+    },
+    "falling": {
+      "video_count": 77,
+      "sanitized_name": "falling",
+      "has_data": true
+    },
+    "undercranking": {
+      "video_count": 182,
+      "sanitized_name": "undercranking",
+      "has_data": true
+    },
+    "glitch": {
+      "video_count": 74,
+      "sanitized_name": "glitch",
+      "has_data": true
+    },
+    "first-person-pov": {
+      "video_count": 150,
+      "sanitized_name": "first-person-pov",
+      "has_data": true
+    },
+    "fisheye": {
+      "video_count": 51,
+      "sanitized_name": "fisheye",
+      "has_data": true
+    },
+    "fixed-camera": {
+      "video_count": 191,
+      "sanitized_name": "fixed-camera",
+      "has_data": true
+    },
+    "flash-cut": {
+      "video_count": 111,
+      "sanitized_name": "flash-cut",
+      "has_data": true
+    },
+    "digital-overlay": {
+      "video_count": 0,
+      "sanitized_name": "digital-overlay",
+      "has_data": false
+    },
+    "focal-shift": {
+      "video_count": 0,
+      "sanitized_name": "focal-shift",
+      "has_data": false
+    },
+    "fourth-wall": {
+      "video_count": 0,
+      "sanitized_name": "fourth-wall",
+      "has_data": false
+    },
+    "fpv-drone": {
+      "video_count": 0,
+      "sanitized_name": "fpv-drone",
+      "has_data": false
+    },
+    "freeze-frame": {
+      "video_count": 0,
+      "sanitized_name": "freeze-frame",
+      "has_data": false
+    },
+    "generative": {
+      "video_count": 0,
+      "sanitized_name": "generative",
+      "has_data": false
+    },
+    "digital-gesture": {
+      "video_count": 0,
+      "sanitized_name": "digital-gesture",
+      "has_data": false
+    },
+    "ground-shot": {
+      "video_count": 0,
+      "sanitized_name": "ground-shot",
+      "has_data": false
+    },
+    "halation": {
+      "video_count": 0,
+      "sanitized_name": "halation",
+      "has_data": false
+    },
+    "shaky-cam": {
+      "video_count": 0,
+      "sanitized_name": "shaky-cam",
+      "has_data": false
+    },
+    "hard-light": {
+      "video_count": 0,
+      "sanitized_name": "hard-light",
+      "has_data": false
+    },
+    "haze": {
+      "video_count": 0,
+      "sanitized_name": "haze",
+      "has_data": false
+    },
+    "high-angle": {
+      "video_count": 0,
+      "sanitized_name": "high-angle",
+      "has_data": false
+    },
+    "infinite": {
+      "video_count": 0,
+      "sanitized_name": "infinite",
+      "has_data": false
+    },
+    "interview": {
+      "video_count": 0,
+      "sanitized_name": "interview",
+      "has_data": false
+    },
+    "jump-cut": {
+      "video_count": 0,
+      "sanitized_name": "jump-cut",
+      "has_data": false
+    },
+    "kaleidoscope": {
+      "video_count": 0,
+      "sanitized_name": "kaleidoscope",
+      "has_data": false
+    },
+    "lazy-susan": {
+      "video_count": 0,
+      "sanitized_name": "lazy-susan",
+      "has_data": false
+    },
+    "floating": {
+      "video_count": 0,
+      "sanitized_name": "floating",
+      "has_data": false
+    },
+    "light-flash": {
+      "video_count": 0,
+      "sanitized_name": "light-flash",
+      "has_data": false
+    },
+    "locked-on": {
+      "video_count": 0,
+      "sanitized_name": "locked-on",
+      "has_data": false
+    },
+    "low-angle": {
+      "video_count": 0,
+      "sanitized_name": "low-angle",
+      "has_data": false
+    },
+    "surrealism": {
+      "video_count": 0,
+      "sanitized_name": "surrealism",
+      "has_data": false
+    },
+    "magnification": {
+      "video_count": 0,
+      "sanitized_name": "magnification",
+      "has_data": false
+    },
+    "masking": {
+      "video_count": 0,
+      "sanitized_name": "masking",
+      "has_data": false
+    },
+    "match-cut": {
+      "video_count": 0,
+      "sanitized_name": "match-cut",
+      "has_data": false
+    },
+    "match-motion": {
+      "video_count": 0,
+      "sanitized_name": "match-motion",
+      "has_data": false
+    },
+    "match-split": {
+      "video_count": 0,
+      "sanitized_name": "match-split",
+      "has_data": false
+    },
+    "maximalism": {
+      "video_count": 0,
+      "sanitized_name": "maximalism",
+      "has_data": false
+    },
+    "mixed-media": {
+      "video_count": 0,
+      "sanitized_name": "mixed-media",
+      "has_data": false
+    },
+    "morphing": {
+      "video_count": 0,
+      "sanitized_name": "morphing",
+      "has_data": false
+    },
+    "motion-blur": {
+      "video_count": 0,
+      "sanitized_name": "motion-blur",
+      "has_data": false
+    },
+    "night-vision": {
+      "video_count": 0,
+      "sanitized_name": "night-vision",
+      "has_data": false
+    },
+    "object-portal": {
+      "video_count": 0,
+      "sanitized_name": "object-portal",
+      "has_data": false
+    },
+    "as-object": {
+      "video_count": 0,
+      "sanitized_name": "as-object",
+      "has_data": false
+    },
+    "omnidirectional": {
+      "video_count": 0,
+      "sanitized_name": "omnidirectional",
+      "has_data": false
+    },
+    "overhead": {
+      "video_count": 0,
+      "sanitized_name": "overhead",
+      "has_data": false
+    },
+    "over-the-shoulder": {
+      "video_count": 0,
+      "sanitized_name": "over-the-shoulder",
+      "has_data": false
+    },
+    "pan": {
+      "video_count": 0,
+      "sanitized_name": "pan",
+      "has_data": false
+    },
+    "parallax": {
+      "video_count": 0,
+      "sanitized_name": "parallax",
+      "has_data": false
+    },
+    "pass-through": {
+      "video_count": 0,
+      "sanitized_name": "pass-through",
+      "has_data": false
+    },
+    "pedestal": {
+      "video_count": 0,
+      "sanitized_name": "pedestal",
+      "has_data": false
+    },
+    "photogrammetry": {
+      "video_count": 0,
+      "sanitized_name": "photogrammetry",
+      "has_data": false
+    },
+    "photography": {
+      "video_count": 0,
+      "sanitized_name": "photography",
+      "has_data": false
+    },
+    "pixel-art": {
+      "video_count": 0,
+      "sanitized_name": "pixel-art",
+      "has_data": false
+    },
+    "probe-lens": {
+      "video_count": 0,
+      "sanitized_name": "probe-lens",
+      "has_data": false
+    },
+    "product": {
+      "video_count": 0,
+      "sanitized_name": "product",
+      "has_data": false
+    },
+    "profile-shot": {
+      "video_count": 0,
+      "sanitized_name": "profile-shot",
+      "has_data": false
+    },
+    "projections": {
+      "video_count": 0,
+      "sanitized_name": "projections",
+      "has_data": false
+    },
+    "quick-cuts": {
+      "video_count": 0,
+      "sanitized_name": "quick-cuts",
+      "has_data": false
+    },
+    "aspect-ratio-switch": {
+      "video_count": 0,
+      "sanitized_name": "aspect-ratio-switch",
+      "has_data": false
+    },
+    "reflections": {
+      "video_count": 0,
+      "sanitized_name": "reflections",
+      "has_data": false
+    },
+    "scale-shift": {
+      "video_count": 0,
+      "sanitized_name": "scale-shift",
+      "has_data": false
+    },
+    "screen-in-screen": {
+      "video_count": 0,
+      "sanitized_name": "screen-in-screen",
+      "has_data": false
+    },
+    "set-transition": {
+      "video_count": 0,
+      "sanitized_name": "set-transition",
+      "has_data": false
+    },
+    "shadow-box": {
+      "video_count": 0,
+      "sanitized_name": "shadow-box",
+      "has_data": false
+    },
+    "focal-focus": {
+      "video_count": 0,
+      "sanitized_name": "focal-focus",
+      "has_data": false
+    },
+    "silhouette": {
+      "video_count": 0,
+      "sanitized_name": "silhouette",
+      "has_data": false
+    },
+    "slit-scan": {
+      "video_count": 0,
+      "sanitized_name": "slit-scan",
+      "has_data": false
+    },
+    "slow-motion": {
+      "video_count": 0,
+      "sanitized_name": "slow-motion",
+      "has_data": false
+    },
+    "snorricam": {
+      "video_count": 0,
+      "sanitized_name": "snorricam",
+      "has_data": false
+    },
+    "speed-ramping": {
+      "video_count": 0,
+      "sanitized_name": "speed-ramping",
+      "has_data": false
+    },
+    "split-diopter": {
+      "video_count": 0,
+      "sanitized_name": "split-diopter",
+      "has_data": false
+    },
+    "split-screen": {
+      "video_count": 0,
+      "sanitized_name": "split-screen",
+      "has_data": false
+    },
+    "spotlight": {
+      "video_count": 0,
+      "sanitized_name": "spotlight",
+      "has_data": false
+    },
+    "step-printing": {
+      "video_count": 0,
+      "sanitized_name": "step-printing",
+      "has_data": false
+    },
+    "stop-motion": {
+      "video_count": 0,
+      "sanitized_name": "stop-motion",
+      "has_data": false
+    },
+    "stutter": {
+      "video_count": 0,
+      "sanitized_name": "stutter",
+      "has_data": false
+    },
+    "stylistic-suck": {
+      "video_count": 0,
+      "sanitized_name": "stylistic-suck",
+      "has_data": false
+    },
+    "tableau-shots": {
+      "video_count": 0,
+      "sanitized_name": "tableau-shots",
+      "has_data": false
+    },
+    "thermal": {
+      "video_count": 0,
+      "sanitized_name": "thermal",
+      "has_data": false
+    },
+    "tilt": {
+      "video_count": 0,
+      "sanitized_name": "tilt",
+      "has_data": false
+    },
+    "tilt-shift": {
+      "video_count": 0,
+      "sanitized_name": "tilt-shift",
+      "has_data": false
+    },
+    "tracking": {
+      "video_count": 0,
+      "sanitized_name": "tracking",
+      "has_data": false
+    },
+    "transformation": {
+      "video_count": 0,
+      "sanitized_name": "transformation",
+      "has_data": false
+    },
+    "transition": {
+      "video_count": 0,
+      "sanitized_name": "transition",
+      "has_data": false
+    },
+    "trucking": {
+      "video_count": 0,
+      "sanitized_name": "trucking",
+      "has_data": false
+    },
+    "two-shot": {
+      "video_count": 0,
+      "sanitized_name": "two-shot",
+      "has_data": false
+    },
+    "typography": {
+      "video_count": 0,
+      "sanitized_name": "typography",
+      "has_data": false
+    },
+    "ultra-wide-zero-d": {
+      "video_count": 0,
+      "sanitized_name": "ultra-wide-zero-d",
+      "has_data": false
+    },
+    "underwater": {
+      "video_count": 0,
+      "sanitized_name": "underwater",
+      "has_data": false
+    },
+    "video-game": {
+      "video_count": 0,
+      "sanitized_name": "video-game",
+      "has_data": false
+    },
+    "video-portraits": {
+      "video_count": 0,
+      "sanitized_name": "video-portraits",
+      "has_data": false
+    },
+    "vignette": {
+      "video_count": 0,
+      "sanitized_name": "vignette",
+      "has_data": false
+    },
+    "vhs": {
+      "video_count": 0,
+      "sanitized_name": "vhs",
+      "has_data": false
+    },
+    "void": {
+      "video_count": 0,
+      "sanitized_name": "void",
+      "has_data": false
+    },
+    "voyeur": {
+      "video_count": 0,
+      "sanitized_name": "voyeur",
+      "has_data": false
+    },
+    "wandering": {
+      "video_count": 0,
+      "sanitized_name": "wandering",
+      "has_data": false
+    },
+    "wierdcore": {
+      "video_count": 0,
+      "sanitized_name": "wierdcore",
+      "has_data": false
+    },
+    "whip-pan": {
+      "video_count": 0,
+      "sanitized_name": "whip-pan",
+      "has_data": false
+    },
+    "wide-shot": {
+      "video_count": 0,
+      "sanitized_name": "wide-shot",
+      "has_data": false
+    },
+    "wigglegram": {
+      "video_count": 0,
+      "sanitized_name": "wigglegram",
+      "has_data": false
+    },
+    "worms-eye": {
+      "video_count": 0,
+      "sanitized_name": "worms-eye",
+      "has_data": false
+    },
+    "x-ray": {
+      "video_count": 0,
+      "sanitized_name": "x-ray",
+      "has_data": false
+    },
+    "zoetrope": {
+      "video_count": 0,
+      "sanitized_name": "zoetrope",
+      "has_data": false
+    },
+    "zoom-in": {
+      "video_count": 0,
+      "sanitized_name": "zoom-in",
+      "has_data": false
+    }
+  }
+}

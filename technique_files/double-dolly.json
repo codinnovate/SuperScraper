@@ -1,0 +1,807 @@
+{
+  "technique": "double-dolly",
+  "video_count": 40,
+  "generated_at": "2025-09-05T02:44:19.178082",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702778392.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.621861",
+      "element_tag": "img",
+      "title": "Mo' Better Blues",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mo' Better Blues",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702777654.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622006",
+      "element_tag": "img",
+      "title": "Malcom X",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Malcom X",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702780205.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622091",
+      "element_tag": "img",
+      "title": "Nike - Seen It All",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Seen It All",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420881.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622162",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705997499.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622231",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702777785.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622295",
+      "element_tag": "img",
+      "title": "Inside Man",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Inside Man",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172109.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622360",
+      "element_tag": "img",
+      "title": "Doechii - DENIAL IS A RIVER",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702780915.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622425",
+      "element_tag": "img",
+      "title": "Bally Curling",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bally Curling",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023361.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622489",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702777549.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622555",
+      "element_tag": "img",
+      "title": "NBA - Playoff Mode",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "NBA - Playoff Mode",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709542433.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622620",
+      "element_tag": "img",
+      "title": "FARDOSA (Short Film)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "FARDOSA (Short Film)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709976724.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622686",
+      "element_tag": "img",
+      "title": "eLaLiga Santander - What Can't Can Be",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "eLaLiga Santander - What Can't Can Be",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702780586.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622749",
+      "element_tag": "img",
+      "title": "Jungle Fever (1991)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jungle Fever (1991)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702780656.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622811",
+      "element_tag": "img",
+      "title": "Nike - Seen It All",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Seen It All",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702778228.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622874",
+      "element_tag": "img",
+      "title": "BlacKKKlansman",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "BlacKKKlansman",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702779085.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622938",
+      "element_tag": "img",
+      "title": "Nike - Seen It All",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Seen It All",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702777909.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.622999",
+      "element_tag": "img",
+      "title": "H&M - House of Members",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "H&M - House of Members",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824754.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623062",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710577893.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623125",
+      "element_tag": "img",
+      "title": "Busta Rhymes - BIG EVERYTHING",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Busta Rhymes - BIG EVERYTHING",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702780384.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623192",
+      "element_tag": "img",
+      "title": "Rosalia - Saoko",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Rosalia - Saoko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702778392.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623255",
+      "element_tag": "img",
+      "title": "Mo' Better Blues",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mo' Better Blues",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702777654.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623317",
+      "element_tag": "img",
+      "title": "Malcom X",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Malcom X",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702780205.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623376",
+      "element_tag": "img",
+      "title": "Nike - Seen It All",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Seen It All",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420881.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623433",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705997499.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623490",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702777785.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623548",
+      "element_tag": "img",
+      "title": "Inside Man",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Inside Man",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172109.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623606",
+      "element_tag": "img",
+      "title": "Doechii - DENIAL IS A RIVER",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702780915.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623662",
+      "element_tag": "img",
+      "title": "Bally Curling",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bally Curling",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023361.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623720",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702777549.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623777",
+      "element_tag": "img",
+      "title": "NBA - Playoff Mode",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "NBA - Playoff Mode",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709542433.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623833",
+      "element_tag": "img",
+      "title": "FARDOSA (Short Film)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "FARDOSA (Short Film)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709976724.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623890",
+      "element_tag": "img",
+      "title": "eLaLiga Santander - What Can't Can Be",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "eLaLiga Santander - What Can't Can Be",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702780586.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.623947",
+      "element_tag": "img",
+      "title": "Jungle Fever (1991)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jungle Fever (1991)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702780656.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.624005",
+      "element_tag": "img",
+      "title": "Nike - Seen It All",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Seen It All",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702778228.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.624062",
+      "element_tag": "img",
+      "title": "BlacKKKlansman",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "BlacKKKlansman",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702779085.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.624118",
+      "element_tag": "img",
+      "title": "Nike - Seen It All",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Seen It All",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702777909.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.624175",
+      "element_tag": "img",
+      "title": "H&M - House of Members",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "H&M - House of Members",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824754.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.624231",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710577893.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.624289",
+      "element_tag": "img",
+      "title": "Busta Rhymes - BIG EVERYTHING",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Busta Rhymes - BIG EVERYTHING",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702780384.webp",
+      "page_url": "https://eyecannndy.com/technique/double-dolly",
+      "discovered_at": "2025-09-04T12:47:57.624345",
+      "element_tag": "img",
+      "title": "Rosalia - Saoko",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Rosalia - Saoko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "show it",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_"
+      ]
+    }
+  ]
+}
