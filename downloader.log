@@ -1,0 +1,295 @@
+2025-09-04 12:40:58,374 - INFO - Loaded 1923 videos from data/eyecandy_videos_20250904_123651.json
+2025-09-04 12:40:58,374 - INFO - Limited to 50 videos
+2025-09-04 12:40:58,374 - INFO - Found videos for 1 techniques
+2025-09-04 12:40:58,374 - INFO - 
+Processing technique: architexture (50 videos)
+2025-09-04 12:40:58,374 - INFO - Downloading video 1/50 for architexture
+2025-09-04 12:40:58,374 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695580.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945103', 'element_tag': 'img', 'title': 'Erdem Topsakal - @topsakalerdem / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Erdem Topsakal - @topsakalerdem / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,374 - INFO - Downloading video 2/50 for architexture
+2025-09-04 12:40:58,374 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261703022500.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945283', 'element_tag': 'img', 'title': 'Street Art Loop GIF By A. L. Crego', 'description': '', 'category': 'Technique', 'alt_text': 'Street Art Loop GIF By A. L. Crego', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,374 - INFO - Downloading video 3/50 for architexture
+2025-09-04 12:40:58,374 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984520.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945372', 'element_tag': 'img', 'title': 'AXEL DE STAMPA GIF', 'description': '', 'category': 'Technique', 'alt_text': 'AXEL DE STAMPA GIF', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,374 - INFO - Downloading video 4/50 for architexture
+2025-09-04 12:40:58,374 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/25/261703467673.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945443', 'element_tag': 'img', 'title': 'A$AP Rocky - Praise The Lord', 'description': '', 'category': 'Technique', 'alt_text': 'A$AP Rocky - Praise The Lord', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 5/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984433.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945505', 'element_tag': 'img', 'title': 'AXEL DE STAMPA GIF', 'description': '', 'category': 'Technique', 'alt_text': 'AXEL DE STAMPA GIF', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 6/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695441.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945570', 'element_tag': 'img', 'title': '@alcrego / Giphy', 'description': '', 'category': 'Technique', 'alt_text': '@alcrego / Giphy', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 7/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695560.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945635', 'element_tag': 'img', 'title': 'Erdem Topsakal - @topsakalerdem / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Erdem Topsakal - @topsakalerdem / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 8/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984483.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945696', 'element_tag': 'img', 'title': 'AXEL DE STAMPA GIF', 'description': '', 'category': 'Technique', 'alt_text': 'AXEL DE STAMPA GIF', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 9/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984716.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945755', 'element_tag': 'img', 'title': 'Elouen la Baleine / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Elouen la Baleine / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 10/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695629.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945815', 'element_tag': 'img', 'title': 'Erdem Topsakal - @topsakalerdem / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Erdem Topsakal - @topsakalerdem / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 11/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984503.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945872', 'element_tag': 'img', 'title': 'AXEL DE STAMPA GIF', 'description': '', 'category': 'Technique', 'alt_text': 'AXEL DE STAMPA GIF', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 12/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2024/01/06/261704508936.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945929', 'element_tag': 'img', 'title': 'Clip from Mikhail Parkhomenko', 'description': '', 'category': 'Technique', 'alt_text': 'Clip from Mikhail Parkhomenko', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 13/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702983719.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.945986', 'element_tag': 'img', 'title': 'GIF By Hateplow', 'description': '', 'category': 'Technique', 'alt_text': 'GIF By Hateplow', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 14/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702983836.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946043', 'element_tag': 'img', 'title': 'Nyc Fig GIF By Hateplow', 'description': '', 'category': 'Technique', 'alt_text': 'Nyc Fig GIF By Hateplow', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 15/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2024/01/12/261705031296.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946100', 'element_tag': 'img', 'title': 'Unknown T - Hocus Pocus Feat. Loyle Carner', 'description': '', 'category': 'Technique', 'alt_text': 'Unknown T - Hocus Pocus Feat. Loyle Carner', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 16/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2024/01/12/261705031527.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946158', 'element_tag': 'img', 'title': 'Unknown T - Hocus Pocus Feat. Loyle Carner', 'description': '', 'category': 'Technique', 'alt_text': 'Unknown T - Hocus Pocus Feat. Loyle Carner', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 17/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695332.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946214', 'element_tag': 'img', 'title': 'Elouen la Baleine / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Elouen la Baleine / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 18/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695690.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946271', 'element_tag': 'img', 'title': '@alcrego / Giphy', 'description': '', 'category': 'Technique', 'alt_text': '@alcrego / Giphy', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 19/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695580.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946327', 'element_tag': 'img', 'title': 'Erdem Topsakal - @topsakalerdem / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Erdem Topsakal - @topsakalerdem / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 20/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261703022500.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946382', 'element_tag': 'img', 'title': 'Street Art Loop GIF By A. L. Crego', 'description': '', 'category': 'Technique', 'alt_text': 'Street Art Loop GIF By A. L. Crego', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 21/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984520.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946435', 'element_tag': 'img', 'title': 'AXEL DE STAMPA GIF', 'description': '', 'category': 'Technique', 'alt_text': 'AXEL DE STAMPA GIF', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 22/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/25/261703467673.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946487', 'element_tag': 'img', 'title': 'A$AP Rocky - Praise The Lord', 'description': '', 'category': 'Technique', 'alt_text': 'A$AP Rocky - Praise The Lord', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 23/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984433.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946540', 'element_tag': 'img', 'title': 'AXEL DE STAMPA GIF', 'description': '', 'category': 'Technique', 'alt_text': 'AXEL DE STAMPA GIF', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 24/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695441.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946591', 'element_tag': 'img', 'title': '@alcrego / Giphy', 'description': '', 'category': 'Technique', 'alt_text': '@alcrego / Giphy', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 25/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695560.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946643', 'element_tag': 'img', 'title': 'Erdem Topsakal - @topsakalerdem / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Erdem Topsakal - @topsakalerdem / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 26/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984483.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946696', 'element_tag': 'img', 'title': 'AXEL DE STAMPA GIF', 'description': '', 'category': 'Technique', 'alt_text': 'AXEL DE STAMPA GIF', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 27/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984716.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946747', 'element_tag': 'img', 'title': 'Elouen la Baleine / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Elouen la Baleine / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 28/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695629.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946800', 'element_tag': 'img', 'title': 'Erdem Topsakal - @topsakalerdem / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Erdem Topsakal - @topsakalerdem / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 29/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984503.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946852', 'element_tag': 'img', 'title': 'AXEL DE STAMPA GIF', 'description': '', 'category': 'Technique', 'alt_text': 'AXEL DE STAMPA GIF', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 30/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2024/01/06/261704508936.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946905', 'element_tag': 'img', 'title': 'Clip from Mikhail Parkhomenko', 'description': '', 'category': 'Technique', 'alt_text': 'Clip from Mikhail Parkhomenko', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 31/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702983719.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.946956', 'element_tag': 'img', 'title': 'GIF By Hateplow', 'description': '', 'category': 'Technique', 'alt_text': 'GIF By Hateplow', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 32/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702983836.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947010', 'element_tag': 'img', 'title': 'Nyc Fig GIF By Hateplow', 'description': '', 'category': 'Technique', 'alt_text': 'Nyc Fig GIF By Hateplow', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 33/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2024/01/12/261705031296.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947063', 'element_tag': 'img', 'title': 'Unknown T - Hocus Pocus Feat. Loyle Carner', 'description': '', 'category': 'Technique', 'alt_text': 'Unknown T - Hocus Pocus Feat. Loyle Carner', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 34/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2024/01/12/261705031527.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947117', 'element_tag': 'img', 'title': 'Unknown T - Hocus Pocus Feat. Loyle Carner', 'description': '', 'category': 'Technique', 'alt_text': 'Unknown T - Hocus Pocus Feat. Loyle Carner', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 35/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695332.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947169', 'element_tag': 'img', 'title': 'Elouen la Baleine / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Elouen la Baleine / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 36/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695690.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947222', 'element_tag': 'img', 'title': '@alcrego / Giphy', 'description': '', 'category': 'Technique', 'alt_text': '@alcrego / Giphy', 'css_classes': 'lazy-img lazyImages1 trigger_info_ show-it', 'file_size': None, 'dimensions': None, 'tags': ['trigger_info_', 'Eyecandy', 'lazyImages1', 'show it', 'lazy img']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 37/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261703022484.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947278', 'element_tag': 'img', 'title': 'Street Art Loop GIF By A. L. Crego', 'description': '', 'category': 'Technique', 'alt_text': 'Street Art Loop GIF By A. L. Crego', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 38/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695610.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947338', 'element_tag': 'img', 'title': 'Erdem Topsakal - @topsakalerdem / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Erdem Topsakal - @topsakalerdem / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 39/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695541.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947395', 'element_tag': 'img', 'title': 'Erdem Topsakal - @topsakalerdem / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Erdem Topsakal - @topsakalerdem / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 40/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702983529.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947452', 'element_tag': 'img', 'title': 'GIF By weinventyou', 'description': '', 'category': 'Technique', 'alt_text': 'GIF By weinventyou', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 41/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261703021858.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947510', 'element_tag': 'img', 'title': 'Street Art Loop GIF By A. L. Crego', 'description': '', 'category': 'Technique', 'alt_text': 'Street Art Loop GIF By A. L. Crego', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 42/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2024/01/21/261705822448.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947562', 'element_tag': 'img', 'title': "Kevin McGloughlin for Max Cooper 'Repetition'", 'description': '', 'category': 'Technique', 'alt_text': "Kevin McGloughlin for Max Cooper 'Repetition'", 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 43/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984221.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947614', 'element_tag': 'img', 'title': '3D Photography GIF By Hateplow', 'description': '', 'category': 'Technique', 'alt_text': '3D Photography GIF By Hateplow', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,375 - INFO - Downloading video 44/50 for architexture
+2025-09-04 12:40:58,375 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695669.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947666', 'element_tag': 'img', 'title': '@alcrego / Giphy', 'description': '', 'category': 'Technique', 'alt_text': '@alcrego / Giphy', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,376 - INFO - Downloading video 45/50 for architexture
+2025-09-04 12:40:58,376 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/19/261702984465.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947717', 'element_tag': 'img', 'title': 'AXEL DE STAMPA GIF', 'description': '', 'category': 'Technique', 'alt_text': 'AXEL DE STAMPA GIF', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,376 - INFO - Downloading video 46/50 for architexture
+2025-09-04 12:40:58,376 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695485.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947768', 'element_tag': 'img', 'title': 'Source Unknown', 'description': '', 'category': 'Technique', 'alt_text': 'Source Unknown', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,376 - INFO - Downloading video 47/50 for architexture
+2025-09-04 12:40:58,376 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695515.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947818', 'element_tag': 'img', 'title': 'Elouen la Baleine / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Elouen la Baleine / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,376 - INFO - Downloading video 48/50 for architexture
+2025-09-04 12:40:58,376 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695424.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947869', 'element_tag': 'img', 'title': '@hateplow / Giphy', 'description': '', 'category': 'Technique', 'alt_text': '@hateplow / Giphy', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,376 - INFO - Downloading video 49/50 for architexture
+2025-09-04 12:40:58,376 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/25/261703467605.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947919', 'element_tag': 'img', 'title': 'A$AP Rocky - Praise The Lord', 'description': '', 'category': 'Technique', 'alt_text': 'A$AP Rocky - Praise The Lord', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,376 - INFO - Downloading video 50/50 for architexture
+2025-09-04 12:40:58,376 - WARNING - No URL found for video: {'video_url': 'https://asset.eyecannndy.com/media/clip/2023/12/16/261702695657.webp', 'page_url': 'https://eyecannndy.com/technique/architexture', 'discovered_at': '2025-09-04T12:28:14.947971', 'element_tag': 'img', 'title': 'Erdem Topsakal - @topsakalerdem / IG', 'description': '', 'category': 'Technique', 'alt_text': 'Erdem Topsakal - @topsakalerdem / IG', 'css_classes': 'lazy-img lazyImages1 trigger_info_', 'file_size': None, 'dimensions': None, 'tags': ['lazy img', 'lazyImages1', 'trigger_info_', 'Eyecandy']}
+2025-09-04 12:40:58,376 - INFO - 
+==================================================
+2025-09-04 12:40:58,376 - INFO - DOWNLOAD STATISTICS
+2025-09-04 12:40:58,376 - INFO - ==================================================
+2025-09-04 12:40:58,376 - INFO - Total videos: 50
+2025-09-04 12:40:58,376 - INFO - Downloaded: 0
+2025-09-04 12:40:58,376 - INFO - Skipped (already exists): 0
+2025-09-04 12:40:58,376 - INFO - Failed: 0
+2025-09-04 12:40:58,376 - INFO - Success rate: 0.0%
+2025-09-04 12:40:58,376 - INFO - ==================================================
+2025-09-04 12:41:26,843 - INFO - Loaded 2095 videos from data/eyecandy_videos_20250904_124110.json
+2025-09-04 12:41:26,843 - INFO - Limited to 50 videos
+2025-09-04 12:41:26,843 - INFO - Found videos for 1 techniques
+2025-09-04 12:41:26,843 - INFO - 
+Processing technique: architexture (50 videos)
+2025-09-04 12:41:26,843 - INFO - Downloading video 1/50 for architexture
+2025-09-04 12:41:26,844 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2023/12/16/261702695580.webp -> videos/architexture/261702695580.webp
+2025-09-04 12:41:56,871 - ERROR - Failed to download unknown: HTTPSConnectionPool(host='asset.eyecannndy.com', port=443): Read timed out. (read timeout=30)
+2025-09-04 12:41:56,872 - INFO - Downloading video 2/50 for architexture
+2025-09-04 12:41:56,873 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2023/12/19/261703022500.webp -> videos/architexture/261703022500.webp
+2025-09-04 12:41:59,639 - INFO - Successfully downloaded: videos/architexture/261703022500.webp (354422 bytes)
+2025-09-04 12:42:00,144 - INFO - Downloading video 3/50 for architexture
+2025-09-04 12:42:00,144 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2023/12/19/261702984520.webp -> videos/architexture/261702984520.webp
+2025-09-04 12:42:11,587 - INFO - Successfully downloaded: videos/architexture/261702984520.webp (421468 bytes)
+2025-09-04 12:42:12,094 - INFO - Downloading video 4/50 for architexture
+2025-09-04 12:42:12,096 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2023/12/25/261703467673.webp -> videos/architexture/261703467673.webp
+2025-09-05 01:48:06,409 - INFO - Loaded 3515 videos from data/eyecandy_videos_20250904_125042.json
+2025-09-05 01:48:06,409 - INFO - Limited to 50 videos
+2025-09-05 01:48:06,410 - INFO - Found videos for 1 techniques
+2025-09-05 01:48:06,410 - INFO - 
+Processing technique: aerial (50 videos)
+2025-09-05 01:48:06,410 - INFO - Downloading video 1/50 for aerial
+2025-09-05 01:48:06,410 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/04/261704368399.webp -> videos/aerial/261704368399.webp
+2025-09-05 01:48:08,884 - INFO - Successfully downloaded: videos/aerial/261704368399.webp (1138838 bytes)
+2025-09-05 01:48:09,388 - INFO - Downloading video 2/50 for aerial
+2025-09-05 01:48:09,389 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/06/261704529422.webp -> videos/aerial/261704529422.webp
+2025-09-05 01:48:11,230 - INFO - Successfully downloaded: videos/aerial/261704529422.webp (1451624 bytes)
+2025-09-05 01:48:11,735 - INFO - Downloading video 3/50 for aerial
+2025-09-05 01:48:11,735 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/03/01/261709330025.webp -> videos/aerial/261709330025.webp
+2025-09-05 01:48:13,234 - INFO - Successfully downloaded: videos/aerial/261709330025.webp (895552 bytes)
+2025-09-05 01:48:13,739 - INFO - Downloading video 4/50 for aerial
+2025-09-05 01:48:13,740 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/04/261704369836.webp -> videos/aerial/261704369836.webp
+2025-09-05 01:48:14,739 - INFO - Successfully downloaded: videos/aerial/261704369836.webp (556326 bytes)
+2025-09-05 01:48:15,240 - INFO - Downloading video 5/50 for aerial
+2025-09-05 01:48:15,241 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/03/261704256739.webp -> videos/aerial/261704256739.webp
+2025-09-05 01:48:18,903 - INFO - Successfully downloaded: videos/aerial/261704256739.webp (3615726 bytes)
+2025-09-05 01:48:19,408 - INFO - Downloading video 6/50 for aerial
+2025-09-05 01:48:19,408 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp -> videos/aerial/261720164544.webp
+2025-09-05 01:48:23,265 - INFO - Successfully downloaded: videos/aerial/261720164544.webp (3201634 bytes)
+2025-09-05 01:48:23,770 - INFO - Downloading video 7/50 for aerial
+2025-09-05 01:48:23,770 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/04/261704368535.webp -> videos/aerial/261704368535.webp
+2025-09-05 01:48:27,395 - INFO - Successfully downloaded: videos/aerial/261704368535.webp (2387244 bytes)
+2025-09-05 02:01:49,051 - INFO - Loaded 3515 videos from data/eyecandy_videos_20250904_125042.json
+2025-09-05 02:01:49,053 - INFO - Limited to 50 videos
+2025-09-05 02:01:49,053 - INFO - Found videos for 1 techniques
+2025-09-05 02:01:49,053 - INFO - 
+Processing technique: aerial (50 videos)
+2025-09-05 02:01:49,053 - INFO - Downloading video 1/50 for aerial
+2025-09-05 02:01:49,053 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:01:49,053 - INFO - Downloading video 2/50 for aerial
+2025-09-05 02:01:49,053 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:01:49,053 - INFO - Downloading video 3/50 for aerial
+2025-09-05 02:01:49,053 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:01:49,053 - INFO - Downloading video 4/50 for aerial
+2025-09-05 02:01:49,053 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:01:49,053 - INFO - Downloading video 5/50 for aerial
+2025-09-05 02:01:49,053 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:01:49,053 - INFO - Downloading video 6/50 for aerial
+2025-09-05 02:01:49,053 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:01:49,053 - INFO - Downloading video 7/50 for aerial
+2025-09-05 02:01:49,053 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:01:49,053 - INFO - Downloading video 8/50 for aerial
+2025-09-05 02:01:49,053 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/03/28/261711603985.webp -> videos/aerial/261711603985.webp
+2025-09-05 02:02:03,449 - INFO - Successfully downloaded: videos/aerial/261711603985.webp (2685034 bytes)
+2025-09-05 02:02:03,953 - INFO - Downloading video 9/50 for aerial
+2025-09-05 02:02:03,954 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/06/261704508408.webp -> videos/aerial/261704508408.webp
+2025-09-05 02:02:07,472 - INFO - Successfully downloaded: videos/aerial/261704508408.webp (982576 bytes)
+2025-09-05 02:02:07,977 - INFO - Downloading video 10/50 for aerial
+2025-09-05 02:02:07,978 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/07/05/261720164658.webp -> videos/aerial/261720164658.webp
+2025-09-05 02:02:25,305 - INFO - Successfully downloaded: videos/aerial/261720164658.webp (3102626 bytes)
+2025-09-05 02:02:25,811 - INFO - Downloading video 11/50 for aerial
+2025-09-05 02:02:25,811 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/02/11/261707626497.webp -> videos/aerial/261707626497.webp
+2025-09-05 02:02:41,842 - INFO - Successfully downloaded: videos/aerial/261707626497.webp (1960280 bytes)
+2025-09-05 02:02:42,347 - INFO - Downloading video 12/50 for aerial
+2025-09-05 02:02:42,348 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/04/261704368615.webp -> videos/aerial/261704368615.webp
+2025-09-05 02:02:50,256 - INFO - Successfully downloaded: videos/aerial/261704368615.webp (1361580 bytes)
+2025-09-05 02:02:50,761 - INFO - Downloading video 13/50 for aerial
+2025-09-05 02:02:50,761 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/02/11/261707626229.webp -> videos/aerial/261707626229.webp
+2025-09-05 02:02:55,971 - INFO - Successfully downloaded: videos/aerial/261707626229.webp (1840702 bytes)
+2025-09-05 02:02:56,473 - INFO - Downloading video 14/50 for aerial
+2025-09-05 02:02:56,473 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/01/261704077050.webp -> videos/aerial/261704077050.webp
+2025-09-05 02:02:58,858 - INFO - Successfully downloaded: videos/aerial/261704077050.webp (1039796 bytes)
+2025-09-05 02:02:59,360 - INFO - Downloading video 15/50 for aerial
+2025-09-05 02:02:59,360 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/02/04/261707021425.webp -> videos/aerial/261707021425.webp
+2025-09-05 02:03:06,015 - INFO - Successfully downloaded: videos/aerial/261707021425.webp (3453300 bytes)
+2025-09-05 02:03:06,516 - INFO - Downloading video 16/50 for aerial
+2025-09-05 02:03:06,517 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/05/15/261715812336.webp -> videos/aerial/261715812336.webp
+2025-09-05 02:03:10,721 - INFO - Successfully downloaded: videos/aerial/261715812336.webp (2758374 bytes)
+2025-09-05 02:03:11,223 - INFO - Downloading video 17/50 for aerial
+2025-09-05 02:03:11,223 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/04/261704365041.webp -> videos/aerial/261704365041.webp
+2025-09-05 02:03:14,901 - INFO - Successfully downloaded: videos/aerial/261704365041.webp (2274546 bytes)
+2025-09-05 02:03:15,407 - INFO - Downloading video 18/50 for aerial
+2025-09-05 02:03:15,407 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/02/04/261707021457.webp -> videos/aerial/261707021457.webp
+2025-09-05 02:03:16,801 - INFO - Successfully downloaded: videos/aerial/261707021457.webp (1076718 bytes)
+2025-09-05 02:03:17,303 - INFO - Downloading video 19/50 for aerial
+2025-09-05 02:03:17,304 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/03/17/261710664164.webp -> videos/aerial/261710664164.webp
+2025-09-05 02:03:20,775 - INFO - Successfully downloaded: videos/aerial/261710664164.webp (3439422 bytes)
+2025-09-05 02:03:21,276 - INFO - Downloading video 20/50 for aerial
+2025-09-05 02:03:21,276 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/04/261704368663.webp -> videos/aerial/261704368663.webp
+2025-09-05 02:03:23,902 - INFO - Successfully downloaded: videos/aerial/261704368663.webp (2473030 bytes)
+2025-09-05 02:03:24,407 - INFO - Downloading video 21/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261704368399.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 22/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261704529422.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 23/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261709330025.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 24/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261704369836.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 25/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261704256739.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 26/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261720164544.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 27/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261704368535.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 28/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261711603985.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 29/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261704508408.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 30/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261720164658.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 31/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261707626497.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 32/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261704368615.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 33/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261707626229.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 34/50 for aerial
+2025-09-05 02:03:24,408 - INFO - Skipping existing file: videos/aerial/261704077050.webp
+2025-09-05 02:03:24,408 - INFO - Downloading video 35/50 for aerial
+2025-09-05 02:03:24,409 - INFO - Skipping existing file: videos/aerial/261707021425.webp
+2025-09-05 02:03:24,409 - INFO - Downloading video 36/50 for aerial
+2025-09-05 02:03:24,409 - INFO - Skipping existing file: videos/aerial/261715812336.webp
+2025-09-05 02:03:24,409 - INFO - Downloading video 37/50 for aerial
+2025-09-05 02:03:24,409 - INFO - Skipping existing file: videos/aerial/261704365041.webp
+2025-09-05 02:03:24,409 - INFO - Downloading video 38/50 for aerial
+2025-09-05 02:03:24,409 - INFO - Skipping existing file: videos/aerial/261707021457.webp
+2025-09-05 02:03:24,409 - INFO - Downloading video 39/50 for aerial
+2025-09-05 02:03:24,409 - INFO - Skipping existing file: videos/aerial/261710664164.webp
+2025-09-05 02:03:24,409 - INFO - Downloading video 40/50 for aerial
+2025-09-05 02:03:24,409 - INFO - Skipping existing file: videos/aerial/261704368663.webp
+2025-09-05 02:03:24,409 - INFO - Downloading video 41/50 for aerial
+2025-09-05 02:03:24,409 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/03/25/261711346859.webp -> videos/aerial/261711346859.webp
+2025-09-05 02:03:26,553 - INFO - Successfully downloaded: videos/aerial/261711346859.webp (2538992 bytes)
+2025-09-05 02:03:27,053 - INFO - Downloading video 42/50 for aerial
+2025-09-05 02:03:27,053 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/04/261704365455.webp -> videos/aerial/261704365455.webp
+2025-09-05 02:03:28,976 - INFO - Successfully downloaded: videos/aerial/261704365455.webp (1794096 bytes)
+2025-09-05 02:03:29,482 - INFO - Downloading video 43/50 for aerial
+2025-09-05 02:03:29,482 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/13/261705123075.webp -> videos/aerial/261705123075.webp
+2025-09-05 02:03:29,970 - INFO - Successfully downloaded: videos/aerial/261705123075.webp (313032 bytes)
+2025-09-05 02:03:30,476 - INFO - Downloading video 44/50 for aerial
+2025-09-05 02:03:30,476 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/09/261704835059.webp -> videos/aerial/261704835059.webp
+2025-09-05 02:03:31,242 - INFO - Successfully downloaded: videos/aerial/261704835059.webp (618108 bytes)
+2025-09-05 02:03:31,748 - INFO - Downloading video 45/50 for aerial
+2025-09-05 02:03:31,748 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/03/13/261710313129.webp -> videos/aerial/261710313129.webp
+2025-09-05 02:03:36,138 - INFO - Successfully downloaded: videos/aerial/261710313129.webp (6049106 bytes)
+2025-09-05 02:03:36,644 - INFO - Downloading video 46/50 for aerial
+2025-09-05 02:03:36,645 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/07/05/261720164595.webp -> videos/aerial/261720164595.webp
+2025-09-05 02:03:38,861 - INFO - Successfully downloaded: videos/aerial/261720164595.webp (3442496 bytes)
+2025-09-05 02:03:39,366 - INFO - Downloading video 47/50 for aerial
+2025-09-05 02:03:39,366 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/02/27/261709018151.webp -> videos/aerial/261709018151.webp
+2025-09-05 02:03:39,876 - INFO - Successfully downloaded: videos/aerial/261709018151.webp (556314 bytes)
+2025-09-05 02:03:40,381 - INFO - Downloading video 48/50 for aerial
+2025-09-05 02:03:40,381 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/03/25/261711346967.webp -> videos/aerial/261711346967.webp
+2025-09-05 02:03:44,468 - INFO - Successfully downloaded: videos/aerial/261711346967.webp (2194350 bytes)
+2025-09-05 02:03:44,973 - INFO - Downloading video 49/50 for aerial
+2025-09-05 02:03:44,973 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/01/01/261704076286.webp -> videos/aerial/261704076286.webp
+2025-09-05 02:03:45,908 - INFO - Successfully downloaded: videos/aerial/261704076286.webp (854708 bytes)
+2025-09-05 02:03:46,410 - INFO - Downloading video 50/50 for aerial
+2025-09-05 02:03:46,411 - INFO - Downloading: https://asset.eyecannndy.com/media/clip/2024/03/28/261711610807.webp -> videos/aerial/261711610807.webp
+2025-09-05 02:03:48,845 - INFO - Successfully downloaded: videos/aerial/261711610807.webp (2681434 bytes)
+2025-09-05 02:03:49,349 - INFO - 
+==================================================
+2025-09-05 02:03:49,349 - INFO - DOWNLOAD STATISTICS
+2025-09-05 02:03:49,349 - INFO - ==================================================
+2025-09-05 02:03:49,349 - INFO - Total videos: 50
+2025-09-05 02:03:49,349 - INFO - Downloaded: 23
+2025-09-05 02:03:49,349 - INFO - Skipped (already exists): 27
+2025-09-05 02:03:49,349 - INFO - Failed: 0
+2025-09-05 02:03:49,350 - INFO - Success rate: 46.0%
+2025-09-05 02:03:49,350 - INFO - ==================================================

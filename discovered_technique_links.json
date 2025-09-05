@@ -1,0 +1,692 @@
+[
+  {
+    "name": "aerial",
+    "url": "https://eyecannndy.com/technique/aerial",
+    "text": "Aerial"
+  },
+  {
+    "name": "trip",
+    "url": "https://eyecannndy.com/technique/trip",
+    "text": "Altered state"
+  },
+  {
+    "name": "traditional",
+    "url": "https://eyecannndy.com/technique/traditional",
+    "text": "Animation"
+  },
+  {
+    "name": "anthropomorphism",
+    "url": "https://eyecannndy.com/technique/anthropomorphism",
+    "text": "Anthropo"
+  },
+  {
+    "name": "arc-movement",
+    "url": "https://eyecannndy.com/technique/arc-movement",
+    "text": "Arc"
+  },
+  {
+    "name": "architexture",
+    "url": "https://eyecannndy.com/technique/architexture",
+    "text": "Architexture"
+  },
+  {
+    "name": "bolt-cam",
+    "url": "https://eyecannndy.com/technique/bolt-cam",
+    "text": "Bolt Cam"
+  },
+  {
+    "name": "boomerang",
+    "url": "https://eyecannndy.com/technique/boomerang",
+    "text": "Boomerang"
+  },
+  {
+    "name": "breakdown",
+    "url": "https://eyecannndy.com/technique/breakdown",
+    "text": "BTS"
+  },
+  {
+    "name": "bullet-time",
+    "url": "https://eyecannndy.com/technique/bullet-time",
+    "text": "Bullet Time"
+  },
+  {
+    "name": "camera-roll",
+    "url": "https://eyecannndy.com/technique/camera-roll",
+    "text": "Camera Roll"
+  },
+  {
+    "name": "central-framing",
+    "url": "https://eyecannndy.com/technique/central-framing",
+    "text": "Central Framing"
+  },
+  {
+    "name": "choreo",
+    "url": "https://eyecannndy.com/technique/choreo",
+    "text": "Choreo"
+  },
+  {
+    "name": "cinemagraph",
+    "url": "https://eyecannndy.com/technique/cinemagraph",
+    "text": "Cinemagraph"
+  },
+  {
+    "name": "close-up",
+    "url": "https://eyecannndy.com/technique/close-up",
+    "text": "Close-Up"
+  },
+  {
+    "name": "collage",
+    "url": "https://eyecannndy.com/technique/collage",
+    "text": "Collage"
+  },
+  {
+    "name": "color-shift",
+    "url": "https://eyecannndy.com/technique/color-shift",
+    "text": "Color Shift"
+  },
+  {
+    "name": "conveyor",
+    "url": "https://eyecannndy.com/technique/conveyor",
+    "text": "Conveyor"
+  },
+  {
+    "name": "crash-transition",
+    "url": "https://eyecannndy.com/technique/crash-transition",
+    "text": "Crash cut"
+  },
+  {
+    "name": "cut-ins",
+    "url": "https://eyecannndy.com/technique/cut-ins",
+    "text": "Cut-ins"
+  },
+  {
+    "name": "datamosh",
+    "url": "https://eyecannndy.com/technique/datamosh",
+    "text": "Datamosh"
+  },
+  {
+    "name": "model",
+    "url": "https://eyecannndy.com/technique/model",
+    "text": "Diorama"
+  },
+  {
+    "name": "distortions",
+    "url": "https://eyecannndy.com/technique/distortions",
+    "text": "Distortions"
+  },
+  {
+    "name": "dolly-shot",
+    "url": "https://eyecannndy.com/technique/dolly-shot",
+    "text": "Dolly"
+  },
+  {
+    "name": "dolly-zoom",
+    "url": "https://eyecannndy.com/technique/dolly-zoom",
+    "text": "Dolly Zoom"
+  },
+  {
+    "name": "double-dolly",
+    "url": "https://eyecannndy.com/technique/double-dolly",
+    "text": "Double Dolly"
+  },
+  {
+    "name": "double-exposure",
+    "url": "https://eyecannndy.com/technique/double-exposure",
+    "text": "Double Exposure"
+  },
+  {
+    "name": "dreamcore",
+    "url": "https://eyecannndy.com/technique/dreamcore",
+    "text": "Dreamcore"
+  },
+  {
+    "name": "duplication",
+    "url": "https://eyecannndy.com/technique/duplication",
+    "text": "Duplication"
+  },
+  {
+    "name": "dutch-angle",
+    "url": "https://eyecannndy.com/technique/dutch-angle",
+    "text": "Dutch Angle"
+  },
+  {
+    "name": "dystopian",
+    "url": "https://eyecannndy.com/technique/dystopian",
+    "text": "Dystopian"
+  },
+  {
+    "name": "echo-printing",
+    "url": "https://eyecannndy.com/technique/echo-printing",
+    "text": "Echo print"
+  },
+  {
+    "name": "epiphany-shot",
+    "url": "https://eyecannndy.com/technique/epiphany-shot",
+    "text": "Epiphany"
+  },
+  {
+    "name": "falling",
+    "url": "https://eyecannndy.com/technique/falling",
+    "text": "Falling"
+  },
+  {
+    "name": "undercranking",
+    "url": "https://eyecannndy.com/technique/undercranking",
+    "text": "Fast Motion"
+  },
+  {
+    "name": "glitch",
+    "url": "https://eyecannndy.com/technique/glitch",
+    "text": "Feedback"
+  },
+  {
+    "name": "first-person-pov",
+    "url": "https://eyecannndy.com/technique/first-person-pov",
+    "text": "First-Person"
+  },
+  {
+    "name": "fisheye",
+    "url": "https://eyecannndy.com/technique/fisheye",
+    "text": "Fisheye"
+  },
+  {
+    "name": "fixed-camera",
+    "url": "https://eyecannndy.com/technique/fixed-camera",
+    "text": "Fixed Cam"
+  },
+  {
+    "name": "flash-cut",
+    "url": "https://eyecannndy.com/technique/flash-cut",
+    "text": "Flash Cut"
+  },
+  {
+    "name": "digital-overlay",
+    "url": "https://eyecannndy.com/technique/digital-overlay",
+    "text": "Floating UI"
+  },
+  {
+    "name": "focal-shift",
+    "url": "https://eyecannndy.com/technique/focal-shift",
+    "text": "Focal shift"
+  },
+  {
+    "name": "fourth-wall",
+    "url": "https://eyecannndy.com/technique/fourth-wall",
+    "text": "Fourth Wall"
+  },
+  {
+    "name": "fpv-drone",
+    "url": "https://eyecannndy.com/technique/fpv-drone",
+    "text": "FPV Drone"
+  },
+  {
+    "name": "freeze-frame",
+    "url": "https://eyecannndy.com/technique/freeze-frame",
+    "text": "Freeze Frame"
+  },
+  {
+    "name": "generative",
+    "url": "https://eyecannndy.com/technique/generative",
+    "text": "Generative"
+  },
+  {
+    "name": "digital-gesture",
+    "url": "https://eyecannndy.com/technique/digital-gesture",
+    "text": "Gesture"
+  },
+  {
+    "name": "ground-shot",
+    "url": "https://eyecannndy.com/technique/ground-shot",
+    "text": "Ground Level"
+  },
+  {
+    "name": "halation",
+    "url": "https://eyecannndy.com/technique/halation",
+    "text": "Halation"
+  },
+  {
+    "name": "shaky-cam",
+    "url": "https://eyecannndy.com/technique/shaky-cam",
+    "text": "Handheld"
+  },
+  {
+    "name": "hard-light",
+    "url": "https://eyecannndy.com/technique/hard-light",
+    "text": "Hard Light"
+  },
+  {
+    "name": "haze",
+    "url": "https://eyecannndy.com/technique/haze",
+    "text": "Haze"
+  },
+  {
+    "name": "high-angle",
+    "url": "https://eyecannndy.com/technique/high-angle",
+    "text": "High Angle"
+  },
+  {
+    "name": "infinite",
+    "url": "https://eyecannndy.com/technique/infinite",
+    "text": "Infinite Loop"
+  },
+  {
+    "name": "interview",
+    "url": "https://eyecannndy.com/technique/interview",
+    "text": "Interview"
+  },
+  {
+    "name": "jump-cut",
+    "url": "https://eyecannndy.com/technique/jump-cut",
+    "text": "Jump cut"
+  },
+  {
+    "name": "kaleidoscope",
+    "url": "https://eyecannndy.com/technique/kaleidoscope",
+    "text": "Kaleidoscope"
+  },
+  {
+    "name": "lazy-susan",
+    "url": "https://eyecannndy.com/technique/lazy-susan",
+    "text": "Lazy Susan"
+  },
+  {
+    "name": "floating",
+    "url": "https://eyecannndy.com/technique/floating",
+    "text": "Levitation"
+  },
+  {
+    "name": "light-flash",
+    "url": "https://eyecannndy.com/technique/light-flash",
+    "text": "Light Flash"
+  },
+  {
+    "name": "locked-on",
+    "url": "https://eyecannndy.com/technique/locked-on",
+    "text": "Locked-On"
+  },
+  {
+    "name": "low-angle",
+    "url": "https://eyecannndy.com/technique/low-angle",
+    "text": "Low Angle"
+  },
+  {
+    "name": "surrealism",
+    "url": "https://eyecannndy.com/technique/surrealism",
+    "text": "Magical realism"
+  },
+  {
+    "name": "magnification",
+    "url": "https://eyecannndy.com/technique/magnification",
+    "text": "Magnification"
+  },
+  {
+    "name": "masking",
+    "url": "https://eyecannndy.com/technique/masking",
+    "text": "Masking"
+  },
+  {
+    "name": "match-cut",
+    "url": "https://eyecannndy.com/technique/match-cut",
+    "text": "Match Cut"
+  },
+  {
+    "name": "match-motion",
+    "url": "https://eyecannndy.com/technique/match-motion",
+    "text": "Match motion"
+  },
+  {
+    "name": "match-split",
+    "url": "https://eyecannndy.com/technique/match-split",
+    "text": "Match Split"
+  },
+  {
+    "name": "maximalism",
+    "url": "https://eyecannndy.com/technique/maximalism",
+    "text": "Maximalism"
+  },
+  {
+    "name": "mixed-media",
+    "url": "https://eyecannndy.com/technique/mixed-media",
+    "text": "Mixed Media"
+  },
+  {
+    "name": "morphing",
+    "url": "https://eyecannndy.com/technique/morphing",
+    "text": "Morphing"
+  },
+  {
+    "name": "motion-blur",
+    "url": "https://eyecannndy.com/technique/motion-blur",
+    "text": "Motion Blur"
+  },
+  {
+    "name": "night-vision",
+    "url": "https://eyecannndy.com/technique/night-vision",
+    "text": "Night Vision"
+  },
+  {
+    "name": "object-portal",
+    "url": "https://eyecannndy.com/technique/object-portal",
+    "text": "Object Portal"
+  },
+  {
+    "name": "as-object",
+    "url": "https://eyecannndy.com/technique/as-object",
+    "text": "Object POV"
+  },
+  {
+    "name": "omnidirectional",
+    "url": "https://eyecannndy.com/technique/omnidirectional",
+    "text": "Omnidirectional"
+  },
+  {
+    "name": "overhead",
+    "url": "https://eyecannndy.com/technique/overhead",
+    "text": "Overhead"
+  },
+  {
+    "name": "over-the-shoulder",
+    "url": "https://eyecannndy.com/technique/over-the-shoulder",
+    "text": "Over the Shoulder"
+  },
+  {
+    "name": "pan",
+    "url": "https://eyecannndy.com/technique/pan",
+    "text": "Pan"
+  },
+  {
+    "name": "parallax",
+    "url": "https://eyecannndy.com/technique/parallax",
+    "text": "Parallax"
+  },
+  {
+    "name": "pass-through",
+    "url": "https://eyecannndy.com/technique/pass-through",
+    "text": "Pass Through"
+  },
+  {
+    "name": "pedestal",
+    "url": "https://eyecannndy.com/technique/pedestal",
+    "text": "Pedestal"
+  },
+  {
+    "name": "photogrammetry",
+    "url": "https://eyecannndy.com/technique/photogrammetry",
+    "text": "Photogrammetry"
+  },
+  {
+    "name": "photography",
+    "url": "https://eyecannndy.com/technique/photography",
+    "text": "Photography"
+  },
+  {
+    "name": "pixel-art",
+    "url": "https://eyecannndy.com/technique/pixel-art",
+    "text": "Pixel Art"
+  },
+  {
+    "name": "probe-lens",
+    "url": "https://eyecannndy.com/technique/probe-lens",
+    "text": "Probe"
+  },
+  {
+    "name": "product",
+    "url": "https://eyecannndy.com/technique/product",
+    "text": "Product"
+  },
+  {
+    "name": "profile-shot",
+    "url": "https://eyecannndy.com/technique/profile-shot",
+    "text": "Profile"
+  },
+  {
+    "name": "projections",
+    "url": "https://eyecannndy.com/technique/projections",
+    "text": "Projections"
+  },
+  {
+    "name": "quick-cuts",
+    "url": "https://eyecannndy.com/technique/quick-cuts",
+    "text": "Quick Cuts"
+  },
+  {
+    "name": "aspect-ratio-switch",
+    "url": "https://eyecannndy.com/technique/aspect-ratio-switch",
+    "text": "Ratio Switch"
+  },
+  {
+    "name": "reflections",
+    "url": "https://eyecannndy.com/technique/reflections",
+    "text": "Reflections"
+  },
+  {
+    "name": "scale-shift",
+    "url": "https://eyecannndy.com/technique/scale-shift",
+    "text": "Scale Shift"
+  },
+  {
+    "name": "screen-in-screen",
+    "url": "https://eyecannndy.com/technique/screen-in-screen",
+    "text": "Screen in Screen"
+  },
+  {
+    "name": "set-transition",
+    "url": "https://eyecannndy.com/technique/set-transition",
+    "text": "Set Transition"
+  },
+  {
+    "name": "shadow-box",
+    "url": "https://eyecannndy.com/technique/shadow-box",
+    "text": "Shadow Box"
+  },
+  {
+    "name": "focal-focus",
+    "url": "https://eyecannndy.com/technique/focal-focus",
+    "text": "Shallow Focus"
+  },
+  {
+    "name": "silhouette",
+    "url": "https://eyecannndy.com/technique/silhouette",
+    "text": "Silhouette"
+  },
+  {
+    "name": "slit-scan",
+    "url": "https://eyecannndy.com/technique/slit-scan",
+    "text": "Slit-scan"
+  },
+  {
+    "name": "slow-motion",
+    "url": "https://eyecannndy.com/technique/slow-motion",
+    "text": "Slow Motion"
+  },
+  {
+    "name": "snorricam",
+    "url": "https://eyecannndy.com/technique/snorricam",
+    "text": "Snorricam"
+  },
+  {
+    "name": "speed-ramping",
+    "url": "https://eyecannndy.com/technique/speed-ramping",
+    "text": "Speed Ramp"
+  },
+  {
+    "name": "split-diopter",
+    "url": "https://eyecannndy.com/technique/split-diopter",
+    "text": "Split Diopter"
+  },
+  {
+    "name": "split-screen",
+    "url": "https://eyecannndy.com/technique/split-screen",
+    "text": "Split Screen"
+  },
+  {
+    "name": "spotlight",
+    "url": "https://eyecannndy.com/technique/spotlight",
+    "text": "Spotlight"
+  },
+  {
+    "name": "step-printing",
+    "url": "https://eyecannndy.com/technique/step-printing",
+    "text": "Step-print"
+  },
+  {
+    "name": "stop-motion",
+    "url": "https://eyecannndy.com/technique/stop-motion",
+    "text": "Stop Motion"
+  },
+  {
+    "name": "stutter",
+    "url": "https://eyecannndy.com/technique/stutter",
+    "text": "Stutter"
+  },
+  {
+    "name": "stylistic-suck",
+    "url": "https://eyecannndy.com/technique/stylistic-suck",
+    "text": "Stylistic Suck"
+  },
+  {
+    "name": "tableau-shots",
+    "url": "https://eyecannndy.com/technique/tableau-shots",
+    "text": "Tableau"
+  },
+  {
+    "name": "thermal",
+    "url": "https://eyecannndy.com/technique/thermal",
+    "text": "Thermal"
+  },
+  {
+    "name": "tilt",
+    "url": "https://eyecannndy.com/technique/tilt",
+    "text": "Tilt"
+  },
+  {
+    "name": "tilt-shift",
+    "url": "https://eyecannndy.com/technique/tilt-shift",
+    "text": "Tilt Shift"
+  },
+  {
+    "name": "tracking",
+    "url": "https://eyecannndy.com/technique/tracking",
+    "text": "Tracking"
+  },
+  {
+    "name": "transformation",
+    "url": "https://eyecannndy.com/technique/transformation",
+    "text": "Transformation"
+  },
+  {
+    "name": "transition",
+    "url": "https://eyecannndy.com/technique/transition",
+    "text": "Transitions"
+  },
+  {
+    "name": "trucking",
+    "url": "https://eyecannndy.com/technique/trucking",
+    "text": "Trucking"
+  },
+  {
+    "name": "two-shot",
+    "url": "https://eyecannndy.com/technique/two-shot",
+    "text": "Two Shot"
+  },
+  {
+    "name": "typography",
+    "url": "https://eyecannndy.com/technique/typography",
+    "text": "Typography"
+  },
+  {
+    "name": "ultra-wide-zero-d",
+    "url": "https://eyecannndy.com/technique/ultra-wide-zero-d",
+    "text": "Ultra Wide"
+  },
+  {
+    "name": "underwater",
+    "url": "https://eyecannndy.com/technique/underwater",
+    "text": "Underwater"
+  },
+  {
+    "name": "video-game",
+    "url": "https://eyecannndy.com/technique/video-game",
+    "text": "Video Game"
+  },
+  {
+    "name": "video-portraits",
+    "url": "https://eyecannndy.com/technique/video-portraits",
+    "text": "Video Portraits"
+  },
+  {
+    "name": "vignette",
+    "url": "https://eyecannndy.com/technique/vignette",
+    "text": "Vignette"
+  },
+  {
+    "name": "vhs",
+    "url": "https://eyecannndy.com/technique/vhs",
+    "text": "Vintage"
+  },
+  {
+    "name": "void",
+    "url": "https://eyecannndy.com/technique/void",
+    "text": "Void"
+  },
+  {
+    "name": "voyeur",
+    "url": "https://eyecannndy.com/technique/voyeur",
+    "text": "Voyeur"
+  },
+  {
+    "name": "wandering",
+    "url": "https://eyecannndy.com/technique/wandering",
+    "text": "Wandering"
+  },
+  {
+    "name": "wierdcore",
+    "url": "https://eyecannndy.com/technique/wierdcore",
+    "text": "Weirdcore"
+  },
+  {
+    "name": "whip-pan",
+    "url": "https://eyecannndy.com/technique/whip-pan",
+    "text": "Whip Pan"
+  },
+  {
+    "name": "wide-shot",
+    "url": "https://eyecannndy.com/technique/wide-shot",
+    "text": "Wide shot"
+  },
+  {
+    "name": "wigglegram",
+    "url": "https://eyecannndy.com/technique/wigglegram",
+    "text": "Wigglegram"
+  },
+  {
+    "name": "worms-eye",
+    "url": "https://eyecannndy.com/technique/worms-eye",
+    "text": "Worms-Eye"
+  },
+  {
+    "name": "x-ray",
+    "url": "https://eyecannndy.com/technique/x-ray",
+    "text": "X-Ray"
+  },
+  {
+    "name": "zoetrope",
+    "url": "https://eyecannndy.com/technique/zoetrope",
+    "text": "Zoetrope"
+  },
+  {
+    "name": "zoom-in",
+    "url": "https://eyecannndy.com/technique/zoom-in",
+    "text": "Zoom"
+  },
+  {
+    "name": "zoom-in#crash-zoom",
+    "url": "https://eyecannndy.com/technique/zoom-in#crash-zoom",
+    "text": ""
+  },
+  {
+    "name": "zoom-in#infinite-zoom",
+    "url": "https://eyecannndy.com/technique/zoom-in#infinite-zoom",
+    "text": ""
+  }
+]
