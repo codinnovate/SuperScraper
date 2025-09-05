@@ -1,1028 +1,572 @@
 {
   "technique": "double-exposure",
   "video_count": 89,
-  "generated_at": "2025-09-05T02:44:19.178641",
+  "generated_at": "2025-09-05T04:03:29.630441",
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086637.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334292.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.139376",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451364.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.139502",
-      "element_tag": "img",
-      "title": "Art by Benn Hassett",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Art by Benn Hassett",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709962080.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.139576",
-      "element_tag": "img",
-      "title": "GIF: Bill Domonkos",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "GIF: Bill Domonkos",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455372.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.139642",
-      "element_tag": "img",
-      "title": "Severance",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Severance",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972664.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.139702",
-      "element_tag": "img",
-      "title": "Apple Music - Stay",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Apple Music - Stay",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213433.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.139762",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331574.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.139821",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Fukk Sleep",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - Fukk Sleep",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086664.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.139885",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384360.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.139945",
-      "element_tag": "img",
-      "title": "Omega - Road to the Olympics",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Omega - Road to the Olympics",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706152181.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140003",
-      "element_tag": "img",
-      "title": "Cat People",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Cat People",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390482.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140061",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329882.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140117",
-      "element_tag": "img",
-      "title": "Woodshock",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Woodshock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924303.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140174",
-      "element_tag": "img",
-      "title": "slowthai - Yum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329156.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140230",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086637.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140284",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451364.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140339",
-      "element_tag": "img",
-      "title": "Art by Benn Hassett",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Art by Benn Hassett",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709962080.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140394",
-      "element_tag": "img",
-      "title": "GIF: Bill Domonkos",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "GIF: Bill Domonkos",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455372.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140448",
-      "element_tag": "img",
-      "title": "Severance",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Severance",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972664.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140500",
-      "element_tag": "img",
-      "title": "Apple Music - Stay",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Apple Music - Stay",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213433.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140553",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331574.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140605",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Fukk Sleep",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - Fukk Sleep",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086664.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140657",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384360.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140709",
-      "element_tag": "img",
-      "title": "Omega - Road to the Olympics",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Omega - Road to the Olympics",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706152181.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140761",
-      "element_tag": "img",
-      "title": "Cat People",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Cat People",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390482.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140812",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329882.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140863",
-      "element_tag": "img",
-      "title": "Woodshock",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Woodshock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924303.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140914",
-      "element_tag": "img",
-      "title": "slowthai - Yum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329156.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.140964",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331657.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141020",
-      "element_tag": "img",
-      "title": "Made by Kristina Sharabinskaia",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Made by Kristina Sharabinskaia",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334160.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141082",
-      "element_tag": "img",
-      "title": "Travis Scott - 90210",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Travis Scott - 90210",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703234033.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141142",
-      "element_tag": "img",
-      "title": "Animation by Matthias Brown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Animation by Matthias Brown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739169612.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141202",
-      "element_tag": "img",
-      "title": "GIVĒON - TWENTIES",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "GIVĒON - TWENTIES",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283602.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141264",
-      "element_tag": "img",
-      "title": "Duplication clip by Matthias Brown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Duplication clip by Matthias Brown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329854.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141320",
-      "element_tag": "img",
-      "title": "Woodshock",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Woodshock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329181.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141377",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709334920.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141435",
-      "element_tag": "img",
-      "title": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334535.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141490",
+      "discovered_at": "2025-09-05T03:24:51.970179",
       "element_tag": "img",
       "title": "Metronomy & Katy J Pearson's - Love Factory (2022)",
       "description": "",
       "category": "Technique",
       "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390480.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546105.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141546",
+      "discovered_at": "2025-09-05T03:24:51.970290",
       "element_tag": "img",
-      "title": "Halfprice - Fitting room",
+      "title": "Riot & Set it off",
       "description": "",
       "category": "Technique",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008836.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086605.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141602",
-      "element_tag": "img",
-      "title": "Untitled Animation",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Untitled Animation",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704330180.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141658",
-      "element_tag": "img",
-      "title": "'Self Portrait' by Matthias Brown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "'Self Portrait' by Matthias Brown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452383.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141716",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086686.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141773",
+      "discovered_at": "2025-09-05T03:24:51.970359",
       "element_tag": "img",
       "title": "Chungking Express",
       "description": "",
       "category": "Technique",
       "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213209.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141830",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972629.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141888",
+      "discovered_at": "2025-09-05T03:24:51.970420",
       "element_tag": "img",
       "title": "Apple Music - Stay",
       "description": "",
       "category": "Technique",
       "alt_text": "Apple Music - Stay",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916887.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.141944",
+      "discovered_at": "2025-09-05T03:24:51.970476",
       "element_tag": "img",
       "title": "João Borsch - Apaz",
       "description": "",
       "category": "Technique",
       "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329399.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142000",
-      "element_tag": "img",
-      "title": "Charles Pieper - Jazavac Attack",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Charles Pieper - Jazavac Attack",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329820.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142055",
-      "element_tag": "img",
-      "title": "Woodshock",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Woodshock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916959.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142110",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023657.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142165",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451302.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142220",
+      "discovered_at": "2025-09-05T03:24:51.970530",
       "element_tag": "img",
       "title": "Downtown Kayoto - Lite",
       "description": "",
       "category": "Technique",
       "alt_text": "Downtown Kayoto - Lite",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023631.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972583.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142275",
+      "discovered_at": "2025-09-05T03:24:51.970584",
+      "element_tag": "img",
+      "title": "Apple Music - Stay",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Apple Music - Stay",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329283.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.970638",
+      "element_tag": "img",
+      "title": "Last Night in Soho",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Last Night in Soho",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331574.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.970689",
+      "element_tag": "img",
+      "title": "A$AP Rocky - Fukk Sleep",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - Fukk Sleep",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023657.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.970740",
       "element_tag": "img",
       "title": "Everything Everywhere All at Once",
       "description": "",
       "category": "Technique",
       "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704617226.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334535.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142331",
+      "discovered_at": "2025-09-05T03:24:51.970793",
       "element_tag": "img",
-      "title": "Willy Wonka and the Chocolate Factory",
+      "title": "Metronomy & Katy J Pearson's - Love Factory (2022)",
       "description": "",
       "category": "Technique",
-      "alt_text": "Willy Wonka and the Chocolate Factory",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706152181.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.970850",
+      "element_tag": "img",
+      "title": "Cat People",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cat People",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213351.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.970904",
+      "element_tag": "img",
+      "title": "Vaeda Black - Run Fast",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Vaeda Black - Run Fast",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333046.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.970957",
+      "element_tag": "img",
+      "title": "Mulholland Drive",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mulholland Drive",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334292.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971007",
+      "element_tag": "img",
+      "title": "Metronomy & Katy J Pearson's - Love Factory (2022)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546105.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971058",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086605.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971110",
+      "element_tag": "img",
+      "title": "Chungking Express",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chungking Express",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972629.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971159",
+      "element_tag": "img",
+      "title": "Apple Music - Stay",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Apple Music - Stay",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916887.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971209",
+      "element_tag": "img",
+      "title": "João Borsch - Apaz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "João Borsch - Apaz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451302.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971259",
+      "element_tag": "img",
+      "title": "Downtown Kayoto - Lite",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Downtown Kayoto - Lite",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972583.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971306",
+      "element_tag": "img",
+      "title": "Apple Music - Stay",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Apple Music - Stay",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329283.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971354",
+      "element_tag": "img",
+      "title": "Last Night in Soho",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Last Night in Soho",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331574.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971400",
+      "element_tag": "img",
+      "title": "A$AP Rocky - Fukk Sleep",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - Fukk Sleep",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023657.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971448",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334535.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971494",
+      "element_tag": "img",
+      "title": "Metronomy & Katy J Pearson's - Love Factory (2022)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706152181.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971541",
+      "element_tag": "img",
+      "title": "Cat People",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cat People",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213351.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971586",
+      "element_tag": "img",
+      "title": "Vaeda Black - Run Fast",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Vaeda Black - Run Fast",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333046.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971628",
+      "element_tag": "img",
+      "title": "Mulholland Drive",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mulholland Drive",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704330071.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142386",
+      "discovered_at": "2025-09-05T03:24:51.971674",
       "element_tag": "img",
       "title": "St. Vincent - Pay Your Way In Pain",
       "description": "",
@@ -1032,225 +576,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076549.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329156.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142441",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077406.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142496",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546105.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142556",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333046.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142616",
-      "element_tag": "img",
-      "title": "Mulholland Drive",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Mulholland Drive",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023573.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142674",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455258.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142731",
-      "element_tag": "img",
-      "title": "Severance",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Severance",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329283.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142790",
-      "element_tag": "img",
-      "title": "Last Night in Soho",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Last Night in Soho",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333472.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142849",
-      "element_tag": "img",
-      "title": "Collage Clip by iosonof",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Collage Clip by iosonof",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715632607.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142906",
-      "element_tag": "img",
-      "title": "Offset - CODE ft. Moneybagg Yo",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Offset - CODE ft. Moneybagg Yo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331192.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.142964",
-      "element_tag": "img",
-      "title": "Lulu for Calvin Klein",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lulu for Calvin Klein",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707622253.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143020",
-      "element_tag": "img",
-      "title": "A$AP Rocky - L$D",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - L$D",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213351.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143076",
+      "discovered_at": "2025-09-05T03:24:51.971723",
       "element_tag": "img",
       "title": "Vaeda Black - Run Fast",
       "description": "",
@@ -1260,16 +595,111 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452383.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971770",
+      "element_tag": "img",
+      "title": "Empimic - Bittere Welt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Empimic - Bittere Welt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329399.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.971817",
+      "element_tag": "img",
+      "title": "Charles Pieper - Jazavac Attack",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Charles Pieper - Jazavac Attack",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334160.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972101",
+      "element_tag": "img",
+      "title": "Travis Scott - 90210",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Travis Scott - 90210",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704330180.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972222",
+      "element_tag": "img",
+      "title": "'Self Portrait' by Matthias Brown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "'Self Portrait' by Matthias Brown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333472.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972293",
+      "element_tag": "img",
+      "title": "Collage Clip by iosonof",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Collage Clip by iosonof",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704330475.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143130",
+      "discovered_at": "2025-09-05T03:24:51.972350",
       "element_tag": "img",
       "title": "Hereditary",
       "description": "",
@@ -1279,54 +709,244 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086605.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704617226.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143185",
+      "discovered_at": "2025-09-05T03:24:51.972405",
       "element_tag": "img",
-      "title": "Chungking Express",
+      "title": "Willy Wonka and the Chocolate Factory",
       "description": "",
       "category": "Technique",
-      "alt_text": "Chungking Express",
+      "alt_text": "Willy Wonka and the Chocolate Factory",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707687655.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709962080.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143240",
+      "discovered_at": "2025-09-05T03:24:51.972457",
       "element_tag": "img",
-      "title": "Eternal Sunshine of the Spotless Mind",
+      "title": "GIF: Bill Domonkos",
       "description": "",
       "category": "Technique",
-      "alt_text": "Eternal Sunshine of the Spotless Mind",
+      "alt_text": "GIF: Bill Domonkos",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331192.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972505",
+      "element_tag": "img",
+      "title": "Lulu for Calvin Klein",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lulu for Calvin Klein",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076549.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972553",
+      "element_tag": "img",
+      "title": "Ford Kuga - Levels",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ford Kuga - Levels",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213209.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972602",
+      "element_tag": "img",
+      "title": "Vaeda Black - Run Fast",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Vaeda Black - Run Fast",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384360.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972650",
+      "element_tag": "img",
+      "title": "Omega - Road to the Olympics",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Omega - Road to the Olympics",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451364.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972699",
+      "element_tag": "img",
+      "title": "Art by Benn Hassett",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by Benn Hassett",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329882.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972746",
+      "element_tag": "img",
+      "title": "Woodshock",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Woodshock",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023631.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972793",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972664.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972839",
+      "element_tag": "img",
+      "title": "Apple Music - Stay",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Apple Music - Stay",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455258.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972887",
+      "element_tag": "img",
+      "title": "Severance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Severance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077406.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.972935",
+      "element_tag": "img",
+      "title": "Ford Kuga - Levels",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ford Kuga - Levels",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972493.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143295",
+      "discovered_at": "2025-09-05T03:24:51.972982",
       "element_tag": "img",
       "title": "Apple Music - Stay",
       "description": "",
@@ -1336,73 +956,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972583.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916959.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143349",
-      "element_tag": "img",
-      "title": "Apple Music - Stay",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Apple Music - Stay",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334292.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143404",
-      "element_tag": "img",
-      "title": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334033.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143459",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916811.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143514",
+      "discovered_at": "2025-09-05T03:24:51.973030",
       "element_tag": "img",
       "title": "João Borsch - Apaz",
       "description": "",
@@ -1412,16 +975,358 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213433.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973077",
+      "element_tag": "img",
+      "title": "Vaeda Black - Run Fast",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Vaeda Black - Run Fast",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086686.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973126",
+      "element_tag": "img",
+      "title": "Chungking Express",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chungking Express",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390482.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973172",
+      "element_tag": "img",
+      "title": "Halfprice - Fitting room",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halfprice - Fitting room",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329820.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973221",
+      "element_tag": "img",
+      "title": "Woodshock",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Woodshock",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283602.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973269",
+      "element_tag": "img",
+      "title": "Duplication clip by Matthias Brown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Duplication clip by Matthias Brown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707687655.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973317",
+      "element_tag": "img",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Eternal Sunshine of the Spotless Mind",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715632607.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973364",
+      "element_tag": "img",
+      "title": "Offset - CODE ft. Moneybagg Yo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Offset - CODE ft. Moneybagg Yo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086637.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973413",
+      "element_tag": "img",
+      "title": "Chungking Express",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chungking Express",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334033.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973461",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023573.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973635",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390480.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973697",
+      "element_tag": "img",
+      "title": "Halfprice - Fitting room",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halfprice - Fitting room",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739169612.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973750",
+      "element_tag": "img",
+      "title": "GIVĒON - TWENTIES",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "GIVĒON - TWENTIES",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086664.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973800",
+      "element_tag": "img",
+      "title": "Chungking Express",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chungking Express",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455372.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973850",
+      "element_tag": "img",
+      "title": "Severance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Severance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924303.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973898",
+      "element_tag": "img",
+      "title": "slowthai - Yum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "slowthai - Yum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709334920.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973945",
+      "element_tag": "img",
+      "title": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008836.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.973994",
+      "element_tag": "img",
+      "title": "Untitled Animation",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Untitled Animation",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707622253.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974044",
+      "element_tag": "img",
+      "title": "A$AP Rocky - L$D",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - L$D",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711259102.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143564",
+      "discovered_at": "2025-09-05T03:24:51.974093",
       "element_tag": "img",
       "title": "Sam Akpro - Death By Entertainment",
       "description": "",
@@ -1431,35 +1336,111 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449439.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916811.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143613",
+      "discovered_at": "2025-09-05T03:24:51.974140",
       "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
+      "title": "João Borsch - Apaz",
       "description": "",
       "category": "Technique",
-      "alt_text": "Empimic - Bittere Welt",
+      "alt_text": "João Borsch - Apaz",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329854.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974188",
+      "element_tag": "img",
+      "title": "Woodshock",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Woodshock",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329181.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974235",
+      "element_tag": "img",
+      "title": "Vaeda Black - Run Fast",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Vaeda Black - Run Fast",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331657.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974282",
+      "element_tag": "img",
+      "title": "Made by Kristina Sharabinskaia",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Made by Kristina Sharabinskaia",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703234033.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974329",
+      "element_tag": "img",
+      "title": "Animation by Matthias Brown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Animation by Matthias Brown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244044.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143662",
+      "discovered_at": "2025-09-05T03:24:51.974375",
       "element_tag": "img",
       "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
       "description": "",
@@ -1469,225 +1450,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244552.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143718",
-      "element_tag": "img",
-      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436038.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143770",
-      "element_tag": "img",
-      "title": "Killdummies - Keine War Großartig//Fukk U",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164595.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143822",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452331.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143873",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143923",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705287782.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.143974",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566095.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.144024",
-      "element_tag": "img",
-      "title": "The French Dispatch",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The French Dispatch",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739171504.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.144077",
-      "element_tag": "img",
-      "title": "Doechii - DENIAL IS A RIVER",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Doechii - DENIAL IS A RIVER",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707685367.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.144129",
-      "element_tag": "img",
-      "title": "Hugo",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Hugo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343411.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.144181",
-      "element_tag": "img",
-      "title": "Peter Gabriel - Sledgehammer",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Peter Gabriel - Sledgehammer",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546105.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.144230",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334535.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.144279",
+      "discovered_at": "2025-09-05T03:24:51.974420",
       "element_tag": "img",
       "title": "Metronomy & Katy J Pearson's - Love Factory (2022)",
       "description": "",
@@ -1697,16 +1469,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705287905.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705287782.webp",
       "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-04T12:48:11.144328",
+      "discovered_at": "2025-09-05T03:24:51.974467",
       "element_tag": "img",
       "title": "Squarespace - The Singularity",
       "description": "",
@@ -1716,10 +1488,238 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436038.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974515",
+      "element_tag": "img",
+      "title": "Killdummies - Keine War Großartig//Fukk U",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449439.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974562",
+      "element_tag": "img",
+      "title": "Empimic - Bittere Welt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Empimic - Bittere Welt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343411.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974608",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707685367.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974654",
+      "element_tag": "img",
+      "title": "Hugo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Hugo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452331.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974700",
+      "element_tag": "img",
+      "title": "Empimic - Bittere Welt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Empimic - Bittere Welt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974745",
+      "element_tag": "img",
+      "title": "The Shining",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Shining",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164595.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974791",
+      "element_tag": "img",
+      "title": "The Shining",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Shining",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705287905.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974837",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244552.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974883",
+      "element_tag": "img",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566095.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974929",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546105.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.974973",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739171504.webp",
+      "page_url": "https://eyecannndy.com/technique/double-exposure",
+      "discovered_at": "2025-09-05T03:24:51.975020",
+      "element_tag": "img",
+      "title": "Doechii - DENIAL IS A RIVER",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]

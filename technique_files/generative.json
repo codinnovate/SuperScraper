@@ -1,6 +1,732 @@
 {
   "technique": "generative",
-  "video_count": 0,
-  "generated_at": "2025-09-05T02:44:19.195136",
-  "videos": []
+  "video_count": 37,
+  "generated_at": "2025-09-05T04:03:29.647500",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338238.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332199",
+      "element_tag": "img",
+      "title": "Artist: Francesco Misceo / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Artist: Francesco Misceo / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337025.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332286",
+      "element_tag": "img",
+      "title": "@minelauvart / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@minelauvart / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237308.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332339",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338417.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332388",
+      "element_tag": "img",
+      "title": "Art by Paul Trillo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by Paul Trillo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720342889.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332434",
+      "element_tag": "img",
+      "title": "Untitled by @kentskooking",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Untitled by @kentskooking",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338314.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332481",
+      "element_tag": "img",
+      "title": "Artist: Fabio Comparelli",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Artist: Fabio Comparelli",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338779.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332525",
+      "element_tag": "img",
+      "title": "Street Corner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Street Corner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338506.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332570",
+      "element_tag": "img",
+      "title": "Runway Generative AI",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Runway Generative AI",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338556.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332613",
+      "element_tag": "img",
+      "title": "Runway Generative AI",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Runway Generative AI",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337078.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332655",
+      "element_tag": "img",
+      "title": "The Crow - Glenn Marshall",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Crow - Glenn Marshall",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237276.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332697",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338238.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332737",
+      "element_tag": "img",
+      "title": "Artist: Francesco Misceo / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Artist: Francesco Misceo / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337025.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332775",
+      "element_tag": "img",
+      "title": "@minelauvart / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@minelauvart / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237308.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332814",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338417.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332852",
+      "element_tag": "img",
+      "title": "Art by Paul Trillo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by Paul Trillo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720342889.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332890",
+      "element_tag": "img",
+      "title": "Untitled by @kentskooking",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Untitled by @kentskooking",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338314.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332928",
+      "element_tag": "img",
+      "title": "Artist: Fabio Comparelli",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Artist: Fabio Comparelli",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338779.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.332966",
+      "element_tag": "img",
+      "title": "Street Corner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Street Corner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338506.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333005",
+      "element_tag": "img",
+      "title": "Runway Generative AI",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Runway Generative AI",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338556.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333044",
+      "element_tag": "img",
+      "title": "Runway Generative AI",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Runway Generative AI",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337078.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333083",
+      "element_tag": "img",
+      "title": "The Crow - Glenn Marshall",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Crow - Glenn Marshall",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237276.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333121",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338533.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333164",
+      "element_tag": "img",
+      "title": "Runway Generative AI",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Runway Generative AI",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337052.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333206",
+      "element_tag": "img",
+      "title": "@visualconnoisseur.ai / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@visualconnoisseur.ai / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338199.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333247",
+      "element_tag": "img",
+      "title": "@David32bit / Giphy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@David32bit / Giphy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337164.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333290",
+      "element_tag": "img",
+      "title": "@takubeats / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@takubeats / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237390.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333330",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338435.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333371",
+      "element_tag": "img",
+      "title": "Art by Paul Trillo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by Paul Trillo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344023.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333412",
+      "element_tag": "img",
+      "title": "Oddworld x Souly - wzf / maybach",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337376.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333452",
+      "element_tag": "img",
+      "title": "Loxel Li - @Loxel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Loxel Li - @Loxel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716235825.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333492",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707084544.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333533",
+      "element_tag": "img",
+      "title": "Weirdcore Animation",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Weirdcore Animation",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338268.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333575",
+      "element_tag": "img",
+      "title": "Artist: @junkboxai / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Artist: @junkboxai / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720342928.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333617",
+      "element_tag": "img",
+      "title": "Untitled by @kentskooking",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Untitled by @kentskooking",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237241.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333658",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707084584.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333702",
+      "element_tag": "img",
+      "title": "Weirdcore Animation",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Weirdcore Animation",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338577.webp",
+      "page_url": "https://eyecannndy.com/technique/generative",
+      "discovered_at": "2025-09-05T03:27:35.333745",
+      "element_tag": "img",
+      "title": "Runway Generative AI",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Runway Generative AI",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    }
+  ]
 }

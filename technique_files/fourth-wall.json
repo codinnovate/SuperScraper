@@ -1,6 +1,2510 @@
 {
   "technique": "fourth-wall",
-  "video_count": 0,
-  "generated_at": "2025-09-05T02:44:19.194761",
-  "videos": []
+  "video_count": 131,
+  "generated_at": "2025-09-05T04:03:29.644728",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704507795.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231041",
+      "element_tag": "img",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706405263.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231149",
+      "element_tag": "img",
+      "title": "Old Spice - Windsurfing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Old Spice - Windsurfing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633373.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231218",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633084.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231274",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706173002.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231330",
+      "element_tag": "img",
+      "title": "Huggies - Welcome to the World, Baby",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Huggies - Welcome to the World, Baby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739171697.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231382",
+      "element_tag": "img",
+      "title": "Doechii - DENIAL IS A RIVER",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633156.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231446",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704507795.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231497",
+      "element_tag": "img",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706405263.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231547",
+      "element_tag": "img",
+      "title": "Old Spice - Windsurfing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Old Spice - Windsurfing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633373.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231596",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633084.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231643",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706173002.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231701",
+      "element_tag": "img",
+      "title": "Huggies - Welcome to the World, Baby",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Huggies - Welcome to the World, Baby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739171697.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231749",
+      "element_tag": "img",
+      "title": "Doechii - DENIAL IS A RIVER",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633156.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231797",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700218.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231848",
+      "element_tag": "img",
+      "title": "Mommy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mommy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704858580.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231903",
+      "element_tag": "img",
+      "title": "Kylie Minogue - Turn It Into Love",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kylie Minogue - Turn It Into Love",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704940383.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.231956",
+      "element_tag": "img",
+      "title": "Flybuys - Give a Flybuys",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flybuys - Give a Flybuys",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707019565.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232009",
+      "element_tag": "img",
+      "title": "Insecure",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Insecure",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702688753.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232063",
+      "element_tag": "img",
+      "title": "Rosalia - Saoko",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Rosalia - Saoko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704622126.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232112",
+      "element_tag": "img",
+      "title": "Robin Hood: Men in Tights",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Robin Hood: Men in Tights",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707618543.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232158",
+      "element_tag": "img",
+      "title": "It Could Happen To You",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "It Could Happen To You",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707632993.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232206",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702783836.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232255",
+      "element_tag": "img",
+      "title": "Django Unchained",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Django Unchained",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725945931.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232302",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704940502.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232349",
+      "element_tag": "img",
+      "title": "Flybuys - Give a Flybuys",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flybuys - Give a Flybuys",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704510312.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232395",
+      "element_tag": "img",
+      "title": "ASD - Legendär / Populär",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ASD - Legendär / Populär",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/u/231696934460.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232442",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702891739.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232490",
+      "element_tag": "img",
+      "title": "Bounty Banana - inTENsity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bounty Banana - inTENsity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702786064.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232535",
+      "element_tag": "img",
+      "title": "Our England",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Our England",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704857972.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232580",
+      "element_tag": "img",
+      "title": "Annie Hall",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Annie Hall",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704858281.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232625",
+      "element_tag": "img",
+      "title": "Artists On Tumblr Skate Gif",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Artists On Tumblr Skate Gif",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706398090.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232670",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704859264.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232716",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704858693.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232761",
+      "element_tag": "img",
+      "title": "Clip from Zach King",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip from Zach King",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703996805.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232806",
+      "element_tag": "img",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706405290.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232852",
+      "element_tag": "img",
+      "title": "Old Spice - Windsurfing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Old Spice - Windsurfing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706172805.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232897",
+      "element_tag": "img",
+      "title": "Huggies - Welcome to the World, Baby",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Huggies - Welcome to the World, Baby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703899121.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232943",
+      "element_tag": "img",
+      "title": "Childish Gambino - Sweatpants ft. Problem",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Childish Gambino - Sweatpants ft. Problem",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633030.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.232989",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385177.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233034",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702786064.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233078",
+      "element_tag": "img",
+      "title": "Our England",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Our England",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710334660.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233124",
+      "element_tag": "img",
+      "title": "#LoveYourz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "#LoveYourz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704622126.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233168",
+      "element_tag": "img",
+      "title": "Robin Hood: Men in Tights",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Robin Hood: Men in Tights",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384340.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233214",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711984142.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233260",
+      "element_tag": "img",
+      "title": "Face",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Face",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704857972.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233304",
+      "element_tag": "img",
+      "title": "Annie Hall",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Annie Hall",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409041.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233350",
+      "element_tag": "img",
+      "title": "Kendrick Lamar - Humble",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kendrick Lamar - Humble",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709961733.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233396",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097153.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233441",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703408211.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233487",
+      "element_tag": "img",
+      "title": "Kendrick Lamar - Humble",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kendrick Lamar - Humble",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725945931.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233532",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702688753.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233576",
+      "element_tag": "img",
+      "title": "Rosalia - Saoko",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Rosalia - Saoko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703899121.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233619",
+      "element_tag": "img",
+      "title": "Childish Gambino - Sweatpants ft. Problem",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Childish Gambino - Sweatpants ft. Problem",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409155.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233665",
+      "element_tag": "img",
+      "title": "Kendrick Lamar - Humble",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kendrick Lamar - Humble",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709971282.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233713",
+      "element_tag": "img",
+      "title": "Nike - Rise of the kids",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Rise of the kids",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709971926.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233758",
+      "element_tag": "img",
+      "title": "Nike - Rise of the kids",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Rise of the kids",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704120070.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233804",
+      "element_tag": "img",
+      "title": "First Hawaiian Bank - Dance Party",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "First Hawaiian Bank - Dance Party",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702783836.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233848",
+      "element_tag": "img",
+      "title": "Django Unchained",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Django Unchained",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702856239.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233893",
+      "element_tag": "img",
+      "title": "Kathmandu - Summer Never Sleeps",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kathmandu - Summer Never Sleeps",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739171697.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233936",
+      "element_tag": "img",
+      "title": "Doechii - DENIAL IS A RIVER",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704940502.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.233980",
+      "element_tag": "img",
+      "title": "Flybuys - Give a Flybuys",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flybuys - Give a Flybuys",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702891543.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234025",
+      "element_tag": "img",
+      "title": "Bounty Banana - inTENsity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bounty Banana - inTENsity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709970996.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234070",
+      "element_tag": "img",
+      "title": "Nike - Rise of the kids",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Rise of the kids",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174458.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234116",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704383018.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234161",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082235.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234207",
+      "element_tag": "img",
+      "title": "Do the Right Thing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do the Right Thing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704940383.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234250",
+      "element_tag": "img",
+      "title": "Flybuys - Give a Flybuys",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flybuys - Give a Flybuys",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707896042.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234295",
+      "element_tag": "img",
+      "title": "St. Louis City FC - The City Kit Is Here",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "St. Louis City FC - The City Kit Is Here",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633373.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234339",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704382930.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234384",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385177.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234429",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385683.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234474",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633156.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234518",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709016809.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234564",
+      "element_tag": "img",
+      "title": "adidas - Imagination",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Imagination",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710333214.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234609",
+      "element_tag": "img",
+      "title": "Our England",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Our England",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704374437.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234655",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385908.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234699",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702785359.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234744",
+      "element_tag": "img",
+      "title": "Into the Ring (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Into the Ring (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707974016.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234789",
+      "element_tag": "img",
+      "title": "Dream Corp LLC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dream Corp LLC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175258.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234834",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174420.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234879",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/u/231696934460.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234923",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707618543.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.234975",
+      "element_tag": "img",
+      "title": "It Could Happen To You",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "It Could Happen To You",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633440.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235022",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385549.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235069",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704859264.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235112",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702891739.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235156",
+      "element_tag": "img",
+      "title": "Bounty Banana - inTENsity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bounty Banana - inTENsity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707019565.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235213",
+      "element_tag": "img",
+      "title": "Insecure",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Insecure",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711254138.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235259",
+      "element_tag": "img",
+      "title": "Coach - Life Has Different Paths",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Coach - Life Has Different Paths",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711254642.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235306",
+      "element_tag": "img",
+      "title": "Coach - Life Has Different Paths",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Coach - Life Has Different Paths",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711254757.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235353",
+      "element_tag": "img",
+      "title": "Coach - Life Has Different Paths",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Coach - Life Has Different Paths",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508223.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235398",
+      "element_tag": "img",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703283993.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235443",
+      "element_tag": "img",
+      "title": "Art by Paul Trillo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by Paul Trillo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703285328.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235490",
+      "element_tag": "img",
+      "title": "Limitless",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Limitless",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634386.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235540",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634029.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235588",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704858580.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235644",
+      "element_tag": "img",
+      "title": "Kylie Minogue - Turn It Into Love",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kylie Minogue - Turn It Into Love",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709635316.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235692",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706398090.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235741",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704858281.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235793",
+      "element_tag": "img",
+      "title": "Artists On Tumblr Skate Gif",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Artists On Tumblr Skate Gif",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634745.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235843",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700218.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235890",
+      "element_tag": "img",
+      "title": "Mommy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mommy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709635372.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235937",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704858185.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.235985",
+      "element_tag": "img",
+      "title": "Bad Boys (Fan Art)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bad Boys (Fan Art)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634906.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236035",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634954.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236081",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711433063.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236128",
+      "element_tag": "img",
+      "title": "Yung Jake - Unfollow",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Yung Jake - Unfollow",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709633988.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236181",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710488384.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236228",
+      "element_tag": "img",
+      "title": "21 Savage - redrum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "21 Savage - redrum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704858657.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236274",
+      "element_tag": "img",
+      "title": "Clip from Zach King",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip from Zach King",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704858799.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236321",
+      "element_tag": "img",
+      "title": "KITKAT - Break Épico",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KITKAT - Break Épico",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643651.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236367",
+      "element_tag": "img",
+      "title": "Oblé Reed - WESTON.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oblé Reed - WESTON.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705112074.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236412",
+      "element_tag": "img",
+      "title": "Instagram - Yours to Make",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Instagram - Yours to Make",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704374437.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236456",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704859023.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236502",
+      "element_tag": "img",
+      "title": "St. Louis City FC - The City Kit Is Here",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "St. Louis City FC - The City Kit Is Here",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704614923.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236548",
+      "element_tag": "img",
+      "title": "Dropped Camera clip",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dropped Camera clip",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704835569.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236593",
+      "element_tag": "img",
+      "title": "Nike - Nothing Beats a Londoner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Nothing Beats a Londoner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703366262.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236645",
+      "element_tag": "img",
+      "title": "Husky - Never-ever",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Husky - Never-ever",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656217.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236690",
+      "element_tag": "img",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711246085.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236740",
+      "element_tag": "img",
+      "title": "adidas - Original is Never Finished (Chapter 3)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Original is Never Finished (Chapter 3)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703374153.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236797",
+      "element_tag": "img",
+      "title": "St. Louis City FC - The City Kit Is Here",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "St. Louis City FC - The City Kit Is Here",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329258.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236844",
+      "element_tag": "img",
+      "title": "Graubünden - Best Version (DC)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Graubünden - Best Version (DC)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643536.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236890",
+      "element_tag": "img",
+      "title": "Oblé Reed - WESTON.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oblé Reed - WESTON.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704512333.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.236937",
+      "element_tag": "img",
+      "title": "ASD - Legendär / Populär",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ASD - Legendär / Populär",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707621103.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.237093",
+      "element_tag": "img",
+      "title": "Carly Gibert - WILLOW",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Carly Gibert - WILLOW",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704947368.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.237153",
+      "element_tag": "img",
+      "title": "St. Louis City FC - The City Kit Is Here",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "St. Louis City FC - The City Kit Is Here",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704858864.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.237203",
+      "element_tag": "img",
+      "title": "H&M - Hotel Hennes",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "H&M - Hotel Hennes",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704512490.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.237252",
+      "element_tag": "img",
+      "title": "ASD - Legendär / Populär",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ASD - Legendär / Populär",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707620525.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.237300",
+      "element_tag": "img",
+      "title": "Carly Gibert - WILLOW",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Carly Gibert - WILLOW",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707022593.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.237347",
+      "element_tag": "img",
+      "title": "Long Live Liborius",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Long Live Liborius",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702948084.webp",
+      "page_url": "https://eyecannndy.com/technique/fourth-wall",
+      "discovered_at": "2025-09-05T03:27:14.237393",
+      "element_tag": "img",
+      "title": "LA28 - Welcome to LA28",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "LA28 - Welcome to LA28",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    }
+  ]
 }

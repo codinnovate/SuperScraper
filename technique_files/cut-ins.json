@@ -1,1053 +1,532 @@
 {
   "technique": "cut-ins",
-  "video_count": 64,
-  "generated_at": "2025-09-05T02:44:19.173193",
+  "video_count": 60,
+  "generated_at": "2025-09-05T04:03:29.625440",
   "videos": [
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703042782.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.731916",
-      "element_tag": "img",
-      "title": "The Life Aquatic with Steve Zissou",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Life Aquatic with Steve Zissou",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710030719.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732022",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385421.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732091",
-      "element_tag": "img",
-      "title": "Asteroid City",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Asteroid City",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642984.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732150",
-      "element_tag": "img",
-      "title": "Into the Ring (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Into the Ring (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703487883.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732204",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705824288.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732258",
-      "element_tag": "img",
-      "title": "Ziak - Akimbo",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ziak - Akimbo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703919409.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732321",
-      "element_tag": "img",
-      "title": "Quavo x Takeoff - Hotel Lobby",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Quavo x Takeoff - Hotel Lobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704834450.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732377",
-      "element_tag": "img",
-      "title": "Nike - Nothing Beats a Londoner",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Nike - Nothing Beats a Londoner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119471.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732429",
-      "element_tag": "img",
-      "title": "First Hawaiian Bank - Dance Party",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "First Hawaiian Bank - Dance Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824596.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732485",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576023.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732540",
-      "element_tag": "img",
-      "title": "Ken Carson - Fighting My Demons",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ken Carson - Fighting My Demons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707628073.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732591",
-      "element_tag": "img",
-      "title": "Drake, 21 Savage - Spin Bout U",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Drake, 21 Savage - Spin Bout U",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175597.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732643",
-      "element_tag": "img",
-      "title": "M.I.A. 'Bad Girls'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "M.I.A. 'Bad Girls'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140861.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732693",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704074164.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732742",
-      "element_tag": "img",
-      "title": "Duda Beat feat. Trevo - Nem Um Pouquinho",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Duda Beat feat. Trevo - Nem Um Pouquinho",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140750.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732792",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021980.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732847",
-      "element_tag": "img",
-      "title": "Top Gun: Maverick",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Top Gun: Maverick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703042782.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732898",
-      "element_tag": "img",
-      "title": "The Life Aquatic with Steve Zissou",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Life Aquatic with Steve Zissou",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710030719.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.732951",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385421.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733001",
-      "element_tag": "img",
-      "title": "Asteroid City",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Asteroid City",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642984.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733050",
-      "element_tag": "img",
-      "title": "Into the Ring (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Into the Ring (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703487883.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733103",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705824288.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733155",
-      "element_tag": "img",
-      "title": "Ziak - Akimbo",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ziak - Akimbo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703919409.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733202",
-      "element_tag": "img",
-      "title": "Quavo x Takeoff - Hotel Lobby",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Quavo x Takeoff - Hotel Lobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704834450.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733248",
-      "element_tag": "img",
-      "title": "Nike - Nothing Beats a Londoner",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Nike - Nothing Beats a Londoner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119471.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733294",
-      "element_tag": "img",
-      "title": "First Hawaiian Bank - Dance Party",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "First Hawaiian Bank - Dance Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824596.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733340",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576023.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733386",
-      "element_tag": "img",
-      "title": "Ken Carson - Fighting My Demons",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ken Carson - Fighting My Demons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707628073.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733432",
-      "element_tag": "img",
-      "title": "Drake, 21 Savage - Spin Bout U",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Drake, 21 Savage - Spin Bout U",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175597.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733477",
-      "element_tag": "img",
-      "title": "M.I.A. 'Bad Girls'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "M.I.A. 'Bad Girls'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140861.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733523",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704074164.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733569",
-      "element_tag": "img",
-      "title": "Duda Beat feat. Trevo - Nem Um Pouquinho",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Duda Beat feat. Trevo - Nem Um Pouquinho",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140750.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733615",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021980.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733661",
-      "element_tag": "img",
-      "title": "Top Gun: Maverick",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Top Gun: Maverick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452079.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733711",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702950272.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733767",
-      "element_tag": "img",
-      "title": "Whiplash",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Whiplash",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706588441.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733822",
+      "discovered_at": "2025-09-05T03:24:04.852892",
       "element_tag": "img",
       "title": "Breaking Bad (TV Series)",
       "description": "",
       "category": "Technique",
       "alt_text": "Breaking Bad (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709017710.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119471.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733878",
+      "discovered_at": "2025-09-05T03:24:04.853018",
       "element_tag": "img",
-      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "title": "First Hawaiian Bank - Dance Party",
       "description": "",
       "category": "Technique",
-      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "First Hawaiian Bank - Dance Party",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452079.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.853142",
+      "element_tag": "img",
+      "title": "Empimic - Bittere Welt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Empimic - Bittere Welt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703406025.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733938",
+      "discovered_at": "2025-09-05T03:24:04.853198",
       "element_tag": "img",
       "title": "Come Together: A Fashion Picture in Motion",
       "description": "",
       "category": "Technique",
       "alt_text": "Come Together: A Fashion Picture in Motion",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704115165.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140861.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.733989",
+      "discovered_at": "2025-09-05T03:24:04.853245",
       "element_tag": "img",
-      "title": "KFC - Crunch Collective",
+      "title": "Downtown Kayoto - Came Thru",
       "description": "",
       "category": "Technique",
-      "alt_text": "KFC - Crunch Collective",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715645038.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734041",
+      "discovered_at": "2025-09-05T03:24:04.853287",
       "element_tag": "img",
       "title": "Oblé Reed - WESTON.",
       "description": "",
       "category": "Technique",
       "alt_text": "Oblé Reed - WESTON.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715293411.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642984.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734093",
+      "discovered_at": "2025-09-05T03:24:04.853328",
       "element_tag": "img",
-      "title": "Inter Alia (Short Film)",
+      "title": "Into the Ring (TV Series)",
       "description": "",
       "category": "Technique",
-      "alt_text": "Inter Alia (Short Film)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Into the Ring (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924232.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140750.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734143",
+      "discovered_at": "2025-09-05T03:24:04.853368",
       "element_tag": "img",
-      "title": "slowthai - Yum",
+      "title": "Downtown Kayoto - Came Thru",
       "description": "",
       "category": "Technique",
-      "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488518.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734305",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075342.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734385",
+      "discovered_at": "2025-09-05T03:24:04.853409",
       "element_tag": "img",
       "title": "Ford Kuga - Levels",
       "description": "",
       "category": "Technique",
       "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409664.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576023.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734441",
+      "discovered_at": "2025-09-05T03:24:04.853449",
       "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
+      "title": "Ken Carson - Fighting My Demons",
       "description": "",
       "category": "Technique",
-      "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739192856.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704074164.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734494",
+      "discovered_at": "2025-09-05T03:24:04.853488",
       "element_tag": "img",
-      "title": "Static - Federer",
+      "title": "Duda Beat feat. Trevo - Nem Um Pouquinho",
       "description": "",
       "category": "Technique",
-      "alt_text": "Static - Federer",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Duda Beat feat. Trevo - Nem Um Pouquinho",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403762.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246057.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734545",
+      "discovered_at": "2025-09-05T03:24:04.853526",
       "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
+      "title": "Latto - Sunday Service",
       "description": "",
       "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Latto - Sunday Service",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706691832.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075163.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734596",
+      "discovered_at": "2025-09-05T03:24:04.853565",
       "element_tag": "img",
-      "title": "Kid Culture - KEEP IT",
+      "title": "Ford Kuga - Levels",
       "description": "",
       "category": "Technique",
-      "alt_text": "Kid Culture - KEEP IT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Ford Kuga - Levels",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706686032.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706588441.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734648",
+      "discovered_at": "2025-09-05T03:24:04.853601",
       "element_tag": "img",
-      "title": "Gregory Porter - Revival",
+      "title": "Breaking Bad (TV Series)",
       "description": "",
       "category": "Technique",
-      "alt_text": "Gregory Porter - Revival",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Breaking Bad (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401642.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119471.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734702",
+      "discovered_at": "2025-09-05T03:24:04.853638",
       "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
+      "title": "First Hawaiian Bank - Dance Party",
       "description": "",
       "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "First Hawaiian Bank - Dance Party",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703367283.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452079.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734756",
+      "discovered_at": "2025-09-05T03:24:04.853673",
       "element_tag": "img",
-      "title": "Husky - Never-ever",
+      "title": "Empimic - Bittere Welt",
       "description": "",
       "category": "Technique",
-      "alt_text": "Husky - Never-ever",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Empimic - Bittere Welt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703407842.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703406025.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734808",
+      "discovered_at": "2025-09-05T03:24:04.853708",
       "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
+      "title": "Come Together: A Fashion Picture in Motion",
       "description": "",
       "category": "Technique",
-      "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Come Together: A Fashion Picture in Motion",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140861.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.853745",
+      "element_tag": "img",
+      "title": "Downtown Kayoto - Came Thru",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715645038.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.853782",
+      "element_tag": "img",
+      "title": "Oblé Reed - WESTON.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oblé Reed - WESTON.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642984.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.853817",
+      "element_tag": "img",
+      "title": "Into the Ring (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Into the Ring (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140750.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.853853",
+      "element_tag": "img",
+      "title": "Downtown Kayoto - Came Thru",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075342.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.853888",
+      "element_tag": "img",
+      "title": "Ford Kuga - Levels",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ford Kuga - Levels",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576023.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.853924",
+      "element_tag": "img",
+      "title": "Ken Carson - Fighting My Demons",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704074164.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.853959",
+      "element_tag": "img",
+      "title": "Duda Beat feat. Trevo - Nem Um Pouquinho",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Duda Beat feat. Trevo - Nem Um Pouquinho",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246057.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.853994",
+      "element_tag": "img",
+      "title": "Latto - Sunday Service",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Latto - Sunday Service",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075163.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854030",
+      "element_tag": "img",
+      "title": "Ford Kuga - Levels",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ford Kuga - Levels",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706691649.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734860",
+      "discovered_at": "2025-09-05T03:24:04.854070",
       "element_tag": "img",
       "title": "Kid Culture - KEEP IT",
       "description": "",
@@ -1057,111 +536,54 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709104543.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703407842.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734911",
+      "discovered_at": "2025-09-05T03:24:04.854111",
       "element_tag": "img",
-      "title": "Watchtower of China",
+      "title": "Kendrick Lamar - Humble",
       "description": "",
       "category": "Technique",
-      "alt_text": "Watchtower of China",
+      "alt_text": "Kendrick Lamar - Humble",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863655.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703042782.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.734961",
+      "discovered_at": "2025-09-05T03:24:04.854149",
       "element_tag": "img",
-      "title": "Chime - Woah",
+      "title": "The Life Aquatic with Steve Zissou",
       "description": "",
       "category": "Technique",
-      "alt_text": "Chime - Woah",
+      "alt_text": "The Life Aquatic with Steve Zissou",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814201.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.735011",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175068.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.735061",
-      "element_tag": "img",
-      "title": "M.I.A. 'Bad Girls'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "M.I.A. 'Bad Girls'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165278.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.735111",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705030033.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.735160",
+      "discovered_at": "2025-09-05T03:24:04.854188",
       "element_tag": "img",
       "title": "Jimmy Nelson - Blink. And they're gone",
       "description": "",
@@ -1171,16 +593,35 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863655.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854227",
+      "element_tag": "img",
+      "title": "Chime - Woah",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chime - Woah",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335144.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.735304",
+      "discovered_at": "2025-09-05T03:24:04.854267",
       "element_tag": "img",
       "title": "#LoveYourz",
       "description": "",
@@ -1190,35 +631,453 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246057.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704834450.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.735480",
+      "discovered_at": "2025-09-05T03:24:04.854306",
       "element_tag": "img",
-      "title": "Latto - Sunday Service",
+      "title": "Nike - Nothing Beats a Londoner",
       "description": "",
       "category": "Technique",
-      "alt_text": "Latto - Sunday Service",
+      "alt_text": "Nike - Nothing Beats a Londoner",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709104543.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854344",
+      "element_tag": "img",
+      "title": "Watchtower of China",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Watchtower of China",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814201.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854383",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385421.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854421",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709017710.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854459",
+      "element_tag": "img",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175068.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854496",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924232.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854533",
+      "element_tag": "img",
+      "title": "slowthai - Yum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "slowthai - Yum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702950272.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854570",
+      "element_tag": "img",
+      "title": "Whiplash",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Whiplash",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703367283.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854608",
+      "element_tag": "img",
+      "title": "Husky - Never-ever",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Husky - Never-ever",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703919409.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854677",
+      "element_tag": "img",
+      "title": "Quavo x Takeoff - Hotel Lobby",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Quavo x Takeoff - Hotel Lobby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715293411.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854755",
+      "element_tag": "img",
+      "title": "Inter Alia (Short Film)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Inter Alia (Short Film)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703487883.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854803",
+      "element_tag": "img",
+      "title": "Lil Yachty - TESLA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Yachty - TESLA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488518.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854865",
+      "element_tag": "img",
+      "title": "Lil Yachty - TESLA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Yachty - TESLA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710030719.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854905",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403762.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854945",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706691832.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.854985",
+      "element_tag": "img",
+      "title": "Kid Culture - KEEP IT",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kid Culture - KEEP IT",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739192856.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.855059",
+      "element_tag": "img",
+      "title": "Static - Federer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Static - Federer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165278.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.855121",
+      "element_tag": "img",
+      "title": "Victoria Monet - Alright",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Victoria Monet - Alright",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706686032.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.855174",
+      "element_tag": "img",
+      "title": "Gregory Porter - Revival",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Gregory Porter - Revival",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401642.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.855215",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705824288.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.855254",
+      "element_tag": "img",
+      "title": "Ziak - Akimbo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ziak - Akimbo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824596.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.855295",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409664.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.855334",
+      "element_tag": "img",
+      "title": "Kendrick Lamar - Humble",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kendrick Lamar - Humble",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705030926.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.735559",
+      "discovered_at": "2025-09-05T03:24:04.855389",
       "element_tag": "img",
       "title": "Unknown T - Hocus Pocus Feat. Loyle Carner",
       "description": "",
@@ -1228,29 +1087,86 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075163.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175597.webp",
       "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-04T12:45:59.735624",
+      "discovered_at": "2025-09-05T03:24:04.855431",
       "element_tag": "img",
-      "title": "Ford Kuga - Levels",
+      "title": "M.I.A. 'Bad Girls'",
       "description": "",
       "category": "Technique",
-      "alt_text": "Ford Kuga - Levels",
+      "alt_text": "M.I.A. 'Bad Girls'",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707628073.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.855473",
+      "element_tag": "img",
+      "title": "Drake, 21 Savage - Spin Bout U",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Drake, 21 Savage - Spin Bout U",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021980.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.855524",
+      "element_tag": "img",
+      "title": "Top Gun: Maverick",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Top Gun: Maverick",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704115165.webp",
+      "page_url": "https://eyecannndy.com/technique/cut-ins",
+      "discovered_at": "2025-09-05T03:24:04.855655",
+      "element_tag": "img",
+      "title": "KFC - Crunch Collective",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KFC - Crunch Collective",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]

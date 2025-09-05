@@ -576,3 +576,180 @@
 2025-09-04 12:51:35,115 - INFO - Found 36 WebP videos on https://eyecannndy.com/technique/generative
 2025-09-04 12:51:35,115 - INFO - Scraping page 47/50: https://eyecannndy.com/technique/digital-gesture
 2025-09-04 12:51:38,761 - ERROR - Request failed for https://eyecannndy.com/technique/digital-gesture: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/digital-gesture
+2025-09-05 03:21:03,045 - INFO - Starting Eyecandy scraper...
+2025-09-05 03:21:03,045 - INFO - Generated 137 technique pages for scraping
+2025-09-05 03:21:03,045 - INFO - Scraping 50 pages...
+2025-09-05 03:21:03,045 - INFO - Scraping page 1/50: https://eyecannndy.com/technique/aerial
+2025-09-05 03:21:11,263 - ERROR - Request failed for https://eyecannndy.com/technique/aerial: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/aerial
+2025-09-05 03:21:11,267 - INFO - ====== WebDriver manager ======
+2025-09-05 03:21:11,410 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-05 03:21:12,100 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-05 03:21:12,709 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-05 03:21:14,757 - INFO - WebDriver version 139.0.7258.154 selected
+2025-09-05 03:21:14,760 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/mac-arm64/chromedriver-mac-arm64.zip
+2025-09-05 03:21:14,760 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.154/mac-arm64/chromedriver-mac-arm64.zip
+2025-09-05 03:21:15,962 - INFO - Driver downloading response is 200
+2025-09-05 03:21:19,490 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-05 03:21:20,227 - INFO - Driver has been saved in cache [/Users/samueladeyemi/.wdm/drivers/chromedriver/mac64/139.0.7258.154]
+2025-09-05 03:21:20,764 - INFO - Selenium WebDriver initialized successfully
+2025-09-05 03:21:37,376 - INFO - Found 64 WebP videos on https://eyecannndy.com/technique/aerial
+2025-09-05 03:21:37,377 - INFO - Scraping page 2/50: https://eyecannndy.com/technique/trip
+2025-09-05 03:21:39,268 - ERROR - Request failed for https://eyecannndy.com/technique/trip: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/trip
+2025-09-05 03:21:46,034 - INFO - Found 211 WebP videos on https://eyecannndy.com/technique/trip
+2025-09-05 03:21:46,034 - INFO - Scraping page 3/50: https://eyecannndy.com/technique/traditional
+2025-09-05 03:21:48,866 - ERROR - Request failed for https://eyecannndy.com/technique/traditional: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/traditional
+2025-09-05 03:21:57,694 - INFO - Found 437 WebP videos on https://eyecannndy.com/technique/traditional
+2025-09-05 03:21:57,694 - INFO - Scraping page 4/50: https://eyecannndy.com/technique/anthropomorphism
+2025-09-05 03:21:59,404 - ERROR - Request failed for https://eyecannndy.com/technique/anthropomorphism: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/anthropomorphism
+2025-09-05 03:22:05,959 - INFO - Found 59 WebP videos on https://eyecannndy.com/technique/anthropomorphism
+2025-09-05 03:22:05,960 - INFO - Scraping page 5/50: https://eyecannndy.com/technique/arc-movement
+2025-09-05 03:22:07,720 - ERROR - Request failed for https://eyecannndy.com/technique/arc-movement: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/arc-movement
+2025-09-05 03:22:13,926 - INFO - Found 230 WebP videos on https://eyecannndy.com/technique/arc-movement
+2025-09-05 03:22:13,927 - INFO - Scraping page 6/50: https://eyecannndy.com/technique/architexture
+2025-09-05 03:22:15,626 - ERROR - Request failed for https://eyecannndy.com/technique/architexture: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/architexture
+2025-09-05 03:22:19,761 - INFO - Found 80 WebP videos on https://eyecannndy.com/technique/architexture
+2025-09-05 03:22:19,761 - INFO - Scraping page 7/50: https://eyecannndy.com/technique/bolt-cam
+2025-09-05 03:22:21,435 - ERROR - Request failed for https://eyecannndy.com/technique/bolt-cam: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/bolt-cam
+2025-09-05 03:22:25,210 - INFO - Found 34 WebP videos on https://eyecannndy.com/technique/bolt-cam
+2025-09-05 03:22:25,210 - INFO - Scraping page 8/50: https://eyecannndy.com/technique/boomerang
+2025-09-05 03:22:26,970 - ERROR - Request failed for https://eyecannndy.com/technique/boomerang: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/boomerang
+2025-09-05 03:22:30,857 - INFO - Found 12 WebP videos on https://eyecannndy.com/technique/boomerang
+2025-09-05 03:22:30,857 - INFO - Scraping page 9/50: https://eyecannndy.com/technique/breakdown
+2025-09-05 03:22:32,598 - ERROR - Request failed for https://eyecannndy.com/technique/breakdown: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/breakdown
+2025-09-05 03:22:37,950 - INFO - Found 53 WebP videos on https://eyecannndy.com/technique/breakdown
+2025-09-05 03:22:37,951 - INFO - Scraping page 10/50: https://eyecannndy.com/technique/bullet-time
+2025-09-05 03:22:41,151 - ERROR - Request failed for https://eyecannndy.com/technique/bullet-time: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/bullet-time
+2025-09-05 03:22:46,030 - INFO - Found 51 WebP videos on https://eyecannndy.com/technique/bullet-time
+2025-09-05 03:22:46,048 - INFO - Data saved to data/eyecandy_videos_20250905_032246.json and data/eyecandy_videos_20250905_032246.csv
+2025-09-05 03:22:46,048 - INFO - Progress saved. Total videos found: 1231
+2025-09-05 03:22:46,048 - INFO - Scraping page 11/50: https://eyecannndy.com/technique/camera-roll
+2025-09-05 03:22:47,739 - ERROR - Request failed for https://eyecannndy.com/technique/camera-roll: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/camera-roll
+2025-09-05 03:22:51,607 - INFO - Found 85 WebP videos on https://eyecannndy.com/technique/camera-roll
+2025-09-05 03:22:51,607 - INFO - Scraping page 12/50: https://eyecannndy.com/technique/central-framing
+2025-09-05 03:22:54,793 - ERROR - Request failed for https://eyecannndy.com/technique/central-framing: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/central-framing
+2025-09-05 03:22:58,686 - INFO - Found 120 WebP videos on https://eyecannndy.com/technique/central-framing
+2025-09-05 03:22:58,686 - INFO - Scraping page 13/50: https://eyecannndy.com/technique/choreo
+2025-09-05 03:23:00,742 - ERROR - Request failed for https://eyecannndy.com/technique/choreo: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/choreo
+2025-09-05 03:23:04,560 - INFO - Found 57 WebP videos on https://eyecannndy.com/technique/choreo
+2025-09-05 03:23:04,560 - INFO - Scraping page 14/50: https://eyecannndy.com/technique/cinemagraph
+2025-09-05 03:23:06,514 - ERROR - Request failed for https://eyecannndy.com/technique/cinemagraph: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/cinemagraph
+2025-09-05 03:23:10,141 - INFO - Found 84 WebP videos on https://eyecannndy.com/technique/cinemagraph
+2025-09-05 03:23:10,141 - INFO - Scraping page 15/50: https://eyecannndy.com/technique/close-up
+2025-09-05 03:23:12,298 - ERROR - Request failed for https://eyecannndy.com/technique/close-up: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/close-up
+2025-09-05 03:23:30,583 - INFO - Found 556 WebP videos on https://eyecannndy.com/technique/close-up
+2025-09-05 03:23:30,584 - INFO - Scraping page 16/50: https://eyecannndy.com/technique/collage
+2025-09-05 03:23:32,326 - ERROR - Request failed for https://eyecannndy.com/technique/collage: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/collage
+2025-09-05 03:23:43,461 - INFO - Found 125 WebP videos on https://eyecannndy.com/technique/collage
+2025-09-05 03:23:43,461 - INFO - Scraping page 17/50: https://eyecannndy.com/technique/color-shift
+2025-09-05 03:23:45,200 - ERROR - Request failed for https://eyecannndy.com/technique/color-shift: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/color-shift
+2025-09-05 03:23:48,817 - INFO - Found 52 WebP videos on https://eyecannndy.com/technique/color-shift
+2025-09-05 03:23:48,818 - INFO - Scraping page 18/50: https://eyecannndy.com/technique/conveyor
+2025-09-05 03:23:50,570 - ERROR - Request failed for https://eyecannndy.com/technique/conveyor: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/conveyor
+2025-09-05 03:23:54,238 - INFO - Found 73 WebP videos on https://eyecannndy.com/technique/conveyor
+2025-09-05 03:23:54,239 - INFO - Scraping page 19/50: https://eyecannndy.com/technique/crash-transition
+2025-09-05 03:23:55,976 - ERROR - Request failed for https://eyecannndy.com/technique/crash-transition: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/crash-transition
+2025-09-05 03:23:59,493 - INFO - Found 12 WebP videos on https://eyecannndy.com/technique/crash-transition
+2025-09-05 03:23:59,493 - INFO - Scraping page 20/50: https://eyecannndy.com/technique/cut-ins
+2025-09-05 03:24:01,199 - ERROR - Request failed for https://eyecannndy.com/technique/cut-ins: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/cut-ins
+2025-09-05 03:24:04,855 - INFO - Found 60 WebP videos on https://eyecannndy.com/technique/cut-ins
+2025-09-05 03:24:04,896 - INFO - Data saved to data/eyecandy_videos_20250905_032404.json and data/eyecandy_videos_20250905_032404.csv
+2025-09-05 03:24:04,896 - INFO - Progress saved. Total videos found: 2455
+2025-09-05 03:24:04,896 - INFO - Scraping page 21/50: https://eyecannndy.com/technique/datamosh
+2025-09-05 03:24:06,538 - ERROR - Request failed for https://eyecannndy.com/technique/datamosh: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/datamosh
+2025-09-05 03:24:10,149 - INFO - Found 65 WebP videos on https://eyecannndy.com/technique/datamosh
+2025-09-05 03:24:10,149 - INFO - Scraping page 22/50: https://eyecannndy.com/technique/model
+2025-09-05 03:24:11,819 - ERROR - Request failed for https://eyecannndy.com/technique/model: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/model
+2025-09-05 03:24:15,395 - INFO - Found 45 WebP videos on https://eyecannndy.com/technique/model
+2025-09-05 03:24:15,395 - INFO - Scraping page 23/50: https://eyecannndy.com/technique/distortions
+2025-09-05 03:24:17,130 - ERROR - Request failed for https://eyecannndy.com/technique/distortions: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/distortions
+2025-09-05 03:24:20,626 - INFO - Found 26 WebP videos on https://eyecannndy.com/technique/distortions
+2025-09-05 03:24:20,626 - INFO - Scraping page 24/50: https://eyecannndy.com/technique/dolly-shot
+2025-09-05 03:24:22,356 - ERROR - Request failed for https://eyecannndy.com/technique/dolly-shot: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/dolly-shot
+2025-09-05 03:24:34,493 - INFO - Found 145 WebP videos on https://eyecannndy.com/technique/dolly-shot
+2025-09-05 03:24:34,494 - INFO - Scraping page 25/50: https://eyecannndy.com/technique/dolly-zoom
+2025-09-05 03:24:36,271 - ERROR - Request failed for https://eyecannndy.com/technique/dolly-zoom: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/dolly-zoom
+2025-09-05 03:24:39,900 - INFO - Found 71 WebP videos on https://eyecannndy.com/technique/dolly-zoom
+2025-09-05 03:24:39,900 - INFO - Scraping page 26/50: https://eyecannndy.com/technique/double-dolly
+2025-09-05 03:24:42,294 - ERROR - Request failed for https://eyecannndy.com/technique/double-dolly: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/double-dolly
+2025-09-05 03:24:46,127 - INFO - Found 40 WebP videos on https://eyecannndy.com/technique/double-dolly
+2025-09-05 03:24:46,127 - INFO - Scraping page 27/50: https://eyecannndy.com/technique/double-exposure
+2025-09-05 03:24:47,994 - ERROR - Request failed for https://eyecannndy.com/technique/double-exposure: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/double-exposure
+2025-09-05 03:24:51,975 - INFO - Found 89 WebP videos on https://eyecannndy.com/technique/double-exposure
+2025-09-05 03:24:51,975 - INFO - Scraping page 28/50: https://eyecannndy.com/technique/dreamcore
+2025-09-05 03:24:55,231 - ERROR - Request failed for https://eyecannndy.com/technique/dreamcore: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/dreamcore
+2025-09-05 03:24:58,892 - INFO - Found 56 WebP videos on https://eyecannndy.com/technique/dreamcore
+2025-09-05 03:24:58,893 - INFO - Scraping page 29/50: https://eyecannndy.com/technique/duplication
+2025-09-05 03:25:00,685 - ERROR - Request failed for https://eyecannndy.com/technique/duplication: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/duplication
+2025-09-05 03:25:05,172 - INFO - Found 143 WebP videos on https://eyecannndy.com/technique/duplication
+2025-09-05 03:25:05,172 - INFO - Scraping page 30/50: https://eyecannndy.com/technique/dutch-angle
+2025-09-05 03:25:06,968 - ERROR - Request failed for https://eyecannndy.com/technique/dutch-angle: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/dutch-angle
+2025-09-05 03:25:11,076 - INFO - Found 71 WebP videos on https://eyecannndy.com/technique/dutch-angle
+2025-09-05 03:25:11,132 - INFO - Data saved to data/eyecandy_videos_20250905_032511.json and data/eyecandy_videos_20250905_032511.csv
+2025-09-05 03:25:11,133 - INFO - Progress saved. Total videos found: 3206
+2025-09-05 03:25:11,133 - INFO - Scraping page 31/50: https://eyecannndy.com/technique/dystopian
+2025-09-05 03:25:12,808 - ERROR - Request failed for https://eyecannndy.com/technique/dystopian: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/dystopian
+2025-09-05 03:25:16,449 - INFO - Found 43 WebP videos on https://eyecannndy.com/technique/dystopian
+2025-09-05 03:25:16,449 - INFO - Scraping page 32/50: https://eyecannndy.com/technique/echo-printing
+2025-09-05 03:25:18,478 - ERROR - Request failed for https://eyecannndy.com/technique/echo-printing: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/echo-printing
+2025-09-05 03:25:23,500 - INFO - Found 72 WebP videos on https://eyecannndy.com/technique/echo-printing
+2025-09-05 03:25:23,500 - INFO - Scraping page 33/50: https://eyecannndy.com/technique/epiphany-shot
+2025-09-05 03:25:25,295 - ERROR - Request failed for https://eyecannndy.com/technique/epiphany-shot: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/epiphany-shot
+2025-09-05 03:25:28,851 - INFO - Found 40 WebP videos on https://eyecannndy.com/technique/epiphany-shot
+2025-09-05 03:25:28,851 - INFO - Scraping page 34/50: https://eyecannndy.com/technique/falling
+2025-09-05 03:25:33,447 - ERROR - Request failed for https://eyecannndy.com/technique/falling: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/falling
+2025-09-05 03:25:38,626 - INFO - Found 90 WebP videos on https://eyecannndy.com/technique/falling
+2025-09-05 03:25:38,626 - INFO - Scraping page 35/50: https://eyecannndy.com/technique/undercranking
+2025-09-05 03:25:44,440 - ERROR - Request failed for https://eyecannndy.com/technique/undercranking: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/undercranking
+2025-09-05 03:25:54,713 - INFO - Found 181 WebP videos on https://eyecannndy.com/technique/undercranking
+2025-09-05 03:25:54,714 - INFO - Scraping page 36/50: https://eyecannndy.com/technique/glitch
+2025-09-05 03:25:56,670 - ERROR - Request failed for https://eyecannndy.com/technique/glitch: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/glitch
+2025-09-05 03:26:00,398 - INFO - Found 71 WebP videos on https://eyecannndy.com/technique/glitch
+2025-09-05 03:26:00,398 - INFO - Scraping page 37/50: https://eyecannndy.com/technique/first-person-pov
+2025-09-05 03:26:05,851 - ERROR - Request failed for https://eyecannndy.com/technique/first-person-pov: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/first-person-pov
+2025-09-05 03:26:10,941 - INFO - Found 157 WebP videos on https://eyecannndy.com/technique/first-person-pov
+2025-09-05 03:26:10,941 - INFO - Scraping page 38/50: https://eyecannndy.com/technique/fisheye
+2025-09-05 03:26:13,713 - ERROR - Request failed for https://eyecannndy.com/technique/fisheye: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/fisheye
+2025-09-05 03:26:17,468 - INFO - Found 49 WebP videos on https://eyecannndy.com/technique/fisheye
+2025-09-05 03:26:17,468 - INFO - Scraping page 39/50: https://eyecannndy.com/technique/fixed-camera
+2025-09-05 03:26:22,218 - ERROR - Request failed for https://eyecannndy.com/technique/fixed-camera: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/fixed-camera
+2025-09-05 03:26:32,344 - INFO - Found 187 WebP videos on https://eyecannndy.com/technique/fixed-camera
+2025-09-05 03:26:32,344 - INFO - Scraping page 40/50: https://eyecannndy.com/technique/flash-cut
+2025-09-05 03:26:37,095 - ERROR - Request failed for https://eyecannndy.com/technique/flash-cut: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/flash-cut
+2025-09-05 03:26:45,065 - INFO - Found 103 WebP videos on https://eyecannndy.com/technique/flash-cut
+2025-09-05 03:26:45,117 - INFO - Data saved to data/eyecandy_videos_20250905_032645.json and data/eyecandy_videos_20250905_032645.csv
+2025-09-05 03:26:45,117 - INFO - Progress saved. Total videos found: 4199
+2025-09-05 03:26:45,117 - INFO - Scraping page 41/50: https://eyecannndy.com/technique/digital-overlay
+2025-09-05 03:26:47,780 - ERROR - Request failed for https://eyecannndy.com/technique/digital-overlay: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/digital-overlay
+2025-09-05 03:26:51,408 - INFO - Found 52 WebP videos on https://eyecannndy.com/technique/digital-overlay
+2025-09-05 03:26:51,408 - INFO - Scraping page 42/50: https://eyecannndy.com/technique/focal-shift
+2025-09-05 03:26:54,800 - ERROR - Request failed for https://eyecannndy.com/technique/focal-shift: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/focal-shift
+2025-09-05 03:27:00,720 - INFO - Found 36 WebP videos on https://eyecannndy.com/technique/focal-shift
+2025-09-05 03:27:00,720 - INFO - Scraping page 43/50: https://eyecannndy.com/technique/fourth-wall
+2025-09-05 03:27:05,212 - ERROR - Request failed for https://eyecannndy.com/technique/fourth-wall: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/fourth-wall
+2025-09-05 03:27:14,237 - INFO - Found 131 WebP videos on https://eyecannndy.com/technique/fourth-wall
+2025-09-05 03:27:14,237 - INFO - Scraping page 44/50: https://eyecannndy.com/technique/fpv-drone
+2025-09-05 03:27:17,768 - ERROR - Request failed for https://eyecannndy.com/technique/fpv-drone: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/fpv-drone
+2025-09-05 03:27:21,627 - INFO - Found 95 WebP videos on https://eyecannndy.com/technique/fpv-drone
+2025-09-05 03:27:21,627 - INFO - Scraping page 45/50: https://eyecannndy.com/technique/freeze-frame
+2025-09-05 03:27:24,639 - ERROR - Request failed for https://eyecannndy.com/technique/freeze-frame: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/freeze-frame
+2025-09-05 03:27:29,146 - INFO - Found 30 WebP videos on https://eyecannndy.com/technique/freeze-frame
+2025-09-05 03:27:29,146 - INFO - Scraping page 46/50: https://eyecannndy.com/technique/generative
+2025-09-05 03:27:31,694 - ERROR - Request failed for https://eyecannndy.com/technique/generative: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/generative
+2025-09-05 03:27:35,333 - INFO - Found 37 WebP videos on https://eyecannndy.com/technique/generative
+2025-09-05 03:27:35,333 - INFO - Scraping page 47/50: https://eyecannndy.com/technique/digital-gesture
+2025-09-05 03:27:38,351 - ERROR - Request failed for https://eyecannndy.com/technique/digital-gesture: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/digital-gesture
+2025-09-05 03:27:56,862 - INFO - Found 18 WebP videos on https://eyecannndy.com/technique/digital-gesture
+2025-09-05 03:27:56,863 - INFO - Scraping page 48/50: https://eyecannndy.com/technique/ground-shot
+2025-09-05 03:27:58,622 - ERROR - Request failed for https://eyecannndy.com/technique/ground-shot: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/ground-shot
+2025-09-05 03:28:02,730 - INFO - Found 93 WebP videos on https://eyecannndy.com/technique/ground-shot
+2025-09-05 03:28:02,730 - INFO - Scraping page 49/50: https://eyecannndy.com/technique/halation
+2025-09-05 03:28:06,914 - ERROR - Request failed for https://eyecannndy.com/technique/halation: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/halation
+2025-09-05 03:28:10,740 - INFO - Found 39 WebP videos on https://eyecannndy.com/technique/halation
+2025-09-05 03:28:10,741 - INFO - Scraping page 50/50: https://eyecannndy.com/technique/shaky-cam
+2025-09-05 03:28:14,390 - ERROR - Request failed for https://eyecannndy.com/technique/shaky-cam: 403 Client Error: Forbidden for url: https://eyecannndy.com/technique/shaky-cam
+2025-09-05 03:28:19,175 - INFO - Found 95 WebP videos on https://eyecannndy.com/technique/shaky-cam
+2025-09-05 03:28:19,243 - INFO - Data saved to data/eyecandy_videos_20250905_032819.json and data/eyecandy_videos_20250905_032819.csv
+2025-09-05 03:28:19,243 - INFO - Progress saved. Total videos found: 4825
+2025-09-05 03:28:19,308 - INFO - Data saved to data/eyecandy_videos_20250905_032819.json and data/eyecandy_videos_20250905_032819.csv
+2025-09-05 03:28:19,308 - INFO - Scraping completed! Found 4825 WebP videos across 1 categories.
+2025-09-05 03:28:20,949 - INFO - Selenium driver closed successfully

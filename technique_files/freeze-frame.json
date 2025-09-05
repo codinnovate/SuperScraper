@@ -1,6 +1,591 @@
 {
   "technique": "freeze-frame",
-  "video_count": 0,
-  "generated_at": "2025-09-05T02:44:19.195015",
-  "videos": []
+  "video_count": 30,
+  "generated_at": "2025-09-05T04:03:29.647120",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995189.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.144877",
+      "element_tag": "img",
+      "title": "The King of Comedy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The King of Comedy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539150.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.144988",
+      "element_tag": "img",
+      "title": "Saint Levant - Nails",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Saint Levant - Nails",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998471.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145058",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703045001.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145120",
+      "element_tag": "img",
+      "title": "Cocaine Bear",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cocaine Bear",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996281.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145178",
+      "element_tag": "img",
+      "title": "Pulp Fiction",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pulp Fiction",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715575223.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145234",
+      "element_tag": "img",
+      "title": "Ariana Grande - Positions",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ariana Grande - Positions",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709540812.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145288",
+      "element_tag": "img",
+      "title": "Saint Levant - Nails",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Saint Levant - Nails",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995189.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145340",
+      "element_tag": "img",
+      "title": "The King of Comedy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The King of Comedy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539150.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145392",
+      "element_tag": "img",
+      "title": "Saint Levant - Nails",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Saint Levant - Nails",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998471.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145442",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703045001.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145490",
+      "element_tag": "img",
+      "title": "Cocaine Bear",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cocaine Bear",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996281.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145538",
+      "element_tag": "img",
+      "title": "Pulp Fiction",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pulp Fiction",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715575223.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145587",
+      "element_tag": "img",
+      "title": "Ariana Grande - Positions",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ariana Grande - Positions",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709540812.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145635",
+      "element_tag": "img",
+      "title": "Saint Levant - Nails",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Saint Levant - Nails",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995273.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145688",
+      "element_tag": "img",
+      "title": "EA SPORTS FC x Triangles ft. Dave",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "EA SPORTS FC x Triangles ft. Dave",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995473.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145747",
+      "element_tag": "img",
+      "title": "Funny Games",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Funny Games",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656702.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145903",
+      "element_tag": "img",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998279.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.145979",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656902.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146041",
+      "element_tag": "img",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996234.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146099",
+      "element_tag": "img",
+      "title": "Magnolia",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Magnolia",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812813.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146155",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996589.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146210",
+      "element_tag": "img",
+      "title": "Hot Fuzz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Hot Fuzz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812773.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146263",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705181133.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146315",
+      "element_tag": "img",
+      "title": "Cartier - Yvan Fabing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cartier - Yvan Fabing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995375.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146370",
+      "element_tag": "img",
+      "title": "Snatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Snatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996133.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146425",
+      "element_tag": "img",
+      "title": "Once Upon a Time in America",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Once Upon a Time in America",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996450.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146479",
+      "element_tag": "img",
+      "title": "The Wolf of Wall Street",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Wolf of Wall Street",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996350.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146530",
+      "element_tag": "img",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Harry Potter and the Prisoner of Azkaban",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707620172.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146582",
+      "element_tag": "img",
+      "title": "It Could Happen To You",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "It Could Happen To You",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703064164.webp",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame",
+      "discovered_at": "2025-09-05T03:27:29.146632",
+      "element_tag": "img",
+      "title": "The King of Comedy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The King of Comedy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    }
+  ]
 }

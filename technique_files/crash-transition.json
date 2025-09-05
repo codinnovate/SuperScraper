@@ -1,12 +1,12 @@
 {
   "technique": "crash-transition",
   "video_count": 12,
-  "generated_at": "2025-09-05T02:44:19.172978",
+  "generated_at": "2025-09-05T04:03:29.625238",
   "videos": [
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102285.webp",
       "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.389519",
+      "discovered_at": "2025-09-05T03:23:59.492861",
       "element_tag": "img",
       "title": "Watchtower of Turkey",
       "description": "",
@@ -17,16 +17,16 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102502.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102810.webp",
       "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.389717",
+      "discovered_at": "2025-09-05T03:23:59.492958",
       "element_tag": "img",
       "title": "Watchtower of Turkey",
       "description": "",
@@ -37,16 +37,16 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709105082.webp",
       "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.389806",
+      "discovered_at": "2025-09-05T03:23:59.493009",
       "element_tag": "img",
       "title": "Watchtower of Turkey",
       "description": "",
@@ -57,16 +57,56 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102502.webp",
+      "page_url": "https://eyecannndy.com/technique/crash-transition",
+      "discovered_at": "2025-09-05T03:23:59.493053",
+      "element_tag": "img",
+      "title": "Watchtower of Turkey",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Watchtower of Turkey",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102235.webp",
+      "page_url": "https://eyecannndy.com/technique/crash-transition",
+      "discovered_at": "2025-09-05T03:23:59.493094",
+      "element_tag": "img",
+      "title": "Watchtower of Turkey",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Watchtower of Turkey",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813298.webp",
       "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.389880",
+      "discovered_at": "2025-09-05T03:23:59.493135",
       "element_tag": "img",
       "title": "Sabrina Carpenter - Espresso",
       "description": "",
@@ -77,56 +117,16 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102235.webp",
-      "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.389954",
-      "element_tag": "img",
-      "title": "Watchtower of Turkey",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Watchtower of Turkey",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
         "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102810.webp",
-      "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.390024",
-      "element_tag": "img",
-      "title": "Watchtower of Turkey",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Watchtower of Turkey",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102285.webp",
       "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.390089",
+      "discovered_at": "2025-09-05T03:23:59.493175",
       "element_tag": "img",
       "title": "Watchtower of Turkey",
       "description": "",
@@ -137,16 +137,16 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102502.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102810.webp",
       "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.390154",
+      "discovered_at": "2025-09-05T03:23:59.493215",
       "element_tag": "img",
       "title": "Watchtower of Turkey",
       "description": "",
@@ -157,16 +157,16 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709105082.webp",
       "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.390216",
+      "discovered_at": "2025-09-05T03:23:59.493259",
       "element_tag": "img",
       "title": "Watchtower of Turkey",
       "description": "",
@@ -177,16 +177,56 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102502.webp",
+      "page_url": "https://eyecannndy.com/technique/crash-transition",
+      "discovered_at": "2025-09-05T03:23:59.493296",
+      "element_tag": "img",
+      "title": "Watchtower of Turkey",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Watchtower of Turkey",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102235.webp",
+      "page_url": "https://eyecannndy.com/technique/crash-transition",
+      "discovered_at": "2025-09-05T03:23:59.493373",
+      "element_tag": "img",
+      "title": "Watchtower of Turkey",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Watchtower of Turkey",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813298.webp",
       "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.390277",
+      "discovered_at": "2025-09-05T03:23:59.493439",
       "element_tag": "img",
       "title": "Sabrina Carpenter - Espresso",
       "description": "",
@@ -197,50 +237,10 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102235.webp",
-      "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.390336",
-      "element_tag": "img",
-      "title": "Watchtower of Turkey",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Watchtower of Turkey",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
         "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102810.webp",
-      "page_url": "https://eyecannndy.com/technique/crash-transition",
-      "discovered_at": "2025-09-04T12:45:52.390394",
-      "element_tag": "img",
-      "title": "Watchtower of Turkey",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Watchtower of Turkey",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
+        "trigger_info_",
+        "show it"
       ]
     }
   ]

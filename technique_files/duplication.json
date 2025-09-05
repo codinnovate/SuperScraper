@@ -1,52 +1,12 @@
 {
   "technique": "duplication",
-  "video_count": 155,
-  "generated_at": "2025-09-05T02:44:19.180110",
+  "video_count": 143,
+  "generated_at": "2025-09-05T04:03:29.631891",
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129432.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.850403",
-      "element_tag": "img",
-      "title": "TID Exploring Time 005 by Builders Club",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "TID Exploring Time 005 by Builders Club",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449402.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.850530",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705180916.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.850601",
+      "discovered_at": "2025-09-05T03:25:05.165650",
       "element_tag": "img",
       "title": "Source unknown",
       "description": "",
@@ -57,1548 +17,386 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288950.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.850660",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
         "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860782.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.850716",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703899251.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.850771",
-      "element_tag": "img",
-      "title": "Childish Gambino - Sweatpants ft. Problem",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Childish Gambino - Sweatpants ft. Problem",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284664.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.850825",
-      "element_tag": "img",
-      "title": "Clip by Erdal Inci",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip by Erdal Inci",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705126642.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.850876",
-      "element_tag": "img",
-      "title": "@thechemicalbrothers / Giphy",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "@thechemicalbrothers / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705181521.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.850926",
-      "element_tag": "img",
-      "title": "Old Spice - Regional Greetings",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Old Spice - Regional Greetings",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289212.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.850978",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284337.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851033",
-      "element_tag": "img",
-      "title": "Art by GAKU",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Art by GAKU",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539759.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851085",
-      "element_tag": "img",
-      "title": "Saint Levant - Nails",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Saint Levant - Nails",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860743.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851137",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420944.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851194",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902404.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851247",
-      "element_tag": "img",
-      "title": "Burberry x POP",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Burberry x POP",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860496.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851300",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313348.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851352",
-      "element_tag": "img",
-      "title": "Botis Seva - Santo",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Botis Seva - Santo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129432.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851403",
-      "element_tag": "img",
-      "title": "TID Exploring Time 005 by Builders Club",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "TID Exploring Time 005 by Builders Club",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449402.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851453",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705180916.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851502",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288950.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851549",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860782.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851597",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703899251.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851644",
-      "element_tag": "img",
-      "title": "Childish Gambino - Sweatpants ft. Problem",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Childish Gambino - Sweatpants ft. Problem",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284664.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851690",
-      "element_tag": "img",
-      "title": "Clip by Erdal Inci",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip by Erdal Inci",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705126642.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851736",
-      "element_tag": "img",
-      "title": "@thechemicalbrothers / Giphy",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "@thechemicalbrothers / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705181521.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851782",
-      "element_tag": "img",
-      "title": "Old Spice - Regional Greetings",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Old Spice - Regional Greetings",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289212.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851828",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284337.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851875",
-      "element_tag": "img",
-      "title": "Art by GAKU",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Art by GAKU",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539759.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851922",
-      "element_tag": "img",
-      "title": "Saint Levant - Nails",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Saint Levant - Nails",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860743.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.851969",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420944.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852015",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902404.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852061",
-      "element_tag": "img",
-      "title": "Burberry x POP",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Burberry x POP",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860496.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852108",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313348.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852155",
-      "element_tag": "img",
-      "title": "Botis Seva - Santo",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Botis Seva - Santo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703899059.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852208",
-      "element_tag": "img",
-      "title": "Childish Gambino - Sweatpants ft. Problem",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Childish Gambino - Sweatpants ft. Problem",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289250.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294987.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852262",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975389.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852317",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294828.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852372",
+      "discovered_at": "2025-09-05T03:25:05.165755",
       "element_tag": "img",
       "title": "Shit Robot \"Take 'Em Up\"",
       "description": "",
       "category": "Technique",
       "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711984292.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163556.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852425",
-      "element_tag": "img",
-      "title": "Face",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Face",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163965.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852476",
+      "discovered_at": "2025-09-05T03:25:05.165814",
       "element_tag": "img",
       "title": "Bree Runway - Just Like That",
       "description": "",
       "category": "Technique",
       "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288143.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852527",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289105.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852577",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703399559.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852626",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284211.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852677",
-      "element_tag": "img",
-      "title": "Under Armour - Rule Yourself",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Under Armour - Rule Yourself",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739191867.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852728",
-      "element_tag": "img",
-      "title": "Static - Federer",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Static - Federer",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705821451.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852780",
-      "element_tag": "img",
-      "title": "Duplication clip from Dirk Koy",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Duplication clip from Dirk Koy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705287977.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852831",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283358.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852884",
-      "element_tag": "img",
-      "title": "Mercedes-Benz x Heron Preston",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Mercedes-Benz x Heron Preston",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860584.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852935",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705032183.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.852983",
-      "element_tag": "img",
-      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Unknown T - Hocus Pocus Feat. Loyle Carner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706687885.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853030",
-      "element_tag": "img",
-      "title": "Gregory Porter - Revival",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Gregory Porter - Revival",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706903133.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853078",
-      "element_tag": "img",
-      "title": "Converse - AS-1 Pro",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Converse - AS-1 Pro",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289556.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853124",
-      "element_tag": "img",
-      "title": "Souce unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Souce unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288097.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853172",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705126371.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853219",
-      "element_tag": "img",
-      "title": "25th Hour (Edward's Rant)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "25th Hour (Edward's Rant)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284800.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853266",
-      "element_tag": "img",
-      "title": "Clip by Erdal Inci",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip by Erdal Inci",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704914206.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853312",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609487.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853359",
-      "element_tag": "img",
-      "title": "Carly Gibert - Dropping Seeds",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Carly Gibert - Dropping Seeds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127093.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853407",
-      "element_tag": "img",
-      "title": "Atlantic - Typecast",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Atlantic - Typecast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703402183.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853456",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705282848.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853503",
-      "element_tag": "img",
-      "title": "NLE Choppa - Do It Again",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "NLE Choppa - Do It Again",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705291042.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853567",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420551.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853670",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127079.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853731",
-      "element_tag": "img",
-      "title": "Atlantic - Typecast",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Atlantic - Typecast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702874233.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853786",
-      "element_tag": "img",
-      "title": "@schyguyy / IG",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "@schyguyy / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401994.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853838",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703402523.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853891",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289666.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853941",
-      "element_tag": "img",
-      "title": "BENEE - Never Ending",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "BENEE - Never Ending",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288008.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.853990",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860545.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854039",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289690.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854089",
-      "element_tag": "img",
-      "title": "BENEE - Never Ending",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "BENEE - Never Ending",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705128261.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854140",
-      "element_tag": "img",
-      "title": "Tyler the Creator - Sorry Not Sorry",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Tyler the Creator - Sorry Not Sorry",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289907.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854189",
-      "element_tag": "img",
-      "title": "Moncler x Will Smith - Genius is Born Crazy",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Moncler x Will Smith - Genius is Born Crazy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288265.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854237",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705180961.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854285",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420242.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854332",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284430.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854381",
-      "element_tag": "img",
-      "title": "Clip by Photojojo",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip by Photojojo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284835.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854430",
-      "element_tag": "img",
-      "title": "Clip by Erdal Inci",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip by Erdal Inci",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163597.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854479",
-      "element_tag": "img",
-      "title": "Bree Runway - Just Like That",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420385.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854526",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289472.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854574",
+      "discovered_at": "2025-09-05T03:25:05.165866",
       "element_tag": "img",
       "title": "Clip by Zach Scheiwiller",
       "description": "",
       "category": "Technique",
       "alt_text": "Clip by Zach Scheiwiller",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294754.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916959.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854622",
+      "discovered_at": "2025-09-05T03:25:05.165913",
+      "element_tag": "img",
+      "title": "João Borsch - Apaz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "João Borsch - Apaz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705180916.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.165960",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294987.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166007",
       "element_tag": "img",
       "title": "Shit Robot \"Take 'Em Up\"",
       "description": "",
       "category": "Technique",
       "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163556.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166050",
+      "element_tag": "img",
+      "title": "Bree Runway - Just Like That",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bree Runway - Just Like That",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289472.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166099",
+      "element_tag": "img",
+      "title": "Clip by Zach Scheiwiller",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip by Zach Scheiwiller",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916959.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166142",
+      "element_tag": "img",
+      "title": "João Borsch - Apaz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "João Borsch - Apaz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703402523.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166189",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705291042.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166239",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703899251.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166288",
+      "element_tag": "img",
+      "title": "Childish Gambino - Sweatpants ft. Problem",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Childish Gambino - Sweatpants ft. Problem",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703399872.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166335",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902404.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166383",
+      "element_tag": "img",
+      "title": "Burberry x POP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Burberry x POP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127093.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166430",
+      "element_tag": "img",
+      "title": "Atlantic - Typecast",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Atlantic - Typecast",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289666.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166475",
+      "element_tag": "img",
+      "title": "BENEE - Never Ending",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "BENEE - Never Ending",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860861.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166525",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288950.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166633",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420385.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166687",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861407.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854669",
+      "discovered_at": "2025-09-05T03:25:05.166737",
       "element_tag": "img",
       "title": "Unknown Source",
       "description": "",
@@ -1608,358 +406,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711611262.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854716",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288057.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854763",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284164.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854810",
-      "element_tag": "img",
-      "title": "Under Armour - Rule Yourself",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Under Armour - Rule Yourself",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529152.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854856",
-      "element_tag": "img",
-      "title": "Skins",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Skins",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284743.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854904",
-      "element_tag": "img",
-      "title": "Clip by Erdal Inci",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip by Erdal Inci",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127145.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854951",
-      "element_tag": "img",
-      "title": "Atlantic - Typecast",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Atlantic - Typecast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705181133.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.854999",
-      "element_tag": "img",
-      "title": "Cartier - Yvan Fabing",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Cartier - Yvan Fabing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420497.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855045",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859198.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855093",
-      "element_tag": "img",
-      "title": "Pharrell Williams - Cash In Cash Out",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Pharrell Williams - Cash In Cash Out",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822110.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855139",
-      "element_tag": "img",
-      "title": "PBS - City in the Sky (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "PBS - City in the Sky (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420190.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855186",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529563.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855233",
-      "element_tag": "img",
-      "title": "Scream",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Scream",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400658.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855279",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289284.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855326",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535101.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855372",
-      "element_tag": "img",
-      "title": "Face Palm Looping GIF",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Face Palm Looping GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704621056.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855419",
-      "element_tag": "img",
-      "title": "Blinking Live Action GIF By Dyan Jong",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Blinking Live Action GIF By Dyan Jong",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916623.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855464",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127061.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855510",
-      "element_tag": "img",
-      "title": "Atlantic - Typecast",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Atlantic - Typecast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284956.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855556",
+      "discovered_at": "2025-09-05T03:25:05.166783",
       "element_tag": "img",
       "title": "adidas x DC Look",
       "description": "",
@@ -1969,73 +425,225 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420642.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860584.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855602",
+      "discovered_at": "2025-09-05T03:25:05.166828",
       "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
+      "title": "Waveform",
       "description": "",
       "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
+      "alt_text": "Waveform",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702892821.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705287977.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855651",
+      "discovered_at": "2025-09-05T03:25:05.166871",
       "element_tag": "img",
-      "title": "Bounty Banana - inTENsity",
+      "title": "Squarespace - The Singularity",
       "description": "",
       "category": "Technique",
-      "alt_text": "Bounty Banana - inTENsity",
+      "alt_text": "Squarespace - The Singularity",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703239575.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284835.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855698",
+      "discovered_at": "2025-09-05T03:25:05.166916",
       "element_tag": "img",
-      "title": "KAYTRAMINÉ - 4EVA feat. Pharrell Williams",
+      "title": "Clip by Erdal Inci",
       "description": "",
       "category": "Technique",
-      "alt_text": "KAYTRAMINÉ - 4EVA feat. Pharrell Williams",
+      "alt_text": "Clip by Erdal Inci",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710317175.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.166959",
+      "element_tag": "img",
+      "title": "Skims - Lab",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Skims - Lab",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975389.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167009",
+      "element_tag": "img",
+      "title": "Dream Corp LLC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dream Corp LLC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711611262.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167054",
+      "element_tag": "img",
+      "title": "THEY. - U-RITE",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "THEY. - U-RITE",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401994.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167098",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703402183.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167142",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704914136.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167185",
+      "element_tag": "img",
+      "title": "João Borsch - Apaz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "João Borsch - Apaz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860782.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167227",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860496.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167270",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283602.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855748",
+      "discovered_at": "2025-09-05T03:25:05.167311",
       "element_tag": "img",
       "title": "Duplication clip by Matthias Brown",
       "description": "",
@@ -2045,73 +653,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860822.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289250.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855798",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420462.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855848",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420589.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855895",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289063.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855943",
+      "discovered_at": "2025-09-05T03:25:05.167358",
       "element_tag": "img",
       "title": "Squarespace - The Singularity",
       "description": "",
@@ -2121,35 +672,92 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703243237.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705126371.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.855989",
+      "discovered_at": "2025-09-05T03:25:05.167401",
       "element_tag": "img",
-      "title": "Source Unknown",
+      "title": "25th Hour (Edward's Rant)",
       "description": "",
       "category": "Technique",
-      "alt_text": "Source Unknown",
+      "alt_text": "25th Hour (Edward's Rant)",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313348.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167445",
+      "element_tag": "img",
+      "title": "Botis Seva - Santo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Botis Seva - Santo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705126642.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167489",
+      "element_tag": "img",
+      "title": "@thechemicalbrothers / Giphy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@thechemicalbrothers / Giphy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284743.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167531",
+      "element_tag": "img",
+      "title": "Clip by Erdal Inci",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip by Erdal Inci",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710317127.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856035",
+      "discovered_at": "2025-09-05T03:25:05.167580",
       "element_tag": "img",
       "title": "Skims - Lab",
       "description": "",
@@ -2159,16 +767,206 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289709.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705181521.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856081",
+      "discovered_at": "2025-09-05T03:25:05.167622",
+      "element_tag": "img",
+      "title": "Old Spice - Regional Greetings",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Old Spice - Regional Greetings",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539759.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167665",
+      "element_tag": "img",
+      "title": "Saint Levant - Nails",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Saint Levant - Nails",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289063.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167709",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449402.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167752",
+      "element_tag": "img",
+      "title": "Empimic - Bittere Welt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Empimic - Bittere Welt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294754.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167796",
+      "element_tag": "img",
+      "title": "Shit Robot \"Take 'Em Up\"",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127061.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167840",
+      "element_tag": "img",
+      "title": "Atlantic - Typecast",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Atlantic - Typecast",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703239575.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167882",
+      "element_tag": "img",
+      "title": "KAYTRAMINÉ - 4EVA feat. Pharrell Williams",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KAYTRAMINÉ - 4EVA feat. Pharrell Williams",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288265.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167926",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916623.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.167969",
+      "element_tag": "img",
+      "title": "João Borsch - Apaz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "João Borsch - Apaz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289212.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168016",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289690.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168059",
       "element_tag": "img",
       "title": "BENEE - Never Ending",
       "description": "",
@@ -2178,35 +976,92 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313366.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288997.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856127",
+      "discovered_at": "2025-09-05T03:25:05.168103",
       "element_tag": "img",
-      "title": "Botis Seva - Santo",
+      "title": "Squarespace - The Singularity",
       "description": "",
       "category": "Technique",
-      "alt_text": "Botis Seva - Santo",
+      "alt_text": "Squarespace - The Singularity",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289907.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168147",
+      "element_tag": "img",
+      "title": "Moncler x Will Smith - Genius is Born Crazy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Moncler x Will Smith - Genius is Born Crazy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703899059.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168190",
+      "element_tag": "img",
+      "title": "Childish Gambino - Sweatpants ft. Problem",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Childish Gambino - Sweatpants ft. Problem",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859198.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168234",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284196.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856173",
+      "discovered_at": "2025-09-05T03:25:05.168278",
       "element_tag": "img",
       "title": "Under Armour - Rule Yourself",
       "description": "",
@@ -2216,111 +1071,35 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288997.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127145.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856220",
+      "discovered_at": "2025-09-05T03:25:05.168320",
       "element_tag": "img",
-      "title": "Squarespace - The Singularity",
+      "title": "Atlantic - Typecast",
       "description": "",
       "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
+      "alt_text": "Atlantic - Typecast",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609884.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856267",
-      "element_tag": "img",
-      "title": "Carly Gibert - Dropping Seeds",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Carly Gibert - Dropping Seeds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711254529.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856313",
-      "element_tag": "img",
-      "title": "Coach - Life Has Different Paths",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Coach - Life Has Different Paths",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610968.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856358",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529278.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856405",
-      "element_tag": "img",
-      "title": "FKA Twigs x Nike - Do You Believe In More?",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "FKA Twigs x Nike - Do You Believe In More?",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710977026.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856451",
+      "discovered_at": "2025-09-05T03:25:05.168363",
       "element_tag": "img",
       "title": "Usher, H.E.R. - Risk It All",
       "description": "",
@@ -2330,130 +1109,35 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710317175.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711254529.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856497",
+      "discovered_at": "2025-09-05T03:25:05.168405",
       "element_tag": "img",
-      "title": "Skims - Lab",
+      "title": "Coach - Life Has Different Paths",
       "description": "",
       "category": "Technique",
-      "alt_text": "Skims - Lab",
+      "alt_text": "Coach - Life Has Different Paths",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715295131.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856542",
-      "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400907.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856588",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916959.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856633",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711611204.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856678",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289144.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856723",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163901.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856768",
+      "discovered_at": "2025-09-05T03:25:05.168449",
       "element_tag": "img",
       "title": "Bree Runway - Just Like That",
       "description": "",
@@ -2463,16 +1147,35 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860861.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704621056.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856814",
+      "discovered_at": "2025-09-05T03:25:05.168492",
+      "element_tag": "img",
+      "title": "Blinking Live Action GIF By Dyan Jong",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Blinking Live Action GIF By Dyan Jong",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860545.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168535",
       "element_tag": "img",
       "title": "Waveform",
       "description": "",
@@ -2482,453 +1185,54 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703399872.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283358.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856860",
+      "discovered_at": "2025-09-05T03:25:05.168578",
       "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
+      "title": "Mercedes-Benz x Heron Preston",
       "description": "",
       "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
+      "alt_text": "Mercedes-Benz x Heron Preston",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294987.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420551.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856906",
+      "discovered_at": "2025-09-05T03:25:05.168621",
       "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
+      "title": "AJR - The DJ Is Crying For Help",
       "description": "",
       "category": "Technique",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "alt_text": "AJR - The DJ Is Crying For Help",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705282644.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.856952",
-      "element_tag": "img",
-      "title": "Duplication clip from Kevin McGloughlin",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Duplication clip from Kevin McGloughlin",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704914136.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857000",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715295034.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857047",
-      "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289181.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857093",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163556.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857139",
-      "element_tag": "img",
-      "title": "Bree Runway - Just Like That",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702854515.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857185",
-      "element_tag": "img",
-      "title": "Botis Seva - Santo",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Botis Seva - Santo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822333.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857232",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822828.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857278",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822726.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857325",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705823093.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857382",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822608.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857441",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705291233.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857491",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822676.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857539",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822550.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857593",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822788.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857641",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822962.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857687",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739191867.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857733",
-      "element_tag": "img",
-      "title": "Static - Federer",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Static - Federer",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822873.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857784",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822448.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857831",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822931.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857879",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822369.webp",
-      "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857925",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822110.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.857970",
+      "discovered_at": "2025-09-05T03:25:05.168663",
       "element_tag": "img",
       "title": "PBS - City in the Sky (TV Series)",
       "description": "",
@@ -2938,35 +1242,225 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822502.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400658.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.858017",
+      "discovered_at": "2025-09-05T03:25:05.168706",
       "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "title": "adidas Originals - Original Is Never Finished",
       "description": "",
       "category": "Technique",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "alt_text": "adidas Originals - Original Is Never Finished",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420462.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168749",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284800.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168791",
+      "element_tag": "img",
+      "title": "Clip by Erdal Inci",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip by Erdal Inci",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702874233.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168833",
+      "element_tag": "img",
+      "title": "@schyguyy / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@schyguyy / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313366.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168875",
+      "element_tag": "img",
+      "title": "Botis Seva - Santo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Botis Seva - Santo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127079.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168918",
+      "element_tag": "img",
+      "title": "Atlantic - Typecast",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Atlantic - Typecast",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420242.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.168960",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420642.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169004",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420944.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169047",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705282848.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169090",
+      "element_tag": "img",
+      "title": "NLE Choppa - Do It Again",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "NLE Choppa - Do It Again",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288097.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169133",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705821451.webp",
       "page_url": "https://eyecannndy.com/technique/duplication",
-      "discovered_at": "2025-09-04T12:48:43.858062",
+      "discovered_at": "2025-09-05T03:25:05.169176",
       "element_tag": "img",
       "title": "Duplication clip from Dirk Koy",
       "description": "",
@@ -2976,10 +1470,1264 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703243237.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169219",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289284.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169263",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289144.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169305",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610968.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169348",
+      "element_tag": "img",
+      "title": "THEY. - U-RITE",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "THEY. - U-RITE",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289709.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169391",
+      "element_tag": "img",
+      "title": "BENEE - Never Ending",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "BENEE - Never Ending",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609884.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169434",
+      "element_tag": "img",
+      "title": "Carly Gibert - Dropping Seeds",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284164.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169477",
+      "element_tag": "img",
+      "title": "Under Armour - Rule Yourself",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Under Armour - Rule Yourself",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705180961.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169519",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129432.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169562",
+      "element_tag": "img",
+      "title": "TID Exploring Time 005 by Builders Club",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "TID Exploring Time 005 by Builders Club",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284664.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169604",
+      "element_tag": "img",
+      "title": "Clip by Erdal Inci",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip by Erdal Inci",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705128261.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169647",
+      "element_tag": "img",
+      "title": "Tyler the Creator - Sorry Not Sorry",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tyler the Creator - Sorry Not Sorry",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715295034.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169691",
+      "element_tag": "img",
+      "title": "Shit Robot \"Take 'Em Up\"",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284211.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169734",
+      "element_tag": "img",
+      "title": "Under Armour - Rule Yourself",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Under Armour - Rule Yourself",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529152.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169779",
+      "element_tag": "img",
+      "title": "Skins",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Skins",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289181.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169828",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420497.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169873",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706687885.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169918",
+      "element_tag": "img",
+      "title": "Gregory Porter - Revival",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Gregory Porter - Revival",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420589.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.169962",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288057.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170006",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705032183.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170050",
+      "element_tag": "img",
+      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown T - Hocus Pocus Feat. Loyle Carner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420190.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170093",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163597.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170135",
+      "element_tag": "img",
+      "title": "Bree Runway - Just Like That",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bree Runway - Just Like That",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706903133.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170178",
+      "element_tag": "img",
+      "title": "Converse - AS-1 Pro",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Converse - AS-1 Pro",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715295131.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170221",
+      "element_tag": "img",
+      "title": "Shit Robot \"Take 'Em Up\"",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705181133.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170263",
+      "element_tag": "img",
+      "title": "Cartier - Yvan Fabing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cartier - Yvan Fabing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739191867.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170308",
+      "element_tag": "img",
+      "title": "Static - Federer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Static - Federer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705282644.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170352",
+      "element_tag": "img",
+      "title": "Duplication clip from Kevin McGloughlin",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Duplication clip from Kevin McGloughlin",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703399559.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170395",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860822.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170438",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294828.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170481",
+      "element_tag": "img",
+      "title": "Shit Robot \"Take 'Em Up\"",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400907.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170523",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702892821.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170566",
+      "element_tag": "img",
+      "title": "Bounty Banana - inTENsity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bounty Banana - inTENsity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711984292.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170609",
+      "element_tag": "img",
+      "title": "Face",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Face",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288008.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170651",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702854515.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170693",
+      "element_tag": "img",
+      "title": "Botis Seva - Santo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Botis Seva - Santo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609487.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170736",
+      "element_tag": "img",
+      "title": "Carly Gibert - Dropping Seeds",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705288143.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170778",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529563.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170819",
+      "element_tag": "img",
+      "title": "Scream",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Scream",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289556.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170861",
+      "element_tag": "img",
+      "title": "Souce unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Souce unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535101.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170903",
+      "element_tag": "img",
+      "title": "Face Palm Looping GIF",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Face Palm Looping GIF",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529278.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170945",
+      "element_tag": "img",
+      "title": "FKA Twigs x Nike - Do You Believe In More?",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "FKA Twigs x Nike - Do You Believe In More?",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284337.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.170987",
+      "element_tag": "img",
+      "title": "Art by GAKU",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by GAKU",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163965.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171029",
+      "element_tag": "img",
+      "title": "Bree Runway - Just Like That",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bree Runway - Just Like That",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704914206.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171072",
+      "element_tag": "img",
+      "title": "João Borsch - Apaz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "João Borsch - Apaz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289105.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171115",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860743.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171161",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284430.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171205",
+      "element_tag": "img",
+      "title": "Clip by Photojojo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip by Photojojo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711611204.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171249",
+      "element_tag": "img",
+      "title": "THEY. - U-RITE",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "THEY. - U-RITE",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822502.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171292",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822550.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171336",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822962.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171383",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822448.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171428",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822788.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171474",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739191867.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171519",
+      "element_tag": "img",
+      "title": "Static - Federer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Static - Federer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822333.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171565",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705291233.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171612",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822931.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171730",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822110.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171796",
+      "element_tag": "img",
+      "title": "PBS - City in the Sky (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "PBS - City in the Sky (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705823093.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171851",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822608.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171903",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822828.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.171954",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822726.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.172001",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822873.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.172050",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822369.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.172098",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705821451.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.172144",
+      "element_tag": "img",
+      "title": "Duplication clip from Dirk Koy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Duplication clip from Dirk Koy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822676.webp",
+      "page_url": "https://eyecannndy.com/technique/duplication",
+      "discovered_at": "2025-09-05T03:25:05.172190",
+      "element_tag": "img",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]

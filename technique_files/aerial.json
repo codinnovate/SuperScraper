@@ -1,372 +1,12 @@
 {
   "technique": "aerial",
   "video_count": 64,
-  "generated_at": "2025-09-05T02:44:19.153614",
+  "generated_at": "2025-09-05T04:03:29.602466",
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368399.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.662565",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704529422.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.662731",
-      "element_tag": "img",
-      "title": "Morgan x Orlebar Brown feat. Karl Shakur",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Morgan x Orlebar Brown feat. Karl Shakur",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709330025.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.662818",
-      "element_tag": "img",
-      "title": "Graubünden - Best Version (DC)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Graubünden - Best Version (DC)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704369836.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.662887",
-      "element_tag": "img",
-      "title": "IG / @the.vantage.point",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "IG / @the.vantage.point",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/03/261704256739.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.662948",
-      "element_tag": "img",
-      "title": "Fast motion clip from Nohyal",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fast motion clip from Nohyal",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663002",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368535.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663058",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711603985.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663110",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508408.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663163",
-      "element_tag": "img",
-      "title": "Clip from Mikhail Parkhomenko",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip from Mikhail Parkhomenko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164658.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663216",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626497.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663268",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368615.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663319",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626229.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663371",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077050.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663422",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021425.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663474",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812336.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663524",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704365041.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663579",
-      "element_tag": "img",
-      "title": "ASAHI — The Unusual",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ASAHI — The Unusual",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021457.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663631",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710664164.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663684",
+      "discovered_at": "2025-09-05T03:21:37.372423",
       "element_tag": "img",
       "title": "Noah",
       "description": "",
@@ -377,116 +17,116 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368663.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626497.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663735",
+      "discovered_at": "2025-09-05T03:21:37.372662",
       "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
+      "title": "Lil Uzi Vert - Just Wanna Rock",
       "description": "",
       "category": "Technique",
-      "alt_text": "Indonesia FPV: Bali & Java",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368399.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403204.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663785",
+      "discovered_at": "2025-09-05T03:21:37.372759",
       "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
       "description": "",
       "category": "Technique",
-      "alt_text": "Indonesia FPV: Bali & Java",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704529422.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164595.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663835",
+      "discovered_at": "2025-09-05T03:21:37.372836",
       "element_tag": "img",
-      "title": "Morgan x Orlebar Brown feat. Karl Shakur",
+      "title": "The Shining",
       "description": "",
       "category": "Technique",
-      "alt_text": "Morgan x Orlebar Brown feat. Karl Shakur",
+      "alt_text": "The Shining",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709330025.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707627103.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663882",
+      "discovered_at": "2025-09-05T03:21:37.372915",
       "element_tag": "img",
-      "title": "Graubünden - Best Version (DC)",
+      "title": "Enter the Void",
       "description": "",
       "category": "Technique",
-      "alt_text": "Graubünden - Best Version (DC)",
+      "alt_text": "Enter the Void",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704369836.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538069.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663930",
+      "discovered_at": "2025-09-05T03:21:37.372985",
       "element_tag": "img",
-      "title": "IG / @the.vantage.point",
+      "title": "Miel De Montagne - Le Pigeon",
       "description": "",
       "category": "Technique",
-      "alt_text": "IG / @the.vantage.point",
+      "alt_text": "Miel De Montagne - Le Pigeon",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/03/261704256739.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.663976",
+      "discovered_at": "2025-09-05T03:21:37.373058",
       "element_tag": "img",
       "title": "Fast motion clip from Nohyal",
       "description": "",
@@ -497,176 +137,36 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237793.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664023",
+      "discovered_at": "2025-09-05T03:21:37.373126",
       "element_tag": "img",
-      "title": "The Shining",
+      "title": "Dune: Part Two",
       "description": "",
       "category": "Technique",
-      "alt_text": "The Shining",
+      "alt_text": "Dune: Part Two",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368535.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664077",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
         "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711603985.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664126",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508408.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664173",
-      "element_tag": "img",
-      "title": "Clip from Mikhail Parkhomenko",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip from Mikhail Parkhomenko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164658.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664220",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626497.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664267",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368615.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664313",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626229.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664359",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077050.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664406",
+      "discovered_at": "2025-09-05T03:21:37.373193",
       "element_tag": "img",
       "title": "Ford Kuga - Levels",
       "description": "",
@@ -677,116 +177,16 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021425.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368615.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664452",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812336.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664499",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704365041.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664546",
-      "element_tag": "img",
-      "title": "ASAHI — The Unusual",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ASAHI — The Unusual",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021457.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664592",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710664164.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664638",
-      "element_tag": "img",
-      "title": "Noah",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Noah",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368663.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664684",
+      "discovered_at": "2025-09-05T03:21:37.373259",
       "element_tag": "img",
       "title": "Indonesia FPV: Bali & Java",
       "description": "",
@@ -797,92 +197,635 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711346859.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704369836.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664734",
+      "discovered_at": "2025-09-05T03:21:37.373322",
       "element_tag": "img",
-      "title": "Tiny Cyberpunk 2077 by Flurdeh",
+      "title": "IG / @the.vantage.point",
       "description": "",
       "category": "Technique",
-      "alt_text": "Tiny Cyberpunk 2077 by Flurdeh",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "IG / @the.vantage.point",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704365455.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709330025.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664786",
+      "discovered_at": "2025-09-05T03:21:37.373386",
       "element_tag": "img",
-      "title": "ASAHI — The Unusual",
+      "title": "Graubünden - Best Version (DC)",
       "description": "",
       "category": "Technique",
-      "alt_text": "ASAHI — The Unusual",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Graubünden - Best Version (DC)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123075.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368399.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664837",
+      "discovered_at": "2025-09-05T03:21:37.373450",
       "element_tag": "img",
-      "title": "Canon - Live for the Story",
+      "title": "Indonesia FPV: Bali & Java",
       "description": "",
       "category": "Technique",
-      "alt_text": "Canon - Live for the Story",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164658.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.373513",
+      "element_tag": "img",
+      "title": "The Shining",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Shining",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368663.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.373576",
+      "element_tag": "img",
+      "title": "Indonesia FPV: Bali & Java",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.373641",
+      "element_tag": "img",
+      "title": "The Shining",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Shining",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345479.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.373704",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704835059.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664890",
+      "discovered_at": "2025-09-05T03:21:37.373768",
       "element_tag": "img",
       "title": "Nike - Nothing Beats a Londoner",
       "description": "",
       "category": "Technique",
       "alt_text": "Nike - Nothing Beats a Londoner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709342086.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.373832",
+      "element_tag": "img",
+      "title": "AJ Tracey - Wifey Riddim 4",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJ Tracey - Wifey Riddim 4",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329389.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.373894",
+      "element_tag": "img",
+      "title": "Graubünden - Best Version (DC)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Graubünden - Best Version (DC)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710664164.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.373956",
+      "element_tag": "img",
+      "title": "Noah",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Noah",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626497.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374016",
+      "element_tag": "img",
+      "title": "Lil Uzi Vert - Just Wanna Rock",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403204.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374074",
+      "element_tag": "img",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164595.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374132",
+      "element_tag": "img",
+      "title": "The Shining",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Shining",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707627103.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374190",
+      "element_tag": "img",
+      "title": "Enter the Void",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Enter the Void",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538069.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374247",
+      "element_tag": "img",
+      "title": "Miel De Montagne - Le Pigeon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/03/261704256739.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374308",
+      "element_tag": "img",
+      "title": "Fast motion clip from Nohyal",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fast motion clip from Nohyal",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237793.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374367",
+      "element_tag": "img",
+      "title": "Dune: Part Two",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dune: Part Two",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077050.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374426",
+      "element_tag": "img",
+      "title": "Ford Kuga - Levels",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ford Kuga - Levels",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368615.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374479",
+      "element_tag": "img",
+      "title": "Indonesia FPV: Bali & Java",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704369836.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374530",
+      "element_tag": "img",
+      "title": "IG / @the.vantage.point",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IG / @the.vantage.point",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709330025.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374581",
+      "element_tag": "img",
+      "title": "Graubünden - Best Version (DC)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Graubünden - Best Version (DC)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368399.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374632",
+      "element_tag": "img",
+      "title": "Indonesia FPV: Bali & Java",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164658.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374684",
+      "element_tag": "img",
+      "title": "The Shining",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Shining",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368663.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374736",
+      "element_tag": "img",
+      "title": "Indonesia FPV: Bali & Java",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374788",
+      "element_tag": "img",
+      "title": "The Shining",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Shining",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345479.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374841",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704835059.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374893",
+      "element_tag": "img",
+      "title": "Nike - Nothing Beats a Londoner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Nothing Beats a Londoner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709342086.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374944",
+      "element_tag": "img",
+      "title": "AJ Tracey - Wifey Riddim 4",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJ Tracey - Wifey Riddim 4",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329389.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.374995",
+      "element_tag": "img",
+      "title": "Graubünden - Best Version (DC)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Graubünden - Best Version (DC)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704529422.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.375050",
+      "element_tag": "img",
+      "title": "Morgan x Orlebar Brown feat. Karl Shakur",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Morgan x Orlebar Brown feat. Karl Shakur",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710313129.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664942",
+      "discovered_at": "2025-09-05T03:21:37.375110",
       "element_tag": "img",
       "title": "Reddit user BW3D",
       "description": "",
@@ -892,54 +835,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164595.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711346859.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.664992",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709018151.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665042",
-      "element_tag": "img",
-      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711346967.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665092",
+      "discovered_at": "2025-09-05T03:21:37.375166",
       "element_tag": "img",
       "title": "Tiny Cyberpunk 2077 by Flurdeh",
       "description": "",
@@ -949,225 +854,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076286.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665141",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610807.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665190",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707627103.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665240",
-      "element_tag": "img",
-      "title": "Enter the Void",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Enter the Void",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704369409.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665289",
-      "element_tag": "img",
-      "title": "FPV clip from David Friday",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "FPV clip from David Friday",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368478.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665339",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368969.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665394",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329389.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665445",
-      "element_tag": "img",
-      "title": "Graubünden - Best Version (DC)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Graubünden - Best Version (DC)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237793.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665495",
-      "element_tag": "img",
-      "title": "Dune: Part Two",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dune: Part Two",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538069.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665544",
-      "element_tag": "img",
-      "title": "Miel De Montagne - Le Pigeon",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Miel De Montagne - Le Pigeon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345479.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665594",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709104388.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665648",
-      "element_tag": "img",
-      "title": "Watchtower of China",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Watchtower of China",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710225646.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665697",
+      "discovered_at": "2025-09-05T03:21:37.375223",
       "element_tag": "img",
       "title": "The Gentlemen (TV Series)",
       "description": "",
@@ -1177,16 +873,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123117.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123075.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665746",
+      "discovered_at": "2025-09-05T03:21:37.375278",
       "element_tag": "img",
       "title": "Canon - Live for the Story",
       "description": "",
@@ -1196,16 +892,206 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812336.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.375337",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076286.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.375396",
+      "element_tag": "img",
+      "title": "Ford Kuga - Levels",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ford Kuga - Levels",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021457.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.375453",
+      "element_tag": "img",
+      "title": "Do Revenge",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do Revenge",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704365041.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.375508",
+      "element_tag": "img",
+      "title": "ASAHI — The Unusual",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ASAHI — The Unusual",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021425.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.375569",
+      "element_tag": "img",
+      "title": "Do Revenge",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do Revenge",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711603985.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.375626",
+      "element_tag": "img",
+      "title": "THEY. - U-RITE",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "THEY. - U-RITE",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709104388.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.375684",
+      "element_tag": "img",
+      "title": "Watchtower of China",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Watchtower of China",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709018151.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.375741",
+      "element_tag": "img",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508408.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.375798",
+      "element_tag": "img",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626229.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.375854",
+      "element_tag": "img",
+      "title": "Lil Uzi Vert - Just Wanna Rock",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/03/261704256696.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665796",
+      "discovered_at": "2025-09-05T03:21:37.375911",
       "element_tag": "img",
       "title": "Fast motion clip from Nohyal",
       "description": "",
@@ -1215,48 +1101,162 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709342086.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368535.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665847",
+      "discovered_at": "2025-09-05T03:21:37.375965",
       "element_tag": "img",
-      "title": "AJ Tracey - Wifey Riddim 4",
+      "title": "Indonesia FPV: Bali & Java",
       "description": "",
       "category": "Technique",
-      "alt_text": "AJ Tracey - Wifey Riddim 4",
+      "alt_text": "Indonesia FPV: Bali & Java",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403204.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704369409.webp",
       "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-04T12:37:07.665896",
+      "discovered_at": "2025-09-05T03:21:37.376020",
       "element_tag": "img",
-      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "title": "FPV clip from David Friday",
       "description": "",
       "category": "Technique",
-      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "alt_text": "FPV clip from David Friday",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711346967.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.376075",
+      "element_tag": "img",
+      "title": "Tiny Cyberpunk 2077 by Flurdeh",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tiny Cyberpunk 2077 by Flurdeh",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368478.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.376129",
+      "element_tag": "img",
+      "title": "Indonesia FPV: Bali & Java",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368969.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.376186",
+      "element_tag": "img",
+      "title": "Indonesia FPV: Bali & Java",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704365455.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.376241",
+      "element_tag": "img",
+      "title": "ASAHI — The Unusual",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ASAHI — The Unusual",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123117.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.376296",
+      "element_tag": "img",
+      "title": "Canon - Live for the Story",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Canon - Live for the Story",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610807.webp",
+      "page_url": "https://eyecannndy.com/technique/aerial",
+      "discovered_at": "2025-09-05T03:21:37.376350",
+      "element_tag": "img",
+      "title": "THEY. - U-RITE",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "THEY. - U-RITE",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]

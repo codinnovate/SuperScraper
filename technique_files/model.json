@@ -1,192 +1,12 @@
 {
   "technique": "model",
-  "video_count": 49,
-  "generated_at": "2025-09-05T02:44:19.174614",
+  "video_count": 45,
+  "generated_at": "2025-09-05T04:03:29.626707",
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566878.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.861459",
-      "element_tag": "img",
-      "title": "The French Dispatch",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The French Dispatch",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343876.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.861585",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399154.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.861641",
-      "element_tag": "img",
-      "title": "Halo 3 - Diorama",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711861192.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.861691",
-      "element_tag": "img",
-      "title": "The Umbrella Academy (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Umbrella Academy (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341849.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.861737",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249222.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.861785",
-      "element_tag": "img",
-      "title": "Danny Brown - Y.B.P.",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Danny Brown - Y.B.P.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567723.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.861830",
-      "element_tag": "img",
-      "title": "The Grand Budapest Hotel",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Grand Budapest Hotel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344164.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.861873",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398743.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.861918",
-      "element_tag": "img",
-      "title": "Halo 3 - Diorama",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249284.webp",
       "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.861963",
+      "discovered_at": "2025-09-05T03:24:15.393697",
       "element_tag": "img",
       "title": "Danny Brown - Y.B.P.",
       "description": "",
@@ -197,16 +17,16 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398619.webp",
       "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862007",
+      "discovered_at": "2025-09-05T03:24:15.393791",
       "element_tag": "img",
       "title": "Halo 3 - Diorama",
       "description": "",
@@ -217,725 +37,555 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343383.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862053",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
         "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710223687.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862097",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398919.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862141",
-      "element_tag": "img",
-      "title": "Halo 3 - Diorama",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344021.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862184",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341565.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862227",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342466.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862274",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398790.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862316",
-      "element_tag": "img",
-      "title": "Halo 3 - Diorama",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566878.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862358",
-      "element_tag": "img",
-      "title": "The French Dispatch",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The French Dispatch",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343876.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862401",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399154.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862442",
-      "element_tag": "img",
-      "title": "Halo 3 - Diorama",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711861192.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862483",
-      "element_tag": "img",
-      "title": "The Umbrella Academy (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Umbrella Academy (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341849.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862522",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249222.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862562",
-      "element_tag": "img",
-      "title": "Danny Brown - Y.B.P.",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Danny Brown - Y.B.P.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567723.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862601",
-      "element_tag": "img",
-      "title": "The Grand Budapest Hotel",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Grand Budapest Hotel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344164.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862640",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398743.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862678",
-      "element_tag": "img",
-      "title": "Halo 3 - Diorama",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249284.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862717",
-      "element_tag": "img",
-      "title": "Danny Brown - Y.B.P.",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Danny Brown - Y.B.P.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398619.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862755",
-      "element_tag": "img",
-      "title": "Halo 3 - Diorama",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343383.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862793",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710223687.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862831",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398919.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862869",
-      "element_tag": "img",
-      "title": "Halo 3 - Diorama",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344021.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862907",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341565.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862945",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342466.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.862983",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398790.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863021",
-      "element_tag": "img",
-      "title": "Halo 3 - Diorama",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399202.webp",
       "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863063",
+      "discovered_at": "2025-09-05T03:24:15.393844",
       "element_tag": "img",
       "title": "Halo 3 - Diorama",
       "description": "",
       "category": "Technique",
       "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399280.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863110",
-      "element_tag": "img",
-      "title": "Halo 3 - Diorama",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344281.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863158",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344325.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863203",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344958.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863247",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344082.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863292",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344885.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863336",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342834.webp",
-      "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863378",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399052.webp",
       "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863419",
+      "discovered_at": "2025-09-05T03:24:15.393887",
       "element_tag": "img",
       "title": "Halo 3 - Diorama",
       "description": "",
       "category": "Technique",
       "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399356.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249222.webp",
       "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863461",
+      "discovered_at": "2025-09-05T03:24:15.393930",
       "element_tag": "img",
-      "title": "Halo 3 - Diorama",
+      "title": "Danny Brown - Y.B.P.",
       "description": "",
       "category": "Technique",
-      "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398864.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711861192.webp",
       "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863502",
+      "discovered_at": "2025-09-05T03:24:15.393969",
+      "element_tag": "img",
+      "title": "The Umbrella Academy (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Umbrella Academy (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399154.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394081",
       "element_tag": "img",
       "title": "Halo 3 - Diorama",
       "description": "",
       "category": "Technique",
       "alt_text": "Halo 3 - Diorama",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710332226.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394120",
+      "element_tag": "img",
+      "title": "Our England",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Our England",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398790.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394158",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341849.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394197",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342707.webp",
       "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863543",
+      "discovered_at": "2025-09-05T03:24:15.394237",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398919.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394277",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398864.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394314",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566878.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394352",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249284.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394386",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398619.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394422",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399202.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394456",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399052.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394489",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249222.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394525",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711861192.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394561",
+      "element_tag": "img",
+      "title": "The Umbrella Academy (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Umbrella Academy (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399154.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394598",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710332226.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394632",
+      "element_tag": "img",
+      "title": "Our England",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Our England",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398790.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394668",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341849.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394701",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342707.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394736",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398919.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394768",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398864.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394801",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566878.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394834",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710223687.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394870",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344082.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394910",
       "element_tag": "img",
       "title": "Fantastic Mr. Fox",
       "description": "",
@@ -945,29 +595,295 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710332226.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567723.webp",
       "page_url": "https://eyecannndy.com/technique/model",
-      "discovered_at": "2025-09-04T12:46:19.863585",
+      "discovered_at": "2025-09-05T03:24:15.394947",
       "element_tag": "img",
-      "title": "Our England",
+      "title": "The Grand Budapest Hotel",
       "description": "",
       "category": "Technique",
-      "alt_text": "Our England",
+      "alt_text": "The Grand Budapest Hotel",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342466.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.394985",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343876.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395021",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344021.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395059",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344325.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395096",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342834.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395133",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343383.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395169",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399280.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395204",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344164.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395242",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710398743.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395278",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344281.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395314",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344958.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395349",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344885.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395384",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341565.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395419",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399356.webp",
+      "page_url": "https://eyecannndy.com/technique/model",
+      "discovered_at": "2025-09-05T03:24:15.395453",
+      "element_tag": "img",
+      "title": "Halo 3 - Diorama",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halo 3 - Diorama",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]

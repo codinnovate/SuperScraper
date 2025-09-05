@@ -1,834 +1,372 @@
 {
   "technique": "glitch",
-  "video_count": 74,
-  "generated_at": "2025-09-05T02:44:19.186580",
+  "video_count": 71,
+  "generated_at": "2025-09-05T04:03:29.637998",
   "videos": [
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008742.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.319730",
-      "element_tag": "img",
-      "title": "Untitled Animation",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Untitled Animation",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455032.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.319860",
-      "element_tag": "img",
-      "title": "Severance",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Severance",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155281.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.319934",
-      "element_tag": "img",
-      "title": "Tetsuo: The Iron Man",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Tetsuo: The Iron Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704917060.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320003",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346622.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320063",
-      "element_tag": "img",
-      "title": "The Electric Hotel",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Electric Hotel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403762.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320124",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707978057.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320183",
-      "element_tag": "img",
-      "title": "BENEE - Never Ending",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "BENEE - Never Ending",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345235.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320239",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250262.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320296",
-      "element_tag": "img",
-      "title": "Artist - hAyDiRoKeT",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Artist - hAyDiRoKeT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401107.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320353",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707641843.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320409",
-      "element_tag": "img",
-      "title": "Nu Genea - Marechià (with Célia Kameni)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709633810.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320467",
-      "element_tag": "img",
-      "title": "Cowboy Bepop (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Cowboy Bepop (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008742.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320524",
-      "element_tag": "img",
-      "title": "Untitled Animation",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Untitled Animation",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455032.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320582",
-      "element_tag": "img",
-      "title": "Severance",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Severance",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155281.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320637",
-      "element_tag": "img",
-      "title": "Tetsuo: The Iron Man",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Tetsuo: The Iron Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704917060.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320692",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346622.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320745",
-      "element_tag": "img",
-      "title": "The Electric Hotel",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Electric Hotel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403762.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320797",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707978057.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320848",
-      "element_tag": "img",
-      "title": "BENEE - Never Ending",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "BENEE - Never Ending",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345235.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320899",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250262.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.320952",
-      "element_tag": "img",
-      "title": "Artist - hAyDiRoKeT",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Artist - hAyDiRoKeT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401107.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321003",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707641843.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321055",
-      "element_tag": "img",
-      "title": "Nu Genea - Marechià (with Célia Kameni)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709633810.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321105",
-      "element_tag": "img",
-      "title": "Cowboy Bepop (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Cowboy Bepop (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400815.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321161",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703050034.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321222",
-      "element_tag": "img",
-      "title": "The Truman Show",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Truman Show",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716334141.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321282",
-      "element_tag": "img",
-      "title": "Made for Heroes. Worn by Icons",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Made for Heroes. Worn by Icons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344887.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321341",
-      "element_tag": "img",
-      "title": "Oddworld x Souly - wzf / maybach",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Oddworld x Souly - wzf / maybach",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703050556.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321400",
-      "element_tag": "img",
-      "title": "The Truman Show",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Truman Show",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707641804.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321456",
-      "element_tag": "img",
-      "title": "Nu Genea - Marechià (with Célia Kameni)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709633764.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321513",
-      "element_tag": "img",
-      "title": "Cowboy Bepop (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Cowboy Bepop (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706040845.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321569",
-      "element_tag": "img",
-      "title": "Travis Scott - I KNOW ?",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Travis Scott - I KNOW ?",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008882.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321625",
-      "element_tag": "img",
-      "title": "Untitled Clip",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Untitled Clip",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706589437.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321681",
-      "element_tag": "img",
-      "title": "Allbirds - Introducing The Trail Runner SWT",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Allbirds - Introducing The Trail Runner SWT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704912168.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321736",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409869.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321791",
-      "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705099841.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321846",
-      "element_tag": "img",
-      "title": "A$AP Rocky - A$AP Forever",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - A$AP Forever",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703467854.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321901",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Praise The Lord",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - Praise The Lord",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710333669.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.321956",
+      "discovered_at": "2025-09-05T03:26:00.394878",
       "element_tag": "img",
       "title": "#LoveYourz",
       "description": "",
       "category": "Technique",
       "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704912533.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344887.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322012",
+      "discovered_at": "2025-09-05T03:26:00.395019",
+      "element_tag": "img",
+      "title": "Oddworld x Souly - wzf / maybach",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008882.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395102",
+      "element_tag": "img",
+      "title": "Untitled Clip",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Untitled Clip",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704912168.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395176",
       "element_tag": "img",
       "title": "João Borsch - Apaz",
       "description": "",
       "category": "Technique",
       "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250291.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403762.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322067",
+      "discovered_at": "2025-09-05T03:26:00.395246",
       "element_tag": "img",
-      "title": "Artist - hAyDiRoKeT",
+      "title": "adidas Originals - Original Is Never Finished",
       "description": "",
       "category": "Technique",
-      "alt_text": "Artist - hAyDiRoKeT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008742.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395315",
+      "element_tag": "img",
+      "title": "Untitled Animation",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Untitled Animation",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346622.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395381",
+      "element_tag": "img",
+      "title": "The Electric Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Electric Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609932.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322121",
+      "discovered_at": "2025-09-05T03:26:00.395445",
       "element_tag": "img",
       "title": "Carly Gibert - Dropping Seeds",
       "description": "",
       "category": "Technique",
       "alt_text": "Carly Gibert - Dropping Seeds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400460.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155281.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322176",
+      "discovered_at": "2025-09-05T03:26:00.395509",
+      "element_tag": "img",
+      "title": "Tetsuo: The Iron Man",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tetsuo: The Iron Man",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710333669.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395571",
+      "element_tag": "img",
+      "title": "#LoveYourz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "#LoveYourz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344887.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395633",
+      "element_tag": "img",
+      "title": "Oddworld x Souly - wzf / maybach",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008882.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395692",
+      "element_tag": "img",
+      "title": "Untitled Clip",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Untitled Clip",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704912168.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395750",
+      "element_tag": "img",
+      "title": "João Borsch - Apaz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "João Borsch - Apaz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403762.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395809",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008742.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395867",
+      "element_tag": "img",
+      "title": "Untitled Animation",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Untitled Animation",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346622.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395925",
+      "element_tag": "img",
+      "title": "The Electric Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Electric Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609932.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.395983",
+      "element_tag": "img",
+      "title": "Carly Gibert - Dropping Seeds",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155281.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.396040",
+      "element_tag": "img",
+      "title": "Tetsuo: The Iron Man",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tetsuo: The Iron Man",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403642.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.396103",
       "element_tag": "img",
       "title": "adidas Originals - Original Is Never Finished",
       "description": "",
@@ -838,54 +376,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346555.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322230",
-      "element_tag": "img",
-      "title": "The Electric Hotel",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Electric Hotel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707407868.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322290",
-      "element_tag": "img",
-      "title": "A Trip to the Moon",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A Trip to the Moon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250276.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322344",
+      "discovered_at": "2025-09-05T03:26:00.396171",
       "element_tag": "img",
       "title": "Artist - hAyDiRoKeT",
       "description": "",
@@ -895,16 +395,54 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400658.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.396238",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709633764.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.396300",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329181.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322401",
+      "discovered_at": "2025-09-05T03:26:00.396366",
       "element_tag": "img",
       "title": "Vaeda Black - Run Fast",
       "description": "",
@@ -914,92 +452,54 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705106252.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455032.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322457",
+      "discovered_at": "2025-09-05T03:26:00.396434",
       "element_tag": "img",
-      "title": "Get Out",
+      "title": "Severance",
       "description": "",
       "category": "Technique",
-      "alt_text": "Get Out",
+      "alt_text": "Severance",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708341995.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346555.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322512",
+      "discovered_at": "2025-09-05T03:26:00.396499",
       "element_tag": "img",
-      "title": "@blancavinas / Giphy",
+      "title": "The Electric Hotel",
       "description": "",
       "category": "Technique",
-      "alt_text": "@blancavinas / Giphy",
+      "alt_text": "The Electric Hotel",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403642.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706040845.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322570",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703367033.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322626",
-      "element_tag": "img",
-      "title": "Husky - Never-ever",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Husky - Never-ever",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706040882.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322683",
+      "discovered_at": "2025-09-05T03:26:00.396549",
       "element_tag": "img",
       "title": "Travis Scott - I KNOW ?",
       "description": "",
@@ -1009,35 +509,92 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250143.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704912533.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322739",
+      "discovered_at": "2025-09-05T03:26:00.396599",
       "element_tag": "img",
-      "title": "Unknown Source",
+      "title": "João Borsch - Apaz",
       "description": "",
       "category": "Technique",
-      "alt_text": "Unknown Source",
+      "alt_text": "João Borsch - Apaz",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400658.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707978057.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322794",
+      "discovered_at": "2025-09-05T03:26:00.396648",
+      "element_tag": "img",
+      "title": "BENEE - Never Ending",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "BENEE - Never Ending",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705099841.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.396697",
+      "element_tag": "img",
+      "title": "A$AP Rocky - A$AP Forever",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703467854.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.396746",
+      "element_tag": "img",
+      "title": "A$AP Rocky - Praise The Lord",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - Praise The Lord",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400460.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.396793",
       "element_tag": "img",
       "title": "adidas Originals - Original Is Never Finished",
       "description": "",
@@ -1047,16 +604,415 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250143.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.396841",
+      "element_tag": "img",
+      "title": "Unknown Source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown Source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716334141.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.396888",
+      "element_tag": "img",
+      "title": "Made for Heroes. Worn by Icons",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Made for Heroes. Worn by Icons",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709633810.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.396936",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401107.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.396983",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400815.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397029",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707641843.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397075",
+      "element_tag": "img",
+      "title": "Nu Genea - Marechià (with Célia Kameni)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704917060.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397121",
+      "element_tag": "img",
+      "title": "João Borsch - Apaz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "João Borsch - Apaz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703050556.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397167",
+      "element_tag": "img",
+      "title": "The Truman Show",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Truman Show",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250291.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397213",
+      "element_tag": "img",
+      "title": "Artist - hAyDiRoKeT",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Artist - hAyDiRoKeT",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707641804.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397259",
+      "element_tag": "img",
+      "title": "Nu Genea - Marechià (with Célia Kameni)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345235.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397304",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703367033.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397350",
+      "element_tag": "img",
+      "title": "Husky - Never-ever",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Husky - Never-ever",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706040882.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397396",
+      "element_tag": "img",
+      "title": "Travis Scott - I KNOW ?",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Travis Scott - I KNOW ?",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707407868.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397442",
+      "element_tag": "img",
+      "title": "A Trip to the Moon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A Trip to the Moon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250262.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397490",
+      "element_tag": "img",
+      "title": "Artist - hAyDiRoKeT",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Artist - hAyDiRoKeT",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705106252.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397538",
+      "element_tag": "img",
+      "title": "Get Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Get Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708341995.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397584",
+      "element_tag": "img",
+      "title": "@blancavinas / Giphy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@blancavinas / Giphy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706589437.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397633",
+      "element_tag": "img",
+      "title": "Allbirds - Introducing The Trail Runner SWT",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Allbirds - Introducing The Trail Runner SWT",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409869.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397681",
+      "element_tag": "img",
+      "title": "Kendrick Lamar - Humble",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kendrick Lamar - Humble",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703050034.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397728",
+      "element_tag": "img",
+      "title": "The Truman Show",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Truman Show",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335427.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.397776",
+      "element_tag": "img",
+      "title": "#LoveYourz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "#LoveYourz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710830412.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322849",
+      "discovered_at": "2025-09-05T03:26:00.397823",
       "element_tag": "img",
       "title": "Aritzia - Sweatfleece",
       "description": "",
@@ -1066,244 +1022,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335427.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322904",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335029.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.322960",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335860.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323015",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710333669.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323068",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335906.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323124",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336216.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323180",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715573840.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323236",
-      "element_tag": "img",
-      "title": "Donna Missal - Sex is Good",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Donna Missal - Sex is Good",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336138.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323291",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336061.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323345",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710334311.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323401",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344023.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323456",
-      "element_tag": "img",
-      "title": "Oddworld x Souly - wzf / maybach",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Oddworld x Souly - wzf / maybach",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715574038.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323511",
-      "element_tag": "img",
-      "title": "Donna Missal - Sex is Good",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Donna Missal - Sex is Good",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336325.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323565",
+      "discovered_at": "2025-09-05T03:26:00.397870",
       "element_tag": "img",
       "title": "#LoveYourz",
       "description": "",
@@ -1313,54 +1041,54 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710490198.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335029.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323620",
+      "discovered_at": "2025-09-05T03:26:00.397918",
       "element_tag": "img",
-      "title": "21 Savage - redrum",
+      "title": "#LoveYourz",
       "description": "",
       "category": "Technique",
-      "alt_text": "21 Savage - redrum",
+      "alt_text": "#LoveYourz",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715573916.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336138.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323675",
+      "discovered_at": "2025-09-05T03:26:00.397964",
       "element_tag": "img",
-      "title": "Donna Missal - Sex is Good",
+      "title": "#LoveYourz",
       "description": "",
       "category": "Technique",
-      "alt_text": "Donna Missal - Sex is Good",
+      "alt_text": "#LoveYourz",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335989.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323731",
+      "discovered_at": "2025-09-05T03:26:00.398010",
       "element_tag": "img",
       "title": "#LoveYourz",
       "description": "",
@@ -1370,16 +1098,54 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336061.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.398056",
+      "element_tag": "img",
+      "title": "#LoveYourz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "#LoveYourz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336523.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.398102",
+      "element_tag": "img",
+      "title": "#LoveYourz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "#LoveYourz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716270889.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323787",
+      "discovered_at": "2025-09-05T03:26:00.398149",
       "element_tag": "img",
       "title": "The Blair Witch Project",
       "description": "",
@@ -1389,16 +1155,35 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336523.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344023.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323836",
+      "discovered_at": "2025-09-05T03:26:00.398194",
+      "element_tag": "img",
+      "title": "Oddworld x Souly - wzf / maybach",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335860.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.398244",
       "element_tag": "img",
       "title": "#LoveYourz",
       "description": "",
@@ -1408,16 +1193,92 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336216.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.398293",
+      "element_tag": "img",
+      "title": "#LoveYourz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "#LoveYourz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710333669.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.398340",
+      "element_tag": "img",
+      "title": "#LoveYourz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "#LoveYourz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715573916.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.398389",
+      "element_tag": "img",
+      "title": "Donna Missal - Sex is Good",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Donna Missal - Sex is Good",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715573840.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.398439",
+      "element_tag": "img",
+      "title": "Donna Missal - Sex is Good",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Donna Missal - Sex is Good",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715655947.webp",
       "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-04T12:50:01.323885",
+      "discovered_at": "2025-09-05T03:26:00.398488",
       "element_tag": "img",
       "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
       "description": "",
@@ -1427,10 +1288,86 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335906.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.398537",
+      "element_tag": "img",
+      "title": "#LoveYourz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "#LoveYourz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715574038.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.398585",
+      "element_tag": "img",
+      "title": "Donna Missal - Sex is Good",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Donna Missal - Sex is Good",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710490198.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.398633",
+      "element_tag": "img",
+      "title": "21 Savage - redrum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "21 Savage - redrum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710334311.webp",
+      "page_url": "https://eyecannndy.com/technique/glitch",
+      "discovered_at": "2025-09-05T03:26:00.398683",
+      "element_tag": "img",
+      "title": "#LoveYourz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "#LoveYourz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]

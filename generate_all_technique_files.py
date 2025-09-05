@@ -107,6 +107,57 @@ def group_videos_by_technique(metadata: dict) -> dict:
     
     return dict(technique_videos)
 
+def load_technique_links(links_file: str = "discovered_technique_links.json") -> dict:
+    """
+    Load technique links with display text and URLs.
+    
+    Returns:
+        Dictionary mapping technique names to their metadata
+    """
+    try:
+        with open(links_file, 'r', encoding='utf-8') as f:
+            links_data = json.load(f)
+        
+        # Convert list to dictionary keyed by technique name
+        technique_links = {}
+        sub_categories = {}
+        
+        for link in links_data:
+            technique_name = link.get('name', '')
+            if technique_name:
+                # Handle sub-categories (techniques with # in name)
+                if '#' in technique_name:
+                    base_technique, sub_category = technique_name.split('#', 1)
+                    if base_technique not in sub_categories:
+                        sub_categories[base_technique] = {}
+                    # Use dictionary to automatically deduplicate by sub_category name
+                    sub_categories[base_technique][sub_category] = {
+                        'name': sub_category,
+                        'url': link.get('url', ''),
+                        'text': link.get('text', sub_category.replace('-', ' ').title())
+                    }
+                else:
+                    technique_links[technique_name] = {
+                        'display_text': link.get('text', technique_name),
+                        'url': link.get('url', f'https://eyecannndy.com/technique/{technique_name}'),
+                        'name': technique_name
+                    }
+        
+        # Add sub-categories to their parent techniques
+        for base_technique, subs in sub_categories.items():
+            if base_technique in technique_links:
+                # Convert dictionary values to list to maintain original structure
+                technique_links[base_technique]['sub_categories'] = list(subs.values())
+        
+        logger.info(f"Loaded {len(technique_links)} technique links with {len(sub_categories)} having sub-categories")
+        return technique_links
+    except FileNotFoundError:
+        logger.warning(f"Technique links file {links_file} not found. Using default URLs.")
+        return {}
+    except Exception as e:
+        logger.error(f"Error loading technique links: {e}")
+        return {}
+
 def generate_all_technique_files(output_dir: str = "technique_files"):
     """
     Generate separate CSV and JSON files for ALL 136 techniques.
@@ -121,6 +172,9 @@ def generate_all_technique_files(output_dir: str = "technique_files"):
     
     # Group existing videos by technique
     existing_technique_videos = group_videos_by_technique(metadata)
+    
+    # Load technique links with display text and URLs
+    technique_links = load_technique_links()
     
     logger.info(f"Found existing data for {len(existing_technique_videos)} techniques")
     logger.info(f"Will generate files for all {len(ALL_TECHNIQUES)} techniques")
@@ -177,7 +231,10 @@ def generate_all_technique_files(output_dir: str = "technique_files"):
             technique: {
                 "video_count": len(existing_technique_videos.get(technique, [])),
                 "sanitized_name": sanitize_filename(technique),
-                "has_data": technique in existing_technique_videos
+                "has_data": technique in existing_technique_videos,
+                "display_text": technique_links.get(technique, {}).get('display_text', technique.replace('-', ' ').title()),
+                "url": technique_links.get(technique, {}).get('url', f'https://eyecannndy.com/technique/{technique}'),
+                "sub_categories": technique_links.get(technique, {}).get('sub_categories', [])
             }
             for technique in ALL_TECHNIQUES
         }

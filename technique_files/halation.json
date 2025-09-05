@@ -1,6 +1,778 @@
 {
   "technique": "halation",
-  "video_count": 0,
-  "generated_at": "2025-09-05T02:44:19.195502",
-  "videos": []
+  "video_count": 39,
+  "generated_at": "2025-09-05T04:03:29.649128",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710224697.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.738538",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706500981.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.738702",
+      "element_tag": "img",
+      "title": "Uncut Gems",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Uncut Gems",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715644861.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.738780",
+      "element_tag": "img",
+      "title": "Oblé Reed - WESTON.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oblé Reed - WESTON.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826036.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.738846",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174604.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.738909",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708423151.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.738968",
+      "element_tag": "img",
+      "title": "Seconds",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Seconds",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434140.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739026",
+      "element_tag": "img",
+      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710332797.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739083",
+      "element_tag": "img",
+      "title": "Our England",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Our England",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715291889.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739138",
+      "element_tag": "img",
+      "title": "Inter Alia (Short Film)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Inter Alia (Short Film)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434366.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739194",
+      "element_tag": "img",
+      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720851055.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739250",
+      "element_tag": "img",
+      "title": "Jhula - Manish Khushalani",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jhula - Manish Khushalani",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175258.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739306",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706152122.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739360",
+      "element_tag": "img",
+      "title": "Cat People",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cat People",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706687518.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739413",
+      "element_tag": "img",
+      "title": "Gregory Porter - Revival",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Gregory Porter - Revival",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715645079.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739467",
+      "element_tag": "img",
+      "title": "Oblé Reed - WESTON.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oblé Reed - WESTON.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710224697.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739518",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706500981.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739570",
+      "element_tag": "img",
+      "title": "Uncut Gems",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Uncut Gems",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715644861.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739621",
+      "element_tag": "img",
+      "title": "Oblé Reed - WESTON.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oblé Reed - WESTON.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826036.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739673",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174604.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739724",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708423151.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739775",
+      "element_tag": "img",
+      "title": "Seconds",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Seconds",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434140.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739826",
+      "element_tag": "img",
+      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710332797.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739876",
+      "element_tag": "img",
+      "title": "Our England",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Our England",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715291889.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739928",
+      "element_tag": "img",
+      "title": "Inter Alia (Short Film)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Inter Alia (Short Film)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434366.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.739978",
+      "element_tag": "img",
+      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720851055.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740029",
+      "element_tag": "img",
+      "title": "Jhula - Manish Khushalani",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jhula - Manish Khushalani",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175258.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740080",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706152122.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740130",
+      "element_tag": "img",
+      "title": "Cat People",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cat People",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706687518.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740180",
+      "element_tag": "img",
+      "title": "Gregory Porter - Revival",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Gregory Porter - Revival",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715645079.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740230",
+      "element_tag": "img",
+      "title": "Oblé Reed - WESTON.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oblé Reed - WESTON.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545647.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740286",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720850488.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740342",
+      "element_tag": "img",
+      "title": "Jhula - Manish Khushalani",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jhula - Manish Khushalani",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708421922.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740396",
+      "element_tag": "img",
+      "title": "Mean Streets",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mean Streets",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710034197.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740452",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175012.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740508",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174125.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740599",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706427577.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740757",
+      "element_tag": "img",
+      "title": "The Shining",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Shining",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710023723.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740840",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710224793.webp",
+      "page_url": "https://eyecannndy.com/technique/halation",
+      "discovered_at": "2025-09-05T03:28:10.740908",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    }
+  ]
 }

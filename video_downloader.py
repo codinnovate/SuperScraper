@@ -21,15 +21,27 @@ MAX_RETRIES = 3  # Maximum number of retry attempts for failed downloads
 CHUNK_SIZE = 8192  # Download chunk size in bytes
 LOG_LEVEL = logging.INFO  # Logging level (DEBUG, INFO, WARNING, ERROR)
 VIDEOS_FOLDER = "videos"  # Base folder for downloaded videos
-from typing import List, Dict
+from typing import List, Dict, Optional
+
+# USER CONFIGURABLE HEADERS - Customize these for your device/browser
+DEFAULT_DOWNLOADER_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'video/webp,video/*,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'DNT': '1',
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1'
+}
 
 class VideoDownloader:
-    def __init__(self, base_download_dir: str = VIDEOS_FOLDER):
+    def __init__(self, base_download_dir: str = VIDEOS_FOLDER, custom_headers: Optional[Dict[str, str]] = None):
         """
         Initialize the video downloader.
         
         Args:
             base_download_dir: Base directory for downloading videos
+            custom_headers: Custom headers to use instead of defaults (optional)
         """
         self.base_download_dir = Path(base_download_dir)
         self.base_download_dir.mkdir(exist_ok=True)
@@ -47,15 +59,9 @@ class VideoDownloader:
         
         # Setup session with headers
         self.session = requests.Session()
-        self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept': 'video/webp,video/*,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.9',
-            'Accept-Encoding': 'gzip, deflate, br',
-            'DNT': '1',
-            'Connection': 'keep-alive',
-            'Upgrade-Insecure-Requests': '1'
-        })
+        # Use custom headers if provided, otherwise use defaults
+        headers_to_use = custom_headers if custom_headers else DEFAULT_DOWNLOADER_HEADERS
+        self.session.headers.update(headers_to_use)
         
         self.download_stats = {
             'total_videos': 0,

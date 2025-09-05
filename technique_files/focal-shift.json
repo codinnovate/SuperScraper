@@ -1,6 +1,727 @@
 {
   "technique": "focal-shift",
-  "video_count": 0,
-  "generated_at": "2025-09-05T02:44:19.194630",
-  "videos": []
+  "video_count": 36,
+  "generated_at": "2025-09-05T04:03:29.644308",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710831840.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.717827",
+      "element_tag": "img",
+      "title": "Oppo - Make Every Shot Stand Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710026105.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.717976",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248701.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718057",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710225341.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718132",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097296.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718203",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720914359.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718271",
+      "element_tag": "img",
+      "title": "AJ Tracey - Bubble Bath",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJ Tracey - Bubble Bath",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710390475.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718338",
+      "element_tag": "img",
+      "title": "Feid - ALAKRAN",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Feid - ALAKRAN",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739193014.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718409",
+      "element_tag": "img",
+      "title": "Static - Federer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Static - Federer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344614.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718473",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634792.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718541",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710488866.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718609",
+      "element_tag": "img",
+      "title": "21 Savage - redrum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "21 Savage - redrum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097744.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718676",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634510.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718741",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710831973.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718809",
+      "element_tag": "img",
+      "title": "Oppo - Make Every Shot Stand Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709537862.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718874",
+      "element_tag": "img",
+      "title": "Miel De Montagne - Le Pigeon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634200.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718937",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710832950.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.718998",
+      "element_tag": "img",
+      "title": "Oppo - Make Every Shot Stand Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538941.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719062",
+      "element_tag": "img",
+      "title": "Saint Levant - Nails",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Saint Levant - Nails",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710831840.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719123",
+      "element_tag": "img",
+      "title": "Oppo - Make Every Shot Stand Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710026105.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719185",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248701.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719245",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710225341.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719304",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097296.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719362",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720914359.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719418",
+      "element_tag": "img",
+      "title": "AJ Tracey - Bubble Bath",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJ Tracey - Bubble Bath",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710390475.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719475",
+      "element_tag": "img",
+      "title": "Feid - ALAKRAN",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Feid - ALAKRAN",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739193014.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719532",
+      "element_tag": "img",
+      "title": "Static - Federer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Static - Federer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344614.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719588",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634792.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719644",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710488866.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719700",
+      "element_tag": "img",
+      "title": "21 Savage - redrum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "21 Savage - redrum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097744.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719757",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634510.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719813",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710831973.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719869",
+      "element_tag": "img",
+      "title": "Oppo - Make Every Shot Stand Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709537862.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719924",
+      "element_tag": "img",
+      "title": "Miel De Montagne - Le Pigeon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634200.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.719982",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710832950.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.720038",
+      "element_tag": "img",
+      "title": "Oppo - Make Every Shot Stand Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538941.webp",
+      "page_url": "https://eyecannndy.com/technique/focal-shift",
+      "discovered_at": "2025-09-05T03:27:00.720093",
+      "element_tag": "img",
+      "title": "Saint Levant - Nails",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Saint Levant - Nails",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    }
+  ]
 }

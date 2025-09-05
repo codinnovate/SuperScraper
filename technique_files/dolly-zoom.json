@@ -1,642 +1,732 @@
 {
   "technique": "dolly-zoom",
-  "video_count": 64,
-  "generated_at": "2025-09-05T02:44:19.177131",
+  "video_count": 71,
+  "generated_at": "2025-09-05T04:03:29.629272",
   "videos": [
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452044.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.073668",
-      "element_tag": "img",
-      "title": "Rosalia - Saoko",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Rosalia - Saoko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452893.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.073826",
-      "element_tag": "img",
-      "title": "Guardians of the Galaxy",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Guardians of the Galaxy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739193621.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.073908",
-      "element_tag": "img",
-      "title": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704528059.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.073982",
-      "element_tag": "img",
-      "title": "Raging Bull",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Raging Bull",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/13/261707812433.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074051",
-      "element_tag": "img",
-      "title": "It Chapter Two",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "It Chapter Two",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452220.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074117",
-      "element_tag": "img",
-      "title": "Micaël Reynaud",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Micaël Reynaud",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334390.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074183",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703453279.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074247",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703922546.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074311",
-      "element_tag": "img",
-      "title": "slowthai - Yum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527081.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074377",
-      "element_tag": "img",
-      "title": "Reconnecting Roots (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Reconnecting Roots (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739194069.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074441",
-      "element_tag": "img",
-      "title": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452044.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074506",
-      "element_tag": "img",
-      "title": "Rosalia - Saoko",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Rosalia - Saoko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452893.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074569",
-      "element_tag": "img",
-      "title": "Guardians of the Galaxy",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Guardians of the Galaxy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739193621.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074631",
-      "element_tag": "img",
-      "title": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704528059.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074688",
-      "element_tag": "img",
-      "title": "Raging Bull",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Raging Bull",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/13/261707812433.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074745",
-      "element_tag": "img",
-      "title": "It Chapter Two",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "It Chapter Two",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452220.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074812",
-      "element_tag": "img",
-      "title": "Micaël Reynaud",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Micaël Reynaud",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334390.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074870",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703453279.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074929",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703922546.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.074987",
-      "element_tag": "img",
-      "title": "slowthai - Yum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527081.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075047",
-      "element_tag": "img",
-      "title": "Reconnecting Roots (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Reconnecting Roots (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739194069.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075105",
-      "element_tag": "img",
-      "title": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384802.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075167",
-      "element_tag": "img",
-      "title": "Asteroid City",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Asteroid City",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527325.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075236",
-      "element_tag": "img",
-      "title": "Vertigo",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Vertigo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703453301.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075299",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702454649.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075359",
-      "element_tag": "img",
-      "title": "Halt and Catch Fire",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halt and Catch Fire",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704530262.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075416",
-      "element_tag": "img",
-      "title": "Event Horizon",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Event Horizon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725942813.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075474",
-      "element_tag": "img",
-      "title": "ScHoolboy Q - Floating",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ScHoolboy Q - Floating",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720850874.webp",
       "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075531",
+      "discovered_at": "2025-09-05T03:24:39.896282",
       "element_tag": "img",
       "title": "Jhula - Manish Khushalani",
       "description": "",
       "category": "Technique",
       "alt_text": "Jhula - Manish Khushalani",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711051920.webp",
       "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075585",
+      "discovered_at": "2025-09-05T03:24:39.896438",
       "element_tag": "img",
       "title": "Aminé - Charmander",
       "description": "",
       "category": "Technique",
       "alt_text": "Aminé - Charmander",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704529422.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452044.webp",
       "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075640",
+      "discovered_at": "2025-09-05T03:24:39.896524",
       "element_tag": "img",
-      "title": "Morgan x Orlebar Brown feat. Karl Shakur",
+      "title": "Rosalia - Saoko",
       "description": "",
       "category": "Technique",
-      "alt_text": "Morgan x Orlebar Brown feat. Karl Shakur",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Rosalia - Saoko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489331.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452893.webp",
       "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075695",
+      "discovered_at": "2025-09-05T03:24:39.896601",
       "element_tag": "img",
-      "title": "21 Savage - redrum",
+      "title": "Guardians of the Galaxy",
       "description": "",
       "category": "Technique",
-      "alt_text": "21 Savage - redrum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Guardians of the Galaxy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452688.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384802.webp",
       "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075750",
+      "discovered_at": "2025-09-05T03:24:39.896672",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703453279.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.896742",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703923041.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.896810",
+      "element_tag": "img",
+      "title": "slowthai - Yum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "slowthai - Yum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527081.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.896876",
+      "element_tag": "img",
+      "title": "Reconnecting Roots (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Reconnecting Roots (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527738.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.896942",
+      "element_tag": "img",
+      "title": "Breaking Bad (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Breaking Bad (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527489.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897008",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825196.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897071",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739194069.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897135",
+      "element_tag": "img",
+      "title": "Severance S2E1 ‘Hello, Ms. Cobel’",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704526818.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897200",
+      "element_tag": "img",
+      "title": "Forza Horizon 4",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Forza Horizon 4",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702783287.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897263",
+      "element_tag": "img",
+      "title": "Ratatouille",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ratatouille",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706691244.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897326",
+      "element_tag": "img",
+      "title": "Kid Culture - KEEP IT",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kid Culture - KEEP IT",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710026839.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897389",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452452.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897452",
+      "element_tag": "img",
+      "title": "Animation by Marion Sila",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Animation by Marion Sila",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702454649.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897518",
+      "element_tag": "img",
+      "title": "Halt and Catch Fire",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halt and Catch Fire",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720850874.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897584",
+      "element_tag": "img",
+      "title": "Jhula - Manish Khushalani",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jhula - Manish Khushalani",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711051920.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897649",
+      "element_tag": "img",
+      "title": "Aminé - Charmander",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Aminé - Charmander",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452044.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897712",
+      "element_tag": "img",
+      "title": "Rosalia - Saoko",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Rosalia - Saoko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452893.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897766",
+      "element_tag": "img",
+      "title": "Guardians of the Galaxy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Guardians of the Galaxy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384802.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897819",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703453279.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897872",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703923041.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897923",
+      "element_tag": "img",
+      "title": "slowthai - Yum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "slowthai - Yum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527081.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.897975",
+      "element_tag": "img",
+      "title": "Reconnecting Roots (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Reconnecting Roots (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527738.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898026",
+      "element_tag": "img",
+      "title": "Breaking Bad (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Breaking Bad (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527489.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898076",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825196.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898127",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739194069.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898179",
+      "element_tag": "img",
+      "title": "Severance S2E1 ‘Hello, Ms. Cobel’",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704526818.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898231",
+      "element_tag": "img",
+      "title": "Forza Horizon 4",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Forza Horizon 4",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702783287.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898282",
+      "element_tag": "img",
+      "title": "Ratatouille",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ratatouille",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706691244.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898333",
+      "element_tag": "img",
+      "title": "Kid Culture - KEEP IT",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kid Culture - KEEP IT",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710026839.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898384",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452452.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898435",
+      "element_tag": "img",
+      "title": "Animation by Marion Sila",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Animation by Marion Sila",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702454649.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898489",
+      "element_tag": "img",
+      "title": "Halt and Catch Fire",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halt and Catch Fire",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452593.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898546",
       "element_tag": "img",
       "title": "Ikea - Infinite Play",
       "description": "",
@@ -646,225 +736,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702783287.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075805",
-      "element_tag": "img",
-      "title": "Ratatouille",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ratatouille",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704528243.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075861",
-      "element_tag": "img",
-      "title": "La Haine",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "La Haine",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704529153.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075918",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452452.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.075974",
-      "element_tag": "img",
-      "title": "Animation by Marion Sila",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Animation by Marion Sila",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527738.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076032",
-      "element_tag": "img",
-      "title": "Breaking Bad (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Breaking Bad (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704822950.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076093",
-      "element_tag": "img",
-      "title": "Yuh - Can Do it",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Yuh - Can Do it",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709970954.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076152",
-      "element_tag": "img",
-      "title": "Nike - Rise of the kids",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Nike - Rise of the kids",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703453180.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076212",
-      "element_tag": "img",
-      "title": "Sex Education (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sex Education (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452353.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076269",
-      "element_tag": "img",
-      "title": "GEICO - Geckosaurus",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "GEICO - Geckosaurus",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451175.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076325",
-      "element_tag": "img",
-      "title": "Jaws",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Jaws",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715574714.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076380",
-      "element_tag": "img",
-      "title": "Ariana Grande - Positions",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ariana Grande - Positions",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703453907.webp",
       "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076436",
+      "discovered_at": "2025-09-05T03:24:39.898609",
       "element_tag": "img",
       "title": "Severance",
       "description": "",
@@ -874,320 +755,35 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451973.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/13/261707812433.webp",
       "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076490",
+      "discovered_at": "2025-09-05T03:24:39.898673",
       "element_tag": "img",
-      "title": "Downtown Kayoto - Lite",
+      "title": "It Chapter Two",
       "description": "",
       "category": "Technique",
-      "alt_text": "Downtown Kayoto - Lite",
+      "alt_text": "It Chapter Two",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527609.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452688.webp",
       "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076544",
-      "element_tag": "img",
-      "title": "@valslooks / IG",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "@valslooks / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706691244.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076599",
-      "element_tag": "img",
-      "title": "Kid Culture - KEEP IT",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Kid Culture - KEEP IT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710026839.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076652",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704106554.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076707",
-      "element_tag": "img",
-      "title": "Sub Urban - UH OH! (feat. BENEE)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sub Urban - UH OH! (feat. BENEE)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704528362.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076762",
-      "element_tag": "img",
-      "title": "Conswank - Holes In My Denim",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Conswank - Holes In My Denim",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704526818.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076817",
-      "element_tag": "img",
-      "title": "Forza Horizon 4",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Forza Horizon 4",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097372.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076872",
-      "element_tag": "img",
-      "title": "Beethoven",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Beethoven",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452531.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076926",
-      "element_tag": "img",
-      "title": "Sony - Your World. Nothing Else",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sony - Your World. Nothing Else",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634691.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.076981",
-      "element_tag": "img",
-      "title": "Cowboy Bepop (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Cowboy Bepop (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825196.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.077037",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703453350.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.077093",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703923041.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.077148",
-      "element_tag": "img",
-      "title": "slowthai - Yum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527489.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.077205",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711139692.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.077260",
-      "element_tag": "img",
-      "title": "Aminé - Charmander",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Aminé - Charmander",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633749.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.077315",
-      "element_tag": "img",
-      "title": "IKEA – Show Off Your Savvy",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "IKEA – Show Off Your Savvy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452593.webp",
-      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.077370",
+      "discovered_at": "2025-09-05T03:24:39.898735",
       "element_tag": "img",
       "title": "Ikea - Infinite Play",
       "description": "",
@@ -1197,16 +793,149 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634691.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898794",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704530262.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898854",
+      "element_tag": "img",
+      "title": "Event Horizon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Event Horizon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711139692.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898912",
+      "element_tag": "img",
+      "title": "Aminé - Charmander",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Aminé - Charmander",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704528362.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.898970",
+      "element_tag": "img",
+      "title": "Conswank - Holes In My Denim",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Conswank - Holes In My Denim",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703453301.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899030",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489331.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899090",
+      "element_tag": "img",
+      "title": "21 Savage - redrum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "21 Savage - redrum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703453180.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899147",
+      "element_tag": "img",
+      "title": "Sex Education (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sex Education (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705823035.webp",
       "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.077424",
+      "discovered_at": "2025-09-05T03:24:39.899203",
       "element_tag": "img",
       "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
       "description": "",
@@ -1216,16 +945,168 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097372.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899258",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703922546.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899314",
+      "element_tag": "img",
+      "title": "slowthai - Yum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "slowthai - Yum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704106554.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899370",
+      "element_tag": "img",
+      "title": "Sub Urban - UH OH! (feat. BENEE)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sub Urban - UH OH! (feat. BENEE)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452353.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899426",
+      "element_tag": "img",
+      "title": "GEICO - Geckosaurus",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "GEICO - Geckosaurus",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704528243.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899482",
+      "element_tag": "img",
+      "title": "La Haine",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "La Haine",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709970954.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899538",
+      "element_tag": "img",
+      "title": "Nike - Rise of the kids",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Rise of the kids",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527325.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899594",
+      "element_tag": "img",
+      "title": "Vertigo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Vertigo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739193621.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899650",
+      "element_tag": "img",
+      "title": "Severance S2E1 ‘Hello, Ms. Cobel’",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704511959.webp",
       "page_url": "https://eyecannndy.com/technique/dolly-zoom",
-      "discovered_at": "2025-09-04T12:47:47.077477",
+      "discovered_at": "2025-09-05T03:24:39.899713",
       "element_tag": "img",
       "title": "ASD - Legendär / Populär",
       "description": "",
@@ -1235,10 +1116,276 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725942813.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899769",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704529422.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899826",
+      "element_tag": "img",
+      "title": "Morgan x Orlebar Brown feat. Karl Shakur",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Morgan x Orlebar Brown feat. Karl Shakur",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633749.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899884",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334390.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.899940",
+      "element_tag": "img",
+      "title": "Dua Lipa - Training Season",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dua Lipa - Training Season",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704529153.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.900004",
+      "element_tag": "img",
+      "title": "Vaeda Black - Run Fast",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Vaeda Black - Run Fast",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451175.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.900063",
+      "element_tag": "img",
+      "title": "Jaws",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jaws",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704822950.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.900120",
+      "element_tag": "img",
+      "title": "Yuh - Can Do it",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Yuh - Can Do it",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703453350.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.900178",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527609.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.900235",
+      "element_tag": "img",
+      "title": "@valslooks / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@valslooks / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452531.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.900291",
+      "element_tag": "img",
+      "title": "Sony - Your World. Nothing Else",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sony - Your World. Nothing Else",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451973.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.900346",
+      "element_tag": "img",
+      "title": "Downtown Kayoto - Lite",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Downtown Kayoto - Lite",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704528059.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.900401",
+      "element_tag": "img",
+      "title": "Raging Bull",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Raging Bull",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715574714.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.900456",
+      "element_tag": "img",
+      "title": "Ariana Grande - Positions",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ariana Grande - Positions",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452220.webp",
+      "page_url": "https://eyecannndy.com/technique/dolly-zoom",
+      "discovered_at": "2025-09-05T03:24:39.900511",
+      "element_tag": "img",
+      "title": "Micaël Reynaud",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Micaël Reynaud",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]

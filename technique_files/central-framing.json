@@ -1,52 +1,12 @@
 {
   "technique": "central-framing",
   "video_count": 120,
-  "generated_at": "2025-09-05T02:44:19.161359",
+  "generated_at": "2025-09-05T04:03:29.615325",
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813193.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.012859",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710332953.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.012986",
-      "element_tag": "img",
-      "title": "Our England",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Our England",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567967.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.013064",
+      "discovered_at": "2025-09-05T03:22:58.681106",
       "element_tag": "img",
       "title": "The Green Knight",
       "description": "",
@@ -57,1630 +17,796 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434635.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.013131",
-      "element_tag": "img",
-      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
         "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710314480.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.013194",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250187.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.013255",
-      "element_tag": "img",
-      "title": "KYLE - iSpy feat. Lil Yachty",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656066.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.013321",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814141.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.015986",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434739.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016104",
-      "element_tag": "img",
-      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707020978.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016180",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334048.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016247",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813119.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016307",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567351.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016366",
-      "element_tag": "img",
-      "title": "The Grand Budapest Hotel",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Grand Budapest Hotel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564497.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016425",
-      "element_tag": "img",
-      "title": "TAKT - Thank You",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "TAKT - Thank You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715291823.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016483",
-      "element_tag": "img",
-      "title": "Inter Alia (Short Film)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Inter Alia (Short Film)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250281.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016540",
-      "element_tag": "img",
-      "title": "KYLE - iSpy feat. Lil Yachty",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434578.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016597",
-      "element_tag": "img",
-      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172240.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016655",
-      "element_tag": "img",
-      "title": "Doechii - DENIAL IS A RIVER",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Doechii - DENIAL IS A RIVER",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175687.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016713",
-      "element_tag": "img",
-      "title": "M.I.A. 'Bad Girls'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "M.I.A. 'Bad Girls'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706563398.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016777",
-      "element_tag": "img",
-      "title": "Long Live Liborius",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Long Live Liborius",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813193.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016836",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710332953.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016891",
-      "element_tag": "img",
-      "title": "Our England",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Our England",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567967.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016944",
-      "element_tag": "img",
-      "title": "The Green Knight",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Green Knight",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434635.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.016997",
-      "element_tag": "img",
-      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710314480.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017049",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250187.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017103",
-      "element_tag": "img",
-      "title": "KYLE - iSpy feat. Lil Yachty",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656066.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017155",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814141.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017207",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434739.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017259",
-      "element_tag": "img",
-      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707020978.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017310",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334048.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017363",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813119.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017414",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567351.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017465",
-      "element_tag": "img",
-      "title": "The Grand Budapest Hotel",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Grand Budapest Hotel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564497.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017517",
-      "element_tag": "img",
-      "title": "TAKT - Thank You",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "TAKT - Thank You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715291823.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017568",
-      "element_tag": "img",
-      "title": "Inter Alia (Short Film)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Inter Alia (Short Film)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250281.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017620",
-      "element_tag": "img",
-      "title": "KYLE - iSpy feat. Lil Yachty",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434578.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017674",
-      "element_tag": "img",
-      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172240.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017727",
-      "element_tag": "img",
-      "title": "Doechii - DENIAL IS A RIVER",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Doechii - DENIAL IS A RIVER",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175687.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017781",
-      "element_tag": "img",
-      "title": "M.I.A. 'Bad Girls'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "M.I.A. 'Bad Girls'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706563398.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017833",
-      "element_tag": "img",
-      "title": "Long Live Liborius",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Long Live Liborius",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021536.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017889",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702573.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017944",
-      "element_tag": "img",
-      "title": "Brainstorm",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Brainstorm",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725946959.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.017997",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812985.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018049",
+      "discovered_at": "2025-09-05T03:22:58.681214",
       "element_tag": "img",
       "title": "Sabrina Carpenter - Espresso",
       "description": "",
       "category": "Technique",
       "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813931.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702573.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018103",
+      "discovered_at": "2025-09-05T03:22:58.681277",
       "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
+      "title": "Brainstorm",
       "description": "",
       "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Brainstorm",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711004499.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018158",
-      "element_tag": "img",
-      "title": "Asics - Making Weight",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Asics - Making Weight",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706565747.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018210",
-      "element_tag": "img",
-      "title": "The French Dispatch",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The French Dispatch",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174718.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018261",
-      "element_tag": "img",
-      "title": "M.I.A. 'Bad Girls'",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "M.I.A. 'Bad Girls'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708472627.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018312",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739192856.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018363",
-      "element_tag": "img",
-      "title": "Static - Federer",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Static - Federer",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436358.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018413",
-      "element_tag": "img",
-      "title": "Killdummies - Keine War Großartig//Fukk U",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707020832.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018465",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725946858.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018516",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710224448.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018568",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707899425.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018622",
-      "element_tag": "img",
-      "title": "The Red Circle",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Red Circle",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566047.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018674",
-      "element_tag": "img",
-      "title": "The French Dispatch",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The French Dispatch",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021343.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018724",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707022682.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018777",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711245741.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018830",
-      "element_tag": "img",
-      "title": "adidas - Original is Never Finished (Chapter 3)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas - Original is Never Finished (Chapter 3)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710314428.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018881",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716271248.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018933",
-      "element_tag": "img",
-      "title": "Dune: Part Two",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dune: Part Two",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710314074.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.018985",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250786.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019036",
-      "element_tag": "img",
-      "title": "KYLE - iSpy feat. Lil Yachty",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564311.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019086",
-      "element_tag": "img",
-      "title": "The Andromeda Strain",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Andromeda Strain",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710311811.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019136",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250865.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019186",
-      "element_tag": "img",
-      "title": "KYLE - iSpy feat. Lil Yachty",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809397.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019240",
-      "element_tag": "img",
-      "title": "Majimbo - Aiza",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Majimbo - Aiza",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564053.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019290",
-      "element_tag": "img",
-      "title": "Nandos - This Must Be The Place",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Nandos - This Must Be The Place",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025808.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019344",
-      "element_tag": "img",
-      "title": "The Life Aquatic with Steve Zissou",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Life Aquatic with Steve Zissou",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021306.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019396",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165278.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019450",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250745.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019500",
-      "element_tag": "img",
-      "title": "KYLE - iSpy feat. Lil Yachty",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564451.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019553",
-      "element_tag": "img",
-      "title": "American Psycho",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "American Psycho",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707899166.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019609",
-      "element_tag": "img",
-      "title": "Amélie",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Amélie",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711251479.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019661",
-      "element_tag": "img",
-      "title": "KYLE - iSpy feat. Lil Yachty",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702703087.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.019772",
-      "element_tag": "img",
-      "title": "The Life Aquatic with Steve Zissou",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Life Aquatic with Steve Zissou",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813984.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.020023",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250582.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.020164",
+      "discovered_at": "2025-09-05T03:22:58.681333",
       "element_tag": "img",
       "title": "KYLE - iSpy feat. Lil Yachty",
       "description": "",
       "category": "Technique",
       "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709096899.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707899425.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.020265",
+      "discovered_at": "2025-09-05T03:22:58.681385",
       "element_tag": "img",
-      "title": "Beethoven",
+      "title": "The Red Circle",
       "description": "",
       "category": "Technique",
-      "alt_text": "Beethoven",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "The Red Circle",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707020149.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564053.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.020361",
+      "discovered_at": "2025-09-05T03:22:58.681438",
       "element_tag": "img",
-      "title": "The French Dispatch",
+      "title": "Nandos - This Must Be The Place",
       "description": "",
       "category": "Technique",
-      "alt_text": "The French Dispatch",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Nandos - This Must Be The Place",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707020794.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656066.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.020451",
+      "discovered_at": "2025-09-05T03:22:58.681491",
       "element_tag": "img",
-      "title": "Do Revenge",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
       "description": "",
       "category": "Technique",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707019913.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025808.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.020541",
+      "discovered_at": "2025-09-05T03:22:58.681542",
       "element_tag": "img",
-      "title": "City of God ‘Cidade de Deus’",
+      "title": "The Life Aquatic with Steve Zissou",
       "description": "",
       "category": "Technique",
-      "alt_text": "City of God ‘Cidade de Deus’",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "The Life Aquatic with Steve Zissou",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436397.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742995.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.020629",
+      "discovered_at": "2025-09-05T03:22:58.681592",
       "element_tag": "img",
-      "title": "Killdummies - Keine War Großartig//Fukk U",
+      "title": "ONHA - KODAK",
       "description": "",
       "category": "Technique",
-      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "ONHA - KODAK",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711139179.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564451.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.020717",
+      "discovered_at": "2025-09-05T03:22:58.681642",
       "element_tag": "img",
-      "title": "Aminé - Charmander",
+      "title": "American Psycho",
       "description": "",
       "category": "Technique",
-      "alt_text": "Aminé - Charmander",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "American Psycho",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708245789.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715293492.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.020804",
+      "discovered_at": "2025-09-05T03:22:58.681689",
       "element_tag": "img",
-      "title": "Latto - Sunday Service",
+      "title": "Inter Alia (Short Film)",
       "description": "",
       "category": "Technique",
-      "alt_text": "Latto - Sunday Service",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Inter Alia (Short Film)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710611479.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237117.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.020892",
+      "discovered_at": "2025-09-05T03:22:58.681737",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434635.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.681784",
+      "element_tag": "img",
+      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710611687.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.681832",
       "element_tag": "img",
       "title": "adidas - Your Future Is Not Mine",
       "description": "",
       "category": "Technique",
       "alt_text": "adidas - Your Future Is Not Mine",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711004499.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.681887",
+      "element_tag": "img",
+      "title": "Asics - Making Weight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asics - Making Weight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813931.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.681934",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708247620.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.681980",
+      "element_tag": "img",
+      "title": "Sex Education (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sex Education (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165278.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682027",
+      "element_tag": "img",
+      "title": "Victoria Monet - Alright",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Victoria Monet - Alright",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250745.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682074",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564289.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682127",
+      "element_tag": "img",
+      "title": "The Andromeda Strain",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Andromeda Strain",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567967.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682174",
+      "element_tag": "img",
+      "title": "The Green Knight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Green Knight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812985.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682221",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702573.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682266",
+      "element_tag": "img",
+      "title": "Brainstorm",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Brainstorm",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250582.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682311",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707899425.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682354",
+      "element_tag": "img",
+      "title": "The Red Circle",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Red Circle",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564053.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682397",
+      "element_tag": "img",
+      "title": "Nandos - This Must Be The Place",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nandos - This Must Be The Place",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656066.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682440",
+      "element_tag": "img",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025808.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682483",
+      "element_tag": "img",
+      "title": "The Life Aquatic with Steve Zissou",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Life Aquatic with Steve Zissou",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742995.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682525",
+      "element_tag": "img",
+      "title": "ONHA - KODAK",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ONHA - KODAK",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564451.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682568",
+      "element_tag": "img",
+      "title": "American Psycho",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "American Psycho",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715293492.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682610",
+      "element_tag": "img",
+      "title": "Inter Alia (Short Film)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Inter Alia (Short Film)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237117.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682653",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434635.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682697",
+      "element_tag": "img",
+      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710611687.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682740",
+      "element_tag": "img",
+      "title": "adidas - Your Future Is Not Mine",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Your Future Is Not Mine",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711004499.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682782",
+      "element_tag": "img",
+      "title": "Asics - Making Weight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asics - Making Weight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813931.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682826",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708247620.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682869",
+      "element_tag": "img",
+      "title": "Sex Education (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sex Education (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165278.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682912",
+      "element_tag": "img",
+      "title": "Victoria Monet - Alright",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Victoria Monet - Alright",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250745.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682956",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564289.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.682998",
+      "element_tag": "img",
+      "title": "The Andromeda Strain",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Andromeda Strain",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706563425.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.021035",
+      "discovered_at": "2025-09-05T03:22:58.683046",
       "element_tag": "img",
       "title": "Long Live Liborius",
       "description": "",
@@ -1690,54 +816,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707020043.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707020832.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.021154",
-      "element_tag": "img",
-      "title": "Moonrise Kingdom",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Moonrise Kingdom",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566784.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.021261",
-      "element_tag": "img",
-      "title": "The French Dispatch",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The French Dispatch",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021390.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.021360",
+      "discovered_at": "2025-09-05T03:22:58.683098",
       "element_tag": "img",
       "title": "Do Revenge",
       "description": "",
@@ -1747,35 +835,54 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237117.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564497.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.021544",
+      "discovered_at": "2025-09-05T03:22:58.683149",
       "element_tag": "img",
-      "title": "Flume feat. MAY-A - Say Nothing",
+      "title": "TAKT - Thank You",
       "description": "",
       "category": "Technique",
-      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "alt_text": "TAKT - Thank You",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175687.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.683200",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708425518.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.021777",
+      "discovered_at": "2025-09-05T03:22:58.683248",
       "element_tag": "img",
       "title": "The Irrational Fear of Nothing",
       "description": "",
@@ -1785,35 +892,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706563352.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.021886",
-      "element_tag": "img",
-      "title": "Long Live Liborius",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Long Live Liborius",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246583.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.021985",
+      "discovered_at": "2025-09-05T03:22:58.683296",
       "element_tag": "img",
       "title": "Latto - Sunday Service",
       "description": "",
@@ -1823,16 +911,35 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813119.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.683348",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813723.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.022075",
+      "discovered_at": "2025-09-05T03:22:58.683395",
       "element_tag": "img",
       "title": "Sabrina Carpenter - Espresso",
       "description": "",
@@ -1842,130 +949,92 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814240.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809397.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.022166",
+      "discovered_at": "2025-09-05T03:22:58.683443",
       "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
+      "title": "Majimbo - Aiza",
       "description": "",
       "category": "Technique",
-      "alt_text": "Sabrina Carpenter - Espresso",
+      "alt_text": "Majimbo - Aiza",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710611687.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250187.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.022287",
+      "discovered_at": "2025-09-05T03:22:58.683493",
       "element_tag": "img",
-      "title": "adidas - Your Future Is Not Mine",
+      "title": "KYLE - iSpy feat. Lil Yachty",
       "description": "",
       "category": "Technique",
-      "alt_text": "adidas - Your Future Is Not Mine",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711255956.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725946959.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.022381",
+      "discovered_at": "2025-09-05T03:22:58.683542",
       "element_tag": "img",
-      "title": "Rema - Trouble Maker",
+      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
       "description": "",
       "category": "Technique",
-      "alt_text": "Rema - Trouble Maker",
+      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710311721.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707020978.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.022471",
+      "discovered_at": "2025-09-05T03:22:58.683590",
       "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
+      "title": "Do Revenge",
       "description": "",
       "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
+      "alt_text": "Do Revenge",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564289.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566047.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.022570",
-      "element_tag": "img",
-      "title": "The Andromeda Strain",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Andromeda Strain",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715293492.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.022737",
-      "element_tag": "img",
-      "title": "Inter Alia (Short Film)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Inter Alia (Short Film)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566256.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.022863",
+      "discovered_at": "2025-09-05T03:22:58.683638",
       "element_tag": "img",
       "title": "The French Dispatch",
       "description": "",
@@ -1975,54 +1044,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706570488.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814201.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.022937",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708247620.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.022998",
-      "element_tag": "img",
-      "title": "Sex Education (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sex Education (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813752.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023058",
+      "discovered_at": "2025-09-05T03:22:58.683686",
       "element_tag": "img",
       "title": "Sabrina Carpenter - Espresso",
       "description": "",
@@ -2032,54 +1063,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567126.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023116",
-      "element_tag": "img",
-      "title": "The Grand Budapest Hotel",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Grand Budapest Hotel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237345.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023172",
-      "element_tag": "img",
-      "title": "Flume feat. MAY-A - Say Nothing",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flume feat. MAY-A - Say Nothing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706568038.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023227",
+      "discovered_at": "2025-09-05T03:22:58.683734",
       "element_tag": "img",
       "title": "The Green Knight",
       "description": "",
@@ -2089,54 +1082,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250640.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707022682.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023283",
-      "element_tag": "img",
-      "title": "KYLE - iSpy feat. Lil Yachty",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710224192.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023339",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707022698.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023394",
+      "discovered_at": "2025-09-05T03:22:58.683782",
       "element_tag": "img",
       "title": "Everything Everywhere All at Once",
       "description": "",
@@ -2146,35 +1101,73 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/29/261703843504.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707022698.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023451",
+      "discovered_at": "2025-09-05T03:22:58.683831",
       "element_tag": "img",
-      "title": "Death Proof",
+      "title": "Everything Everywhere All at Once",
       "description": "",
       "category": "Technique",
-      "alt_text": "Death Proof",
+      "alt_text": "Everything Everywhere All at Once",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250476.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711139179.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023505",
+      "discovered_at": "2025-09-05T03:22:58.683880",
+      "element_tag": "img",
+      "title": "Aminé - Charmander",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Aminé - Charmander",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739192856.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.683929",
+      "element_tag": "img",
+      "title": "Static - Federer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Static - Federer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250865.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.683978",
       "element_tag": "img",
       "title": "KYLE - iSpy feat. Lil Yachty",
       "description": "",
@@ -2184,130 +1177,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237032.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813193.webp",
       "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023556",
-      "element_tag": "img",
-      "title": "Flume feat. MAY-A - Say Nothing",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flume feat. MAY-A - Say Nothing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715633646.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023610",
-      "element_tag": "img",
-      "title": "French Cassettes - White Noise",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "French Cassettes - White Noise",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567928.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023663",
-      "element_tag": "img",
-      "title": "The Green Knight",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Green Knight",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711256031.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023798",
-      "element_tag": "img",
-      "title": "Rema - Trouble Maker",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Rema - Trouble Maker",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708342584.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023879",
-      "element_tag": "img",
-      "title": "Blade Runner",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Blade Runner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742995.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023937",
-      "element_tag": "img",
-      "title": "ONHA - KODAK",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ONHA - KODAK",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814201.webp",
-      "page_url": "https://eyecannndy.com/technique/central-framing",
-      "discovered_at": "2025-09-04T12:44:19.023989",
+      "discovered_at": "2025-09-05T03:22:58.684027",
       "element_tag": "img",
       "title": "Sabrina Carpenter - Espresso",
       "description": "",
@@ -2317,10 +1196,1131 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250281.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684077",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710311811.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684127",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716271248.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684173",
+      "element_tag": "img",
+      "title": "Dune: Part Two",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dune: Part Two",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707020794.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684220",
+      "element_tag": "img",
+      "title": "Do Revenge",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do Revenge",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/29/261703843504.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684270",
+      "element_tag": "img",
+      "title": "Death Proof",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Death Proof",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706563398.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684317",
+      "element_tag": "img",
+      "title": "Long Live Liborius",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Long Live Liborius",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710311721.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684363",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708472627.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684413",
+      "element_tag": "img",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814141.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684463",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708342584.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684511",
+      "element_tag": "img",
+      "title": "Blade Runner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Blade Runner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708245789.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684558",
+      "element_tag": "img",
+      "title": "Latto - Sunday Service",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Latto - Sunday Service",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436397.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684605",
+      "element_tag": "img",
+      "title": "Killdummies - Keine War Großartig//Fukk U",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715633646.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684653",
+      "element_tag": "img",
+      "title": "French Cassettes - White Noise",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "French Cassettes - White Noise",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710314074.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684701",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237345.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684750",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706563352.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684798",
+      "element_tag": "img",
+      "title": "Long Live Liborius",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Long Live Liborius",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813984.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684845",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707020043.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684891",
+      "element_tag": "img",
+      "title": "Moonrise Kingdom",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Moonrise Kingdom",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021343.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684938",
+      "element_tag": "img",
+      "title": "Do Revenge",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do Revenge",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710224448.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.684983",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725946858.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685031",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021536.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685077",
+      "element_tag": "img",
+      "title": "Do Revenge",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do Revenge",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250786.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685122",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710224192.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685169",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567126.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685211",
+      "element_tag": "img",
+      "title": "The Grand Budapest Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Grand Budapest Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434578.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685255",
+      "element_tag": "img",
+      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711256031.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685298",
+      "element_tag": "img",
+      "title": "Rema - Trouble Maker",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Rema - Trouble Maker",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237032.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685341",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707019913.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685386",
+      "element_tag": "img",
+      "title": "City of God ‘Cidade de Deus’",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "City of God ‘Cidade de Deus’",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567351.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685430",
+      "element_tag": "img",
+      "title": "The Grand Budapest Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Grand Budapest Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711255956.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685474",
+      "element_tag": "img",
+      "title": "Rema - Trouble Maker",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Rema - Trouble Maker",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711245741.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685517",
+      "element_tag": "img",
+      "title": "adidas - Original is Never Finished (Chapter 3)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Original is Never Finished (Chapter 3)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710611479.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685563",
+      "element_tag": "img",
+      "title": "adidas - Your Future Is Not Mine",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Your Future Is Not Mine",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706565747.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685609",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172240.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685654",
+      "element_tag": "img",
+      "title": "Doechii - DENIAL IS A RIVER",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567928.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685697",
+      "element_tag": "img",
+      "title": "The Green Knight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Green Knight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707020149.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685741",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715291823.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685784",
+      "element_tag": "img",
+      "title": "Inter Alia (Short Film)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Inter Alia (Short Film)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174718.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685829",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566784.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685875",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706570488.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685921",
+      "element_tag": "img",
+      "title": "The Shining",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Shining",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710332953.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.685966",
+      "element_tag": "img",
+      "title": "Our England",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Our England",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021306.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686011",
+      "element_tag": "img",
+      "title": "Do Revenge",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do Revenge",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250640.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686055",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436358.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686097",
+      "element_tag": "img",
+      "title": "Killdummies - Keine War Großartig//Fukk U",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021390.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686140",
+      "element_tag": "img",
+      "title": "Do Revenge",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do Revenge",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814240.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686184",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706564311.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686227",
+      "element_tag": "img",
+      "title": "The Andromeda Strain",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Andromeda Strain",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710314480.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686270",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813752.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686313",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711251479.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686355",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710314428.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686397",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250476.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686439",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334048.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686482",
+      "element_tag": "img",
+      "title": "Dua Lipa - Training Season",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dua Lipa - Training Season",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709096899.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686536",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707899166.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686581",
+      "element_tag": "img",
+      "title": "Amélie",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Amélie",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434739.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686625",
+      "element_tag": "img",
+      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566256.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686668",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702703087.webp",
+      "page_url": "https://eyecannndy.com/technique/central-framing",
+      "discovered_at": "2025-09-05T03:22:58.686712",
+      "element_tag": "img",
+      "title": "The Life Aquatic with Steve Zissou",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Life Aquatic with Steve Zissou",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]

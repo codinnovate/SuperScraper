@@ -1,1136 +1,671 @@
 {
   "technique": "dutch-angle",
-  "video_count": 66,
-  "generated_at": "2025-09-05T02:44:19.181863",
+  "video_count": 71,
+  "generated_at": "2025-09-05T04:03:29.633221",
   "videos": [
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546223.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.176945",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110192.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177056",
-      "element_tag": "img",
-      "title": "Memorials (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Memorials (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155331.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177123",
-      "element_tag": "img",
-      "title": "Tetsuo: The Iron Man",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Tetsuo: The Iron Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704386076.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177182",
-      "element_tag": "img",
-      "title": "Asteroid City",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Asteroid City",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082511.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177238",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488763.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177293",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709021613.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177355",
-      "element_tag": "img",
-      "title": "Festival of Slaps",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Festival of Slaps",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710034558.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177407",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111560.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177460",
-      "element_tag": "img",
-      "title": "A Serious Man",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A Serious Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489266.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177521",
-      "element_tag": "img",
-      "title": "21 Savage - redrum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "21 Savage - redrum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538123.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177582",
-      "element_tag": "img",
-      "title": "Miel De Montagne - Le Pigeon",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Miel De Montagne - Le Pigeon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546223.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177633",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110192.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177686",
-      "element_tag": "img",
-      "title": "Memorials (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Memorials (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155331.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177734",
-      "element_tag": "img",
-      "title": "Tetsuo: The Iron Man",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Tetsuo: The Iron Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704386076.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177782",
-      "element_tag": "img",
-      "title": "Asteroid City",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Asteroid City",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082511.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177829",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488763.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177876",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709021613.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177931",
-      "element_tag": "img",
-      "title": "Festival of Slaps",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Festival of Slaps",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710034558.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.177977",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111560.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178033",
-      "element_tag": "img",
-      "title": "A Serious Man",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A Serious Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489266.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178081",
-      "element_tag": "img",
-      "title": "21 Savage - redrum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "21 Savage - redrum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538123.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178128",
-      "element_tag": "img",
-      "title": "Miel De Montagne - Le Pigeon",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Miel De Montagne - Le Pigeon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082452.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178179",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369861.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178236",
-      "element_tag": "img",
-      "title": "PeeWee's Big Adventure",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "PeeWee's Big Adventure",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703730065.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178291",
-      "element_tag": "img",
-      "title": "Evil Dead Rise",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Evil Dead Rise",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082657.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178347",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704386123.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178401",
-      "element_tag": "img",
-      "title": "Asteroid City",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Asteroid City",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634438.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178456",
-      "element_tag": "img",
-      "title": "Cowboy Bepop (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Cowboy Bepop (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390482.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178511",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110124.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178565",
-      "element_tag": "img",
-      "title": "Memorials (TV Series)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Memorials (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076351.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178617",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076501.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178671",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082595.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178723",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111986.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178775",
-      "element_tag": "img",
-      "title": "Methyl Ethel Eyes GIF By 4AD",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Methyl Ethel Eyes GIF By 4AD",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706257792.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178826",
-      "element_tag": "img",
-      "title": "Lawrence of Arabia",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lawrence of Arabia",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546179.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178877",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111539.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178928",
-      "element_tag": "img",
-      "title": "A Serious Man",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A Serious Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369912.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.178979",
-      "element_tag": "img",
-      "title": "PeeWee's Big Adventure",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "PeeWee's Big Adventure",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110257.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179030",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246624.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179081",
-      "element_tag": "img",
-      "title": "Latto - Sunday Service",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Latto - Sunday Service",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824876.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179132",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086563.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179182",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545789.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179233",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406463.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179289",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086797.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179342",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111640.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179391",
-      "element_tag": "img",
-      "title": "St. Louis City FC - The City Kit Is Here",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "St. Louis City FC - The City Kit Is Here",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111327.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179441",
-      "element_tag": "img",
-      "title": "Mission Impossible",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Mission Impossible",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110473.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179492",
-      "element_tag": "img",
-      "title": "Fear and Loathing in Las Vegas",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fear and Loathing in Las Vegas",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709544778.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179541",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826123.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179591",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576714.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179640",
-      "element_tag": "img",
-      "title": "Ken Carson - Fighting My Demons",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ken Carson - Fighting My Demons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076392.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179690",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403321.webp",
       "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179741",
+      "discovered_at": "2025-09-05T03:25:11.072434",
       "element_tag": "img",
       "title": "Talladega Nights: The Ballad of Ricky Bobby",
       "description": "",
       "category": "Technique",
       "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406544.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082595.webp",
       "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179791",
+      "discovered_at": "2025-09-05T03:25:11.072570",
       "element_tag": "img",
-      "title": "The Chronicles of Riddick",
+      "title": "Do the Right Thing",
       "description": "",
       "category": "Technique",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Do the Right Thing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369895.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155331.webp",
       "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179842",
+      "discovered_at": "2025-09-05T03:25:11.072630",
+      "element_tag": "img",
+      "title": "Tetsuo: The Iron Man",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tetsuo: The Iron Man",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086797.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.072683",
+      "element_tag": "img",
+      "title": "Chungking Express",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chungking Express",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546223.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.072734",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576714.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.072782",
+      "element_tag": "img",
+      "title": "Ken Carson - Fighting My Demons",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703920812.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.072829",
+      "element_tag": "img",
+      "title": "Quavo x Takeoff - Hotel Lobby",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Quavo x Takeoff - Hotel Lobby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488763.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.072876",
+      "element_tag": "img",
+      "title": "Lil Yachty - TESLA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Yachty - TESLA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110124.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.072922",
+      "element_tag": "img",
+      "title": "Memorials (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Memorials (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369861.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.072967",
       "element_tag": "img",
       "title": "PeeWee's Big Adventure",
       "description": "",
       "category": "Technique",
       "alt_text": "PeeWee's Big Adventure",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703730550.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369895.webp",
       "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179891",
+      "discovered_at": "2025-09-05T03:25:11.073013",
       "element_tag": "img",
-      "title": "Evil Dead Rise",
+      "title": "PeeWee's Big Adventure",
       "description": "",
       "category": "Technique",
-      "alt_text": "Evil Dead Rise",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "PeeWee's Big Adventure",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076467.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710034558.webp",
       "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179941",
+      "discovered_at": "2025-09-05T03:25:11.073057",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704386076.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.073185",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246624.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.073266",
+      "element_tag": "img",
+      "title": "Latto - Sunday Service",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Latto - Sunday Service",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390480.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.073313",
+      "element_tag": "img",
+      "title": "Halfprice - Fitting room",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halfprice - Fitting room",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076351.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.073357",
       "element_tag": "img",
       "title": "Ford Kuga - Levels",
       "description": "",
       "category": "Technique",
       "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715575491.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403321.webp",
       "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.179991",
+      "discovered_at": "2025-09-05T03:25:11.073416",
       "element_tag": "img",
-      "title": "Ariana Grande - Positions",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
       "description": "",
       "category": "Technique",
-      "alt_text": "Ariana Grande - Positions",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082595.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.073619",
+      "element_tag": "img",
+      "title": "Do the Right Thing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do the Right Thing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155331.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.073779",
+      "element_tag": "img",
+      "title": "Tetsuo: The Iron Man",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tetsuo: The Iron Man",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086797.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.073838",
+      "element_tag": "img",
+      "title": "Chungking Express",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chungking Express",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546223.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.073886",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576714.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.073928",
+      "element_tag": "img",
+      "title": "Ken Carson - Fighting My Demons",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703920812.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.073971",
+      "element_tag": "img",
+      "title": "Quavo x Takeoff - Hotel Lobby",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Quavo x Takeoff - Hotel Lobby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488763.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074012",
+      "element_tag": "img",
+      "title": "Lil Yachty - TESLA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Yachty - TESLA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110124.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074052",
+      "element_tag": "img",
+      "title": "Memorials (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Memorials (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369861.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074092",
+      "element_tag": "img",
+      "title": "PeeWee's Big Adventure",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "PeeWee's Big Adventure",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369895.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074132",
+      "element_tag": "img",
+      "title": "PeeWee's Big Adventure",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "PeeWee's Big Adventure",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710034558.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074171",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704386076.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074210",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246624.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074249",
+      "element_tag": "img",
+      "title": "Latto - Sunday Service",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Latto - Sunday Service",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390480.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074287",
+      "element_tag": "img",
+      "title": "Halfprice - Fitting room",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halfprice - Fitting room",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076351.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074326",
+      "element_tag": "img",
+      "title": "Ford Kuga - Levels",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ford Kuga - Levels",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705107826.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074375",
+      "element_tag": "img",
+      "title": "Doechii - Crazy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Doechii - Crazy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703730392.webp",
       "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.180042",
+      "discovered_at": "2025-09-05T03:25:11.074427",
       "element_tag": "img",
       "title": "Evil Dead Rise",
       "description": "",
@@ -1140,16 +675,35 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704386123.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074578",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706505221.webp",
       "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.180091",
+      "discovered_at": "2025-09-05T03:25:11.074628",
       "element_tag": "img",
       "title": "Long Live Liborius",
       "description": "",
@@ -1159,73 +713,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111836.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076392.webp",
       "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.180140",
-      "element_tag": "img",
-      "title": "12 Monkeys",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "12 Monkeys",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705107780.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.180190",
-      "element_tag": "img",
-      "title": "Doechii - Crazy",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Doechii - Crazy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703920812.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.180240",
-      "element_tag": "img",
-      "title": "Quavo x Takeoff - Hotel Lobby",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Quavo x Takeoff - Hotel Lobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076286.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.180291",
+      "discovered_at": "2025-09-05T03:25:11.074674",
       "element_tag": "img",
       "title": "Ford Kuga - Levels",
       "description": "",
@@ -1235,35 +732,73 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705107826.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076467.webp",
       "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.180342",
+      "discovered_at": "2025-09-05T03:25:11.074771",
       "element_tag": "img",
-      "title": "Doechii - Crazy",
+      "title": "Ford Kuga - Levels",
       "description": "",
       "category": "Technique",
-      "alt_text": "Doechii - Crazy",
+      "alt_text": "Ford Kuga - Levels",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390480.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634438.webp",
       "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-04T12:48:53.180393",
+      "discovered_at": "2025-09-05T03:25:11.074871",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709544778.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074931",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390482.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.074981",
       "element_tag": "img",
       "title": "Halfprice - Fitting room",
       "description": "",
@@ -1273,10 +808,580 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110257.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075031",
+      "element_tag": "img",
+      "title": "Do the Right Thing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do the Right Thing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369912.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075077",
+      "element_tag": "img",
+      "title": "PeeWee's Big Adventure",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "PeeWee's Big Adventure",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111640.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075123",
+      "element_tag": "img",
+      "title": "St. Louis City FC - The City Kit Is Here",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "St. Louis City FC - The City Kit Is Here",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715575491.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075167",
+      "element_tag": "img",
+      "title": "Ariana Grande - Positions",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ariana Grande - Positions",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538123.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075213",
+      "element_tag": "img",
+      "title": "Miel De Montagne - Le Pigeon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489266.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075274",
+      "element_tag": "img",
+      "title": "21 Savage - redrum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "21 Savage - redrum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705107780.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075345",
+      "element_tag": "img",
+      "title": "Doechii - Crazy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Doechii - Crazy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111327.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075433",
+      "element_tag": "img",
+      "title": "Mission Impossible",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mission Impossible",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111539.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075516",
+      "element_tag": "img",
+      "title": "A Serious Man",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A Serious Man",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111560.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075573",
+      "element_tag": "img",
+      "title": "A Serious Man",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A Serious Man",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406544.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075624",
+      "element_tag": "img",
+      "title": "The Chronicles of Riddick",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Chronicles of Riddick",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545789.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075674",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709021613.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075721",
+      "element_tag": "img",
+      "title": "Festival of Slaps",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Festival of Slaps",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086563.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075768",
+      "element_tag": "img",
+      "title": "Chungking Express",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chungking Express",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824876.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075814",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076286.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075858",
+      "element_tag": "img",
+      "title": "Ford Kuga - Levels",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ford Kuga - Levels",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111836.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075903",
+      "element_tag": "img",
+      "title": "12 Monkeys",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "12 Monkeys",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826123.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.075947",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546179.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076000",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110473.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076072",
+      "element_tag": "img",
+      "title": "Fear and Loathing in Las Vegas",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fear and Loathing in Las Vegas",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703730065.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076122",
+      "element_tag": "img",
+      "title": "Evil Dead Rise",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Evil Dead Rise",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406463.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076170",
+      "element_tag": "img",
+      "title": "The Chronicles of Riddick",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Chronicles of Riddick",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703730550.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076239",
+      "element_tag": "img",
+      "title": "Evil Dead Rise",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Evil Dead Rise",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082452.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076481",
+      "element_tag": "img",
+      "title": "Do the Right Thing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do the Right Thing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110192.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076554",
+      "element_tag": "img",
+      "title": "Memorials (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Memorials (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082511.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076599",
+      "element_tag": "img",
+      "title": "Do the Right Thing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do the Right Thing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111986.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076646",
+      "element_tag": "img",
+      "title": "Methyl Ethel Eyes GIF By 4AD",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Methyl Ethel Eyes GIF By 4AD",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706257792.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076691",
+      "element_tag": "img",
+      "title": "Lawrence of Arabia",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lawrence of Arabia",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076501.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076747",
+      "element_tag": "img",
+      "title": "Ford Kuga - Levels",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ford Kuga - Levels",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082657.webp",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle",
+      "discovered_at": "2025-09-05T03:25:11.076791",
+      "element_tag": "img",
+      "title": "Do the Right Thing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do the Right Thing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]

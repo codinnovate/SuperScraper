@@ -1,739 +1,612 @@
 {
   "technique": "anthropomorphism",
-  "video_count": 56,
-  "generated_at": "2025-09-05T02:44:19.156962",
+  "video_count": 59,
+  "generated_at": "2025-09-05T04:03:29.609287",
   "videos": [
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711345142.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.228528",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707007423.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.228780",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705173061.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.228860",
-      "element_tag": "img",
-      "title": "Apple - Miss You",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Apple - Miss You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343199.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.228926",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705173088.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.228989",
-      "element_tag": "img",
-      "title": "Apple - Miss You",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Apple - Miss You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707406397.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229049",
-      "element_tag": "img",
-      "title": "Stone Head",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Stone Head",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711351007.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229110",
-      "element_tag": "img",
-      "title": "Wallace & Gromit: A Grand Day Out",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Wallace & Gromit: A Grand Day Out",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742676.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229172",
-      "element_tag": "img",
-      "title": "ONHA - KODAK",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ONHA - KODAK",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709976926.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229231",
-      "element_tag": "img",
-      "title": "eLaLiga Santander - What Can't Can Be",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "eLaLiga Santander - What Can't Can Be",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341638.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229294",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709961542.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229354",
-      "element_tag": "img",
-      "title": "Coffee Buddies",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Coffee Buddies",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975489.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229421",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711345142.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229475",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707007423.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229530",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705173061.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229582",
-      "element_tag": "img",
-      "title": "Apple - Miss You",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Apple - Miss You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343199.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229634",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705173088.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229685",
-      "element_tag": "img",
-      "title": "Apple - Miss You",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Apple - Miss You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707406397.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229737",
-      "element_tag": "img",
-      "title": "Stone Head",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Stone Head",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711351007.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229786",
-      "element_tag": "img",
-      "title": "Wallace & Gromit: A Grand Day Out",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Wallace & Gromit: A Grand Day Out",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742676.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229832",
-      "element_tag": "img",
-      "title": "ONHA - KODAK",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ONHA - KODAK",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709976926.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229878",
-      "element_tag": "img",
-      "title": "eLaLiga Santander - What Can't Can Be",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "eLaLiga Santander - What Can't Can Be",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341638.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229925",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709961542.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.229971",
-      "element_tag": "img",
-      "title": "Coffee Buddies",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Coffee Buddies",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975489.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230017",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344614.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230069",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706396790.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230126",
-      "element_tag": "img",
-      "title": "Hunt for the Wilderpeople",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Hunt for the Wilderpeople",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343268.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230180",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343153.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230233",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742755.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230286",
+      "discovered_at": "2025-09-05T03:22:05.957319",
       "element_tag": "img",
       "title": "ONHA - KODAK",
       "description": "",
       "category": "Technique",
       "alt_text": "ONHA - KODAK",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742555.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230339",
+      "discovered_at": "2025-09-05T03:22:05.957411",
       "element_tag": "img",
       "title": "ONHA - KODAK",
       "description": "",
       "category": "Technique",
       "alt_text": "ONHA - KODAK",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705173031.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230391",
-      "element_tag": "img",
-      "title": "Apple - Miss You",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Apple - Miss You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711351039.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230442",
-      "element_tag": "img",
-      "title": "Wallace & Gromit: A Grand Day Out",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Wallace & Gromit: A Grand Day Out",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609355.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230492",
-      "element_tag": "img",
-      "title": "Carly Gibert - Dropping Seeds",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Carly Gibert - Dropping Seeds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023868.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230545",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344573.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230596",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707631188.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230653",
-      "element_tag": "img",
-      "title": "Valentino Khan - Deep Down Low",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Valentino Khan - Deep Down Low",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742812.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230705",
+      "discovered_at": "2025-09-05T03:22:05.957465",
       "element_tag": "img",
       "title": "ONHA - KODAK",
       "description": "",
       "category": "Technique",
       "alt_text": "ONHA - KODAK",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023868.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.957514",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343199.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.957559",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711351007.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.957604",
+      "element_tag": "img",
+      "title": "Wallace & Gromit: A Grand Day Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Wallace & Gromit: A Grand Day Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707407817.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.957654",
+      "element_tag": "img",
+      "title": "A Trip to the Moon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A Trip to the Moon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742593.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.957700",
+      "element_tag": "img",
+      "title": "ONHA - KODAK",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ONHA - KODAK",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711351039.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.957743",
+      "element_tag": "img",
+      "title": "Wallace & Gromit: A Grand Day Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Wallace & Gromit: A Grand Day Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709976926.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.957788",
+      "element_tag": "img",
+      "title": "eLaLiga Santander - What Can't Can Be",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "eLaLiga Santander - What Can't Can Be",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343049.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.957831",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709961542.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.957874",
+      "element_tag": "img",
+      "title": "Coffee Buddies",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Coffee Buddies",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343268.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.957917",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707406397.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.957962",
+      "element_tag": "img",
+      "title": "Stone Head",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Stone Head",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706396790.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958006",
+      "element_tag": "img",
+      "title": "Hunt for the Wilderpeople",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Hunt for the Wilderpeople",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742755.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958051",
+      "element_tag": "img",
+      "title": "ONHA - KODAK",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ONHA - KODAK",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742555.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958094",
+      "element_tag": "img",
+      "title": "ONHA - KODAK",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ONHA - KODAK",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742812.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958139",
+      "element_tag": "img",
+      "title": "ONHA - KODAK",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ONHA - KODAK",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023868.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958180",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343199.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958220",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711351007.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958259",
+      "element_tag": "img",
+      "title": "Wallace & Gromit: A Grand Day Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Wallace & Gromit: A Grand Day Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707407817.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958298",
+      "element_tag": "img",
+      "title": "A Trip to the Moon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A Trip to the Moon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742593.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958337",
+      "element_tag": "img",
+      "title": "ONHA - KODAK",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ONHA - KODAK",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711351039.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958375",
+      "element_tag": "img",
+      "title": "Wallace & Gromit: A Grand Day Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Wallace & Gromit: A Grand Day Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709976926.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958413",
+      "element_tag": "img",
+      "title": "eLaLiga Santander - What Can't Can Be",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "eLaLiga Santander - What Can't Can Be",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343049.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958450",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709961542.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958488",
+      "element_tag": "img",
+      "title": "Coffee Buddies",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Coffee Buddies",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343268.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958525",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707406397.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958563",
+      "element_tag": "img",
+      "title": "Stone Head",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Stone Head",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706396790.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958601",
+      "element_tag": "img",
+      "title": "Hunt for the Wilderpeople",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Hunt for the Wilderpeople",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344685.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230757",
+      "discovered_at": "2025-09-05T03:22:05.958642",
       "element_tag": "img",
       "title": "Fantastic Mr. Fox",
       "description": "",
@@ -743,54 +616,35 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742593.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342047.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230810",
+      "discovered_at": "2025-09-05T03:22:05.958689",
       "element_tag": "img",
-      "title": "ONHA - KODAK",
+      "title": "Fantastic Mr. Fox",
       "description": "",
       "category": "Technique",
-      "alt_text": "ONHA - KODAK",
+      "alt_text": "Fantastic Mr. Fox",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704610168.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230861",
-      "element_tag": "img",
-      "title": "Carly Gibert - Dropping Seeds",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Carly Gibert - Dropping Seeds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709961516.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230912",
+      "discovered_at": "2025-09-05T03:22:05.958734",
       "element_tag": "img",
       "title": "Animated by Lazaro Perez",
       "description": "",
@@ -800,54 +654,92 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705173516.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704610168.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.230964",
+      "discovered_at": "2025-09-05T03:22:05.958780",
       "element_tag": "img",
-      "title": "Apple - Hello Yellow",
+      "title": "Carly Gibert - Dropping Seeds",
       "description": "",
       "category": "Technique",
-      "alt_text": "Apple - Hello Yellow",
+      "alt_text": "Carly Gibert - Dropping Seeds",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023526.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975489.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231017",
+      "discovered_at": "2025-09-05T03:22:05.958825",
       "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
+      "title": "Dream Corp LLC",
       "description": "",
       "category": "Technique",
-      "alt_text": "Everything Everywhere All at Once",
+      "alt_text": "Dream Corp LLC",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342047.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707007423.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231070",
+      "discovered_at": "2025-09-05T03:22:05.958869",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825397.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958911",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344614.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958953",
       "element_tag": "img",
       "title": "Fantastic Mr. Fox",
       "description": "",
@@ -857,16 +749,92 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705173031.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.958998",
+      "element_tag": "img",
+      "title": "Apple - Miss You",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Apple - Miss You",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705173061.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.959045",
+      "element_tag": "img",
+      "title": "Apple - Miss You",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Apple - Miss You",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341638.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.959088",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343153.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.959131",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707402977.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231121",
+      "discovered_at": "2025-09-05T03:22:05.959174",
       "element_tag": "img",
       "title": "Tierra Whack - SHOWER SONG",
       "description": "",
@@ -876,16 +844,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707407868.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231173",
+      "discovered_at": "2025-09-05T03:22:05.959217",
       "element_tag": "img",
       "title": "A Trip to the Moon",
       "description": "",
@@ -895,73 +863,54 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825397.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742676.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231225",
+      "discovered_at": "2025-09-05T03:22:05.959262",
       "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "title": "ONHA - KODAK",
       "description": "",
       "category": "Technique",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "alt_text": "ONHA - KODAK",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707407817.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609355.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231278",
+      "discovered_at": "2025-09-05T03:22:05.959304",
       "element_tag": "img",
-      "title": "A Trip to the Moon",
+      "title": "Carly Gibert - Dropping Seeds",
       "description": "",
       "category": "Technique",
-      "alt_text": "A Trip to the Moon",
+      "alt_text": "Carly Gibert - Dropping Seeds",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343049.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231329",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711345142.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231381",
+      "discovered_at": "2025-09-05T03:22:05.959346",
       "element_tag": "img",
       "title": "Fantastic Mr. Fox",
       "description": "",
@@ -971,92 +920,54 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342562.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705173088.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231433",
+      "discovered_at": "2025-09-05T03:22:05.959389",
       "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
+      "title": "Apple - Miss You",
       "description": "",
       "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
+      "alt_text": "Apple - Miss You",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825397.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023526.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231482",
+      "discovered_at": "2025-09-05T03:22:05.959432",
       "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "title": "Everything Everywhere All at Once",
       "description": "",
       "category": "Technique",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "alt_text": "Everything Everywhere All at Once",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342707.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231533",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341638.webp",
-      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231582",
-      "element_tag": "img",
-      "title": "Fantastic Mr. Fox",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Fantastic Mr. Fox",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707631188.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231630",
+      "discovered_at": "2025-09-05T03:22:05.959473",
       "element_tag": "img",
       "title": "Valentino Khan - Deep Down Low",
       "description": "",
@@ -1066,16 +977,73 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344573.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.959515",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705173516.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.959558",
+      "element_tag": "img",
+      "title": "Apple - Hello Yellow",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Apple - Hello Yellow",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341638.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.959598",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825779.webp",
       "page_url": "https://eyecannndy.com/technique/anthropomorphism",
-      "discovered_at": "2025-09-04T12:39:50.231680",
+      "discovered_at": "2025-09-05T03:22:05.959640",
       "element_tag": "img",
       "title": "Dillon Francis, Good Times Ahead - LA On Acid",
       "description": "",
@@ -1085,10 +1053,105 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711345142.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.959680",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707631188.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.959720",
+      "element_tag": "img",
+      "title": "Valentino Khan - Deep Down Low",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Valentino Khan - Deep Down Low",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825397.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.959759",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342707.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.959800",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342562.webp",
+      "page_url": "https://eyecannndy.com/technique/anthropomorphism",
+      "discovered_at": "2025-09-05T03:22:05.959841",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]

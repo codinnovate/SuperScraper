@@ -1,112 +1,12 @@
 {
   "technique": "flash-cut",
-  "video_count": 111,
-  "generated_at": "2025-09-05T02:44:19.193385",
+  "video_count": 103,
+  "generated_at": "2025-09-05T04:03:29.642840",
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657386.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299027",
-      "element_tag": "img",
-      "title": "ARC DE TRiOMPH",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ARC DE TRiOMPH",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710488708.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299122",
-      "element_tag": "img",
-      "title": "21 Savage - redrum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "21 Savage - redrum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711142830.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299180",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389675.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299232",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709103955.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299281",
-      "element_tag": "img",
-      "title": "Watchtower of Turkey",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Watchtower of Turkey",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309754.webp",
       "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299325",
+      "discovered_at": "2025-09-05T03:26:45.059467",
       "element_tag": "img",
       "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
       "description": "",
@@ -117,1892 +17,76 @@
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310604.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299370",
-      "element_tag": "img",
-      "title": "Tyler, The Creator - Who Dat Boy",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Tyler, The Creator - Who Dat Boy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
         "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037287.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299415",
-      "element_tag": "img",
-      "title": "Clip by Madani Kacimi",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip by Madani Kacimi",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715573970.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299457",
-      "element_tag": "img",
-      "title": "Donna Missal - Sex is Good",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Donna Missal - Sex is Good",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610911.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299500",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657386.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299541",
-      "element_tag": "img",
-      "title": "ARC DE TRiOMPH",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ARC DE TRiOMPH",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710488708.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299582",
-      "element_tag": "img",
-      "title": "21 Savage - redrum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "21 Savage - redrum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711142830.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299621",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389675.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299662",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709103955.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299700",
-      "element_tag": "img",
-      "title": "Watchtower of Turkey",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Watchtower of Turkey",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309754.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299740",
-      "element_tag": "img",
-      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310604.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299780",
-      "element_tag": "img",
-      "title": "Tyler, The Creator - Who Dat Boy",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Tyler, The Creator - Who Dat Boy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037287.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299819",
-      "element_tag": "img",
-      "title": "Clip by Madani Kacimi",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip by Madani Kacimi",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715573970.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299860",
-      "element_tag": "img",
-      "title": "Donna Missal - Sex is Good",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Donna Missal - Sex is Good",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610911.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299900",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "show it",
-        "lazy img",
-        "lazyImages1",
-        "trigger_info_"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861468.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299943",
-      "element_tag": "img",
-      "title": "A$AP Rocky - D.M.B.",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - D.M.B.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036523.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.299987",
-      "element_tag": "img",
-      "title": "Unknown Source",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Unknown Source",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488658.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300030",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261705012363.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300073",
-      "element_tag": "img",
-      "title": "@kay.eey / IG",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "@kay.eey / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706259504.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300114",
-      "element_tag": "img",
-      "title": "Clip from Valentin Petit",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip from Valentin Petit",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310226.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300155",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037459.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300197",
-      "element_tag": "img",
-      "title": "Unknown Source",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Unknown Source",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309487.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300243",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Changed it",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Downtown Kayoto - Changed it",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703307696.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300288",
-      "element_tag": "img",
-      "title": "Glossier - You",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Glossier - You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702874203.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300335",
-      "element_tag": "img",
-      "title": "@schyguyy / IG",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "@schyguyy / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725945082.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300380",
-      "element_tag": "img",
-      "title": "ScHoolboy Q - Floating",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ScHoolboy Q - Floating",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037227.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300423",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707621026.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300468",
-      "element_tag": "img",
-      "title": "Carly Gibert - WILLOW",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Carly Gibert - WILLOW",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036954.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300512",
-      "element_tag": "img",
-      "title": "@kay.eey / IG",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "@kay.eey / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705181731.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300557",
-      "element_tag": "img",
-      "title": "Botis Seva - Santo",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Botis Seva - Santo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704862384.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300601",
-      "element_tag": "img",
-      "title": "A$AP Rocky - D.M.B.",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - D.M.B.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656951.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300644",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705030327.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300688",
-      "element_tag": "img",
-      "title": "Jimmy Nelson - Blink. And they're gone",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Jimmy Nelson - Blink. And they're gone",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310133.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300731",
-      "element_tag": "img",
-      "title": "Circular by Hannah Johnston",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Circular by Hannah Johnston",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704862582.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300773",
-      "element_tag": "img",
-      "title": "A$AP Rocky - D.M.B.",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - D.M.B.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309884.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300815",
-      "element_tag": "img",
-      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037077.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300859",
-      "element_tag": "img",
-      "title": "Flash cut clip by Matthias Brown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flash cut clip by Matthias Brown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715655792.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.300982",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704938536.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301037",
-      "element_tag": "img",
-      "title": "Nike SB - Don't Make Plans",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Nike SB - Don't Make Plans",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037029.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301084",
-      "element_tag": "img",
-      "title": "Dressing New York Fashion Week GIF By Feliks Tomasz Konczakowski",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dressing New York Fashion Week GIF By Feliks Tomasz Konczakowski",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704511034.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301128",
-      "element_tag": "img",
-      "title": "ASD - Legendär / Populär",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ASD - Legendär / Populär",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703487586.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301172",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036428.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301216",
-      "element_tag": "img",
-      "title": "Flash cut clip by Ewan Jones Morris",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flash cut clip by Ewan Jones Morris",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036561.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301260",
-      "element_tag": "img",
-      "title": "Unknown Source",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Unknown Source",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309110.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301303",
-      "element_tag": "img",
-      "title": "A$AP Rocky - D.M.B.",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - D.M.B.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037397.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301346",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703993383.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301390",
-      "element_tag": "img",
-      "title": "Bishop Briggs - JEKYLL & HIDE",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Bishop Briggs - JEKYLL & HIDE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310169.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301431",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985814.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301473",
-      "element_tag": "img",
-      "title": "Travis Scott - FE!N",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Travis Scott - FE!N",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311182.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301515",
-      "element_tag": "img",
-      "title": "Flash cut animation by Cole Quigley",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flash cut animation by Cole Quigley",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311899.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301557",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036847.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301598",
-      "element_tag": "img",
-      "title": "Flash cut clip from Dax Norman",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flash cut clip from Dax Norman",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720385066.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301639",
-      "element_tag": "img",
-      "title": "The Dare - Perfume",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Dare - Perfume",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703920909.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301680",
-      "element_tag": "img",
-      "title": "Quavo x Takeoff - Hotel Lobby",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Quavo x Takeoff - Hotel Lobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704530649.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301721",
-      "element_tag": "img",
-      "title": "A$AP Rocky - D.M.B.",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - D.M.B.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309843.webp",
       "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301763",
+      "discovered_at": "2025-09-05T03:26:45.059592",
       "element_tag": "img",
       "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
       "description": "",
       "category": "Technique",
       "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704512226.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309754.webp",
       "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301804",
-      "element_tag": "img",
-      "title": "ASD - Legendär / Populär",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ASD - Legendär / Populär",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309805.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301844",
+      "discovered_at": "2025-09-05T03:26:45.059664",
       "element_tag": "img",
       "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
       "description": "",
       "category": "Technique",
       "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311105.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309843.webp",
       "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301885",
+      "discovered_at": "2025-09-05T03:26:45.059729",
       "element_tag": "img",
       "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
       "description": "",
       "category": "Technique",
       "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "trigger_info_",
+        "lazyImages1",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944795.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301927",
-      "element_tag": "img",
-      "title": "ScHoolboy Q - Floating",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ScHoolboy Q - Floating",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944370.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.301970",
-      "element_tag": "img",
-      "title": "ScHoolboy Q - Floating",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ScHoolboy Q - Floating",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309322.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302011",
-      "element_tag": "img",
-      "title": "Flash cut animation by Cole Quigley",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flash cut animation by Cole Quigley",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036696.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302054",
-      "element_tag": "img",
-      "title": "Sam Griffith - Guy Walks Across America",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Sam Griffith - Guy Walks Across America",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261705012483.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302098",
-      "element_tag": "img",
-      "title": "@holyfruits / Reddit",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "@holyfruits / Reddit",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023468.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302141",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311250.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302182",
-      "element_tag": "img",
-      "title": "Flash cut animation by Cole Quigley",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flash cut animation by Cole Quigley",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310847.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302224",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037337.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302266",
-      "element_tag": "img",
-      "title": "Clip by GIU",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip by GIU",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710664101.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302309",
-      "element_tag": "img",
-      "title": "Noah",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Noah",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036792.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302352",
-      "element_tag": "img",
-      "title": "Flash cut clip by Jonathan Lin",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flash cut clip by Jonathan Lin",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310284.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302394",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480490.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302435",
-      "element_tag": "img",
-      "title": "Mula B - Blokke Gepikt",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Mula B - Blokke Gepikt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037489.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302478",
-      "element_tag": "img",
-      "title": "Unknown Source",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Unknown Source",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311289.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302520",
-      "element_tag": "img",
-      "title": "Botis Seva - Santo",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Botis Seva - Santo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246498.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302562",
-      "element_tag": "img",
-      "title": "Latto - Sunday Service",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Latto - Sunday Service",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704530520.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302604",
-      "element_tag": "img",
-      "title": "The North Face x Gucci presented by Highsnobiety",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The North Face x Gucci presented by Highsnobiety",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310799.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302646",
-      "element_tag": "img",
-      "title": "Flash cut animation by Kevin McGloughlin",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flash cut animation by Kevin McGloughlin",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707977807.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302689",
-      "element_tag": "img",
-      "title": "A$AP Rocky - D.M.B.",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - D.M.B.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310934.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302733",
-      "element_tag": "img",
-      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311136.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302776",
-      "element_tag": "img",
-      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704530634.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302818",
-      "element_tag": "img",
-      "title": "A$AP Rocky - D.M.B.",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - D.M.B.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657409.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302860",
-      "element_tag": "img",
-      "title": "ARC DE TRiOMPH",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ARC DE TRiOMPH",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657522.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302902",
-      "element_tag": "img",
-      "title": "(exp. 3)",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "(exp. 3)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023432.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302944",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309967.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.302985",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710391248.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303028",
-      "element_tag": "img",
-      "title": "Feid - ALAKRAN",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Feid - ALAKRAN",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702704192.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303071",
-      "element_tag": "img",
-      "title": "Reebok - Classic",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Reebok - Classic",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036883.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303115",
-      "element_tag": "img",
-      "title": "Flash cut clip from Dax Norman",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flash cut clip from Dax Norman",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924138.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303160",
-      "element_tag": "img",
-      "title": "slowthai - Yum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310201.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303206",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944222.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303248",
-      "element_tag": "img",
-      "title": "ScHoolboy Q - Floating",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ScHoolboy Q - Floating",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861837.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303289",
-      "element_tag": "img",
-      "title": "A$AP Rocky - D.M.B.",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Rocky - D.M.B.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310956.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303337",
-      "element_tag": "img",
-      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311201.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303381",
-      "element_tag": "img",
-      "title": "Flash cut animation by Cole Quigley",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flash cut animation by Cole Quigley",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703233947.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303425",
-      "element_tag": "img",
-      "title": "Clip by David Friday",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Clip by David Friday",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311513.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303469",
-      "element_tag": "img",
-      "title": "Flash cut animation by Lloyd Winter",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Flash cut animation by Lloyd Winter",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703285465.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303512",
-      "element_tag": "img",
-      "title": "Animation by Cole Quigley",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Animation by Cole Quigley",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944885.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303555",
-      "element_tag": "img",
-      "title": "ScHoolboy Q - Floating",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ScHoolboy Q - Floating",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702866508.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303598",
-      "element_tag": "img",
-      "title": "A$AP Ferg - Floor Seats",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "A$AP Ferg - Floor Seats",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "show it"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704530577.webp",
       "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303640",
+      "discovered_at": "2025-09-05T03:26:45.059792",
       "element_tag": "img",
       "title": "@timelapseworlds / IG",
       "description": "",
@@ -2012,92 +96,54 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610881.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311250.webp",
       "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303682",
+      "discovered_at": "2025-09-05T03:26:45.059858",
       "element_tag": "img",
-      "title": "THEY. - U-RITE",
+      "title": "Flash cut animation by Cole Quigley",
       "description": "",
       "category": "Technique",
-      "alt_text": "THEY. - U-RITE",
+      "alt_text": "Flash cut animation by Cole Quigley",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261705012529.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311105.webp",
       "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303725",
+      "discovered_at": "2025-09-05T03:26:45.059922",
       "element_tag": "img",
-      "title": "EA SPORTS FC x Triangles ft. Dave",
+      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
       "description": "",
       "category": "Technique",
-      "alt_text": "EA SPORTS FC x Triangles ft. Dave",
+      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657371.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309110.webp",
       "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303767",
-      "element_tag": "img",
-      "title": "ARC DE TRiOMPH",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "ARC DE TRiOMPH",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657251.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303808",
-      "element_tag": "img",
-      "title": "Little film of mom's art",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Little film of mom's art",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861690.webp",
-      "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303852",
+      "discovered_at": "2025-09-05T03:26:45.059980",
       "element_tag": "img",
       "title": "A$AP Rocky - D.M.B.",
       "description": "",
@@ -2107,16 +153,586 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036561.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060038",
+      "element_tag": "img",
+      "title": "Unknown Source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown Source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705030327.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060094",
+      "element_tag": "img",
+      "title": "Jimmy Nelson - Blink. And they're gone",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jimmy Nelson - Blink. And they're gone",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261705012483.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060151",
+      "element_tag": "img",
+      "title": "@holyfruits / Reddit",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@holyfruits / Reddit",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037077.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060206",
+      "element_tag": "img",
+      "title": "Flash cut clip by Matthias Brown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flash cut clip by Matthias Brown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861468.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060262",
+      "element_tag": "img",
+      "title": "A$AP Rocky - D.M.B.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037397.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060318",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704530634.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060378",
+      "element_tag": "img",
+      "title": "A$AP Rocky - D.M.B.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944795.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060434",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037337.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060492",
+      "element_tag": "img",
+      "title": "Clip by GIU",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip by GIU",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924138.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060550",
+      "element_tag": "img",
+      "title": "slowthai - Yum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "slowthai - Yum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309805.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060605",
+      "element_tag": "img",
+      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310133.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060661",
+      "element_tag": "img",
+      "title": "Circular by Hannah Johnston",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Circular by Hannah Johnston",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310226.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060717",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703993383.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060772",
+      "element_tag": "img",
+      "title": "Bishop Briggs - JEKYLL & HIDE",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bishop Briggs - JEKYLL & HIDE",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036523.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060831",
+      "element_tag": "img",
+      "title": "Unknown Source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown Source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704862384.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060885",
+      "element_tag": "img",
+      "title": "A$AP Rocky - D.M.B.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036954.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060939",
+      "element_tag": "img",
+      "title": "@kay.eey / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@kay.eey / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488658.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.060994",
+      "element_tag": "img",
+      "title": "Lil Yachty - TESLA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Yachty - TESLA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704862582.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061055",
+      "element_tag": "img",
+      "title": "A$AP Rocky - D.M.B.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720385066.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061115",
+      "element_tag": "img",
+      "title": "The Dare - Perfume",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Dare - Perfume",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656951.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061173",
+      "element_tag": "img",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037029.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061231",
+      "element_tag": "img",
+      "title": "Dressing New York Fashion Week GIF By Feliks Tomasz Konczakowski",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dressing New York Fashion Week GIF By Feliks Tomasz Konczakowski",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036847.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061287",
+      "element_tag": "img",
+      "title": "Flash cut clip from Dax Norman",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flash cut clip from Dax Norman",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657522.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061343",
+      "element_tag": "img",
+      "title": "(exp. 3)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "(exp. 3)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657371.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061399",
+      "element_tag": "img",
+      "title": "ARC DE TRiOMPH",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ARC DE TRiOMPH",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480490.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061457",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711142830.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061514",
+      "element_tag": "img",
+      "title": "Downtown Kayoto - Came Thru",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310956.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061571",
+      "element_tag": "img",
+      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707977807.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061626",
+      "element_tag": "img",
+      "title": "A$AP Rocky - D.M.B.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702704192.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061685",
+      "element_tag": "img",
+      "title": "Reebok - Classic",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Reebok - Classic",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310892.webp",
       "page_url": "https://eyecannndy.com/technique/flash-cut",
-      "discovered_at": "2025-09-04T12:50:42.303895",
+      "discovered_at": "2025-09-05T03:26:45.061746",
       "element_tag": "img",
       "title": "Flash cut animation by Kevin McGloughlin",
       "description": "",
@@ -2126,10 +742,1226 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311136.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061804",
+      "element_tag": "img",
+      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715655792.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061863",
+      "element_tag": "img",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610881.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061923",
+      "element_tag": "img",
+      "title": "THEY. - U-RITE",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "THEY. - U-RITE",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311182.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.061982",
+      "element_tag": "img",
+      "title": "Flash cut animation by Cole Quigley",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flash cut animation by Cole Quigley",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704512226.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062039",
+      "element_tag": "img",
+      "title": "ASD - Legendär / Populär",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ASD - Legendär / Populär",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023432.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062095",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704530520.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062150",
+      "element_tag": "img",
+      "title": "The North Face x Gucci presented by Highsnobiety",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The North Face x Gucci presented by Highsnobiety",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310201.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062204",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704530649.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062259",
+      "element_tag": "img",
+      "title": "A$AP Rocky - D.M.B.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710391248.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062313",
+      "element_tag": "img",
+      "title": "Feid - ALAKRAN",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Feid - ALAKRAN",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036696.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062367",
+      "element_tag": "img",
+      "title": "Sam Griffith - Guy Walks Across America",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sam Griffith - Guy Walks Across America",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861690.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062424",
+      "element_tag": "img",
+      "title": "A$AP Rocky - D.M.B.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985814.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062480",
+      "element_tag": "img",
+      "title": "Travis Scott - FE!N",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Travis Scott - FE!N",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309487.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062536",
+      "element_tag": "img",
+      "title": "Downtown Kayoto - Changed it",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Downtown Kayoto - Changed it",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944370.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062592",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703487586.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062647",
+      "element_tag": "img",
+      "title": "Lil Yachty - TESLA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Yachty - TESLA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311513.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062702",
+      "element_tag": "img",
+      "title": "Flash cut animation by Lloyd Winter",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flash cut animation by Lloyd Winter",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037227.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062757",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702866508.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062811",
+      "element_tag": "img",
+      "title": "A$AP Ferg - Floor Seats",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Ferg - Floor Seats",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703920909.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062861",
+      "element_tag": "img",
+      "title": "Quavo x Takeoff - Hotel Lobby",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Quavo x Takeoff - Hotel Lobby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310604.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062914",
+      "element_tag": "img",
+      "title": "Tyler, The Creator - Who Dat Boy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tyler, The Creator - Who Dat Boy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944885.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.062967",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657409.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063020",
+      "element_tag": "img",
+      "title": "ARC DE TRiOMPH",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ARC DE TRiOMPH",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309884.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063071",
+      "element_tag": "img",
+      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703307696.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063121",
+      "element_tag": "img",
+      "title": "Glossier - You",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Glossier - You",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657386.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063171",
+      "element_tag": "img",
+      "title": "ARC DE TRiOMPH",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ARC DE TRiOMPH",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310169.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063221",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310799.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063274",
+      "element_tag": "img",
+      "title": "Flash cut animation by Kevin McGloughlin",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flash cut animation by Kevin McGloughlin",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706259504.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063326",
+      "element_tag": "img",
+      "title": "Clip from Valentin Petit",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip from Valentin Petit",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310847.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063377",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704511034.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063428",
+      "element_tag": "img",
+      "title": "ASD - Legendär / Populär",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ASD - Legendär / Populär",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610911.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063478",
+      "element_tag": "img",
+      "title": "THEY. - U-RITE",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "THEY. - U-RITE",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702874203.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063528",
+      "element_tag": "img",
+      "title": "@schyguyy / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@schyguyy / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709103955.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063578",
+      "element_tag": "img",
+      "title": "Watchtower of Turkey",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Watchtower of Turkey",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715573970.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063627",
+      "element_tag": "img",
+      "title": "Donna Missal - Sex is Good",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Donna Missal - Sex is Good",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311899.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063676",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705181731.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063726",
+      "element_tag": "img",
+      "title": "Botis Seva - Santo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Botis Seva - Santo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037489.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063776",
+      "element_tag": "img",
+      "title": "Unknown Source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown Source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311289.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063828",
+      "element_tag": "img",
+      "title": "Botis Seva - Santo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Botis Seva - Santo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037459.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063878",
+      "element_tag": "img",
+      "title": "Unknown Source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown Source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023468.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063928",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861837.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.063977",
+      "element_tag": "img",
+      "title": "A$AP Rocky - D.M.B.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310284.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064026",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309322.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064076",
+      "element_tag": "img",
+      "title": "Flash cut animation by Cole Quigley",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flash cut animation by Cole Quigley",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944222.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064126",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389675.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064176",
+      "element_tag": "img",
+      "title": "Halfprice - Fitting room",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Halfprice - Fitting room",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261705012529.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064226",
+      "element_tag": "img",
+      "title": "EA SPORTS FC x Triangles ft. Dave",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "EA SPORTS FC x Triangles ft. Dave",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036792.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064275",
+      "element_tag": "img",
+      "title": "Flash cut clip by Jonathan Lin",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flash cut clip by Jonathan Lin",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704938536.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064328",
+      "element_tag": "img",
+      "title": "Nike SB - Don't Make Plans",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike SB - Don't Make Plans",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657251.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064378",
+      "element_tag": "img",
+      "title": "Little film of mom's art",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Little film of mom's art",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036428.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064427",
+      "element_tag": "img",
+      "title": "Flash cut clip by Ewan Jones Morris",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flash cut clip by Ewan Jones Morris",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707621026.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064477",
+      "element_tag": "img",
+      "title": "Carly Gibert - WILLOW",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Carly Gibert - WILLOW",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705037287.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064526",
+      "element_tag": "img",
+      "title": "Clip by Madani Kacimi",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip by Madani Kacimi",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703311201.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064575",
+      "element_tag": "img",
+      "title": "Flash cut animation by Cole Quigley",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flash cut animation by Cole Quigley",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261705012363.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064625",
+      "element_tag": "img",
+      "title": "@kay.eey / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@kay.eey / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309967.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064675",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710488708.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064724",
+      "element_tag": "img",
+      "title": "21 Savage - redrum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "21 Savage - redrum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703285465.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064772",
+      "element_tag": "img",
+      "title": "Animation by Cole Quigley",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Animation by Cole Quigley",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246498.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064821",
+      "element_tag": "img",
+      "title": "Latto - Sunday Service",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Latto - Sunday Service",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703233947.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064872",
+      "element_tag": "img",
+      "title": "Clip by David Friday",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip by David Friday",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703310934.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064923",
+      "element_tag": "img",
+      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725945082.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.064973",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705036883.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.065023",
+      "element_tag": "img",
+      "title": "Flash cut clip from Dax Norman",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flash cut clip from Dax Norman",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710664101.webp",
+      "page_url": "https://eyecannndy.com/technique/flash-cut",
+      "discovered_at": "2025-09-05T03:26:45.065072",
+      "element_tag": "img",
+      "title": "Noah",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Noah",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]

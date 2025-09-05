@@ -1,212 +1,330 @@
 {
   "technique": "echo-printing",
-  "video_count": 70,
-  "generated_at": "2025-09-05T02:44:19.183011",
+  "video_count": 72,
+  "generated_at": "2025-09-05T04:03:29.634468",
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294641.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334620.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.995985",
+      "discovered_at": "2025-09-05T03:25:23.496193",
       "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
+      "title": "Dua Lipa - Training Season",
       "description": "",
       "category": "Technique",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "alt_text": "Dua Lipa - Training Season",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924451.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164016.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996161",
+      "discovered_at": "2025-09-05T03:25:23.496331",
       "element_tag": "img",
-      "title": "slowthai - Yum",
+      "title": "Bree Runway - Just Like That",
       "description": "",
       "category": "Technique",
-      "alt_text": "slowthai - Yum",
+      "alt_text": "Bree Runway - Just Like That",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294876.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283602.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996232",
+      "discovered_at": "2025-09-05T03:25:23.496408",
       "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
+      "title": "Duplication clip by Matthias Brown",
       "description": "",
       "category": "Technique",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "alt_text": "Duplication clip by Matthias Brown",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294828.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709020374.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996297",
+      "discovered_at": "2025-09-05T03:25:23.496473",
       "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
+      "title": "Snipes x Nike - The Cypher",
       "description": "",
       "category": "Technique",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "alt_text": "Snipes x Nike - The Cypher",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384360.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406931.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996359",
+      "discovered_at": "2025-09-05T03:25:23.496534",
       "element_tag": "img",
-      "title": "Omega - Road to the Olympics",
+      "title": "The Chronicles of Riddick",
       "description": "",
       "category": "Technique",
-      "alt_text": "Omega - Road to the Olympics",
+      "alt_text": "The Chronicles of Riddick",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294641.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708333800.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996417",
+      "discovered_at": "2025-09-05T03:25:23.496595",
       "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
+      "title": "Dua Lipa - Training Season",
       "description": "",
       "category": "Technique",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "alt_text": "Dua Lipa - Training Season",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924451.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420944.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996476",
+      "discovered_at": "2025-09-05T03:25:23.496655",
       "element_tag": "img",
-      "title": "slowthai - Yum",
+      "title": "AJR - The DJ Is Crying For Help",
       "description": "",
       "category": "Technique",
-      "alt_text": "slowthai - Yum",
+      "alt_text": "AJR - The DJ Is Crying For Help",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294876.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334620.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996543",
+      "discovered_at": "2025-09-05T03:25:23.496711",
       "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
+      "title": "Dua Lipa - Training Season",
       "description": "",
       "category": "Technique",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "alt_text": "Dua Lipa - Training Season",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294828.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164016.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996597",
+      "discovered_at": "2025-09-05T03:25:23.496769",
       "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
+      "title": "Bree Runway - Just Like That",
       "description": "",
       "category": "Technique",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "alt_text": "Bree Runway - Just Like That",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384360.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283602.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996651",
+      "discovered_at": "2025-09-05T03:25:23.496826",
       "element_tag": "img",
-      "title": "Omega - Road to the Olympics",
+      "title": "Duplication clip by Matthias Brown",
       "description": "",
       "category": "Technique",
-      "alt_text": "Omega - Road to the Olympics",
+      "alt_text": "Duplication clip by Matthias Brown",
       "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
       "file_size": null,
       "dimensions": null,
       "tags": [
         "Eyecandy",
-        "show it",
-        "lazy img",
         "lazyImages1",
-        "trigger_info_"
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709020374.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.496882",
+      "element_tag": "img",
+      "title": "Snipes x Nike - The Cypher",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406931.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.496937",
+      "element_tag": "img",
+      "title": "The Chronicles of Riddick",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Chronicles of Riddick",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708333800.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.496989",
+      "element_tag": "img",
+      "title": "Dua Lipa - Training Season",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dua Lipa - Training Season",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420944.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.497041",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazyImages1",
+        "lazy img",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860861.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.497098",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420589.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.497162",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709534547.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996709",
+      "discovered_at": "2025-09-05T03:25:23.497229",
       "element_tag": "img",
       "title": "Pas De Deux",
       "description": "",
@@ -216,187 +334,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975580.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294828.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996769",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334489.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996836",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406828.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996894",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420589.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.996950",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165149.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997008",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420944.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997064",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449190.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997121",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407599.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997180",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449402.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997236",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294671.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997297",
+      "discovered_at": "2025-09-05T03:25:23.497290",
       "element_tag": "img",
       "title": "Shit Robot \"Take 'Em Up\"",
       "description": "",
@@ -406,130 +353,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976637.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860545.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997352",
-      "element_tag": "img",
-      "title": "Usher, H.E.R. - Risk It All",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Usher, H.E.R. - Risk It All",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709020374.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997408",
-      "element_tag": "img",
-      "title": "Snipes x Nike - The Cypher",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Snipes x Nike - The Cypher",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902404.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997465",
-      "element_tag": "img",
-      "title": "Burberry x POP",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Burberry x POP",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704023962.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997522",
-      "element_tag": "img",
-      "title": "slowthai - Yum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406931.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997581",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384475.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997641",
-      "element_tag": "img",
-      "title": "Omega - Road to the Olympics",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Omega - Road to the Olympics",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860743.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997705",
+      "discovered_at": "2025-09-05T03:25:23.497350",
       "element_tag": "img",
       "title": "Waveform",
       "description": "",
@@ -539,130 +372,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708472556.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997766",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294548.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997829",
-      "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916959.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997891",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576508.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.997949",
-      "element_tag": "img",
-      "title": "Ken Carson - Fighting My Demons",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Ken Carson - Fighting My Demons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545953.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998010",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710313059.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998067",
-      "element_tag": "img",
-      "title": "Carousel GIF by Dave Gorum",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Carousel GIF by Dave Gorum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407291.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998128",
+      "discovered_at": "2025-09-05T03:25:23.497411",
       "element_tag": "img",
       "title": "The Chronicles of Riddick",
       "description": "",
@@ -672,16 +391,35 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916811.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.497468",
+      "element_tag": "img",
+      "title": "João Borsch - Apaz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "João Borsch - Apaz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710832728.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998186",
+      "discovered_at": "2025-09-05T03:25:23.497526",
       "element_tag": "img",
       "title": "Oppo - Make Every Shot Stand Out",
       "description": "",
@@ -691,130 +429,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334745.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294876.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998243",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710750777.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998300",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406762.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998357",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289556.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998413",
-      "element_tag": "img",
-      "title": "Souce unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Souce unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284956.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998469",
-      "element_tag": "img",
-      "title": "adidas x DC Look",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "adidas x DC Look",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529358.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998529",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715295068.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998592",
+      "discovered_at": "2025-09-05T03:25:23.497584",
       "element_tag": "img",
       "title": "Shit Robot \"Take 'Em Up\"",
       "description": "",
@@ -824,111 +448,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976682.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998649",
-      "element_tag": "img",
-      "title": "Usher, H.E.R. - Risk It All",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Usher, H.E.R. - Risk It All",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
         "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420385.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998706",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164016.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998763",
-      "element_tag": "img",
-      "title": "Bree Runway - Just Like That",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916811.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998826",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976709.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998882",
-      "element_tag": "img",
-      "title": "Usher, H.E.R. - Risk It All",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Usher, H.E.R. - Risk It All",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334823.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998938",
+      "discovered_at": "2025-09-05T03:25:23.497643",
       "element_tag": "img",
       "title": "Dua Lipa - Training Season",
       "description": "",
@@ -938,187 +467,16 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407048.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449402.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.998993",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860545.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999049",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406637.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999104",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334620.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999160",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406989.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999215",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985544.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999271",
-      "element_tag": "img",
-      "title": "Travis Scott - FE!N",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Travis Scott - FE!N",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407122.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999328",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710752932.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999383",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420642.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999439",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452170.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999498",
+      "discovered_at": "2025-09-05T03:25:23.497698",
       "element_tag": "img",
       "title": "Empimic - Bittere Welt",
       "description": "",
@@ -1128,111 +486,149 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860861.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708472556.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999554",
+      "discovered_at": "2025-09-05T03:25:23.497757",
       "element_tag": "img",
-      "title": "Waveform",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
       "description": "",
       "category": "Technique",
-      "alt_text": "Waveform",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973445.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976682.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999612",
+      "discovered_at": "2025-09-05T03:25:23.497815",
       "element_tag": "img",
-      "title": "Fist of Fury",
+      "title": "Usher, H.E.R. - Risk It All",
       "description": "",
       "category": "Technique",
-      "alt_text": "Fist of Fury",
+      "alt_text": "Usher, H.E.R. - Risk It All",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420497.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384475.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999793",
+      "discovered_at": "2025-09-05T03:25:23.497872",
       "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
+      "title": "Omega - Road to the Olympics",
       "description": "",
       "category": "Technique",
-      "alt_text": "AJR - The DJ Is Crying For Help",
+      "alt_text": "Omega - Road to the Olympics",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294754.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407599.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:10.999934",
+      "discovered_at": "2025-09-05T03:25:23.497929",
       "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
+      "title": "The Chronicles of Riddick",
       "description": "",
       "category": "Technique",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "alt_text": "The Chronicles of Riddick",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704030931.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975580.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:11.000008",
+      "discovered_at": "2025-09-05T03:25:23.497986",
       "element_tag": "img",
-      "title": "Botis Seva - Santo",
+      "title": "Dream Corp LLC",
       "description": "",
       "category": "Technique",
-      "alt_text": "Botis Seva - Santo",
+      "alt_text": "Dream Corp LLC",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406989.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498045",
+      "element_tag": "img",
+      "title": "The Chronicles of Riddick",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Chronicles of Riddick",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165149.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498104",
+      "element_tag": "img",
+      "title": "Victoria Monet - Alright",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Victoria Monet - Alright",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420462.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:11.000072",
+      "discovered_at": "2025-09-05T03:25:23.498163",
       "element_tag": "img",
       "title": "AJR - The DJ Is Crying For Help",
       "description": "",
@@ -1242,73 +638,54 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344945.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407048.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:11.000128",
+      "discovered_at": "2025-09-05T03:25:23.498219",
       "element_tag": "img",
-      "title": "Oddworld x Souly - wzf / maybach",
+      "title": "The Chronicles of Riddick",
       "description": "",
       "category": "Technique",
-      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "alt_text": "The Chronicles of Riddick",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708333800.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976709.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:11.000184",
+      "discovered_at": "2025-09-05T03:25:23.498277",
       "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
+      "title": "Usher, H.E.R. - Risk It All",
       "description": "",
       "category": "Technique",
-      "alt_text": "Dua Lipa - Training Season",
+      "alt_text": "Usher, H.E.R. - Risk It All",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164076.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916959.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:11.000238",
-      "element_tag": "img",
-      "title": "Bree Runway - Just Like That",
-      "description": "",
-      "category": "Technique",
-      "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "trigger_info_",
-        "lazy img",
-        "lazyImages1"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916887.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:11.000294",
+      "discovered_at": "2025-09-05T03:25:23.498333",
       "element_tag": "img",
       "title": "João Borsch - Apaz",
       "description": "",
@@ -1318,29 +695,694 @@
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283602.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924451.webp",
       "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-04T12:49:11.000349",
+      "discovered_at": "2025-09-05T03:25:23.498389",
       "element_tag": "img",
-      "title": "Duplication clip by Matthias Brown",
+      "title": "slowthai - Yum",
       "description": "",
       "category": "Technique",
-      "alt_text": "Duplication clip by Matthias Brown",
+      "alt_text": "slowthai - Yum",
       "css_classes": "lazy-img lazyImages1 trigger_info_",
       "file_size": null,
       "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "trigger_info_",
         "lazy img",
-        "lazyImages1"
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420385.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498446",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452170.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498501",
+      "element_tag": "img",
+      "title": "Empimic - Bittere Welt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Empimic - Bittere Welt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704023962.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498556",
+      "element_tag": "img",
+      "title": "slowthai - Yum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "slowthai - Yum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710750777.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498611",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289556.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498667",
+      "element_tag": "img",
+      "title": "Souce unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Souce unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294548.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498723",
+      "element_tag": "img",
+      "title": "Shit Robot \"Take 'Em Up\"",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294671.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498779",
+      "element_tag": "img",
+      "title": "Shit Robot \"Take 'Em Up\"",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420497.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498840",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406828.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498902",
+      "element_tag": "img",
+      "title": "The Chronicles of Riddick",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Chronicles of Riddick",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710313059.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.498958",
+      "element_tag": "img",
+      "title": "Carousel GIF by Dave Gorum",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Carousel GIF by Dave Gorum",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284956.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499017",
+      "element_tag": "img",
+      "title": "adidas x DC Look",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas x DC Look",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985544.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499072",
+      "element_tag": "img",
+      "title": "Travis Scott - FE!N",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Travis Scott - FE!N",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407122.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499128",
+      "element_tag": "img",
+      "title": "The Chronicles of Riddick",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Chronicles of Riddick",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294641.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499184",
+      "element_tag": "img",
+      "title": "Shit Robot \"Take 'Em Up\"",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704030931.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499240",
+      "element_tag": "img",
+      "title": "Botis Seva - Santo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Botis Seva - Santo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860743.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499296",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344945.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499351",
+      "element_tag": "img",
+      "title": "Oddworld x Souly - wzf / maybach",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449190.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499407",
+      "element_tag": "img",
+      "title": "Empimic - Bittere Welt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Empimic - Bittere Welt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710752932.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499461",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545953.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499516",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420642.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499571",
+      "element_tag": "img",
+      "title": "AJR - The DJ Is Crying For Help",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976637.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499625",
+      "element_tag": "img",
+      "title": "Usher, H.E.R. - Risk It All",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384360.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499680",
+      "element_tag": "img",
+      "title": "Omega - Road to the Olympics",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Omega - Road to the Olympics",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529358.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499734",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406762.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499790",
+      "element_tag": "img",
+      "title": "The Chronicles of Riddick",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Chronicles of Riddick",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294754.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499847",
+      "element_tag": "img",
+      "title": "Shit Robot \"Take 'Em Up\"",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902404.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499899",
+      "element_tag": "img",
+      "title": "Burberry x POP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Burberry x POP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164076.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499949",
+      "element_tag": "img",
+      "title": "Bree Runway - Just Like That",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bree Runway - Just Like That",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334745.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.499999",
+      "element_tag": "img",
+      "title": "Dua Lipa - Training Season",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dua Lipa - Training Season",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973445.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.500049",
+      "element_tag": "img",
+      "title": "Fist of Fury",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fist of Fury",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334489.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.500100",
+      "element_tag": "img",
+      "title": "Dua Lipa - Training Season",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dua Lipa - Training Season",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916887.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.500151",
+      "element_tag": "img",
+      "title": "João Borsch - Apaz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "João Borsch - Apaz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715295068.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.500201",
+      "element_tag": "img",
+      "title": "Shit Robot \"Take 'Em Up\"",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576508.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.500251",
+      "element_tag": "img",
+      "title": "Ken Carson - Fighting My Demons",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406637.webp",
+      "page_url": "https://eyecannndy.com/technique/echo-printing",
+      "discovered_at": "2025-09-05T03:25:23.500301",
+      "element_tag": "img",
+      "title": "The Chronicles of Riddick",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Chronicles of Riddick",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy"
       ]
     }
   ]
