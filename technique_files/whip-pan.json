@@ -1,6 +1,1289 @@
 {
   "technique": "whip-pan",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.659536",
-  "videos": []
+  "video_count": 66,
+  "generated_at": "2025-09-09T09:01:36.274796",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704512333.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.783949",
+      "element_tag": "img",
+      "title": "ASD - Legendär / Populär",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ASD - Legendär / Populär",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702944464.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784073",
+      "element_tag": "img",
+      "title": "Sports Direct - Women's Euro",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sports Direct - Women's Euro",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633547.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784142",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706425449.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784206",
+      "element_tag": "img",
+      "title": "Unknown source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702945113.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784259",
+      "element_tag": "img",
+      "title": "PRADA presents \"CASTELLO CAVALCANTI\" by Wes Anderson",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "PRADA presents \"CASTELLO CAVALCANTI\" by Wes Anderson",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702949042.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784313",
+      "element_tag": "img",
+      "title": "Magnolia",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Magnolia",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702946863.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784364",
+      "element_tag": "img",
+      "title": "The Grand Budapest Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Grand Budapest Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702886262.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784414",
+      "element_tag": "img",
+      "title": "Nike - Sport Changes Everything, Chicago-Style",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Sport Changes Everything, Chicago-Style",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702885493.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784463",
+      "element_tag": "img",
+      "title": "Our England",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Our England",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947491.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784511",
+      "element_tag": "img",
+      "title": "zef - 4:20 (Už je čas)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "zef - 4:20 (Už je čas)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824689.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784560",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705433011.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784609",
+      "element_tag": "img",
+      "title": "Pa Salieu - My Family feat BackRoad Gee",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296242.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784656",
+      "element_tag": "img",
+      "title": "Volkswagen - Diamonds",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - Diamonds",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702884570.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784704",
+      "element_tag": "img",
+      "title": "Lazy Susan",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lazy Susan",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704512333.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784750",
+      "element_tag": "img",
+      "title": "ASD - Legendär / Populär",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ASD - Legendär / Populär",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702944464.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784797",
+      "element_tag": "img",
+      "title": "Sports Direct - Women's Euro",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sports Direct - Women's Euro",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633547.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784844",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706425449.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784892",
+      "element_tag": "img",
+      "title": "Unknown source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702945113.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784938",
+      "element_tag": "img",
+      "title": "PRADA presents \"CASTELLO CAVALCANTI\" by Wes Anderson",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "PRADA presents \"CASTELLO CAVALCANTI\" by Wes Anderson",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702949042.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.784983",
+      "element_tag": "img",
+      "title": "Magnolia",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Magnolia",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702946863.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785027",
+      "element_tag": "img",
+      "title": "The Grand Budapest Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Grand Budapest Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702886262.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785070",
+      "element_tag": "img",
+      "title": "Nike - Sport Changes Everything, Chicago-Style",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Sport Changes Everything, Chicago-Style",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702885493.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785110",
+      "element_tag": "img",
+      "title": "Our England",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Our England",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947491.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785151",
+      "element_tag": "img",
+      "title": "zef - 4:20 (Už je čas)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "zef - 4:20 (Už je čas)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824689.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785191",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705433011.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785232",
+      "element_tag": "img",
+      "title": "Pa Salieu - My Family feat BackRoad Gee",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296242.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785274",
+      "element_tag": "img",
+      "title": "Volkswagen - Diamonds",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - Diamonds",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702884570.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785314",
+      "element_tag": "img",
+      "title": "Lazy Susan",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lazy Susan",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705112113.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785359",
+      "element_tag": "img",
+      "title": "Instagram - Yours to Make",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Instagram - Yours to Make",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947024.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785413",
+      "element_tag": "img",
+      "title": "The Grand Budapest Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Grand Budapest Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702886497.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785462",
+      "element_tag": "img",
+      "title": "Sports Direct - Women's Euro",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sports Direct - Women's Euro",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702946906.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785509",
+      "element_tag": "img",
+      "title": "The Grand Budapest Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Grand Budapest Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705032282.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785557",
+      "element_tag": "img",
+      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown T - Hocus Pocus Feat. Loyle Carner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706153110.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785602",
+      "element_tag": "img",
+      "title": "2001: A Space Odyssey",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "2001: A Space Odyssey",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947406.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785648",
+      "element_tag": "img",
+      "title": "Moonrise Kingdom",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Moonrise Kingdom",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704834450.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785692",
+      "element_tag": "img",
+      "title": "Nike - Nothing Beats a Londoner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Nothing Beats a Londoner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705433174.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785738",
+      "element_tag": "img",
+      "title": "Pa Salieu - My Family feat BackRoad Gee",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329749.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785784",
+      "element_tag": "img",
+      "title": "Graubünden - Best Version (DC)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Graubünden - Best Version (DC)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702949462.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785829",
+      "element_tag": "img",
+      "title": "Whiplash",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Whiplash",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400184.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785873",
+      "element_tag": "img",
+      "title": "Bourne - Ere We Go",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bourne - Ere We Go",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947149.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785917",
+      "element_tag": "img",
+      "title": "The Grand Budapest Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Grand Budapest Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702951217.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.785961",
+      "element_tag": "img",
+      "title": "Rocket Mortgage - Certain Is Better - Super Bowl Commercial",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Rocket Mortgage - Certain Is Better - Super Bowl Commercial",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947817.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786005",
+      "element_tag": "img",
+      "title": "H&M - Hotel Hennes",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "H&M - Hotel Hennes",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385841.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786049",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708402835.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786096",
+      "element_tag": "img",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985869.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786142",
+      "element_tag": "img",
+      "title": "Travis Scott - FE!N",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Travis Scott - FE!N",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702944103.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786186",
+      "element_tag": "img",
+      "title": "Sports Direct - Women's Euro",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sports Direct - Women's Euro",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702944549.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786230",
+      "element_tag": "img",
+      "title": "Sports Direct - Women's Euro",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sports Direct - Women's Euro",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702946939.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786275",
+      "element_tag": "img",
+      "title": "The Grand Budapest Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Grand Budapest Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702950623.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786320",
+      "element_tag": "img",
+      "title": "Shaun of the Dead",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shaun of the Dead",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812930.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786365",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710333987.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786409",
+      "element_tag": "img",
+      "title": "#LoveYourz",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "#LoveYourz",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119379.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786454",
+      "element_tag": "img",
+      "title": "First Hawaiian Bank - Dance Party",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "First Hawaiian Bank - Dance Party",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703366872.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786501",
+      "element_tag": "img",
+      "title": "Husky - Never-ever",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Husky - Never-ever",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702884872.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786548",
+      "element_tag": "img",
+      "title": "La La Land",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "La La Land",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710831973.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786594",
+      "element_tag": "img",
+      "title": "Oppo - Make Every Shot Stand Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717741879.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786640",
+      "element_tag": "img",
+      "title": "ONHA - KODAK",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ONHA - KODAK",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296280.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786687",
+      "element_tag": "img",
+      "title": "Volkswagen - Diamonds",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - Diamonds",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656436.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786732",
+      "element_tag": "img",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702945355.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786778",
+      "element_tag": "img",
+      "title": "Moonrise Kingdom",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Moonrise Kingdom",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633605.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786824",
+      "element_tag": "img",
+      "title": "IKEA – Show Off Your Savvy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985869.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786868",
+      "element_tag": "img",
+      "title": "Travis Scott - FE!N",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Travis Scott - FE!N",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739192473.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786916",
+      "element_tag": "img",
+      "title": "Static - Federer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Static - Federer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717741879.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.786960",
+      "element_tag": "img",
+      "title": "ONHA - KODAK",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ONHA - KODAK",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812930.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.787003",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102377.webp",
+      "page_url": "https://eyecannndy.com/technique/whip-pan",
+      "discovered_at": "2025-09-09T08:57:50.787047",
+      "element_tag": "img",
+      "title": "Watchtower of Turkey",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Watchtower of Turkey",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    }
+  ]
 }

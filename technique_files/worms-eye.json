@@ -1,6 +1,1529 @@
 {
   "technique": "worms-eye",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.659845",
-  "videos": []
+  "video_count": 78,
+  "generated_at": "2025-09-09T09:05:18.948013",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705105969.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395239",
+      "element_tag": "img",
+      "title": "Get Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Get Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710388868.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395367",
+      "element_tag": "img",
+      "title": "NIKE x SIZE? - Content De Te Revoir",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "NIKE x SIZE? - Content De Te Revoir",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704831359.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395441",
+      "element_tag": "img",
+      "title": "DJ Pone (ft. Blasé) - All I Want",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "DJ Pone (ft. Blasé) - All I Want",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345107.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395506",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706427417.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395564",
+      "element_tag": "img",
+      "title": "The Shining",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Shining",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998877.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395624",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706506080.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395682",
+      "element_tag": "img",
+      "title": "I Know What You Did Last Summer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "I Know What You Did Last Summer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705128480.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395737",
+      "element_tag": "img",
+      "title": "Tyler the Creator - Sorry Not Sorry",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tyler the Creator - Sorry Not Sorry",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384858.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395791",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826687.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395855",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708243166.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395912",
+      "element_tag": "img",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385948.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.395970",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709094955.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396027",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272616.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396085",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702688411.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396141",
+      "element_tag": "img",
+      "title": "Nike SB - Don't Make Plans",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike SB - Don't Make Plans",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861324.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396201",
+      "element_tag": "img",
+      "title": "A$AP Rocky - D.M.B.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704837977.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396258",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345941.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396316",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706173318.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396374",
+      "element_tag": "img",
+      "title": "Art by GAKU",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by GAKU",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709098002.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396431",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705105969.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396486",
+      "element_tag": "img",
+      "title": "Get Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Get Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710388868.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396539",
+      "element_tag": "img",
+      "title": "NIKE x SIZE? - Content De Te Revoir",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "NIKE x SIZE? - Content De Te Revoir",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704831359.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396591",
+      "element_tag": "img",
+      "title": "DJ Pone (ft. Blasé) - All I Want",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "DJ Pone (ft. Blasé) - All I Want",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345107.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396641",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706427417.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396692",
+      "element_tag": "img",
+      "title": "The Shining",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Shining",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998877.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396742",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706506080.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396793",
+      "element_tag": "img",
+      "title": "I Know What You Did Last Summer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "I Know What You Did Last Summer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705128480.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396903",
+      "element_tag": "img",
+      "title": "Tyler the Creator - Sorry Not Sorry",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tyler the Creator - Sorry Not Sorry",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384858.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.396961",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826687.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397013",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708243166.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397064",
+      "element_tag": "img",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385948.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397114",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709094955.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397165",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272616.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397217",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702688411.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397269",
+      "element_tag": "img",
+      "title": "Nike SB - Don't Make Plans",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike SB - Don't Make Plans",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861324.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397319",
+      "element_tag": "img",
+      "title": "A$AP Rocky - D.M.B.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704837977.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397371",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345941.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397423",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706173318.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397473",
+      "element_tag": "img",
+      "title": "Art by GAKU",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by GAKU",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709098002.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397524",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529802.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397578",
+      "element_tag": "img",
+      "title": "Perspectiva de Suelo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Perspectiva de Suelo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546144.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397637",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/u/231696934460.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397694",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709022027.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397751",
+      "element_tag": "img",
+      "title": "Festival of Slaps",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Festival of Slaps",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706174237.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397807",
+      "element_tag": "img",
+      "title": "Art by GAKU",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by GAKU",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710827122.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397862",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704940863.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397917",
+      "element_tag": "img",
+      "title": "Flybuys - Give a Flybuys",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flybuys - Give a Flybuys",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285079.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.397974",
+      "element_tag": "img",
+      "title": "The Matrix",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Matrix",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706157700.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398028",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Dope Dealer (Official Music Video) f",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Dope Dealer (Official Music Video) f",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706425271.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398082",
+      "element_tag": "img",
+      "title": "Better Call Saul (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Better Call Saul (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706424500.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398149",
+      "element_tag": "img",
+      "title": "Jordan - Run It Back",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jordan - Run It Back",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706425642.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398211",
+      "element_tag": "img",
+      "title": "Better Call Saul (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Better Call Saul (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706157281.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398266",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Dope Dealer (Official Music Video) f",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Dope Dealer (Official Music Video) f",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609406.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398320",
+      "element_tag": "img",
+      "title": "Carly Gibert - Dropping Seeds",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244408.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398374",
+      "element_tag": "img",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706157458.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398427",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Dope Dealer (Official Music Video) f",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Dope Dealer (Official Music Video) f",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082289.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398480",
+      "element_tag": "img",
+      "title": "Do the Right Thing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Do the Right Thing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704938305.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398533",
+      "element_tag": "img",
+      "title": "Nike SB - Don't Make Plans",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike SB - Don't Make Plans",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704831087.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398586",
+      "element_tag": "img",
+      "title": "DJ Pone (ft. Blasé) - All I Want",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "DJ Pone (ft. Blasé) - All I Want",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272591.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398639",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272574.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398692",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705177140.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398747",
+      "element_tag": "img",
+      "title": "Adidas - Feel the Boost",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Adidas - Feel the Boost",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703054801.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398800",
+      "element_tag": "img",
+      "title": "Nope",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nope",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709971681.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398854",
+      "element_tag": "img",
+      "title": "Nike - Rise of the kids",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Rise of the kids",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708426985.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398909",
+      "element_tag": "img",
+      "title": "Sampha - Satellite Business",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sampha - Satellite Business",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710030776.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.398962",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272603.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399017",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706423937.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399072",
+      "element_tag": "img",
+      "title": "Rosalia - Saoko",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Rosalia - Saoko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704372991.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399128",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709339587.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399196",
+      "element_tag": "img",
+      "title": "Brooks - Gravity Had a Good Run",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Brooks - Gravity Had a Good Run",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706173053.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399258",
+      "element_tag": "img",
+      "title": "Huggies - Welcome to the World, Baby",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Huggies - Welcome to the World, Baby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097828.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399321",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707018511.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399385",
+      "element_tag": "img",
+      "title": "A League of Their Own (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A League of Their Own (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309884.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399448",
+      "element_tag": "img",
+      "title": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Typologies of New York City: A Crowdsourced Hyperlapse",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244141.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399513",
+      "element_tag": "img",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706157037.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399581",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Dope Dealer (Official Music Video) f",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Dope Dealer (Official Music Video) f",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704617942.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399650",
+      "element_tag": "img",
+      "title": "Willy Wonka and the Chocolate Factory",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Willy Wonka and the Chocolate Factory",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704938400.webp",
+      "page_url": "https://eyecannndy.com/technique/worms-eye",
+      "discovered_at": "2025-09-09T09:04:26.399715",
+      "element_tag": "img",
+      "title": "Nike SB - Don't Make Plans",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike SB - Don't Make Plans",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    }
+  ]
 }

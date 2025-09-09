@@ -1,6 +1,4842 @@
 {
   "technique": "stop-motion",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.656304",
-  "videos": []
+  "video_count": 253,
+  "generated_at": "2025-09-09T09:01:36.275615",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405555.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.221885",
+      "element_tag": "img",
+      "title": "The Animator 2",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Animator 2",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860247.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.221977",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404406.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222032",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451973.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222080",
+      "element_tag": "img",
+      "title": "Downtown Kayoto - Lite",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Downtown Kayoto - Lite",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246189.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222126",
+      "element_tag": "img",
+      "title": "Latto - Sunday Service",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Latto - Sunday Service",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707402783.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222168",
+      "element_tag": "img",
+      "title": "Tierra Whack - SHOWER SONG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344021.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222210",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533917.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222251",
+      "element_tag": "img",
+      "title": "Xerox Experiments",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Xerox Experiments",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703450875.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222292",
+      "element_tag": "img",
+      "title": "Black And White Animation GIF",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Black And White Animation GIF",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404225.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222337",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345043.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222379",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725942813.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222419",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344958.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222458",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405123.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222499",
+      "element_tag": "img",
+      "title": "Community S2E11 (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Community S2E11 (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405555.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222539",
+      "element_tag": "img",
+      "title": "The Animator 2",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Animator 2",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860247.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222583",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404406.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222629",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451973.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222668",
+      "element_tag": "img",
+      "title": "Downtown Kayoto - Lite",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Downtown Kayoto - Lite",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246189.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222707",
+      "element_tag": "img",
+      "title": "Latto - Sunday Service",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Latto - Sunday Service",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707402783.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222747",
+      "element_tag": "img",
+      "title": "Tierra Whack - SHOWER SONG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344021.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222785",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533917.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222821",
+      "element_tag": "img",
+      "title": "Xerox Experiments",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Xerox Experiments",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703450875.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222857",
+      "element_tag": "img",
+      "title": "Black And White Animation GIF",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Black And White Animation GIF",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404225.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222893",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345043.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222930",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725942813.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.222966",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344958.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223005",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405123.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223042",
+      "element_tag": "img",
+      "title": "Community S2E11 (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Community S2E11 (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859676.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223082",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533890.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223127",
+      "element_tag": "img",
+      "title": "Xerox Experiments",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Xerox Experiments",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248476.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223168",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861276.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223211",
+      "element_tag": "img",
+      "title": "@GIF-ITI / Giphy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@GIF-ITI / Giphy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401642.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223252",
+      "element_tag": "img",
+      "title": "adidas Originals - Original Is Never Finished",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404554.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223292",
+      "element_tag": "img",
+      "title": "This Wild Life - Falling Down",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "This Wild Life - Falling Down",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343850.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223335",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346272.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223377",
+      "element_tag": "img",
+      "title": "@mcafee.design / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@mcafee.design / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405681.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223419",
+      "element_tag": "img",
+      "title": "Stop Motion Clay GIF",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Stop Motion Clay GIF",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704610342.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223460",
+      "element_tag": "img",
+      "title": "Carly Gibert - Dropping Seeds",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343889.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223498",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535672.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223536",
+      "element_tag": "img",
+      "title": "Shifts",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shifts",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345892.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223576",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340786.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223614",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249065.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223653",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404592.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223690",
+      "element_tag": "img",
+      "title": "This Wild Life - Falling Down",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "This Wild Life - Falling Down",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404142.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223729",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340472.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223768",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405379.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223805",
+      "element_tag": "img",
+      "title": "Litterbug S1E7 (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Litterbug S1E7 (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861613.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223843",
+      "element_tag": "img",
+      "title": "Animation by Matthias Brown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Animation by Matthias Brown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404441.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223881",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711351007.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223919",
+      "element_tag": "img",
+      "title": "Wallace & Gromit: A Grand Day Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Wallace & Gromit: A Grand Day Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404368.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223956",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344885.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.223994",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404194.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224032",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702862522.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224069",
+      "element_tag": "img",
+      "title": "Animation Spin by CraigInTheBox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Animation Spin by CraigInTheBox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248410.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224108",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404338.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224146",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344171.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224185",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345814.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224224",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344164.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224266",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342562.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224305",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344281.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224342",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344502.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224380",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341565.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224418",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346704.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224457",
+      "element_tag": "img",
+      "title": "The Electric Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Electric Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707402977.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224494",
+      "element_tag": "img",
+      "title": "Tierra Whack - SHOWER SONG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711351039.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224532",
+      "element_tag": "img",
+      "title": "Wallace & Gromit: A Grand Day Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Wallace & Gromit: A Grand Day Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342755.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224573",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340581.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224613",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343766.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224652",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341638.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224691",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248701.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224730",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860496.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224768",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343985.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224806",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344110.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224843",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343199.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224880",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711345089.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224918",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708341995.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224956",
+      "element_tag": "img",
+      "title": "@blancavinas / Giphy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@blancavinas / Giphy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340837.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.224995",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535578.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225034",
+      "element_tag": "img",
+      "title": "Shifts",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shifts",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343153.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225072",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344751.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225110",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344429.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225149",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346207.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225187",
+      "element_tag": "img",
+      "title": "Bellroy Recycled Collection",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bellroy Recycled Collection",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248909.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225224",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404088.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225262",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709341007.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225301",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859198.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225342",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344806.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225380",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535611.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225426",
+      "element_tag": "img",
+      "title": "Shifts",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shifts",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533845.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225465",
+      "element_tag": "img",
+      "title": "Xerox Experiments",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Xerox Experiments",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344297.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225503",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249004.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225543",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248796.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225581",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248861.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225620",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346333.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225658",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405018.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225696",
+      "element_tag": "img",
+      "title": "Community S2E11 (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Community S2E11 (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341706.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225736",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344614.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225773",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342512.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225810",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344406.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225847",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725942870.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225884",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707403127.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225924",
+      "element_tag": "img",
+      "title": "Tierra Whack - SHOWER SONG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709341037.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.225962",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346555.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226000",
+      "element_tag": "img",
+      "title": "The Electric Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Electric Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342834.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226038",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725942920.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226077",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707403017.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226119",
+      "element_tag": "img",
+      "title": "Tierra Whack - SHOWER SONG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707402710.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226158",
+      "element_tag": "img",
+      "title": "Tierra Whack - SHOWER SONG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711345220.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226196",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711345023.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226234",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404954.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226272",
+      "element_tag": "img",
+      "title": "Community S2E11 (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Community S2E11 (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340385.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226309",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343722.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226347",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343049.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226385",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340517.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226423",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342707.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226460",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343876.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226498",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711345142.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226536",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344573.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226579",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703992887.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226618",
+      "element_tag": "img",
+      "title": "Stop motion arc shot by Johannes Höhn",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Stop motion arc shot by Johannes Höhn",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342260.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226657",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344037.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226695",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535402.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226733",
+      "element_tag": "img",
+      "title": "Shifts",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Shifts",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249284.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226772",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709341288.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226810",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340353.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226850",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707407868.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226889",
+      "element_tag": "img",
+      "title": "A Trip to the Moon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A Trip to the Moon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404286.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226928",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248552.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.226968",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340680.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227006",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248944.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227044",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346231.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227081",
+      "element_tag": "img",
+      "title": "Bellroy Recycled Collection",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bellroy Recycled Collection",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346822.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227119",
+      "element_tag": "img",
+      "title": "The Electric Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Electric Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859480.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227156",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343383.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227195",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706252191.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227233",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340313.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227274",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248634.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227313",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343582.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227351",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344325.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227389",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343688.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227426",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344685.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227464",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859597.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227503",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341849.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227541",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944611.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227579",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343807.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227616",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859405.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227655",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343268.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227692",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343806.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227731",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404611.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227770",
+      "element_tag": "img",
+      "title": "This Wild Life - Falling Down",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "This Wild Life - Falling Down",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249222.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227807",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709341198.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227845",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342388.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227883",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342466.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227920",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944661.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227958",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345689.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.227995",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706258721.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228032",
+      "element_tag": "img",
+      "title": "Art by We're Not Really Strangers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by We're Not Really Strangers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345660.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228069",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405143.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228107",
+      "element_tag": "img",
+      "title": "Community S2E11 (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Community S2E11 (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346884.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228146",
+      "element_tag": "img",
+      "title": "The Electric Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Electric Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343937.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228187",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340238.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228225",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249114.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228262",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346297.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228299",
+      "element_tag": "img",
+      "title": "Artist: Sankalp Pandey / IG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Artist: Sankalp Pandey / IG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345479.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228337",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859541.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228374",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707402740.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228412",
+      "element_tag": "img",
+      "title": "Tierra Whack - SHOWER SONG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344072.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228448",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340427.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228487",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944733.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228528",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344082.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228568",
+      "element_tag": "img",
+      "title": "Fantastic Mr. Fox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Fantastic Mr. Fox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340725.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228610",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249004.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228647",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248552.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228685",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248476.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228722",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340385.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228759",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340581.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228799",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405681.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228836",
+      "element_tag": "img",
+      "title": "Stop Motion Clay GIF",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Stop Motion Clay GIF",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405379.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228875",
+      "element_tag": "img",
+      "title": "Litterbug S1E7 (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Litterbug S1E7 (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405555.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228912",
+      "element_tag": "img",
+      "title": "The Animator 2",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Animator 2",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248944.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228948",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249284.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.228983",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344110.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229027",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707406397.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229063",
+      "element_tag": "img",
+      "title": "Stone Head",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Stone Head",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340680.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229099",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707402740.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229135",
+      "element_tag": "img",
+      "title": "Tierra Whack - SHOWER SONG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248796.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229171",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248701.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229207",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707402977.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229241",
+      "element_tag": "img",
+      "title": "Tierra Whack - SHOWER SONG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709341037.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229276",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340517.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229312",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340786.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229348",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248861.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229385",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404954.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229421",
+      "element_tag": "img",
+      "title": "Community S2E11 (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Community S2E11 (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249065.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229458",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709341288.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229495",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340472.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229532",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711351007.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229569",
+      "element_tag": "img",
+      "title": "Wallace & Gromit: A Grand Day Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Wallace & Gromit: A Grand Day Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405123.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229606",
+      "element_tag": "img",
+      "title": "Community S2E11 (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Community S2E11 (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340427.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229641",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248410.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229678",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344072.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229714",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340725.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229749",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711351039.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229785",
+      "element_tag": "img",
+      "title": "Wallace & Gromit: A Grand Day Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Wallace & Gromit: A Grand Day Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704835740.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229823",
+      "element_tag": "img",
+      "title": "Nike - Nothing Beats a Londoner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Nothing Beats a Londoner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248909.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229864",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707403512.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229901",
+      "element_tag": "img",
+      "title": "Ashley Gum GIF",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ashley Gum GIF",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249222.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229938",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248634.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.229974",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344171.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230012",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711249114.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230049",
+      "element_tag": "img",
+      "title": "Danny Brown - Y.B.P.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707402710.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230084",
+      "element_tag": "img",
+      "title": "Tierra Whack - SHOWER SONG",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405018.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230119",
+      "element_tag": "img",
+      "title": "Community S2E11 (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Community S2E11 (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405143.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230155",
+      "element_tag": "img",
+      "title": "Community S2E11 (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Community S2E11 (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706688358.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230191",
+      "element_tag": "img",
+      "title": "Honey, I Shrunk the Kids",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Honey, I Shrunk the Kids",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405796.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230230",
+      "element_tag": "img",
+      "title": "Crypto Bitcoin GIF",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Crypto Bitcoin GIF",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709341007.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230268",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344037.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230304",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709341198.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230339",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709340353.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230373",
+      "element_tag": "img",
+      "title": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Chinese Man - Too Late feat. Stogie T, KT Gorique & FP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346231.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230413",
+      "element_tag": "img",
+      "title": "Bellroy Recycled Collection",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bellroy Recycled Collection",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345043.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230452",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944611.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230488",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346555.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230523",
+      "element_tag": "img",
+      "title": "The Electric Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Electric Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346207.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230557",
+      "element_tag": "img",
+      "title": "Bellroy Recycled Collection",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bellroy Recycled Collection",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404088.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230593",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345814.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230629",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343985.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230664",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944733.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230699",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404142.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230735",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725942813.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230774",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944443.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230813",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404225.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230851",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346884.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230887",
+      "element_tag": "img",
+      "title": "The Electric Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Electric Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346704.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230924",
+      "element_tag": "img",
+      "title": "The Electric Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Electric Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404286.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.230959",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343688.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231003",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404368.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231040",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343850.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231078",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725942870.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231114",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944957.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231151",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725942920.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231195",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345689.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231230",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343889.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231266",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404194.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231302",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343807.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231337",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725944661.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231375",
+      "element_tag": "img",
+      "title": "ScHoolboy Q - Floating",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ScHoolboy Q - Floating",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404406.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231411",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345660.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231446",
+      "element_tag": "img",
+      "title": "Beastie Boys - An Open Letter To NYC",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715644445.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231481",
+      "element_tag": "img",
+      "title": "Oblé Reed - WESTON.",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oblé Reed - WESTON.",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404441.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231517",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343608.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231553",
+      "element_tag": "img",
+      "title": "Peter Gabriel - Sledgehammer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404338.webp",
+      "page_url": "https://eyecannndy.com/technique/stop-motion",
+      "discovered_at": "2025-09-09T08:58:00.231590",
+      "element_tag": "img",
+      "title": "Her Morning Elegance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Her Morning Elegance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    }
+  ]
 }

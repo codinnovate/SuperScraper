@@ -1,6 +1,3484 @@
 {
   "technique": "slow-motion",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.655558",
-  "videos": []
+  "video_count": 181,
+  "generated_at": "2025-09-09T09:01:36.277835",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707632272.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.298277",
+      "element_tag": "img",
+      "title": "Unlocked",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unlocked",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480318.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.298416",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706256101.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.298550",
+      "element_tag": "img",
+      "title": "Pirates of the Caribbean: At World's End",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pirates of the Caribbean: At World's End",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704084156.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.298619",
+      "element_tag": "img",
+      "title": "Apple Arcade - A New World to Play In",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Apple Arcade - A New World to Play In",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480185.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.298676",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703732964.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.298732",
+      "element_tag": "img",
+      "title": "Jennifer's Body",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jennifer's Body",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711251743.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.298788",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710033362.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.298840",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071479.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.298894",
+      "element_tag": "img",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703996923.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.298942",
+      "element_tag": "img",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710661746.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.298989",
+      "element_tag": "img",
+      "title": "Flatbush ZOMBiES - Afterlife",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flatbush ZOMBiES - Afterlife",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476299.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299037",
+      "element_tag": "img",
+      "title": ":aexattack - Next Year",
+      "description": "",
+      "category": "Technique",
+      "alt_text": ":aexattack - Next Year",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174889.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299084",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998471.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299130",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702958734.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299177",
+      "element_tag": "img",
+      "title": "Axe - Monday",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Axe - Monday",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998179.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299226",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175171.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299274",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704084047.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299322",
+      "element_tag": "img",
+      "title": "Apple Arcade - A New World to Play In",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Apple Arcade - A New World to Play In",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163132.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299379",
+      "element_tag": "img",
+      "title": "Bree Runway - Just Like That",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bree Runway - Just Like That",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707632272.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299425",
+      "element_tag": "img",
+      "title": "Unlocked",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unlocked",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480318.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299472",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706256101.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299516",
+      "element_tag": "img",
+      "title": "Pirates of the Caribbean: At World's End",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pirates of the Caribbean: At World's End",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704084156.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299560",
+      "element_tag": "img",
+      "title": "Apple Arcade - A New World to Play In",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Apple Arcade - A New World to Play In",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480185.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299602",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703732964.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299644",
+      "element_tag": "img",
+      "title": "Jennifer's Body",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jennifer's Body",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711251743.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299687",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710033362.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299729",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071479.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299771",
+      "element_tag": "img",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703996923.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299813",
+      "element_tag": "img",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710661746.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299856",
+      "element_tag": "img",
+      "title": "Flatbush ZOMBiES - Afterlife",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flatbush ZOMBiES - Afterlife",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476299.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299899",
+      "element_tag": "img",
+      "title": ":aexattack - Next Year",
+      "description": "",
+      "category": "Technique",
+      "alt_text": ":aexattack - Next Year",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174889.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299942",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998471.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.299985",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702958734.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300028",
+      "element_tag": "img",
+      "title": "Axe - Monday",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Axe - Monday",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998179.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300071",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175171.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300121",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704084047.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300166",
+      "element_tag": "img",
+      "title": "Apple Arcade - A New World to Play In",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Apple Arcade - A New World to Play In",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163132.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300212",
+      "element_tag": "img",
+      "title": "Bree Runway - Just Like That",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bree Runway - Just Like That",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244459.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300259",
+      "element_tag": "img",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164076.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300314",
+      "element_tag": "img",
+      "title": "Bree Runway - Just Like That",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bree Runway - Just Like That",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704937010.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300364",
+      "element_tag": "img",
+      "title": "Nike SB - Don't Make Plans",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike SB - Don't Make Plans",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709095158.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300415",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129248.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300466",
+      "element_tag": "img",
+      "title": "TID Exploring Time 005 by Builders Club",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "TID Exploring Time 005 by Builders Club",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546301.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300515",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129159.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300566",
+      "element_tag": "img",
+      "title": "TID Exploring Time 005 by Builders Club",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "TID Exploring Time 005 by Builders Club",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720383986.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300615",
+      "element_tag": "img",
+      "title": "Omega - Road to the Olympics",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Omega - Road to the Olympics",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711254228.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300664",
+      "element_tag": "img",
+      "title": "Coach - Life Has Different Paths",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Coach - Life Has Different Paths",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706571629.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300717",
+      "element_tag": "img",
+      "title": "Charlie's Angels",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Charlie's Angels",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476345.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300765",
+      "element_tag": "img",
+      "title": ":aexattack - Next Year",
+      "description": "",
+      "category": "Technique",
+      "alt_text": ":aexattack - Next Year",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711251680.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300812",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710611880.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300862",
+      "element_tag": "img",
+      "title": "adidas - Your Future Is Not Mine",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Your Future Is Not Mine",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480546.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300908",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706686282.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.300956",
+      "element_tag": "img",
+      "title": "Gregory Porter - Revival",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Gregory Porter - Revival",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703306716.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301004",
+      "element_tag": "img",
+      "title": "Laowa 24mm f/14 2x Macro",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Laowa 24mm f/14 2x Macro",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710031313.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301051",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711251586.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301099",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129193.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301153",
+      "element_tag": "img",
+      "title": "TID Exploring Time 005 by Builders Club",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "TID Exploring Time 005 by Builders Club",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403396.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301201",
+      "element_tag": "img",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704115165.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301249",
+      "element_tag": "img",
+      "title": "KFC - Crunch Collective",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KFC - Crunch Collective",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175809.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301297",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250993.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301344",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707645424.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301391",
+      "element_tag": "img",
+      "title": "Goodfellas",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Goodfellas",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706256117.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301440",
+      "element_tag": "img",
+      "title": "Pirates of the Caribbean: At World's End",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pirates of the Caribbean: At World's End",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711246026.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301487",
+      "element_tag": "img",
+      "title": "adidas - Original is Never Finished (Chapter 3)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Original is Never Finished (Chapter 3)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710611630.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301533",
+      "element_tag": "img",
+      "title": "adidas - Your Future Is Not Mine",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Your Future Is Not Mine",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707632087.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301582",
+      "element_tag": "img",
+      "title": "Valentino Khan - Deep Down Low",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Valentino Khan - Deep Down Low",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709105786.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301630",
+      "element_tag": "img",
+      "title": "Watchtower of Turkey",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Watchtower of Turkey",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709019660.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301680",
+      "element_tag": "img",
+      "title": "Snipes x Nike - The Cypher",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709532643.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301727",
+      "element_tag": "img",
+      "title": "Joker",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Joker",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709339628.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301774",
+      "element_tag": "img",
+      "title": "Brooks - Gravity Had a Good Run",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Brooks - Gravity Had a Good Run",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244698.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301821",
+      "element_tag": "img",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998643.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301869",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707632605.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301916",
+      "element_tag": "img",
+      "title": "Jordan - The Winning Moment",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jordan - The Winning Moment",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709532758.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.301964",
+      "element_tag": "img",
+      "title": "Joker",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Joker",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704830144.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302011",
+      "element_tag": "img",
+      "title": "DJ Pone (ft. Blasé) - All I Want",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "DJ Pone (ft. Blasé) - All I Want",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706256064.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302058",
+      "element_tag": "img",
+      "title": "Pirates of the Caribbean: At World's End",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pirates of the Caribbean: At World's End",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174805.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302106",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706423564.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302153",
+      "element_tag": "img",
+      "title": "Paris 2024 - Race On The Roofs Of Paris",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Paris 2024 - Race On The Roofs Of Paris",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709101764.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302201",
+      "element_tag": "img",
+      "title": "Watchtower of Turkey",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Watchtower of Turkey",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480150.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302252",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706256088.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302299",
+      "element_tag": "img",
+      "title": "Pirates of the Caribbean: At World's End",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pirates of the Caribbean: At World's End",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400769.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302346",
+      "element_tag": "img",
+      "title": "Jordan - The Winning Moment",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jordan - The Winning Moment",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703733791.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302392",
+      "element_tag": "img",
+      "title": "Jennifer's Body",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jennifer's Body",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023786.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302439",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704834836.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302486",
+      "element_tag": "img",
+      "title": "Nike - Nothing Beats a Londoner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - Nothing Beats a Londoner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710225532.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302532",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709339421.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302582",
+      "element_tag": "img",
+      "title": "Brooks - Gravity Had a Good Run",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Brooks - Gravity Had a Good Run",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707625801.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302630",
+      "element_tag": "img",
+      "title": "Lil Uzi Vert - Just Wanna Rock",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710611833.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302677",
+      "element_tag": "img",
+      "title": "adidas - Your Future Is Not Mine",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Your Future Is Not Mine",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705128577.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302724",
+      "element_tag": "img",
+      "title": "Tyler the Creator - Sorry Not Sorry",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Tyler the Creator - Sorry Not Sorry",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174420.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302769",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709544718.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302819",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707898070.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302865",
+      "element_tag": "img",
+      "title": "The Menu",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Menu",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998384.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302912",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709019729.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.302957",
+      "element_tag": "img",
+      "title": "Snipes x Nike - The Cypher",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902296.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303003",
+      "element_tag": "img",
+      "title": "Burberry x POP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Burberry x POP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285352.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303048",
+      "element_tag": "img",
+      "title": "The Matrix",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Matrix",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175209.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303094",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860468.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303139",
+      "element_tag": "img",
+      "title": "Nike - A Feel For Every You",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - A Feel For Every You",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175597.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303184",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708243449.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303231",
+      "element_tag": "img",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334048.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303277",
+      "element_tag": "img",
+      "title": "Dua Lipa - Training Season",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dua Lipa - Training Season",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706423877.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303322",
+      "element_tag": "img",
+      "title": "Nike SB - Don't Make Plans",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike SB - Don't Make Plans",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702693648.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303369",
+      "element_tag": "img",
+      "title": "Ikea - Infinite Play",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ikea - Infinite Play",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710315097.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303414",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709339495.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303459",
+      "element_tag": "img",
+      "title": "Brooks - Gravity Had a Good Run",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Brooks - Gravity Had a Good Run",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174125.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303504",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709018208.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303550",
+      "element_tag": "img",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709105602.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303595",
+      "element_tag": "img",
+      "title": "Watchtower of Turkey",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Watchtower of Turkey",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129355.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303641",
+      "element_tag": "img",
+      "title": "TID Exploring Time 005 by Builders Club",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "TID Exploring Time 005 by Builders Club",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400813.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303686",
+      "element_tag": "img",
+      "title": "Jordan - The Winning Moment",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jordan - The Winning Moment",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710024291.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303734",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708247881.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303780",
+      "element_tag": "img",
+      "title": "Sex Education (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sex Education (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707018178.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303826",
+      "element_tag": "img",
+      "title": "A League of Their Own (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A League of Their Own (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703733843.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303872",
+      "element_tag": "img",
+      "title": "Jennifer's Body",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jennifer's Body",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129392.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303917",
+      "element_tag": "img",
+      "title": "TID Exploring Time 005 by Builders Club",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "TID Exploring Time 005 by Builders Club",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272814.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.303965",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705107951.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304012",
+      "element_tag": "img",
+      "title": "Doechii - Crazy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Doechii - Crazy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703997244.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304065",
+      "element_tag": "img",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476505.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304117",
+      "element_tag": "img",
+      "title": ":aexattack - Next Year",
+      "description": "",
+      "category": "Technique",
+      "alt_text": ":aexattack - Next Year",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707622063.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304166",
+      "element_tag": "img",
+      "title": "A$AP Rocky - L$D",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "A$AP Rocky - L$D",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708426852.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304214",
+      "element_tag": "img",
+      "title": "Monk (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Monk (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715575283.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304261",
+      "element_tag": "img",
+      "title": "Ariana Grande - Positions",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Ariana Grande - Positions",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902236.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304309",
+      "element_tag": "img",
+      "title": "Burberry x POP",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Burberry x POP",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706398792.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304357",
+      "element_tag": "img",
+      "title": "Hunt for the Wilderpeople",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Hunt for the Wilderpeople",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702978933.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304404",
+      "element_tag": "img",
+      "title": "Under Armour - Phelps",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Under Armour - Phelps",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244818.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304450",
+      "element_tag": "img",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123377.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304496",
+      "element_tag": "img",
+      "title": "Canon - Live for the Story",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Canon - Live for the Story",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703733429.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304549",
+      "element_tag": "img",
+      "title": "Jennifer's Body",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jennifer's Body",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634139.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304605",
+      "element_tag": "img",
+      "title": "Cowboy Bepop (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711258616.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304663",
+      "element_tag": "img",
+      "title": "Sam Akpro - Death By Entertainment",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709098002.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304719",
+      "element_tag": "img",
+      "title": "Beethoven",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Beethoven",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174857.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304775",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742676.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304830",
+      "element_tag": "img",
+      "title": "ONHA - KODAK",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "ONHA - KODAK",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709017265.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304883",
+      "element_tag": "img",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480357.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304937",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709339587.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.304991",
+      "element_tag": "img",
+      "title": "Brooks - Gravity Had a Good Run",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Brooks - Gravity Had a Good Run",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480271.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305057",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709532796.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305117",
+      "element_tag": "img",
+      "title": "Joker",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Joker",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710611417.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305170",
+      "element_tag": "img",
+      "title": "adidas - Your Future Is Not Mine",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Your Future Is Not Mine",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703996972.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305225",
+      "element_tag": "img",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244868.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305281",
+      "element_tag": "img",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710611247.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305343",
+      "element_tag": "img",
+      "title": "adidas - Your Future Is Not Mine",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Your Future Is Not Mine",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129432.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305398",
+      "element_tag": "img",
+      "title": "TID Exploring Time 005 by Builders Club",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "TID Exploring Time 005 by Builders Club",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285896.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305453",
+      "element_tag": "img",
+      "title": "The Matrix Resurrections",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Matrix Resurrections",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709339686.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305572",
+      "element_tag": "img",
+      "title": "Brooks - Gravity Had a Good Run",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Brooks - Gravity Had a Good Run",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237839.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305623",
+      "element_tag": "img",
+      "title": "Dune: Part Two",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dune: Part Two",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129285.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305678",
+      "element_tag": "img",
+      "title": "TID Exploring Time 005 by Builders Club",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "TID Exploring Time 005 by Builders Club",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434366.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305733",
+      "element_tag": "img",
+      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285079.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305787",
+      "element_tag": "img",
+      "title": "The Matrix",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Matrix",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272696.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305840",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973125.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305886",
+      "element_tag": "img",
+      "title": "Unknown source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973533.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305930",
+      "element_tag": "img",
+      "title": "The Slow Mo Guys",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Slow Mo Guys",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973679.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.305973",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272639.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306017",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272591.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306060",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973297.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306102",
+      "element_tag": "img",
+      "title": "Unknown source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480671.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306145",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973011.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306188",
+      "element_tag": "img",
+      "title": "Slow motion Hummingbird",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Slow motion Hummingbird",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272603.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306234",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545439.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306276",
+      "element_tag": "img",
+      "title": "Riot & Set it off",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Riot & Set it off",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023809.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306319",
+      "element_tag": "img",
+      "title": "Everything Everywhere All at Once",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Everything Everywhere All at Once",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709021012.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306363",
+      "element_tag": "img",
+      "title": "Festival of Slaps",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Festival of Slaps",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480271.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306405",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272574.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306449",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973185.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306491",
+      "element_tag": "img",
+      "title": "Unknown source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973069.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306534",
+      "element_tag": "img",
+      "title": "Unknown source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709020845.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306578",
+      "element_tag": "img",
+      "title": "Festival of Slaps",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Festival of Slaps",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709021078.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306622",
+      "element_tag": "img",
+      "title": "Festival of Slaps",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Festival of Slaps",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973960.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306666",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973901.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306710",
+      "element_tag": "img",
+      "title": "Source unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480185.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306755",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272616.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306800",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707625801.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306847",
+      "element_tag": "img",
+      "title": "Lil Uzi Vert - Just Wanna Rock",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860984.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306891",
+      "element_tag": "img",
+      "title": "Nike - A Feel For Every You",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - A Feel For Every You",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480150.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306937",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480546.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.306979",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716272669.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.307024",
+      "element_tag": "img",
+      "title": "Challengers",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Challengers",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710315097.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.307068",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860931.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.307113",
+      "element_tag": "img",
+      "title": "Nike - A Feel For Every You",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike - A Feel For Every You",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973236.webp",
+      "page_url": "https://eyecannndy.com/technique/slow-motion",
+      "discovered_at": "2025-09-09T08:58:13.307159",
+      "element_tag": "img",
+      "title": "Unknown source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    }
+  ]
 }

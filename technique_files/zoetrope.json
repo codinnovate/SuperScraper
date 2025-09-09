@@ -1,6 +1,1061 @@
 {
   "technique": "zoetrope",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.660086",
-  "videos": []
+  "video_count": 54,
+  "generated_at": "2025-09-09T09:05:18.949273",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985814.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.517994",
+      "element_tag": "img",
+      "title": "Travis Scott - FE!N",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Travis Scott - FE!N",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860144.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518118",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859597.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518202",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860205.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518267",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859198.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518332",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859939.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518392",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860782.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518451",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859405.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518512",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859480.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518570",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860496.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518629",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859676.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518687",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860001.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518743",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859541.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518804",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860247.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518862",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985814.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518917",
+      "element_tag": "img",
+      "title": "Travis Scott - FE!N",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Travis Scott - FE!N",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860144.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.518983",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859597.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519036",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860205.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519092",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859198.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519144",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859939.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519197",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860782.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519248",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859405.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519300",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859480.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519350",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860496.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519402",
+      "element_tag": "img",
+      "title": "Waveform",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Waveform",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859676.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519452",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860001.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519503",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859541.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519554",
+      "element_tag": "img",
+      "title": "Pharrell Williams - Cash In Cash Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860247.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519605",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "show it",
+        "trigger_info_",
+        "lazyImages1",
+        "Eyecandy",
+        "lazy img"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709019276.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519662",
+      "element_tag": "img",
+      "title": "Snipes x Nike - The Cypher",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702862690.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519726",
+      "element_tag": "img",
+      "title": "The Tramp Dancing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Tramp Dancing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702862522.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519786",
+      "element_tag": "img",
+      "title": "Animation Spin by CraigInTheBox",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Animation Spin by CraigInTheBox",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702859939.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519843",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861096.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519901",
+      "element_tag": "img",
+      "title": "Sculpture - @sculpture",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sculpture - @sculpture",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861862.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.519957",
+      "element_tag": "img",
+      "title": "GUI",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "GUI",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861936.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520013",
+      "element_tag": "img",
+      "title": "Miron - 2D Animation Colour",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Miron - 2D Animation Colour",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860971.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520069",
+      "element_tag": "img",
+      "title": "Sculpture - @sculpture",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sculpture - @sculpture",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861074.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520125",
+      "element_tag": "img",
+      "title": "Sculpture - @sculpture",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sculpture - @sculpture",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860073.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520181",
+      "element_tag": "img",
+      "title": "Volkswagen - The Wheel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Volkswagen - The Wheel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702862850.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520235",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861741.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520290",
+      "element_tag": "img",
+      "title": "Phenakistoscope",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Phenakistoscope",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702862742.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520349",
+      "element_tag": "img",
+      "title": "Abstract Animation",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Abstract Animation",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702862795.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520403",
+      "element_tag": "img",
+      "title": "Untitled",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Untitled",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702862829.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520457",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709019318.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520776",
+      "element_tag": "img",
+      "title": "Snipes x Nike - The Cypher",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702862620.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520897",
+      "element_tag": "img",
+      "title": "Untitled",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Untitled",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861011.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.520974",
+      "element_tag": "img",
+      "title": "Sculpture - @sculpture",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sculpture - @sculpture",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705212158.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.521044",
+      "element_tag": "img",
+      "title": "Clip by Uwe Heine Debrodt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Clip by Uwe Heine Debrodt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861241.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.521104",
+      "element_tag": "img",
+      "title": "Sculpture - @sculpture",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sculpture - @sculpture",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861043.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.521166",
+      "element_tag": "img",
+      "title": "Sculpture - @sculpture",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sculpture - @sculpture",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861215.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.521227",
+      "element_tag": "img",
+      "title": "Sculpture - @sculpture",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sculpture - @sculpture",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702862286.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.521290",
+      "element_tag": "img",
+      "title": "Art GIF By Neil Sanders",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art GIF By Neil Sanders",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861613.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.521349",
+      "element_tag": "img",
+      "title": "Animation by Matthias Brown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Animation by Matthias Brown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861407.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.521407",
+      "element_tag": "img",
+      "title": "Unknown Source",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown Source",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861276.webp",
+      "page_url": "https://eyecannndy.com/technique/zoetrope",
+      "discovered_at": "2025-09-09T09:04:43.521464",
+      "element_tag": "img",
+      "title": "@GIF-ITI / Giphy",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "@GIF-ITI / Giphy",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "lazy img",
+        "lazyImages1",
+        "Eyecandy",
+        "trigger_info_"
+      ]
+    }
+  ]
 }

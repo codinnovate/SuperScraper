@@ -1,6 +1,3550 @@
 {
   "technique": "wide-shot",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.659639",
-  "videos": []
+  "video_count": 185,
+  "generated_at": "2025-09-09T09:01:36.273031",
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250786.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345076",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703043233.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345293",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703735753.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345355",
+      "element_tag": "img",
+      "title": "Close Encounters of the Third Kind",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Close Encounters of the Third Kind",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703058495.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345404",
+      "element_tag": "img",
+      "title": "She's Gotta Have It",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "She's Gotta Have It",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385291.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345450",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710316047.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345494",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702856129.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345536",
+      "element_tag": "img",
+      "title": "Bounty Banana - inTENsity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bounty Banana - inTENsity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250745.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345577",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710316834.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345619",
+      "element_tag": "img",
+      "title": "Skims - Lab",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Skims - Lab",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703033161.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345663",
+      "element_tag": "img",
+      "title": "Nope",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nope",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703050676.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345704",
+      "element_tag": "img",
+      "title": "Napoleon Dynamite",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Napoleon Dynamite",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704383450.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345745",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826646.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345785",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716333832.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345826",
+      "element_tag": "img",
+      "title": "Made for Heroes. Worn by Icons",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Made for Heroes. Worn by Icons",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250786.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345875",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703043233.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.345915",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703735753.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346010",
+      "element_tag": "img",
+      "title": "Close Encounters of the Third Kind",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Close Encounters of the Third Kind",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703058495.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346068",
+      "element_tag": "img",
+      "title": "She's Gotta Have It",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "She's Gotta Have It",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385291.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346112",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710316047.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346154",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702856129.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346283",
+      "element_tag": "img",
+      "title": "Bounty Banana - inTENsity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Bounty Banana - inTENsity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250745.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346384",
+      "element_tag": "img",
+      "title": "KYLE - iSpy feat. Lil Yachty",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "KYLE - iSpy feat. Lil Yachty",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710316834.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346424",
+      "element_tag": "img",
+      "title": "Skims - Lab",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Skims - Lab",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703033161.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346463",
+      "element_tag": "img",
+      "title": "Nope",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nope",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703050676.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346501",
+      "element_tag": "img",
+      "title": "Napoleon Dynamite",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Napoleon Dynamite",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704383450.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346540",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826646.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346582",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716333832.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346620",
+      "element_tag": "img",
+      "title": "Made for Heroes. Worn by Icons",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Made for Heroes. Worn by Icons",
+      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "lazyImages1",
+        "trigger_info_",
+        "show it"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706568038.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346662",
+      "element_tag": "img",
+      "title": "The Green Knight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Green Knight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814141.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346707",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter - Espresso",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705287934.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346749",
+      "element_tag": "img",
+      "title": "Squarespace - The Singularity",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Squarespace - The Singularity",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702976548.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346789",
+      "element_tag": "img",
+      "title": "Babylon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Babylon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710033065.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346830",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706565616.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346871",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707685178.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346912",
+      "element_tag": "img",
+      "title": "Hugo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Hugo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703056172.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.346959",
+      "element_tag": "img",
+      "title": "Barbie",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Barbie",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703042669.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347004",
+      "element_tag": "img",
+      "title": "The Life Aquatic with Steve Zissou",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Life Aquatic with Steve Zissou",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705383301.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347052",
+      "element_tag": "img",
+      "title": "La Haine",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "La Haine",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703030561.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347100",
+      "element_tag": "img",
+      "title": "Atonement",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Atonement",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725946900.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347143",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707628124.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347186",
+      "element_tag": "img",
+      "title": "Drake, 21 Savage - Spin Bout U",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Drake, 21 Savage - Spin Bout U",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739171555.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347227",
+      "element_tag": "img",
+      "title": "Doechii - DENIAL IS A RIVER",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538002.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347268",
+      "element_tag": "img",
+      "title": "Miel De Montagne - Le Pigeon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706568125.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347308",
+      "element_tag": "img",
+      "title": "The Green Knight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Green Knight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703041146.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347348",
+      "element_tag": "img",
+      "title": "Blade Runner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Blade Runner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703072941.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347432",
+      "element_tag": "img",
+      "title": "Moonrise Kingdom",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Moonrise Kingdom",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409832.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347478",
+      "element_tag": "img",
+      "title": "Kendrick Lamar - Humble",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kendrick Lamar - Humble",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703030714.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347522",
+      "element_tag": "img",
+      "title": "Last Night in Soho",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Last Night in Soho",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705106880.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347564",
+      "element_tag": "img",
+      "title": "Get Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Get Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706503732.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347611",
+      "element_tag": "img",
+      "title": "Atonement",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Atonement",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703050970.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347652",
+      "element_tag": "img",
+      "title": "Moon",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Moon",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702976173.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347694",
+      "element_tag": "img",
+      "title": "Leap Year",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Leap Year",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710832578.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347737",
+      "element_tag": "img",
+      "title": "Oppo - Make Every Shot Stand Out",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705031111.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347780",
+      "element_tag": "img",
+      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown T - Hocus Pocus Feat. Loyle Carner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703041063.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347820",
+      "element_tag": "img",
+      "title": "Blade Runner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Blade Runner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711258885.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.347948",
+      "element_tag": "img",
+      "title": "Sam Akpro - Death By Entertainment",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702855563.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348016",
+      "element_tag": "img",
+      "title": "Moonrise Kingdom",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Moonrise Kingdom",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706568152.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348065",
+      "element_tag": "img",
+      "title": "The Green Knight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Green Knight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711256303.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348111",
+      "element_tag": "img",
+      "title": "Rema - Trouble Maker",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Rema - Trouble Maker",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702976365.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348154",
+      "element_tag": "img",
+      "title": "Broker",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Broker",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711004680.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348195",
+      "element_tag": "img",
+      "title": "Asics - Making Weight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asics - Making Weight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703038189.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348238",
+      "element_tag": "img",
+      "title": "Set it Up",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Set it Up",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703029321.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348279",
+      "element_tag": "img",
+      "title": "Sunset Wide Shot",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sunset Wide Shot",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706503313.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348321",
+      "element_tag": "img",
+      "title": "Long Live Liborius",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Long Live Liborius",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706425550.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348362",
+      "element_tag": "img",
+      "title": "MELODOWNZ - Pray For More",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "MELODOWNZ - Pray For More",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703043655.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348402",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715633646.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348444",
+      "element_tag": "img",
+      "title": "French Cassettes - White Noise",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "French Cassettes - White Noise",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703407244.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348486",
+      "element_tag": "img",
+      "title": "Kendrick Lamar - Humble",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kendrick Lamar - Humble",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716236520.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348528",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703055641.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348572",
+      "element_tag": "img",
+      "title": "Barbie",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Barbie",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703044374.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348695",
+      "element_tag": "img",
+      "title": "Cocaine Bear",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Cocaine Bear",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703041974.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348743",
+      "element_tag": "img",
+      "title": "Nomadland",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nomadland",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824364.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348787",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703404995.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348871",
+      "element_tag": "img",
+      "title": "Come Together: A Fashion Picture in Motion",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Come Together: A Fashion Picture in Motion",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706175710.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.348969",
+      "element_tag": "img",
+      "title": "Silo (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Silo (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703041673.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349025",
+      "element_tag": "img",
+      "title": "Lady Chatterley’s Lover",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lady Chatterley’s Lover",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716236703.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349079",
+      "element_tag": "img",
+      "title": "Flume feat. MAY-A - Say Nothing",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711004841.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349141",
+      "element_tag": "img",
+      "title": "Asics - Making Weight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asics - Making Weight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739192911.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349324",
+      "element_tag": "img",
+      "title": "Static - Federer",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Static - Federer",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703059643.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349453",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826687.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349505",
+      "element_tag": "img",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703056769.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349550",
+      "element_tag": "img",
+      "title": "Broker",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Broker",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703030862.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349605",
+      "element_tag": "img",
+      "title": "City of God ‘Cidade de Deus’",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "City of God ‘Cidade de Deus’",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703452044.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349650",
+      "element_tag": "img",
+      "title": "Rosalia - Saoko",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Rosalia - Saoko",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710611586.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349694",
+      "element_tag": "img",
+      "title": "adidas - Your Future Is Not Mine",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "adidas - Your Future Is Not Mine",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703047456.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349735",
+      "element_tag": "img",
+      "title": "Full Metal Jacket",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Full Metal Jacket",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706572851.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349778",
+      "element_tag": "img",
+      "title": "Westworld (TV Series) S4E4",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Westworld (TV Series) S4E4",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711004206.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349819",
+      "element_tag": "img",
+      "title": "Asics - Making Weight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asics - Making Weight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703031058.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349860",
+      "element_tag": "img",
+      "title": "Pulp Fiction",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pulp Fiction",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703030309.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349907",
+      "element_tag": "img",
+      "title": "Picnic at Hanging Rock",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Picnic at Hanging Rock",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709960435.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.349949",
+      "element_tag": "img",
+      "title": "Dune",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dune",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703029700.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350035",
+      "element_tag": "img",
+      "title": "Daytime View Wide Shot",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Daytime View Wide Shot",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710333084.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350095",
+      "element_tag": "img",
+      "title": "Our England",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Our England",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711004332.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350138",
+      "element_tag": "img",
+      "title": "Asics - Making Weight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asics - Making Weight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/06/261709715697.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350179",
+      "element_tag": "img",
+      "title": "Poor Things",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Poor Things",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706503327.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350220",
+      "element_tag": "img",
+      "title": "Long Live Liborius",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Long Live Liborius",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702976761.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350261",
+      "element_tag": "img",
+      "title": "The Menu",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Menu",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705030033.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350302",
+      "element_tag": "img",
+      "title": "Jimmy Nelson - Blink. And they're gone",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jimmy Nelson - Blink. And they're gone",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656066.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350342",
+      "element_tag": "img",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703040884.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350392",
+      "element_tag": "img",
+      "title": "Blade Runner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Blade Runner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436358.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350434",
+      "element_tag": "img",
+      "title": "Killdummies - Keine War Großartig//Fukk U",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710026839.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350476",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175687.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350516",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702854805.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350558",
+      "element_tag": "img",
+      "title": "Botis Seva - Santo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Botis Seva - Santo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711051998.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350598",
+      "element_tag": "img",
+      "title": "Aminé - Charmander",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Aminé - Charmander",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703030002.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350639",
+      "element_tag": "img",
+      "title": "City of God ‘Cidade de Deus’",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "City of God ‘Cidade de Deus’",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703042383.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350679",
+      "element_tag": "img",
+      "title": "Nomadland",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nomadland",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703042325.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350718",
+      "element_tag": "img",
+      "title": "Nomadland",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nomadland",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710026105.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350758",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716271837.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350799",
+      "element_tag": "img",
+      "title": "Dune: Part Two",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dune: Part Two",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703408283.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350839",
+      "element_tag": "img",
+      "title": "Kendrick Lamar - Humble",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kendrick Lamar - Humble",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703046917.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350878",
+      "element_tag": "img",
+      "title": "The Piano Teacher",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Piano Teacher",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703060603.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350918",
+      "element_tag": "img",
+      "title": "Better Call Saul (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Better Call Saul (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709017160.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350958",
+      "element_tag": "img",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174857.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.350997",
+      "element_tag": "img",
+      "title": "M.I.A. 'Bad Girls'",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703060435.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351037",
+      "element_tag": "img",
+      "title": "Better Call Saul (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Better Call Saul (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703060923.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351076",
+      "element_tag": "img",
+      "title": "Blow-Up",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Blow-Up",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703060564.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351115",
+      "element_tag": "img",
+      "title": "Better Call Saul (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Better Call Saul (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704106439.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351154",
+      "element_tag": "img",
+      "title": "Sub Urban - UH OH! (feat. BENEE)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sub Urban - UH OH! (feat. BENEE)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705115750.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351193",
+      "element_tag": "img",
+      "title": "Adidas - Hello Tomorrow",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Adidas - Hello Tomorrow",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976770.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351233",
+      "element_tag": "img",
+      "title": "Usher, H.E.R. - Risk It All",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702853526.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351273",
+      "element_tag": "img",
+      "title": "Long Live Liborius",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Long Live Liborius",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716271185.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351313",
+      "element_tag": "img",
+      "title": "Dune: Part Two",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dune: Part Two",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434192.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351407",
+      "element_tag": "img",
+      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716271323.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351460",
+      "element_tag": "img",
+      "title": "Dune: Part Two",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Dune: Part Two",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703060636.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351505",
+      "element_tag": "img",
+      "title": "Better Call Saul (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Better Call Saul (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703108894.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351548",
+      "element_tag": "img",
+      "title": "Sampha - Sampha - Can't Go Back",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sampha - Sampha - Can't Go Back",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709017344.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351611",
+      "element_tag": "img",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480271.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351655",
+      "element_tag": "img",
+      "title": "Mula B - Blokke Gepikt",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706503380.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351697",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488417.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351744",
+      "element_tag": "img",
+      "title": "Lil Yachty - TESLA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Yachty - TESLA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711004729.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351786",
+      "element_tag": "img",
+      "title": "Asics - Making Weight",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asics - Making Weight",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703055743.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351826",
+      "element_tag": "img",
+      "title": "Barbie",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Barbie",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703058250.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351867",
+      "element_tag": "img",
+      "title": "Pride & Prejudice",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Pride & Prejudice",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703059137.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351909",
+      "element_tag": "img",
+      "title": "The Quiet Girl",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Quiet Girl",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703059203.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351955",
+      "element_tag": "img",
+      "title": "Long Live Liborius",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Long Live Liborius",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703064277.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.351998",
+      "element_tag": "img",
+      "title": "Moonrise Kingdom",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Moonrise Kingdom",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725945876.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352043",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566590.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352085",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703059338.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352129",
+      "element_tag": "img",
+      "title": "The French Dispatch",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The French Dispatch",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703054538.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352170",
+      "element_tag": "img",
+      "title": "The Fabelmans",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Fabelmans",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702854515.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352215",
+      "element_tag": "img",
+      "title": "Botis Seva - Santo",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Botis Seva - Santo",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426144.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352258",
+      "element_tag": "img",
+      "title": "Burberry - Open Spaces",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Burberry - Open Spaces",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705175990.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352300",
+      "element_tag": "img",
+      "title": "Mammut - Fast Hiking",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mammut - Fast Hiking",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703407112.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352339",
+      "element_tag": "img",
+      "title": "Kendrick Lamar - Humble",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kendrick Lamar - Humble",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705177022.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352382",
+      "element_tag": "img",
+      "title": "Adidas - Feel the Boost",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Adidas - Feel the Boost",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384303.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352423",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567162.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352464",
+      "element_tag": "img",
+      "title": "The Grand Budapest Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Grand Budapest Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703108121.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352503",
+      "element_tag": "img",
+      "title": "Sampha - Sampha - Can't Go Back",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sampha - Sampha - Can't Go Back",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715292533.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352544",
+      "element_tag": "img",
+      "title": "Inter Alia (Short Film)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Inter Alia (Short Film)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703046260.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352582",
+      "element_tag": "img",
+      "title": "X",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "X",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703060677.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352624",
+      "element_tag": "img",
+      "title": "Better Call Saul (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Better Call Saul (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706567723.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352663",
+      "element_tag": "img",
+      "title": "The Grand Budapest Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Grand Budapest Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703045301.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352703",
+      "element_tag": "img",
+      "title": "Napoleon Dynamite",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Napoleon Dynamite",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708508155.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352743",
+      "element_tag": "img",
+      "title": "Unicef - Never Give Up",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unicef - Never Give Up",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703053643.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352787",
+      "element_tag": "img",
+      "title": "Nope",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nope",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710033767.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352826",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703062513.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352887",
+      "element_tag": "img",
+      "title": "Blood Simple",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Blood Simple",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703058726.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.352970",
+      "element_tag": "img",
+      "title": "Kamikaze Girls",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Kamikaze Girls",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703062797.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353013",
+      "element_tag": "img",
+      "title": "Nike x Fear of God",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nike x Fear of God",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703735693.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353057",
+      "element_tag": "img",
+      "title": "Close Encounters of the Third Kind",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Close Encounters of the Third Kind",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703365938.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353098",
+      "element_tag": "img",
+      "title": "Husky - Never-ever",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Husky - Never-ever",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705032028.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353141",
+      "element_tag": "img",
+      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Unknown T - Hocus Pocus Feat. Loyle Carner",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703062943.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353181",
+      "element_tag": "img",
+      "title": "Source Unknown",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Source Unknown",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705115685.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353222",
+      "element_tag": "img",
+      "title": "Adidas - Hello Tomorrow",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Adidas - Hello Tomorrow",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705999134.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353272",
+      "element_tag": "img",
+      "title": "Lil Dicky - HAHAHA",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710031453.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353322",
+      "element_tag": "img",
+      "title": "The Gentlemen (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Gentlemen (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703045949.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353365",
+      "element_tag": "img",
+      "title": "X",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "X",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703053920.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353410",
+      "element_tag": "img",
+      "title": "The Grand Budapest Hotel",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Grand Budapest Hotel",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703733476.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353452",
+      "element_tag": "img",
+      "title": "Jennifer's Body",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Jennifer's Body",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704383198.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353495",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703061236.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353539",
+      "element_tag": "img",
+      "title": "Art by Andhika Ramadhian",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by Andhika Ramadhian",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384340.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353583",
+      "element_tag": "img",
+      "title": "Asteroid City",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Asteroid City",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703454793.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353623",
+      "element_tag": "img",
+      "title": "Severance",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Severance",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703061300.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353664",
+      "element_tag": "img",
+      "title": "Art by Andhika Ramadhian",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Art by Andhika Ramadhian",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725946568.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353706",
+      "element_tag": "img",
+      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703054718.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353750",
+      "element_tag": "img",
+      "title": "Nope",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Nope",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703049600.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353802",
+      "element_tag": "img",
+      "title": "The Truman Show",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Truman Show",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705175891.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353844",
+      "element_tag": "img",
+      "title": "Mammut - Fast Hiking",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Mammut - Fast Hiking",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703108057.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353885",
+      "element_tag": "img",
+      "title": "Sampha - Sampha - Can't Go Back",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Sampha - Sampha - Can't Go Back",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703060518.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353927",
+      "element_tag": "img",
+      "title": "Better Call Saul (TV Series)",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "Better Call Saul (TV Series)",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703046284.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.353967",
+      "element_tag": "img",
+      "title": "X",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "X",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703057645.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.354009",
+      "element_tag": "img",
+      "title": "In Bruges",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "In Bruges",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703061051.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.354049",
+      "element_tag": "img",
+      "title": "RIMOWA - Ingenieurskunst",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "RIMOWA - Ingenieurskunst",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285267.webp",
+      "page_url": "https://eyecannndy.com/technique/wide-shot",
+      "discovered_at": "2025-09-09T08:57:35.354091",
+      "element_tag": "img",
+      "title": "The Matrix",
+      "description": "",
+      "category": "Technique",
+      "alt_text": "The Matrix",
+      "css_classes": "lazy-img lazyImages1 trigger_info_",
+      "file_size": null,
+      "dimensions": null,
+      "tags": [
+        "Eyecandy",
+        "lazy img",
+        "trigger_info_",
+        "lazyImages1"
+      ]
+    }
+  ]
 }
