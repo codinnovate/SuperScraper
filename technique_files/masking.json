@@ -1,6 +1,1231 @@
 {
   "technique": "masking",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.652026",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_160031",
+    "total_videos": 54,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703388611.webp",
+      "alt_text": "Halfprice - Fitting room",
+      "discovered_at": "2025-09-11T15:57:20.702720",
+      "title": "Halfprice - Fitting room (2022)",
+      "description": "",
+      "tags": [
+        "CLOSE UP",
+        "BLUE",
+        "INTERIOR",
+        "FASHION",
+        "CHANGING ROOM"
+      ],
+      "technique_tags": [
+        "Masking",
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Nikodem Chabior",
+      "dop": "Mikołaj Syguda",
+      "colorist": "Florian Martiny",
+      "original_source": "",
+      "additional_info": "Halfprice - Fitting room (2022)\nIn this shot, we see a flash-cut technique combined with masking. Additionally, this fits under Object POV (as object). It appears as though the character is looking at camera, but in their world, they are looking into a mirror. We just happen to have the POV of a mirror.\nTechnique - Masking , Mirror Cam , Object POV\nDirector - Grajper\nDOP - Mikołaj Syguda\nEditor - Nikodem Chabior\nColorist - Florian Martiny\nOriginal Source - Link\nCLOSE UP\nBLUE\nINTERIOR\nFASHION\nCHANGING ROOM",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703466899.webp",
+      "alt_text": "A$AP Rocky - Praise The Lord",
+      "discovered_at": "2025-09-11T15:57:24.332123",
+      "title": "A$AP Rocky - Praise The Lord (2018)",
+      "description": "Handheld masking shot. Footage superimposed onto door. Tracking towards A$AP.",
+      "tags": [
+        "GREEN",
+        "INTERIOR",
+        "WARM WHITE"
+      ],
+      "technique_tags": [
+        "Masking"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Praise The Lord (2018)\nHandheld masking shot. Footage superimposed onto door. Tracking towards A$AP.\nTechnique - Masking\nDirector - Dexter Navy\nOriginal Source - Link\nTutorial - Link\nGREEN\nINTERIOR\nWARM WHITE",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451040.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T15:57:27.445751",
+      "title": "Source unknown",
+      "description": "Mask replacement on person walking with Photoshop transparency grid.",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Masking"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nMask replacement on person walking with Photoshop transparency grid.\nTechnique - Masking\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246152.webp",
+      "alt_text": "Latto - Sunday Service",
+      "discovered_at": "2025-09-11T15:57:31.623977",
+      "title": "Latto - Sunday Service (2024)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "CAR",
+        "NIGHT",
+        "EXTERIOR",
+        "CITY",
+        "VEHICLE"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Masking"
+      ],
+      "director": "HIDJI WORLD",
+      "dop": "Leroy Farrell",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Latto - Sunday Service (2024)\n2024 music video for Latto from renowned director HIDJI WORLD. Produced by North of Now films.\nTechnique - Fast Motion , Masking\nDirector - HIDJI WORLD\nDOP - Leroy Farrell\nOriginal Source - Link\nWOMAN\nCAR\nNIGHT\nEXTERIOR\nCITY\nVEHICLE",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703450610.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T15:57:35.776924",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "WHITE",
+        "COLLAGE",
+        "SHADOW BOX",
+        "SHOE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Masking"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nShoe silhouette clipping mask on white shadow box.\nTechnique - Collage , Masking\nWHITE\nCOLLAGE\nSHADOW BOX\nSHOE",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705099775.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T15:57:39.419536",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "INTERIOR",
+        "GIRL",
+        "EYE",
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Masking",
+        "Object Portal"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Infinite Zoom , Masking , Object Portal\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nGIRL\nEYE\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333323.webp",
+      "alt_text": "Collage Clip by iosonof",
+      "discovered_at": "2025-09-11T15:57:42.538128",
+      "title": "Collage Clip by iosonof (2016)",
+      "description": "",
+      "tags": [
+        "STUDIO",
+        "MUTED"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Masking"
+      ],
+      "director": "iosonof",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Collage Clip by iosonof (2016)\nTechnique - Collage , Masking\nDirector - iosonof\nOriginal Source - Link\nSTUDIO\nMUTED",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333430.webp",
+      "alt_text": "Collage Clip by iosonof",
+      "discovered_at": "2025-09-11T15:57:46.196834",
+      "title": "Collage Clip by iosonof (2016)",
+      "description": "",
+      "tags": [
+        "COUPLE",
+        "TWO SHOT",
+        "50S",
+        "VINTAGE",
+        "RETRO",
+        "KISS"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Masking",
+        "Two Shot"
+      ],
+      "director": "iosonof",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Collage Clip by iosonof (2016)\nTechnique - Collage , Masking , Two Shot\nDirector - iosonof\nOriginal Source - Link\nCOUPLE\nTWO SHOT\n50S\nVINTAGE\nRETRO\nKISS",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331657.webp",
+      "alt_text": "Made by Kristina Sharabinskaia",
+      "discovered_at": "2025-09-11T15:57:49.841732",
+      "title": "Made by Kristina Sharabinskaia",
+      "description": "",
+      "tags": [
+        "SURREALIST",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Masking"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Made by Kristina Sharabinskaia\nShot breakdown: Double exposure profile mask\nTechnique - Double Exposure , Masking\nOriginal Source - Link\nSURREALIST\nVOID",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703450689.webp",
+      "alt_text": "Milos Rajkovic GIF By Sholim",
+      "discovered_at": "2025-09-11T15:57:53.488283",
+      "title": "Milos Rajkovic GIF By Sholim (2017)",
+      "description": "",
+      "tags": [
+        "MASK",
+        "CLIPPING"
+      ],
+      "technique_tags": [
+        "Masking"
+      ],
+      "director": "Sholim",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Milos Rajkovic GIF By Sholim (2017)\nClipping mask portrait collage\nTechnique - Masking\nDirector - Sholim\nOriginal Source - Link\nMASK\nCLIPPING",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333390.webp",
+      "alt_text": "Collage Clip by iosonof",
+      "discovered_at": "2025-09-11T15:57:57.141367",
+      "title": "Collage Clip by iosonof (2016)",
+      "description": "",
+      "tags": [
+        "COUPLE",
+        "TWO SHOT",
+        "MUTED"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Masking",
+        "Two Shot"
+      ],
+      "director": "iosonof",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Collage Clip by iosonof (2016)\nTechnique - Collage , Masking , Two Shot\nDirector - iosonof\nOriginal Source - Link\nCOUPLE\nTWO SHOT\nMUTED",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705100311.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T15:58:00.769543",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "DAY",
+        "RUNNING",
+        "EXTERIOR",
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Masking",
+        "Trucking"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Masking , Trucking\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nDAY\nRUNNING\nEXTERIOR\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451148.webp",
+      "alt_text": "Contemporary Art Love GIF By Iosonof",
+      "discovered_at": "2025-09-11T15:58:05.941302",
+      "title": "Contemporary Art Love GIF By Iosonof",
+      "description": "Mask replacement of face with nature timelapse footage. Mixture of modern footage and vintage portrait photography.",
+      "tags": [
+        "SUNSET",
+        "PORTRAIT",
+        "VINTAGE"
+      ],
+      "technique_tags": [
+        "Masking"
+      ],
+      "director": "iosonof",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Contemporary Art Love GIF By Iosonof\nMask replacement of face with nature timelapse footage. Mixture of modern footage and vintage portrait photography.\nTechnique - Masking\nEditor - iosonof\nOriginal Source - Link\nSUNSET\nPORTRAIT\nVINTAGE",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535578.webp",
+      "alt_text": "Shifts",
+      "discovered_at": "2025-09-11T15:58:09.572529",
+      "title": "Shifts (2021)",
+      "description": "Elements of fragmented narrative, abstract visions and blurred memories collected and shuffled together in this small animation study for an abandoned short film. Score by MYNAH FM.",
+      "tags": [],
+      "technique_tags": [
+        "Masking",
+        "Mixed Media",
+        "Profile",
+        "Stop Motion"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shifts (2021)\nElements of fragmented narrative, abstract visions and blurred memories collected and shuffled together in this small animation study for an abandoned short film. Score by MYNAH FM.\nTechnique - Masking , Mixed Media , Profile , Stop Motion\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333555.webp",
+      "alt_text": "Collage Clip by iosonof",
+      "discovered_at": "2025-09-11T15:58:13.193830",
+      "title": "Collage Clip by iosonof (2016)",
+      "description": "",
+      "tags": [
+        "WATER",
+        "BLACK AND WHITE",
+        "EXTERIOR",
+        "DARK",
+        "BLACK",
+        "WATERFALL"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Masking"
+      ],
+      "director": "iosonof",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Collage Clip by iosonof (2016)\nTechnique - Collage , Masking\nDirector - iosonof\nOriginal Source - Link\nWATER\nBLACK AND WHITE\nEXTERIOR\nDARK\nBLACK\nWATERFALL",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710451925.webp",
+      "alt_text": "Empimic - Bittere Welt",
+      "discovered_at": "2025-09-11T15:58:17.316166",
+      "title": "Empimic - Bittere Welt (2021)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "FACE",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Double Exposure mask",
+        "Masking",
+        "Profile"
+      ],
+      "director": "Angelo Kovatchev",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Empimic - Bittere Welt (2021)\nTechnique - Double Exposure mask , Masking , Profile\nDirector - Angelo Kovatchev\nOriginal Source - Link\nMALE\nFACE\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451579.webp",
+      "alt_text": "New Media Animation GIF By Ryan Seslow",
+      "discovered_at": "2025-09-11T15:58:20.958222",
+      "title": "New Media Animation GIF By Ryan Seslow (2017)",
+      "description": "Wide shot + masking replacement of people with feedback glitch",
+      "tags": [
+        "COLLAGE",
+        "GLITCH",
+        "SATURATION",
+        "MASKING",
+        "OVER SATURATED COLORFUL"
+      ],
+      "technique_tags": [
+        "Masking"
+      ],
+      "director": "Ryan Seslow",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "New Media Animation GIF By Ryan Seslow (2017)\nWide shot + masking replacement of people with feedback glitch\nTechnique - Masking\nEditor - Ryan Seslow\nOriginal Source - Link\nCOLLAGE\nGLITCH\nSATURATION\nMASKING\nOVER SATURATED COLORFUL",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708341391.webp",
+      "alt_text": "The Wolf of Wall Street",
+      "discovered_at": "2025-09-11T15:58:24.593002",
+      "title": "The Wolf of Wall Street (2013)",
+      "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+      "tags": [],
+      "technique_tags": [
+        "Masking",
+        "Shadow Box"
+      ],
+      "director": "Thelma Schoonmaker",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Yvan Lucas",
+      "original_source": "",
+      "additional_info": "The Wolf of Wall Street (2013)\nBased on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.\nTechnique - Masking , Shadow Box\nDOP - Rodrigo Prieto\nEditor - Thelma Schoonmaker\nColorist - Yvan Lucas",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451666.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T15:58:27.728991",
+      "title": "Source unknown",
+      "description": "Mask replacement, horse rider to quick cut, on white shadow box background.",
+      "tags": [],
+      "technique_tags": [
+        "Masking"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nMask replacement, horse rider to quick cut, on white shadow box background.\nTechnique - Masking",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451266.webp",
+      "alt_text": "Inversion GIF by Kevin McGloughlin",
+      "discovered_at": "2025-09-11T15:58:31.362947",
+      "title": "Inversion GIF by Kevin McGloughlin",
+      "description": "",
+      "tags": [
+        "DAY",
+        "BLACK AND WHITE",
+        "EXTERIOR",
+        "DARK",
+        "SKATING",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "Inversion",
+        "Masking"
+      ],
+      "director": "Kevin McGloughlin",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Inversion GIF by Kevin McGloughlin\nMask replacement inversion technique on shoes.\nTechnique - Inversion , Masking\nDirector - Kevin McGloughlin\nDAY\nBLACK AND WHITE\nEXTERIOR\nDARK\nSKATING\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334913.webp",
+      "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
+      "discovered_at": "2025-09-11T15:58:34.988133",
+      "title": "Metronomy & Katy J Pearson's - Love Factory (2022) (2022)",
+      "description": "Metronomy & Katy J Pearson's - Love Factory (2022) (2022)",
+      "tags": [
+        "NIGHT",
+        "SPOTLIGHT",
+        "WIDE",
+        "HARD LIGHT"
+      ],
+      "technique_tags": [
+        "Conveyor",
+        "Masking",
+        "Void"
+      ],
+      "director": "Ned Botwood",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metronomy & Katy J Pearson's - Love Factory (2022) (2022)\nShotbreakdown: Conveyor masking shot in void\nTechnique - Conveyor , Masking , Void\nDirector - Ned Botwood\nOriginal Source - Link\nNIGHT\nSPOTLIGHT\nWIDE\nHARD LIGHT",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401994.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-11T15:58:38.647285",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. This shot would be categorized as a masking collage duplication conveyor shot. It gives the iconic Nick Young \"Swaggy P\" confused face meme a new lease on internet subculture.",
+      "tags": [
+        "ANIMATION",
+        "MEME",
+        "SATURATED",
+        "NICK YOUNG",
+        "ILLUSTRATION",
+        "SWAGGY P"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Conveyor",
+        "Duplication",
+        "Masking"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. This shot would be categorized as a masking collage duplication conveyor shot. It gives the iconic Nick Young \"Swaggy P\" confused face meme a new lease on internet subculture.\nTechnique - Collage , Conveyor , Duplication , Masking\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nANIMATION\nMEME\nSATURATED\nNICK YOUNG\nILLUSTRATION\nSWAGGY P",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451442.webp",
+      "alt_text": "Animation Love GIF By Ryan Seslow",
+      "discovered_at": "2025-09-11T15:58:42.298295",
+      "title": "Animation Love GIF By Ryan Seslow (2020)",
+      "description": "Collage + Mask replacement of face with feedback glitch + maximalism",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Masking",
+        "Maximalism"
+      ],
+      "director": "Ryan Seslow",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation Love GIF By Ryan Seslow (2020)\nCollage + Mask replacement of face with feedback glitch + maximalism\nTechnique - Collage , Masking , Maximalism\nEditor - Ryan Seslow\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715657522.webp",
+      "alt_text": "(exp. 3)",
+      "discovered_at": "2025-09-11T15:58:45.430134",
+      "title": "(exp. 3) (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "BIKE",
+        "EXTERIOR",
+        "BIKING",
+        "MASKING",
+        "BICYCLE",
+        "BIKER"
+      ],
+      "technique_tags": [
+        "Flash Cut",
+        "Masking"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "(exp. 3) (2022)\nFlash cut animation by Fons de Haans\nTechnique - Flash Cut , Masking\nOriginal Source - Link\nDAY\nBIKE\nEXTERIOR\nBIKING\nMASKING\nBICYCLE\nBIKER",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333680.webp",
+      "alt_text": "Clip by Said Dagdeviren",
+      "discovered_at": "2025-09-11T15:58:49.607409",
+      "title": "Clip by Said Dagdeviren",
+      "description": "",
+      "tags": [
+        "WHITE",
+        "BEAR",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Masking"
+      ],
+      "director": "Said Dagdeviren",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip by Said Dagdeviren\nTechnique - Masking\nEditor - Said Dagdeviren\nWHITE\nBEAR\nVOID",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334978.webp",
+      "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
+      "discovered_at": "2025-09-11T15:58:52.775834",
+      "title": "Metronomy & Katy J Pearson's - Love Factory (2022) (2022)",
+      "description": "Shotbreakdown: Double exposure masking profile shot in void",
+      "tags": [
+        "WOMAN",
+        "PROFILE",
+        "SPOTLIGHT",
+        "WIDE",
+        "HARD LIGHT"
+      ],
+      "technique_tags": [
+        "Masking",
+        "Profile",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Ned Botwood",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metronomy & Katy J Pearson's - Love Factory (2022) (2022)\nShotbreakdown: Double exposure masking profile shot in void\nTechnique - Masking , Profile , Spotlight , Void\nDirector - Ned Botwood\nOriginal Source - Link\nWOMAN\nPROFILE\nSPOTLIGHT\nWIDE\nHARD LIGHT",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705099710.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T15:58:56.450180",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "INTERIOR",
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Masking",
+        "Object Portal"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Infinite Zoom , Masking , Object Portal\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707978989.webp",
+      "alt_text": "Casino Royale",
+      "discovered_at": "2025-09-11T15:58:59.606206",
+      "title": "Casino Royale (1967)",
+      "description": "In an early spy spoof, aging Sir James Bond comes out of retirement to take on SMERSH.",
+      "tags": [],
+      "technique_tags": [
+        "Masking"
+      ],
+      "director": "Bill Lenny, Jack Hildyard",
+      "dop": "John Wilcox, Nicolas Roeg",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Casino Royale (1967)\nIn an early spy spoof, aging Sir James Bond comes out of retirement to take on SMERSH.\nTechnique - Masking\nDirector - John Huston, Ken Hughes, Val Guest\nDOP - John Wilcox, Nicolas Roeg\nEditor - Bill Lenny, Jack Hildyard",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451821.webp",
+      "alt_text": "John Grant Animation GIF By Ewan Jones Morris",
+      "discovered_at": "2025-09-11T15:59:02.766628",
+      "title": "John Grant Animation GIF By Ewan Jones Morris (2018)",
+      "description": "Close up mask replacement of face with quick cut collage, on black shadow box.",
+      "tags": [
+        "DARK",
+        "COLORFUL",
+        "SATURATED",
+        "BLACK"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Cutout",
+        "Masking",
+        "Mixed Media"
+      ],
+      "director": "Ewan Jones Morris",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "John Grant Animation GIF By Ewan Jones Morris (2018)\nClose up mask replacement of face with quick cut collage, on black shadow box.\nTechnique - Collage , Cutout , Masking , Mixed Media\nDirector - Ewan Jones Morris\nOriginal Source - Link\nDARK\nCOLORFUL\nSATURATED\nBLACK",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/21/Lil_Nas_X_Youngboy_Never_Broke_Again_-_Late_To_Da_Party_F_CK_BET_Officia_6HbOa1E/b35d27ce65ebac7afef4e12aa438459d.gif",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T15:59:06.445617",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "DANCING",
+        "GREEN SCREEN",
+        "EDITING"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "BTS",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , BTS , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nDANCING\nGREEN SCREEN\nEDITING",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474359.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T15:59:09.562852",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "CAR",
+        "DRIVING",
+        "TWO SHOT",
+        "GREEN SCREEN"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nCAR\nDRIVING\nTWO SHOT\nGREEN SCREEN",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474049.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T15:59:13.204732",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "INTERIOR",
+        "DANCING",
+        "GREEN SCREEN",
+        "ROOMS"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nINTERIOR\nDANCING\nGREEN SCREEN\nROOMS",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708472821.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T15:59:16.329223",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "INTERIOR",
+        "LIL NAS X",
+        "RECORD STUDIO"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nINTERIOR\nLIL NAS X\nRECORD STUDIO",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708473082.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T15:59:19.995360",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "PLANE",
+        "LIL NAS X",
+        "EDITING",
+        "STOCK FOOTAGE"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "BTS",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , BTS , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nPLANE\nLIL NAS X\nEDITING\nSTOCK FOOTAGE",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708473699.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T15:59:23.126091",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "DAY",
+        "CAR",
+        "DRIVING",
+        "EXTERIOR",
+        "GREEN SCREEN",
+        "LIL NAS X",
+        "STOCK FOOTAGE",
+        "GETTY IMAGES"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nDAY\nCAR\nDRIVING\nEXTERIOR\nGREEN SCREEN\nLIL NAS X\nSTOCK FOOTAGE\nGETTY IMAGES",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474164.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T15:59:26.793080",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "DANCING",
+        "GREEN SCREEN",
+        "EDITING"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "BTS",
+        "Flying",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , BTS , Flying , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nDANCING\nGREEN SCREEN\nEDITING",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708473346.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T15:59:30.457710",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "DAY",
+        "SKY",
+        "STUDIO",
+        "EXTERIOR",
+        "GREEN SCREEN",
+        "FALLING",
+        "LIL NAS X"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "Falling",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , Falling , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nDAY\nSKY\nSTUDIO\nEXTERIOR\nGREEN SCREEN\nFALLING\nLIL NAS X",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708473649.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T15:59:33.614762",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "DAY",
+        "CAR",
+        "DRIVING",
+        "EXTERIOR",
+        "GREEN SCREEN",
+        "LIL NAS X",
+        "STOCK FOOTAGE",
+        "GETTY IMAGES"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nDAY\nCAR\nDRIVING\nEXTERIOR\nGREEN SCREEN\nLIL NAS X\nSTOCK FOOTAGE\nGETTY IMAGES",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/04/2_0wkymVt/8f51c85b3d2e43a2dcdaaa3aa51932d4.gif",
+      "alt_text": "American Eagle Outfitters - Denim X (Director’s Cut)",
+      "discovered_at": "2025-09-11T15:59:37.253398",
+      "title": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "PROFILE",
+        "EXTERIOR",
+        "MINIMALIST"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Justin Derry",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)\nShot breakdown: Double exposure masking Production Company: Big Block DP: Justin Derry Creative Director: Brian Frank EP: Corwin Carroll Music: Toro Y Moi \"Lily\"\nTechnique - Double Exposure mask\nDirector - Paul Trillo\nDOP - Justin Derry\nOriginal Source - Link\nDAY\nPROFILE\nEXTERIOR\nMINIMALIST",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704332849.webp",
+      "alt_text": "The Peach Kings - Be Around",
+      "discovered_at": "2025-09-11T15:59:40.397019",
+      "title": "The Peach Kings - Be Around (2014)",
+      "description": "",
+      "tags": [
+        "STUDIO",
+        "ABSTRACT",
+        "ORANGE",
+        "MINIMALISM"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Paul Trillo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Peach Kings - Be Around (2014)\nShot breakdown: Double exposure masking in void\nTechnique - Double Exposure mask\nDirector - Paul Trillo\nOriginal Source - Link\nSTUDIO\nABSTRACT\nORANGE\nMINIMALISM",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704332276.webp",
+      "alt_text": "American Eagle Outfitters - Denim X (Director’s Cut)",
+      "discovered_at": "2025-09-11T15:59:44.047001",
+      "title": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "NATURE",
+        "TWO SHOT",
+        "EXTERIOR",
+        "MINIMALIST"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Justin Derry",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)\nShot breakdown: Double exposure masking Production Company: Big Block DP: Justin Derry Creative Director: Brian Frank EP: Corwin Carroll Music: Toro Y Moi \"Lily\"\nTechnique - Double Exposure mask\nDirector - Paul Trillo\nDOP - Justin Derry\nOriginal Source - Link\nDAY\nNATURE\nTWO SHOT\nEXTERIOR\nMINIMALIST",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333739.webp",
+      "alt_text": "Clip by Said Dagdeviren",
+      "discovered_at": "2025-09-11T15:59:47.697295",
+      "title": "Clip by Said Dagdeviren",
+      "description": "",
+      "tags": [
+        "WHITE",
+        "FOREST",
+        "STUDIO",
+        "VOID",
+        "HIKING",
+        "WHALE"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Said Dagdeviren",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip by Said Dagdeviren\nTechnique - Double Exposure mask\nEditor - Said Dagdeviren\nWHITE\nFOREST\nSTUDIO\nVOID\nHIKING\nWHALE",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704332910.webp",
+      "alt_text": "The Peach Kings - Be Around",
+      "discovered_at": "2025-09-11T15:59:51.362591",
+      "title": "The Peach Kings - Be Around (2014)",
+      "description": "",
+      "tags": [
+        "STUDIO",
+        "ABSTRACT",
+        "ORANGE",
+        "WARM WHITE",
+        "MINIMALISM"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Paul Trillo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Peach Kings - Be Around (2014)\nShot breakdown: Masking double exposure three shot\nTechnique - Double Exposure mask\nDirector - Paul Trillo\nOriginal Source - Link\nSTUDIO\nABSTRACT\nORANGE\nWARM WHITE\nMINIMALISM",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704332110.webp",
+      "alt_text": "American Eagle Outfitters - Denim X (Director’s Cut)",
+      "discovered_at": "2025-09-11T15:59:55.013592",
+      "title": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "PROFILE",
+        "EXTERIOR",
+        "MINIMALIST"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Justin Derry",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)\nShot breakdown: Double exposure masking Production Company: Big Block DP: Justin Derry Creative Director: Brian Frank EP: Corwin Carroll Music: Toro Y Moi \"Lily\"\nTechnique - Double Exposure mask\nDirector - Paul Trillo\nDOP - Justin Derry\nOriginal Source - Link\nDAY\nPROFILE\nEXTERIOR\nMINIMALIST",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331941.webp",
+      "alt_text": "American Eagle Outfitters - Denim X (Director’s Cut)",
+      "discovered_at": "2025-09-11T15:59:58.662254",
+      "title": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "PROFILE",
+        "EXTERIOR",
+        "MINIMALIST"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Justin Derry",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)\nShot breakdown: Double exposure masking Production Company: Big Block DP: Justin Derry Creative Director: Brian Frank EP: Corwin Carroll Music: Toro Y Moi \"Lily\"\nTechnique - Double Exposure mask\nDirector - Paul Trillo\nDOP - Justin Derry\nOriginal Source - Link\nDAY\nPROFILE\nEXTERIOR\nMINIMALIST",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704332196.webp",
+      "alt_text": "American Eagle Outfitters - Denim X (Director’s Cut)",
+      "discovered_at": "2025-09-11T16:00:02.314492",
+      "title": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "PROFILE",
+        "EXTERIOR",
+        "MINIMALIST"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Justin Derry",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)\nShot breakdown: Double exposure masking Production Company: Big Block DP: Justin Derry Creative Director: Brian Frank EP: Corwin Carroll Music: Toro Y Moi \"Lily\"\nTechnique - Double Exposure mask\nDirector - Paul Trillo\nDOP - Justin Derry\nOriginal Source - Link\nDAY\nPROFILE\nEXTERIOR\nMINIMALIST",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704332232.webp",
+      "alt_text": "American Eagle Outfitters - Denim X (Director’s Cut)",
+      "discovered_at": "2025-09-11T16:00:05.986498",
+      "title": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "PROFILE",
+        "EXTERIOR",
+        "MINIMALIST"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Justin Derry",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "American Eagle Outfitters - Denim X (Director’s Cut) (2015)\nShot breakdown: Double exposure masking Production Company: Big Block DP: Justin Derry Creative Director: Brian Frank EP: Corwin Carroll Music: Toro Y Moi \"Lily\"\nTechnique - Double Exposure mask\nDirector - Paul Trillo\nDOP - Justin Derry\nOriginal Source - Link\nDAY\nPROFILE\nEXTERIOR\nMINIMALIST",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704332718.webp",
+      "alt_text": "Double exposure art by Jo Bey",
+      "discovered_at": "2025-09-11T16:00:09.659965",
+      "title": "Double exposure art by Jo Bey (2018)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "CLOSE UP",
+        "STUDIO",
+        "MEDIUM"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Jo Bey",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Double exposure art by Jo Bey (2018)\nShot breakdown: Double exposure + Masking\nTechnique - Double Exposure mask\nDirector - Jo Bey\nOriginal Source - Link\nTutorial - Link\nWOMAN\nCLOSE UP\nSTUDIO\nMEDIUM",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333717.webp",
+      "alt_text": "Clip by Said Dagdeviren",
+      "discovered_at": "2025-09-11T16:00:13.358525",
+      "title": "Clip by Said Dagdeviren",
+      "description": "",
+      "tags": [
+        "BEAR",
+        "TRASH",
+        "POLLUTION"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Said Dagdeviren",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip by Said Dagdeviren\nTechnique - Double Exposure mask\nEditor - Said Dagdeviren\nBEAR\nTRASH\nPOLLUTION",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704332689.webp",
+      "alt_text": "Double exposure art by Jo Bey",
+      "discovered_at": "2025-09-11T16:00:17.003871",
+      "title": "Double exposure art by Jo Bey (2018)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "CLOSE UP",
+        "PROFILE"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Jo Bey",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Double exposure art by Jo Bey (2018)\nShot breakdown: Double exposure + Masking\nTechnique - Double Exposure mask\nDirector - Jo Bey\nOriginal Source - Link\nTutorial - Link\nMALE\nCLOSE UP\nPROFILE",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704332738.webp",
+      "alt_text": "Double exposure art by Jo Bey",
+      "discovered_at": "2025-09-11T16:00:20.140245",
+      "title": "Double exposure art by Jo Bey (2018)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "CLOSE UP",
+        "SUNSET",
+        "STUDIO",
+        "MEDIUM",
+        "TIMELAPSE"
+      ],
+      "technique_tags": [
+        "Double Exposure mask"
+      ],
+      "director": "Jo Bey",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Double exposure art by Jo Bey (2018)\nShot breakdown: Double exposure + Masking\nTechnique - Double Exposure mask\nDirector - Jo Bey\nOriginal Source - Link\nTutorial - Link\nWOMAN\nCLOSE UP\nSUNSET\nSTUDIO\nMEDIUM\nTIMELAPSE",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/19/Dua_Lipa_-_Training_Season_Official_Music_Video_wB3mkLZ/7e9cfd466d78c7d1973ef8c7cea4c0e8.gif",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T16:00:23.812281",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "DUA LIPA"
+      ],
+      "technique_tags": [
+        "Set Transition",
+        "Window masking"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Set Transition , Window masking\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nDUA LIPA",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706589382.webp",
+      "alt_text": "Window masking animation",
+      "discovered_at": "2025-09-11T16:00:27.991751",
+      "title": "Window masking animation",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "FENCE"
+      ],
+      "technique_tags": [
+        "Window masking"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Window masking animation\nTechnique - Window masking\nDAY\nEXTERIOR\nFENCE",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706422972.webp",
+      "alt_text": "Art by Color Circles",
+      "discovered_at": "2025-09-11T16:00:31.225175",
+      "title": "Art by Color Circles",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Window masking"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Color Circles\nTechnique - Window masking",
+      "page_url": "https://eyecannndy.com/technique/masking"
+    }
+  ]
 }

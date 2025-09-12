@@ -1,6 +1,781 @@
 {
   "technique": "hard-light",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.650585",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_145708",
+    "total_videos": 33,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/07/Willy_Wonka__Shamanic_Boat_Ride_xoNChd8/aee02aeb18df2b20e190811990a47e11.gif",
+      "alt_text": "Willy Wonka and the Chocolate Factory",
+      "discovered_at": "2025-09-11T14:54:59.513052",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123267.webp",
+      "alt_text": "Canon - Live for the Story",
+      "discovered_at": "2025-09-11T14:55:05.811250",
+      "title": "Canon - Live for the Story (2017)",
+      "description": "",
+      "tags": [
+        "RUNNING",
+        "NIGHT",
+        "EXTERIOR",
+        "FIELD"
+      ],
+      "technique_tags": [
+        "Hard Light",
+        "Void"
+      ],
+      "director": "Joe Guest",
+      "dop": "Kasper Tuxen",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Canon - Live for the Story (2017)\nCreative Agency: VCCP ECD: Darren Bailes Creatives: Ben McCarthy / Seb Housden Account Handling: Emma Whitmarsh / Olivia Packshaw Agency Producer: Ed Mueller Director: Megaforce Film Production: Riff Raff Films Production Company Producer: Jane Lloyd Executive Producer: Matthew Fone Producer: Gemma Humphries Music Licensing: Finger Music Sound Mix: Ben Leeves @ Grand Central\nTechnique - Hard Light , Void\nDirector - Megaforce\nDOP - Kasper Tuxen\nEditor - Joe Guest\nOriginal Source - Link\nRUNNING\nNIGHT\nEXTERIOR\nFIELD",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703242189.webp",
+      "alt_text": "Downtown Kayoto - Changed it",
+      "discovered_at": "2025-09-11T14:55:09.982877",
+      "title": "Downtown Kayoto - Changed it (2023)",
+      "description": "",
+      "tags": [
+        "KAYOTO"
+      ],
+      "technique_tags": [
+        "Hard Light",
+        "Quick Cuts",
+        "Spotlight"
+      ],
+      "director": "Joe Howat",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Changed it (2023)\nJoe Howat's sophomore music video features a variety of well-crafted techniques for London artist Downtown Kayoto.\nTechnique - Hard Light , Quick Cuts , Spotlight\nDirector - Joe Howat\nOriginal Source - Link\nKAYOTO",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972309.webp",
+      "alt_text": "Apple Music - Stay",
+      "discovered_at": "2025-09-11T14:55:14.149185",
+      "title": "Apple Music - Stay (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Hard Light",
+        "Void"
+      ],
+      "director": "Kim Gehrig",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Mark Gethin",
+      "original_source": "",
+      "additional_info": "Apple Music - Stay (2023)\nTechnique - Hard Light , Void\nDirector - Kim Gehrig\nDOP - Rodrigo Prieto\nColorist - Mark Gethin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476184.webp",
+      "alt_text": ":aexattack - Next Year",
+      "discovered_at": "2025-09-11T14:55:18.853180",
+      "title": ":aexattack - Next Year (2021)",
+      "description": "",
+      "tags": [
+        "RED",
+        "NIGHT",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Hard Light"
+      ],
+      "director": "Jetski",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": ":aexattack - Next Year (2021)\nTechnique - Close-Up , Hard Light\nDirector - Jetski\nOriginal Source - Link\nRED\nNIGHT\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706568331.webp",
+      "alt_text": "The Green Knight",
+      "discovered_at": "2025-09-11T14:55:23.023686",
+      "title": "The Green Knight (2021)",
+      "description": "A fantasy retelling of the medieval story of Sir Gawain and the Green Knight.",
+      "tags": [
+        "INTERIOR",
+        "FACE",
+        "GREEN KNIGHT",
+        "DEV PATEL"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Hard Light",
+        "Middle Ages",
+        "Sadness",
+        "Silhouette",
+        "Single shot"
+      ],
+      "director": "David Lowery",
+      "dop": "Andrew Droz Palermo",
+      "colorist": "Alastor Arnold",
+      "original_source": "",
+      "additional_info": "The Green Knight (2021)\nA fantasy retelling of the medieval story of Sir Gawain and the Green Knight.\nTechnique - Close-Up , Hard Light , Middle Ages , Sadness , Silhouette , Single shot\nDirector - David Lowery\nDOP - Andrew Droz Palermo\nColorist - Alastor Arnold\nINTERIOR\nFACE\nGREEN KNIGHT\nDEV PATEL",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476141.webp",
+      "alt_text": ":aexattack - Next Year",
+      "discovered_at": "2025-09-11T14:55:27.188271",
+      "title": ":aexattack - Next Year (2021)",
+      "description": "",
+      "tags": [
+        "RED",
+        "NIGHT",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Hard Light",
+        "Spotlight"
+      ],
+      "director": "Jetski",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": ":aexattack - Next Year (2021)\nTechnique - Hard Light , Spotlight\nDirector - Jetski\nOriginal Source - Link\nRED\nNIGHT\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476438.webp",
+      "alt_text": ":aexattack - Next Year",
+      "discovered_at": "2025-09-11T14:55:31.372096",
+      "title": ":aexattack - Next Year (2021)",
+      "description": "",
+      "tags": [
+        "RED"
+      ],
+      "technique_tags": [
+        "Hard Light",
+        "Light Flash"
+      ],
+      "director": "Jetski",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": ":aexattack - Next Year (2021)\nTechnique - Hard Light , Light Flash\nDirector - Jetski\nOriginal Source - Link\nRED",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329283.webp",
+      "alt_text": "Last Night in Soho",
+      "discovered_at": "2025-09-11T14:55:35.024994",
+      "title": "Last Night in Soho (2021)",
+      "description": "Aspiring fashion designer Eloise is mysteriously able to enter the 1960s, where she encounters dazzling wannabe singer Sandie. But the glamour is not as it seems, and the dreams of the past crack and splinter into something darker.",
+      "tags": [
+        "INTERIOR",
+        "EDGAR WRIGHT",
+        "DARK",
+        "CLUB",
+        "PANAVISION",
+        "ALEXA",
+        "ARRI ALEXA MINI",
+        "ARRI",
+        "2020S",
+        "LAST NIGHT IN SOHO"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Hard Light",
+        "Light Flash"
+      ],
+      "director": "Paul Machliss",
+      "dop": "Chung-hoon Chung",
+      "colorist": "Asa Shoul",
+      "original_source": "",
+      "additional_info": "Last Night in Soho (2021)\nAspiring fashion designer Eloise is mysteriously able to enter the 1960s, where she encounters dazzling wannabe singer Sandie. But the glamour is not as it seems, and the dreams of the past crack and splinter into something darker.\nTechnique - Double Exposure , Hard Light , Light Flash\nDirector - Edgar Wright\nDOP - Chung-hoon Chung\nEditor - Paul Machliss\nColorist - Asa Shoul\nINTERIOR\n2021\nEDGAR WRIGHT\nDARK\nCLUB\nPANAVISION\nALEXA\nARRI ALEXA MINI\nARRI\n2020S\nLAST NIGHT IN SOHO",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715632423.webp",
+      "alt_text": "Offset - CODE ft. Moneybagg Yo",
+      "discovered_at": "2025-09-11T14:55:39.219400",
+      "title": "Offset - CODE ft. Moneybagg Yo (2022)",
+      "description": "The music video for \"CODE\" by Offset featuring Moneybagg Yo is visually striking and matches the energy and themes of the song. In the video, both artists perform in various gritty, urban settings, enhancing the tough and assertive lyrics of the track. The video features scenes with luxury cars, dynamic group performances, and visually engaging effects that emphasize the rhythm and mood of the music. The overall aesthetic is dark and stylish, with a focus on street fashion and a portrayal of a lavish lifestyle, which is common in hip hop videos. The video complements the song's themes of success, power, and street credibility.",
+      "tags": [
+        "LIGHT",
+        "BLUE",
+        "STUDIO"
+      ],
+      "technique_tags": [
+        "Hard Light"
+      ],
+      "director": "Anthony Miralles",
+      "dop": "Taylor McIntosh",
+      "colorist": "Megan Lee",
+      "original_source": "",
+      "additional_info": "Offset - CODE ft. Moneybagg Yo (2022)\nThe music video for \"CODE\" by Offset featuring Moneybagg Yo is visually striking and matches the energy and themes of the song. In the video, both artists perform in various gritty, urban settings, enhancing the tough and assertive lyrics of the track. The video features scenes with luxury cars, dynamic group performances, and visually engaging effects that emphasize the rhythm and mood of the music. The overall aesthetic is dark and stylish, with a focus on street fashion and a portrayal of a lavish lifestyle, which is common in hip hop videos. The video complements the song's themes of success, power, and street credibility.\nTechnique - Hard Light\nDirector - Claire Arnold\nDOP - Taylor McIntosh\nEditor - Anthony Miralles\nColorist - Megan Lee\nOriginal Source - Link\nLIGHT\nBLUE\nSTUDIO",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703242063.webp",
+      "alt_text": "Duda Beat feat. Trevo - Nem Um Pouquinho",
+      "discovered_at": "2025-09-11T14:55:43.398248",
+      "title": "Duda Beat feat. Trevo - Nem Um Pouquinho (2021)",
+      "description": "Duda Beat's single \"Nem Um Pouquinho\" featuring Trevo presents a cyberpunk and dystopian universe where she plays a metamorphic creature seeking revenge in a bitter heartbreak narrative. The video complements this theme with a fantastic approach, featuring urban arts, signage, and vehicles developed by the production design team, while the barbed rose symbolizes fatal charm throughout the project.",
+      "tags": [
+        "CLOSE UP",
+        "BLUE",
+        "DARK",
+        "EYES",
+        "HARD LIGHT"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Hard Light",
+        "Intensity"
+      ],
+      "director": "Marcelo Vogelaar",
+      "dop": "Fabio Politi",
+      "colorist": "Osmar Junior",
+      "original_source": "",
+      "additional_info": "Duda Beat feat. Trevo - Nem Um Pouquinho (2021)\nDuda Beat's single \"Nem Um Pouquinho\" featuring Trevo presents a cyberpunk and dystopian universe where she plays a metamorphic creature seeking revenge in a bitter heartbreak narrative. The video complements this theme with a fantastic approach, featuring urban arts, signage, and vehicles developed by the production design team, while the barbed rose symbolizes fatal charm throughout the project.\nTechnique - Close-Up , Hard Light , Intensity\nDirector - ALASKA\nDOP - Fabio Politi\nEditor - Marcelo Vogelaar\nColorist - Osmar Junior\nOriginal Source - Link\nCLOSE UP\nBLUE\nDARK\nEYES\nHARD LIGHT",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710311984.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T14:55:47.604096",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Season 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "FACE",
+        "EYES",
+        "MUSTACHE",
+        "FACIAL HAIR",
+        "SKIN",
+        "NOSE"
+      ],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Hard Light",
+        "Intensity"
+      ],
+      "director": "Nick Allix",
+      "dop": "Callan Green",
+      "colorist": "Matthieu Toullet",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Extreme Close-Up , Hard Light , Intensity\nDirector - Eran Creevy\nDOP - Callan Green\nEditor - Nick Allix\nColorist - Matthieu Toullet\nFACE\nEYES\nMUSTACHE\nFACIAL HAIR\nSKIN\nNOSE",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703735753.webp",
+      "alt_text": "Close Encounters of the Third Kind",
+      "discovered_at": "2025-09-11T14:55:51.747773",
+      "title": "Close Encounters of the Third Kind (1977)",
+      "description": "Roy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.",
+      "tags": [
+        "WARM",
+        "INTERIOR",
+        "SURREAL",
+        "1970S",
+        "FILM",
+        "ORANGE",
+        "35MM",
+        "SATURATED",
+        "PANAVISION PANAFLEX",
+        "ANAMORPHIC",
+        "PANAVISION 65 HR",
+        "HARD LIGHT",
+        "SATURATION",
+        "PANAVISION R-200",
+        "PANAVISION C SERIES",
+        "UFO"
+      ],
+      "technique_tags": [
+        "Hard Light",
+        "Wide shot"
+      ],
+      "director": "Michael Kahn",
+      "dop": "Vilmos Zsigmond",
+      "colorist": "Sheri Eisenberg",
+      "original_source": "",
+      "additional_info": "Close Encounters of the Third Kind (1977)\nRoy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.\nTechnique - Hard Light , Wide shot\nDOP - Vilmos Zsigmond\nEditor - Michael Kahn\nColorist - Sheri Eisenberg\nOriginal Source - Link\nTutorial - Link\nWARM\nINTERIOR\nSURREAL\n1970S\nFILM\nORANGE\n35MM\n2.35\nSATURATED\nPANAVISION PANAFLEX\nANAMORPHIC\nPANAVISION 65 HR\nHARD LIGHT\nSATURATION\nPANAVISION R-200\nPANAVISION C SERIES\nUFO",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021609.webp",
+      "alt_text": "Do Revenge",
+      "discovered_at": "2025-09-11T14:55:55.895314",
+      "title": "Do Revenge (2022)",
+      "description": "Drea and Eleanor agree to go after one another's bullies.",
+      "tags": [
+        "WOMAN",
+        "BAR",
+        "NIGHTCLUB"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Color Shift",
+        "Hard Light",
+        "Suggestive"
+      ],
+      "director": "David S. Clark, Lori Ball",
+      "dop": "Brian Burgoyne",
+      "colorist": "Tim Stipan",
+      "original_source": "",
+      "additional_info": "Do Revenge (2022)\nDrea and Eleanor agree to go after one another's bullies.\nTechnique - Close-Up , Color Shift , Hard Light , Suggestive\nDirector - Jennifer Kaytin Robinson\nDOP - Brian Burgoyne\nEditor - David S. Clark, Lori Ball\nColorist - Tim Stipan\nWOMAN\nBAR\nNIGHTCLUB",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703048367.webp",
+      "alt_text": "Stranger Things S4",
+      "discovered_at": "2025-09-11T14:56:00.028660",
+      "title": "Stranger Things S4 (2022)",
+      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+      "tags": [
+        "NIGHT",
+        "BLUE",
+        "DARK",
+        "ORANGE",
+        "SATURATED",
+        "COMPANY 3",
+        "ARRI ALEXA LF",
+        "DIGITAL",
+        "DEAN ZIMMERMAN",
+        "DUFFER BROTHERS",
+        "SKIP KIMBALL",
+        "CASEY CICHOCKI",
+        "KATHERINE NARANJO",
+        "HARD LIGHT",
+        "CALEB HEYMANN",
+        "JOSEPH QUINN"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Close-Up",
+        "Hard Light",
+        "Intensity"
+      ],
+      "director": "Casey Cichocki, Dean Zimmerman, Katherine Naranjo",
+      "dop": "Caleb Heymann",
+      "colorist": "Company 3, Skip Kimball",
+      "original_source": "",
+      "additional_info": "Stranger Things S4 (2022)\nWhen a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.\nTechnique - 1980s , Close-Up , Hard Light , Intensity\nDirector - Duffer Brothers\nDOP - Caleb Heymann\nEditor - Casey Cichocki, Dean Zimmerman, Katherine Naranjo\nColorist - Company 3, Skip Kimball\nNIGHT\nBLUE\nDARK\nORANGE\nSATURATED\nCOMPANY 3\nARRI ALEXA LF\nDIGITAL\nDEAN ZIMMERMAN\nDUFFER BROTHERS\nSKIP KIMBALL\nCASEY CICHOCKI\n2.0\nKATHERINE NARANJO\nHARD LIGHT\nCALEB HEYMANN\nJOSEPH QUINN",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704617514.webp",
+      "alt_text": "Willy Wonka and the Chocolate Factory",
+      "discovered_at": "2025-09-11T14:56:04.187133",
+      "title": "Willy Wonka and the Chocolate Factory (1971)",
+      "description": "A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.",
+      "tags": [
+        "FILM",
+        "SURREALISM",
+        "35MM",
+        "ARRIFLEX BL",
+        "VOID",
+        "MITCHELL BNCR"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Hard Light"
+      ],
+      "director": "David Saxon",
+      "dop": "Arthur Ibbetson",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Willy Wonka and the Chocolate Factory (1971)\nA poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.\nTechnique - Color Shift , Hard Light\nDirector - Mel Stuart\nDOP - Arthur Ibbetson\nEditor - David Saxon\nOriginal Source - Link\nFILM\nSURREALISM\n35MM\nARRIFLEX BL\nVOID\nMITCHELL BNCR",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715293236.webp",
+      "alt_text": "Inter Alia (Short Film)",
+      "discovered_at": "2025-09-11T14:56:08.331640",
+      "title": "Inter Alia (Short Film) (2023)",
+      "description": "A musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?",
+      "tags": [
+        "WOMAN",
+        "PINK",
+        "INTERIOR",
+        "ROOM",
+        "GEL LIGHTING"
+      ],
+      "technique_tags": [
+        "Hard Light"
+      ],
+      "director": "Daniel Lawrence Wilson",
+      "dop": "Michael Fenton",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Inter Alia (Short Film) (2023)\nA musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?\nTechnique - Hard Light\nDirector - Daniel Lawrence Wilson\nDOP - Michael Fenton\nOriginal Source - Link\nWOMAN\nPINK\nINTERIOR\nROOM\nGEL LIGHTING",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972718.webp",
+      "alt_text": "Apple Music - Stay",
+      "discovered_at": "2025-09-11T14:56:11.459317",
+      "title": "Apple Music - Stay (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Hard Light",
+        "Void"
+      ],
+      "director": "Kim Gehrig",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Mark Gethin",
+      "original_source": "",
+      "additional_info": "Apple Music - Stay (2023)\nTechnique - Hard Light , Void\nDirector - Kim Gehrig\nDOP - Rodrigo Prieto\nColorist - Mark Gethin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716271513.webp",
+      "alt_text": "Zendaya for Entertainment Weekly",
+      "discovered_at": "2025-09-11T14:56:14.590572",
+      "title": "Zendaya for Entertainment Weekly (2024)",
+      "description": "Photographed by Peter Ash Lee for Entertainment Weekly.",
+      "tags": [
+        "WOMAN",
+        "ZENDAYA"
+      ],
+      "technique_tags": [
+        "Hard Light",
+        "Spotlight"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Zendaya for Entertainment Weekly (2024)\nPhotographed by Peter Ash Lee for Entertainment Weekly.\nTechnique - Hard Light , Spotlight\nWOMAN\nZENDAYA",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705386375.webp",
+      "alt_text": "Moonlight",
+      "discovered_at": "2025-09-11T14:56:18.262981",
+      "title": "Moonlight (2016)",
+      "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera.",
+      "tags": [
+        "NIGHT",
+        "BLUE",
+        "INTERIOR",
+        "ORANGE",
+        "ANGENIEUX",
+        "HAWK V-LITE",
+        "ARRI ALEXA XT",
+        "DUO"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Hard Light",
+        "Intensity",
+        "Medium Close-up"
+      ],
+      "director": "Joi McMillon, Nat Sanders",
+      "dop": "James Laxton",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Moonlight (2016)\nA young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera.\nTechnique - 1980s , Hard Light , Intensity , Medium Close-up\nDirector - Barry Jenkins\nDOP - James Laxton\nEditor - Joi McMillon, Nat Sanders\nColorist - Alex Bickel\nNIGHT\nBLUE\nINTERIOR\nORANGE\nANGENIEUX\nHAWK V-LITE\nARRI ALEXA XT\nDUO",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704617153.webp",
+      "alt_text": "Willy Wonka and the Chocolate Factory",
+      "discovered_at": "2025-09-11T14:56:21.891927",
+      "title": "Willy Wonka and the Chocolate Factory (1971)",
+      "description": "A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.",
+      "tags": [
+        "SURREALISM",
+        "VOID",
+        "BOAT"
+      ],
+      "technique_tags": [
+        "1970s",
+        "Color Shift",
+        "Happiness",
+        "Hard Light"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Willy Wonka and the Chocolate Factory (1971)\nA poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.\nTechnique - 1970s , Color Shift , Happiness , Hard Light\nOriginal Source - Link\nSURREALISM\nVOID\nBOAT",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704620963.webp",
+      "alt_text": "American Rock GIF By Dyan Jong",
+      "discovered_at": "2025-09-11T14:56:25.022213",
+      "title": "American Rock GIF By Dyan Jong (2019)",
+      "description": "",
+      "tags": [
+        "STUDIO",
+        "ORANGE"
+      ],
+      "technique_tags": [
+        "Hard Light",
+        "Spotlight"
+      ],
+      "director": "Dylan Jong",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "American Rock GIF By Dyan Jong (2019)\nTechnique - Hard Light , Spotlight\nDirector - Dylan Jong\nOriginal Source - Link\nSTUDIO\nORANGE",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704620824.webp",
+      "alt_text": "American Rock GIF By Dyan Jong",
+      "discovered_at": "2025-09-11T14:56:28.669173",
+      "title": "American Rock GIF By Dyan Jong (2019)",
+      "description": "",
+      "tags": [
+        "STUDIO",
+        "BLACK AND WHITE",
+        "PORTRAIT"
+      ],
+      "technique_tags": [
+        "Hard Light"
+      ],
+      "director": "Dylan Jong",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "American Rock GIF By Dyan Jong (2019)\nTechnique - Hard Light\nDirector - Dylan Jong\nOriginal Source - Link\nSTUDIO\nBLACK AND WHITE\nPORTRAIT",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704617059.webp",
+      "alt_text": "Willy Wonka and the Chocolate Factory",
+      "discovered_at": "2025-09-11T14:56:32.342698",
+      "title": "Willy Wonka and the Chocolate Factory (1971)",
+      "description": "A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.",
+      "tags": [
+        "VOID",
+        "BOAT"
+      ],
+      "technique_tags": [
+        "Hard Light",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Willy Wonka and the Chocolate Factory (1971)\nA poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.\nTechnique - Hard Light , Spotlight , Void\nOriginal Source - Link\nVOID\nBOAT",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706478243.webp",
+      "alt_text": "Moonrise Kingdom",
+      "discovered_at": "2025-09-11T14:56:36.001938",
+      "title": "Moonrise Kingdom (2012)",
+      "description": "A whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.",
+      "tags": [
+        "WATER",
+        "NIGHT",
+        "OCEAN",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Hard Light",
+        "Pan",
+        "Spotlight"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Tim Stipan",
+      "original_source": "",
+      "additional_info": "Moonrise Kingdom (2012)\nA whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.\nTechnique - Hard Light , Pan , Spotlight\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Tim Stipan\nWATER\nNIGHT\nOCEAN\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706151920.webp",
+      "alt_text": "Cat People",
+      "discovered_at": "2025-09-11T14:56:40.175577",
+      "title": "Cat People (1982)",
+      "description": "A young woman's sexual awakening brings horror when she discovers her urges transform her into a monstrous black leopard.",
+      "tags": [
+        "WOMAN"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Hard Light",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Jacqueline Cambas, Jere Huggins, Ned Humphreys",
+      "dop": "John Bailey",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cat People (1982)\nA young woman's sexual awakening brings horror when she discovers her urges transform her into a monstrous black leopard.\nTechnique - Close-Up , Hard Light , Spotlight , Void\nDirector - Paul Schrader\nDOP - John Bailey\nEditor - Jacqueline Cambas, Jere Huggins, Ned Humphreys\nWOMAN",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023894.webp",
+      "alt_text": "Everything Everywhere All at Once",
+      "discovered_at": "2025-09-11T14:56:44.339634",
+      "title": "Everything Everywhere All at Once (2022)",
+      "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+      "tags": [],
+      "technique_tags": [
+        "Color Shift",
+        "Hard Light",
+        "Two Shot"
+      ],
+      "director": "Paul Rogers",
+      "dop": "Larkin Seiple",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Everything Everywhere All at Once (2022)\nA middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.\nTechnique - Color Shift , Hard Light , Two Shot\nDirector - Daniel Kwan, Daniel Scheinert\nDOP - Larkin Seiple\nEditor - Paul Rogers\nColorist - Alex Bickel",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972789.webp",
+      "alt_text": "Apple Music - Stay",
+      "discovered_at": "2025-09-11T14:56:48.512118",
+      "title": "Apple Music - Stay (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Hard Light",
+        "Void"
+      ],
+      "director": "Kim Gehrig",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Mark Gethin",
+      "original_source": "",
+      "additional_info": "Apple Music - Stay (2023)\nTechnique - Hard Light , Void\nDirector - Kim Gehrig\nDOP - Rodrigo Prieto\nColorist - Mark Gethin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707623518.webp",
+      "alt_text": "A$AP Rocky - L$D",
+      "discovered_at": "2025-09-11T14:56:52.699270",
+      "title": "A$AP Rocky - L$D (2015)",
+      "description": "Shot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).",
+      "tags": [
+        "MUSIC VIDEO",
+        "NIGHT",
+        "BLUE",
+        "DEXTER NAVY",
+        "EXTERIOR",
+        "ROCKY",
+        "ASAP",
+        "A$AP",
+        "MV",
+        "RAP",
+        "NEON",
+        "SATURATED",
+        "SATURATION"
+      ],
+      "technique_tags": [
+        "Dolly",
+        "Hard Light"
+      ],
+      "director": "Dexter Navy",
+      "dop": "Oliver Millar",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - L$D (2015)\nShot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).\nTechnique - Dolly , Hard Light\nDirector - Dexter Navy\nDOP - Oliver Millar\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nMUSIC VIDEO\nNIGHT\nBLUE\nDEXTER NAVY\nEXTERIOR\nROCKY\nASAP\nA$AP\nMV\nRAP\nNEON\nSATURATED\nSATURATION",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710311909.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T14:56:56.898379",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Season 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "HAND",
+        "WATCH",
+        "NERVOUS"
+      ],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Hard Light",
+        "Nervousness"
+      ],
+      "director": "Nick Allix",
+      "dop": "Callan Green",
+      "colorist": "Matthieu Toullet",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Extreme Close-Up , Hard Light , Nervousness\nDirector - Eran Creevy\nDOP - Callan Green\nEditor - Nick Allix\nColorist - Matthieu Toullet\nHAND\nWATCH\nNERVOUS",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021629.webp",
+      "alt_text": "Do Revenge",
+      "discovered_at": "2025-09-11T14:57:01.079524",
+      "title": "Do Revenge (2022)",
+      "description": "Drea and Eleanor agree to go after one another's bullies.",
+      "tags": [
+        "WOMAN",
+        "BAR",
+        "NIGHTCLUB"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Hard Light"
+      ],
+      "director": "David S. Clark, Lori Ball",
+      "dop": "Brian Burgoyne",
+      "colorist": "Tim Stipan",
+      "original_source": "",
+      "additional_info": "Do Revenge (2022)\nDrea and Eleanor agree to go after one another's bullies.\nTechnique - Color Shift , Hard Light\nDirector - Jennifer Kaytin Robinson\nDOP - Brian Burgoyne\nEditor - David S. Clark, Lori Ball\nColorist - Tim Stipan\nWOMAN\nBAR\nNIGHTCLUB",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972755.webp",
+      "alt_text": "Apple Music - Stay",
+      "discovered_at": "2025-09-11T14:57:04.716455",
+      "title": "Apple Music - Stay (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Hard Light",
+        "Void"
+      ],
+      "director": "Kim Gehrig",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Mark Gethin",
+      "original_source": "",
+      "additional_info": "Apple Music - Stay (2023)\nTechnique - Hard Light , Void\nDirector - Kim Gehrig\nDOP - Rodrigo Prieto\nColorist - Mark Gethin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403642.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-11T14:57:08.363193",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. We'd identify this clip as a camera-lit conveyor duplication shot to a wipe transition, ending on VTR feedback.",
+      "tags": [
+        "INTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Conveyor",
+        "Feedback",
+        "Hard Light",
+        "Wipe Transition"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. We'd identify this clip as a camera-lit conveyor duplication shot to a wipe transition, ending on VTR feedback.\nTechnique - Conveyor , Feedback , Hard Light , Wipe Transition\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nINTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/hard-light"
+    }
+  ]
 }

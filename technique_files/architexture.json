@@ -1,1563 +1,1422 @@
 {
   "technique": "architexture",
-  "video_count": 80,
-  "generated_at": "2025-09-05T04:03:29.611946",
+  "scrape_info": {
+    "timestamp": "20250911_074448",
+    "total_videos": 60,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021858.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757495",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705031527.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757581",
-      "element_tag": "img",
-      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner",
-      "description": "",
-      "category": "architexture",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705031296.webp",
       "alt_text": "Unknown T - Hocus Pocus Feat. Loyle Carner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702983529.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757630",
-      "element_tag": "img",
-      "title": "GIF By weinventyou",
+      "discovered_at": "2025-09-11T07:41:22.326561",
+      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner (2023)",
       "description": "",
-      "category": "architexture",
-      "alt_text": "GIF By weinventyou",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695441.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757675",
-      "element_tag": "img",
-      "title": "@alcrego / Giphy",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "@alcrego / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984503.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757716",
-      "element_tag": "img",
-      "title": "AXEL DE STAMPA GIF",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "AXEL DE STAMPA GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695610.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757755",
-      "element_tag": "img",
-      "title": "Erdem Topsakal - @topsakalerdem / IG",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984221.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757794",
-      "element_tag": "img",
-      "title": "3D Photography GIF By Hateplow",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "3D Photography GIF By Hateplow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984433.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757831",
-      "element_tag": "img",
-      "title": "AXEL DE STAMPA GIF",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "AXEL DE STAMPA GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695690.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757868",
-      "element_tag": "img",
-      "title": "@alcrego / Giphy",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "@alcrego / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695424.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757910",
-      "element_tag": "img",
-      "title": "@hateplow / Giphy",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "@hateplow / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822448.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757949",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695515.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.757985",
-      "element_tag": "img",
-      "title": "Elouen la Baleine / IG",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Elouen la Baleine / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984520.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758025",
-      "element_tag": "img",
-      "title": "AXEL DE STAMPA GIF",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "AXEL DE STAMPA GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709970911.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758071",
-      "element_tag": "img",
-      "title": "Nike - Rise of the kids",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Nike - Rise of the kids",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022500.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758107",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695560.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758147",
-      "element_tag": "img",
-      "title": "Erdem Topsakal - @topsakalerdem / IG",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984716.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758187",
-      "element_tag": "img",
-      "title": "Elouen la Baleine / IG",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Elouen la Baleine / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695629.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758226",
-      "element_tag": "img",
-      "title": "Erdem Topsakal - @topsakalerdem / IG",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021858.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758348",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705031527.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758467",
-      "element_tag": "img",
-      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Unknown T - Hocus Pocus Feat. Loyle Carner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702983529.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758520",
-      "element_tag": "img",
-      "title": "GIF By weinventyou",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "GIF By weinventyou",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695441.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758562",
-      "element_tag": "img",
-      "title": "@alcrego / Giphy",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "@alcrego / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984503.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758599",
-      "element_tag": "img",
-      "title": "AXEL DE STAMPA GIF",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "AXEL DE STAMPA GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695610.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758636",
-      "element_tag": "img",
-      "title": "Erdem Topsakal - @topsakalerdem / IG",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984221.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758671",
-      "element_tag": "img",
-      "title": "3D Photography GIF By Hateplow",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "3D Photography GIF By Hateplow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984433.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758709",
-      "element_tag": "img",
-      "title": "AXEL DE STAMPA GIF",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "AXEL DE STAMPA GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695690.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758744",
-      "element_tag": "img",
-      "title": "@alcrego / Giphy",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "@alcrego / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695424.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758779",
-      "element_tag": "img",
-      "title": "@hateplow / Giphy",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "@hateplow / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822448.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758813",
-      "element_tag": "img",
-      "title": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695515.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758846",
-      "element_tag": "img",
-      "title": "Elouen la Baleine / IG",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Elouen la Baleine / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984520.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758879",
-      "element_tag": "img",
-      "title": "AXEL DE STAMPA GIF",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "AXEL DE STAMPA GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709970911.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758912",
-      "element_tag": "img",
-      "title": "Nike - Rise of the kids",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Nike - Rise of the kids",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022500.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758946",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695560.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.758980",
-      "element_tag": "img",
-      "title": "Erdem Topsakal - @topsakalerdem / IG",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984716.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759013",
-      "element_tag": "img",
-      "title": "Elouen la Baleine / IG",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Elouen la Baleine / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695629.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759048",
-      "element_tag": "img",
-      "title": "Erdem Topsakal - @topsakalerdem / IG",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984465.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759087",
-      "element_tag": "img",
-      "title": "AXEL DE STAMPA GIF",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "AXEL DE STAMPA GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702983719.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759132",
-      "element_tag": "img",
-      "title": "GIF By Hateplow",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "GIF By Hateplow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Architexture",
+        "Low Angle"
+      ],
+      "director": "Fouad Gaber",
+      "dop": "Anna Smoroňová",
+      "colorist": "Marina Starke",
+      "original_source": "",
+      "additional_info": "Unknown T - Hocus Pocus Feat. Loyle Carner (2023)\nDive into Felix Brady's latest music video masterpiece—a surreal space adorned with captivating visual techniques and a vibrant color palette. Experience artistic brilliance in a compact creation.\nTechnique - Architexture , Low Angle\nDirector - Felix Brady\nDOP - Anna Smoroňová\nEditor - Fouad Gaber\nColorist - Marina Starke\nOriginal Source - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508936.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759173",
-      "element_tag": "img",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-11T07:41:25.965041",
       "title": "Clip from Mikhail Parkhomenko",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Clip from Mikhail Parkhomenko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "RED",
+        "BUILDING",
+        "PEDESTAL"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nTechnique - Architexture\nDirector - Mikhail Parkhomenko (parh0)\nDAY\nRED\nBUILDING\nPEDESTAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705031296.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759211",
-      "element_tag": "img",
-      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner",
-      "description": "",
-      "category": "architexture",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705031527.webp",
       "alt_text": "Unknown T - Hocus Pocus Feat. Loyle Carner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:41:29.602448",
+      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner (2023)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "ARCHITECTURE"
+      ],
+      "technique_tags": [
+        "Architexture",
+        "Low Angle",
+        "Medium Close-up"
+      ],
+      "director": "Fouad Gaber",
+      "dop": "Anna Smoroňová",
+      "colorist": "Marina Starke",
+      "original_source": "",
+      "additional_info": "Unknown T - Hocus Pocus Feat. Loyle Carner (2023)\nDive into Felix Brady's latest music video masterpiece—a surreal space adorned with captivating visual techniques and a vibrant color palette. Experience artistic brilliance in a compact creation.\nTechnique - Architexture , Low Angle , Medium Close-up\nDirector - Felix Brady\nDOP - Anna Smoroňová\nEditor - Fouad Gaber\nColorist - Marina Starke\nOriginal Source - Link\nDAY\nEXTERIOR\nARCHITECTURE",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695580.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759253",
-      "element_tag": "img",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695610.webp",
+      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
+      "discovered_at": "2025-09-11T07:41:33.215488",
       "title": "Erdem Topsakal - @topsakalerdem / IG",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703467673.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759380",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Praise The Lord",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "A$AP Rocky - Praise The Lord",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695541.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759428",
-      "element_tag": "img",
-      "title": "Erdem Topsakal - @topsakalerdem / IG",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703467605.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759471",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Praise The Lord",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "A$AP Rocky - Praise The Lord",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "BLUE SKY",
+        "INTERIOR",
+        "ABSTRACT",
+        "ARCHITEXTURE",
+        "BUILDING",
+        "CITY",
+        "DAY TIME",
+        "DAYTIME",
+        "MOSAIC",
+        "TILES"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Erdem Topsakal - @topsakalerdem / IG\nTechnique - Architexture\nDAY\nBLUE SKY\nINTERIOR\nABSTRACT\nARCHITEXTURE\nBUILDING\nCITY\nDAY TIME\nDAYTIME\nMOSAIC\nTILES",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984483.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759510",
-      "element_tag": "img",
-      "title": "AXEL DE STAMPA GIF",
-      "description": "",
-      "category": "architexture",
       "alt_text": "AXEL DE STAMPA GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:41:36.812045",
+      "title": "AXEL DE STAMPA GIF (2016)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "AXEL DE STAMPA GIF (2016)"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "Axel De Stampa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AXEL DE STAMPA GIF (2016)\nTechnique - Architexture\nDirector - Axel De Stampa\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695332.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759552",
-      "element_tag": "img",
-      "title": "Elouen la Baleine / IG",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703467673.webp",
+      "alt_text": "A$AP Rocky - Praise The Lord",
+      "discovered_at": "2025-09-11T07:41:40.440709",
+      "title": "A$AP Rocky - Praise The Lord (2018)",
       "description": "",
-      "category": "architexture",
+      "tags": [],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Praise The Lord (2018)\nTechnique - Architexture\nDirector - Dexter Navy\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984716.webp",
       "alt_text": "Elouen la Baleine / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T07:41:43.570000",
+      "title": "Elouen la Baleine / IG (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "Elouen la Baleine",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Elouen la Baleine / IG (2023)\nTechnique - Architexture\nDirector - Elouen la Baleine",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695485.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759592",
-      "element_tag": "img",
-      "title": "Source Unknown",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702983719.webp",
+      "alt_text": "GIF By Hateplow",
+      "discovered_at": "2025-09-11T07:41:47.211334",
+      "title": "GIF By Hateplow (2014)",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "hateplow",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "GIF By Hateplow (2014)\nTechnique - Architexture\nDirector - hateplow\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702983836.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759632",
-      "element_tag": "img",
-      "title": "Nyc Fig GIF By Hateplow",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984520.webp",
+      "alt_text": "AXEL DE STAMPA GIF",
+      "discovered_at": "2025-09-11T07:41:50.854136",
+      "title": "AXEL DE STAMPA GIF (2017)",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Nyc Fig GIF By Hateplow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "AXEL DE STAMPA GIF (2017)"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "Axel De Stampa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AXEL DE STAMPA GIF (2017)\nTechnique - Architexture\nDirector - Axel De Stampa\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822448.webp",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "discovered_at": "2025-09-11T07:41:54.482275",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition' (2019)",
+      "description": "'Repetition' is an attempt to convey the importance of our endless endeavours toward human development and growth amidst a chaotic and disorienting landscape. The struggle for a fruitful future is challenging with the distractions of everyday life alongside its ever-growing technological 'advancements'. The hope is for humanity to strive through all of this in a meaningful and positive way.",
+      "tags": [
+        "DAY",
+        "BLUE",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "COOL",
+        "BUILDING"
+      ],
+      "technique_tags": [
+        "Architexture",
+        "Object Duplication"
+      ],
+      "director": "Kevin McGloughlin",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin McGloughlin for Max Cooper 'Repetition' (2019)\n'Repetition' is an attempt to convey the importance of our endless endeavours toward human development and growth amidst a chaotic and disorienting landscape. The struggle for a fruitful future is challenging with the distractions of everyday life alongside its ever-growing technological 'advancements'. The hope is for humanity to strive through all of this in a meaningful and positive way.\nTechnique - Architexture , Object Duplication\nDirector - Kevin McGloughlin\nOriginal Source - Link\nDAY\nBLUE\nARCHITEXTURE\nEXTERIOR\nCOOL\nBUILDING",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695629.webp",
+      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
+      "discovered_at": "2025-09-11T07:41:58.098970",
+      "title": "Erdem Topsakal - @topsakalerdem / IG",
+      "description": "",
+      "tags": [
+        "DAY",
+        "BLUE SKY",
+        "ROTATE",
+        "ABSTRACT",
+        "ARCHITEXTURE",
+        "BUILDING",
+        "CITY",
+        "DAY TIME",
+        "DAYTIME",
+        "MOSAIC"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Erdem Topsakal - @topsakalerdem / IG\nTechnique - Architexture\nDAY\nBLUE SKY\nROTATE\nABSTRACT\nARCHITEXTURE\nBUILDING\nCITY\nDAY TIME\nDAYTIME\nMOSAIC",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695657.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759670",
-      "element_tag": "img",
+      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
+      "discovered_at": "2025-09-11T07:42:01.748989",
       "title": "Erdem Topsakal - @topsakalerdem / IG",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "BLUE SKY",
+        "ROTATE",
+        "ABSTRACT",
+        "ARCHITEXTURE",
+        "BUILDING",
+        "CITY",
+        "DAY TIME",
+        "DAYTIME",
+        "MOSAIC"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Erdem Topsakal - @topsakalerdem / IG\nTechnique - Architexture\nDAY\nBLUE SKY\nROTATE\nABSTRACT\nARCHITEXTURE\nBUILDING\nCITY\nDAY TIME\nDAYTIME\nMOSAIC",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022484.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759838",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695424.webp",
+      "alt_text": "@hateplow / Giphy",
+      "discovered_at": "2025-09-11T07:42:05.390940",
+      "title": "@hateplow / Giphy",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "BLUE SKY",
+        "ROTATE",
+        "ABSTRACT",
+        "ARCHITEXTURE",
+        "BUILDING",
+        "CITY",
+        "DAY TIME",
+        "DAYTIME",
+        "MOSAIC"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@hateplow / Giphy\nTechnique - Architexture\nDAY\nBLUE SKY\nROTATE\nABSTRACT\nARCHITEXTURE\nBUILDING\nCITY\nDAY TIME\nDAYTIME\nMOSAIC",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695560.webp",
+      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
+      "discovered_at": "2025-09-11T07:42:08.511714",
+      "title": "Erdem Topsakal - @topsakalerdem / IG",
+      "description": "",
+      "tags": [
+        "DAY",
+        "BLUE SKY",
+        "ABSTRACT",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "BUILDING",
+        "CITY",
+        "DAY TIME",
+        "DAYTIME",
+        "MOSAIC",
+        "SIGN"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Erdem Topsakal - @topsakalerdem / IG\nTechnique - Architexture\nDAY\nBLUE SKY\nABSTRACT\nARCHITEXTURE\nEXTERIOR\nBUILDING\nCITY\nDAY TIME\nDAYTIME\nMOSAIC\nSIGN",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695580.webp",
+      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
+      "discovered_at": "2025-09-11T07:42:12.177591",
+      "title": "Erdem Topsakal - @topsakalerdem / IG",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "ABSTRACT",
+        "ARCHITEXTURE",
+        "GLASS",
+        "WINDOW",
+        "BUILDING",
+        "CITY",
+        "DAY TIME",
+        "DAYTIME",
+        "STAINED GLASS"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Erdem Topsakal - @topsakalerdem / IG\nTechnique - Architexture\nDAY\nINTERIOR\nABSTRACT\nARCHITEXTURE\nGLASS\nWINDOW\nBUILDING\nCITY\nDAY TIME\nDAYTIME\nSTAINED GLASS",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984433.webp",
+      "alt_text": "AXEL DE STAMPA GIF",
+      "discovered_at": "2025-09-11T07:42:15.382990",
+      "title": "AXEL DE STAMPA GIF (2016)",
+      "description": "",
+      "tags": [
+        "AXEL DE STAMPA GIF (2016)"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "Axel De Stampa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AXEL DE STAMPA GIF (2016)\nTechnique - Architexture\nDirector - Axel De Stampa",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695669.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759897",
-      "element_tag": "img",
+      "alt_text": "@alcrego / Giphy",
+      "discovered_at": "2025-09-11T07:42:19.013397",
       "title": "@alcrego / Giphy",
       "description": "",
-      "category": "architexture",
-      "alt_text": "@alcrego / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "BLUE SKY",
+        "ABSTRACT",
+        "ARCHITEXTURE",
+        "BUILDING",
+        "CITY",
+        "DAY TIME",
+        "DAYTIME"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@alcrego / Giphy\nTechnique - Architexture\nDAY\nBLUE SKY\nABSTRACT\nARCHITEXTURE\nBUILDING\nCITY\nDAY TIME\nDAYTIME",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021723.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759943",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695485.webp",
+      "alt_text": "Source Unknown",
+      "discovered_at": "2025-09-11T07:42:22.648756",
+      "title": "Source Unknown",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "COLORFUL",
+        "BUILDING",
+        "MOSAIC",
+        "TILES",
+        "PATTERN"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source Unknown\nKnow the source? Please email jacobi@eycndy.com\nTechnique - Architexture\nARCHITEXTURE\nEXTERIOR\nCOLORFUL\nBUILDING\nMOSAIC\nTILES\nPATTERN",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021680.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.759983",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695515.webp",
+      "alt_text": "Elouen la Baleine / IG",
+      "discovered_at": "2025-09-11T07:42:25.786165",
+      "title": "Elouen la Baleine / IG (2023)",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022797.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760023",
-      "element_tag": "img",
-      "title": "Augmented Reality Graffiti GIF",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Augmented Reality Graffiti GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022903.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760064",
-      "element_tag": "img",
-      "title": "Augmented Reality Graffiti GIF",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Augmented Reality Graffiti GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022012.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760103",
-      "element_tag": "img",
-      "title": "Minimize Street Art GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Minimize Street Art GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022875.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760143",
-      "element_tag": "img",
-      "title": "Augmented Reality Graffiti GIF",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Augmented Reality Graffiti GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022815.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760181",
-      "element_tag": "img",
-      "title": "Augmented Reality Graffiti GIF",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Augmented Reality Graffiti GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021494.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760220",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021665.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760258",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021650.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760297",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021813.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760334",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022706.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760372",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WATER",
+        "NIGHT",
+        "DUSK",
+        "SKY",
+        "SUNSET",
+        "ABSTRACT",
+        "HYPERLAPSE",
+        "ARCHITEXTURE",
+        "CLOUDS",
+        "REFLECTION",
+        "NIGHTTIME",
+        "FRANCE",
+        "PARIS",
+        "EIFFEL TOWER",
+        "EIFFEL"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Elouen la Baleine / IG (2023)\nTechnique - Architexture\nWATER\nNIGHT\nDUSK\nSKY\nSUNSET\nABSTRACT\nHYPERLAPSE\nARCHITEXTURE\nCLOUDS\nREFLECTION\nNIGHTTIME\nFRANCE\nPARIS\nEIFFEL TOWER\nEIFFEL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709970911.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760408",
-      "element_tag": "img",
-      "title": "Nike - Rise of the kids",
-      "description": "",
-      "category": "architexture",
       "alt_text": "Nike - Rise of the kids",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:42:29.443085",
+      "title": "Nike - Rise of the kids (2022)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "SPORTS",
+        "GIRL",
+        "SOCCER",
+        "ATHLETE",
+        "GOALIE"
+      ],
+      "technique_tags": [
+        "Architexture",
+        "Moving Murals"
+      ],
+      "director": "ALASKA",
+      "dop": "Todd Martin",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - Rise of the kids (2022)\nTechnique - Architexture , Moving Murals\nDirector - ALASKA\nDOP - Todd Martin\nOriginal Source - Link\nSPORTS\nGIRL\nSOCCER\nATHLETE\nGOALIE",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984772.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760446",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984221.webp",
+      "alt_text": "3D Photography GIF By Hateplow",
+      "discovered_at": "2025-09-11T07:42:33.064242",
+      "title": "3D Photography GIF By Hateplow (2013)",
       "description": "",
-      "category": "architexture",
+      "tags": [],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "hateplow",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "3D Photography GIF By Hateplow (2013)\nTechnique - Architexture\nDirector - hateplow\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702983836.webp",
+      "alt_text": "Nyc Fig GIF By Hateplow",
+      "discovered_at": "2025-09-11T07:42:36.694673",
+      "title": "Nyc Fig GIF By Hateplow (2014)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "hateplow",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nyc Fig GIF By Hateplow (2014)\nTechnique - Architexture\nDirector - hateplow\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022500.webp",
       "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:42:40.341195",
+      "title": "Street Art Loop GIF By A. L. Crego (2015)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "YELLOW",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "STREET ART"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2015)\nTechnique - Architexture\nDirector - A. L. Crego\nDAY\nYELLOW\nARCHITEXTURE\nEXTERIOR\nSTREET ART",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021878.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760521",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022484.webp",
       "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:42:43.964803",
+      "title": "Street Art Loop GIF By A. L. Crego (2015)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "WHITE",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL",
+        "MUTED"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2015)\nTechnique - Architexture\nDirector - A. L. Crego\nDAY\nWHITE\nARCHITEXTURE\nEXTERIOR\nSTREET ART\nMURAL\nMUTED",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021994.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760566",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695541.webp",
+      "alt_text": "Erdem Topsakal - @topsakalerdem / IG",
+      "discovered_at": "2025-09-11T07:42:47.599667",
+      "title": "Erdem Topsakal - @topsakalerdem / IG",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "ABSTRACT",
+        "ARCHITEXTURE",
+        "WINDOW",
+        "WALL",
+        "STONE",
+        "BLINKING",
+        "BLINK"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Erdem Topsakal - @topsakalerdem / IG\nTechnique - Architexture\nABSTRACT\nARCHITEXTURE\nWINDOW\nWALL\nSTONE\nBLINKING\nBLINK",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022426.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760610",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702983529.webp",
+      "alt_text": "GIF By weinventyou",
+      "discovered_at": "2025-09-11T07:42:51.253511",
+      "title": "GIF By weinventyou (2014)",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "BUILDING"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "weinventyou",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "GIF By weinventyou (2014)\nTechnique - Architexture\nDirector - weinventyou\nOriginal Source - Link\nDAY\nARCHITEXTURE\nEXTERIOR\nBUILDING",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/03/261704251245.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760651",
-      "element_tag": "img",
-      "title": "Hyperlapse clip by Kamil Przybylak",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984503.webp",
+      "alt_text": "AXEL DE STAMPA GIF",
+      "discovered_at": "2025-09-11T07:42:55.410329",
+      "title": "AXEL DE STAMPA GIF (2017)",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Hyperlapse clip by Kamil Przybylak",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "AXEL DE STAMPA GIF (2017)"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "Axel De Stampa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AXEL DE STAMPA GIF (2017)\nTechnique - Architexture\nDirector - Axel De Stampa\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021921.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760690",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695690.webp",
+      "alt_text": "@alcrego / Giphy",
+      "discovered_at": "2025-09-11T07:42:58.572334",
+      "title": "@alcrego / Giphy",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "BLUE SKY",
+        "ABSTRACT",
+        "ARCHITEXTURE",
+        "BUILDING",
+        "CITY",
+        "DAY TIME",
+        "DAYTIME"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@alcrego / Giphy\nTechnique - Architexture\nDAY\nBLUE SKY\nABSTRACT\nARCHITEXTURE\nBUILDING\nCITY\nDAY TIME\nDAYTIME",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021858.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760728",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
       "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:43:01.698585",
+      "title": "Street Art Loop GIF By A. L. Crego (2017)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Architexture",
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2017)\nTechnique - Architexture , Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695332.webp",
+      "alt_text": "Elouen la Baleine / IG",
+      "discovered_at": "2025-09-11T07:43:05.322585",
+      "title": "Elouen la Baleine / IG (2023)",
+      "description": "",
+      "tags": [
+        "ANIMATION",
+        "BRIDGE",
+        "HYPERLAPSE",
+        "ARCHITEXTURE"
+      ],
+      "technique_tags": [
+        "Architexture",
+        "Hyperlapse"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Elouen la Baleine / IG (2023)\nTechnique - Architexture , Hyperlapse\nANIMATION\nBRIDGE\nHYPERLAPSE\nARCHITEXTURE",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703467605.webp",
+      "alt_text": "A$AP Rocky - Praise The Lord",
+      "discovered_at": "2025-09-11T07:43:08.960909",
+      "title": "A$AP Rocky - Praise The Lord (2018)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Praise The Lord (2018)\nTechnique - Architexture\nDirector - Dexter Navy\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984465.webp",
+      "alt_text": "AXEL DE STAMPA GIF",
+      "discovered_at": "2025-09-11T07:43:12.114267",
+      "title": "AXEL DE STAMPA GIF (2016)",
+      "description": "",
+      "tags": [
+        "AXEL DE STAMPA GIF (2016)"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "Axel De Stampa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AXEL DE STAMPA GIF (2016)\nTechnique - Architexture\nDirector - Axel De Stampa",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702695441.webp",
+      "alt_text": "@alcrego / Giphy",
+      "discovered_at": "2025-09-11T07:43:15.216897",
+      "title": "@alcrego / Giphy",
+      "description": "",
+      "tags": [
+        "DAY",
+        "BLUE SKY",
+        "ROTATE",
+        "ABSTRACT",
+        "ARCHITEXTURE",
+        "BUILDING",
+        "SYMMETRICAL",
+        "CITY",
+        "DAY TIME",
+        "DAYTIME",
+        "MOSAIC",
+        "BIRDS"
+      ],
+      "technique_tags": [
+        "Architexture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@alcrego / Giphy\nTechnique - Architexture\nDAY\nBLUE SKY\nROTATE\nABSTRACT\nARCHITEXTURE\nBUILDING\nSYMMETRICAL\nCITY\nDAY TIME\nDAYTIME\nMOSAIC\nBIRDS",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/03/Apr-10-202311-35-52/67662c19827d0ede1c3180efbd15a119.gif",
+      "alt_text": "Hyperlapse clip by Kamil Przybylak",
+      "discovered_at": "2025-09-11T07:43:19.374788",
+      "title": "Hyperlapse clip by Kamil Przybylak (2022)",
+      "description": "Shot breakdown: Hyperlapse yo-yo push + masking flash cut (mural)",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "LAMP",
+        "CITY",
+        "SIGN",
+        "ARCHITECTURE",
+        "POST"
+      ],
+      "technique_tags": [
+        "Hyperlapse",
+        "Moving Murals"
+      ],
+      "director": "Kamil Przybylak",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Hyperlapse clip by Kamil Przybylak (2022)\nShot breakdown: Hyperlapse yo-yo push + masking flash cut (mural)\nTechnique - Hyperlapse , Moving Murals\nDirector - Kamil Przybylak\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nLAMP\nCITY\nSIGN\nARCHITECTURE\nPOST",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021680.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:43:22.517891",
+      "title": "Street Art Loop GIF By A. L. Crego (2017)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2017)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022036.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760767",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
       "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:43:25.671850",
+      "title": "Street Art Loop GIF By A. L. Crego (2015)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "ARCHITEXTURE",
+        "CLOUDS",
+        "EXTERIOR",
+        "DARK",
+        "RAIN",
+        "STREET ART",
+        "MURAL",
+        "STORMY"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2015)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nARCHITEXTURE\nCLOUDS\nEXTERIOR\nDARK\nRAIN\nSTREET ART\nMURAL\nSTORMY",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021754.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760805",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021980.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760841",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022958.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760878",
-      "element_tag": "img",
-      "title": "Augmented Reality Graffiti GIF",
-      "description": "",
-      "category": "architexture",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022815.webp",
       "alt_text": "Augmented Reality Graffiti GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:43:29.343696",
+      "title": "Augmented Reality Graffiti GIF (2018)",
+      "description": "INSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "ANIMATED",
+        "STREET ART",
+        "MURAL",
+        "INSA",
+        "TRIPPY"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "INSA",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Augmented Reality Graffiti GIF (2018)\nINSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.\nTechnique - Moving Murals\nDirector - INSA\nOriginal Source - Link\nDAY\nARCHITEXTURE\nEXTERIOR\nANIMATED\nSTREET ART\nMURAL\nINSA\nTRIPPY",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022450.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760916",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022012.webp",
+      "alt_text": "Minimize Street Art GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:43:33.001790",
+      "title": "Minimize Street Art GIF By A. L. Crego (2015)",
       "description": "",
-      "category": "architexture",
+      "tags": [
+        "DAY",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "BUILDING",
+        "BROWN",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Minimize Street Art GIF By A. L. Crego (2015)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nARCHITEXTURE\nEXTERIOR\nBUILDING\nBROWN\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021994.webp",
       "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:43:36.667011",
+      "title": "Street Art Loop GIF By A. L. Crego (2015)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2015)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022836.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760958",
-      "element_tag": "img",
-      "title": "Augmented Reality Graffiti GIF",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021650.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:43:40.312692",
+      "title": "Street Art Loop GIF By A. L. Crego (2020)",
       "description": "",
-      "category": "architexture",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2020)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021494.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:43:43.957466",
+      "title": "Street Art Loop GIF By A. L. Crego (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2020)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021813.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:43:47.088396",
+      "title": "Street Art Loop GIF By A. L. Crego (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2020)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702984772.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:43:50.743493",
+      "title": "Street Art Loop GIF By A. L. Crego (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2020)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022903.webp",
       "alt_text": "Augmented Reality Graffiti GIF",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:43:53.864886",
+      "title": "Augmented Reality Graffiti GIF (2018)",
+      "description": "INSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "ANIMATED",
+        "STREET ART",
+        "MURAL",
+        "INSA",
+        "TRIPPY"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "INSA",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Augmented Reality Graffiti GIF (2018)\nINSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.\nTechnique - Moving Murals\nDirector - INSA\nOriginal Source - Link\nDAY\nARCHITEXTURE\nEXTERIOR\nANIMATED\nSTREET ART\nMURAL\nINSA\nTRIPPY",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021938.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.760997",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021723.webp",
       "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021626.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.761036",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:43:57.527224",
+      "title": "Street Art Loop GIF By A. L. Crego (2015)",
       "description": "",
-      "category": "architexture",
-      "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2015)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021908.webp",
-      "page_url": "https://eyecannndy.com/technique/architexture",
-      "discovered_at": "2025-09-05T03:22:19.761074",
-      "element_tag": "img",
-      "title": "Street Art Loop GIF By A. L. Crego",
-      "description": "",
-      "category": "architexture",
       "alt_text": "Street Art Loop GIF By A. L. Crego",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:44:01.175230",
+      "title": "Street Art Loop GIF By A. L. Crego (2016)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2016)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021626.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:44:04.817515",
+      "title": "Street Art Loop GIF By A. L. Crego (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2020)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022958.webp",
+      "alt_text": "Augmented Reality Graffiti GIF",
+      "discovered_at": "2025-09-11T07:44:07.951798",
+      "title": "Augmented Reality Graffiti GIF (2018)",
+      "description": "INSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.",
+      "tags": [
+        "DAY",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "ORANGE",
+        "ANIMATED",
+        "STREET ART",
+        "MURAL",
+        "INSA",
+        "TRIPPY"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "INSA",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Augmented Reality Graffiti GIF (2018)\nINSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.\nTechnique - Moving Murals\nDirector - INSA\nOriginal Source - Link\nDAY\nARCHITEXTURE\nEXTERIOR\nORANGE\nANIMATED\nSTREET ART\nMURAL\nINSA\nTRIPPY",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022706.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:44:11.597487",
+      "title": "Street Art Loop GIF By A. L. Crego (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "ANIMATED",
+        "STREET ART",
+        "MURAL",
+        "INSA",
+        "TRIPPY"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "INSA",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2015)\nTechnique - Moving Murals\nDirector - INSA\nDAY\nARCHITEXTURE\nEXTERIOR\nANIMATED\nSTREET ART\nMURAL\nINSA\nTRIPPY",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021878.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:44:15.254608",
+      "title": "Street Art Loop GIF By A. L. Crego (2016)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2016)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021665.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:44:18.890783",
+      "title": "Street Art Loop GIF By A. L. Crego (2017)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2017)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021754.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:44:22.029235",
+      "title": "Street Art Loop GIF By A. L. Crego (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2020)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021921.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:44:25.179014",
+      "title": "Street Art Loop GIF By A. L. Crego (2016)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2016)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022797.webp",
+      "alt_text": "Augmented Reality Graffiti GIF",
+      "discovered_at": "2025-09-11T07:44:28.308736",
+      "title": "Augmented Reality Graffiti GIF (2018)",
+      "description": "INSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.",
+      "tags": [
+        "DAY",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "ANIMATED",
+        "STREET ART",
+        "MURAL",
+        "INSA",
+        "TRIPPY"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "INSA",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Augmented Reality Graffiti GIF (2018)\nINSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.\nTechnique - Moving Murals\nDirector - INSA\nOriginal Source - Link\nDAY\nARCHITEXTURE\nEXTERIOR\nANIMATED\nSTREET ART\nMURAL\nINSA\nTRIPPY",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021980.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:44:31.434364",
+      "title": "Street Art Loop GIF By A. L. Crego (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2015)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703021938.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:44:34.567004",
+      "title": "Street Art Loop GIF By A. L. Crego (2016)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STREET ART",
+        "MURAL"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2016)\nTechnique - Moving Murals\nDirector - A. L. Crego\nOriginal Source - Link\nDAY\nEXTERIOR\nSTREET ART\nMURAL",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022426.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:44:38.218392",
+      "title": "Street Art Loop GIF By A. L. Crego (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WHITE",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "BUILDING",
+        "ANIMATED",
+        "STREET ART",
+        "MURAL",
+        "PHENAKISTISCOPE",
+        "MOTION"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2015)\nTechnique - Moving Murals\nDirector - A. L. Crego\nDAY\nWHITE\nARCHITEXTURE\nEXTERIOR\nBUILDING\nANIMATED\nSTREET ART\nMURAL\nPHENAKISTISCOPE\nMOTION",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022450.webp",
+      "alt_text": "Street Art Loop GIF By A. L. Crego",
+      "discovered_at": "2025-09-11T07:44:41.348459",
+      "title": "Street Art Loop GIF By A. L. Crego (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "RED",
+        "ARCHITEXTURE",
+        "CLOUDS",
+        "EXTERIOR",
+        "OVERCAST",
+        "STREET ART",
+        "MURAL",
+        "PHENAKISTISCOPE"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Art Loop GIF By A. L. Crego (2015)\nTechnique - Moving Murals\nDirector - A. L. Crego\nDAY\nRED\nARCHITEXTURE\nCLOUDS\nEXTERIOR\nOVERCAST\nSTREET ART\nMURAL\nPHENAKISTISCOPE",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022875.webp",
+      "alt_text": "Augmented Reality Graffiti GIF",
+      "discovered_at": "2025-09-11T07:44:44.482149",
+      "title": "Augmented Reality Graffiti GIF (2018)",
+      "description": "INSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.",
+      "tags": [
+        "DAY",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "ANIMATED",
+        "STREET ART",
+        "MURAL",
+        "INSA",
+        "TRIPPY"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "INSA",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Augmented Reality Graffiti GIF (2018)\nINSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.\nTechnique - Moving Murals\nDirector - INSA\nOriginal Source - Link\nDAY\nARCHITEXTURE\nEXTERIOR\nANIMATED\nSTREET ART\nMURAL\nINSA\nTRIPPY",
+      "page_url": "https://eyecannndy.com/technique/architexture"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703022836.webp",
+      "alt_text": "Augmented Reality Graffiti GIF",
+      "discovered_at": "2025-09-11T07:44:48.155234",
+      "title": "Augmented Reality Graffiti GIF (2018)",
+      "description": "INSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.",
+      "tags": [
+        "DAY",
+        "ARCHITEXTURE",
+        "EXTERIOR",
+        "ANIMATED",
+        "STREET ART",
+        "MURAL",
+        "INSA"
+      ],
+      "technique_tags": [
+        "Moving Murals"
+      ],
+      "director": "INSA",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Augmented Reality Graffiti GIF (2018)\nINSA is a self-described Graffiti Fetishist. Over his 15 year career, the anonymous artist has added his signature black and pink throw-up to walls. They're a pioneer of the GIF-ITI art style where his graffiti murals are brought to life through animation.\nTechnique - Moving Murals\nDirector - INSA\nOriginal Source - Link\nDAY\nARCHITEXTURE\nEXTERIOR\nANIMATED\nSTREET ART\nMURAL\nINSA",
+      "page_url": "https://eyecannndy.com/technique/architexture"
     }
   ]
 }

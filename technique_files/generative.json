@@ -1,732 +1,523 @@
 {
   "technique": "generative",
-  "video_count": 37,
-  "generated_at": "2025-09-05T04:03:29.647500",
+  "scrape_info": {
+    "timestamp": "20250911_142247",
+    "total_videos": 26,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338238.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332199",
-      "element_tag": "img",
-      "title": "Artist: Francesco Misceo / IG",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Artist: Francesco Misceo / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337025.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332286",
-      "element_tag": "img",
-      "title": "@minelauvart / IG",
-      "description": "",
-      "category": "generative",
-      "alt_text": "@minelauvart / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237308.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332339",
-      "element_tag": "img",
-      "title": "Flume feat. MAY-A - Say Nothing",
-      "description": "",
-      "category": "generative",
       "alt_text": "Flume feat. MAY-A - Say Nothing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:21:01.860595",
+      "title": "Flume feat. MAY-A - Say Nothing (2022)",
+      "description": "The music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338417.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332388",
-      "element_tag": "img",
-      "title": "Art by Paul Trillo",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Art by Paul Trillo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "BIRD",
+        "AI",
+        "GENERATIVE",
+        "STABLE DIFFUSION"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Generative"
+      ],
+      "director": "Ian Wallace",
+      "dop": "Dimitri Zaunders, Kieran Fowler",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Flume feat. MAY-A - Say Nothing (2022)\nThe music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.\nTechnique - Color Shift , Generative\nDirector - Michael Hili\nDOP - Dimitri Zaunders, Kieran Fowler\nEditor - Ian Wallace\nColorist - Josh Bohoskey\nOriginal Source - Link\nBIRD\nAI\nGENERATIVE\nSTABLE DIFFUSION",
+      "page_url": "https://eyecannndy.com/technique/generative"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720342889.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332434",
-      "element_tag": "img",
-      "title": "Untitled by @kentskooking",
-      "description": "",
-      "category": "generative",
       "alt_text": "Untitled by @kentskooking",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338314.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332481",
-      "element_tag": "img",
-      "title": "Artist: Fabio Comparelli",
+      "discovered_at": "2025-09-11T14:21:05.528445",
+      "title": "Untitled by @kentskooking (2024)",
       "description": "",
-      "category": "generative",
-      "alt_text": "Artist: Fabio Comparelli",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338779.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332525",
-      "element_tag": "img",
-      "title": "Street Corner",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Street Corner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338506.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332570",
-      "element_tag": "img",
-      "title": "Runway Generative AI",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Runway Generative AI",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338556.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332613",
-      "element_tag": "img",
-      "title": "Runway Generative AI",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Runway Generative AI",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337078.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332655",
-      "element_tag": "img",
-      "title": "The Crow - Glenn Marshall",
-      "description": "",
-      "category": "generative",
-      "alt_text": "The Crow - Glenn Marshall",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237276.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332697",
-      "element_tag": "img",
-      "title": "Flume feat. MAY-A - Say Nothing",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Flume feat. MAY-A - Say Nothing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338238.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332737",
-      "element_tag": "img",
-      "title": "Artist: Francesco Misceo / IG",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Artist: Francesco Misceo / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337025.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332775",
-      "element_tag": "img",
-      "title": "@minelauvart / IG",
-      "description": "",
-      "category": "generative",
-      "alt_text": "@minelauvart / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237308.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332814",
-      "element_tag": "img",
-      "title": "Flume feat. MAY-A - Say Nothing",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Flume feat. MAY-A - Say Nothing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Untitled by @kentskooking (2024)\nTechnique - Generative\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/generative"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338417.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332852",
-      "element_tag": "img",
+      "alt_text": "Art by Paul Trillo",
+      "discovered_at": "2025-09-11T14:21:09.176402",
       "title": "Art by Paul Trillo",
       "description": "",
-      "category": "generative",
-      "alt_text": "Art by Paul Trillo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720342889.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332890",
-      "element_tag": "img",
-      "title": "Untitled by @kentskooking",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Untitled by @kentskooking",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338314.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332928",
-      "element_tag": "img",
-      "title": "Artist: Fabio Comparelli",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Artist: Fabio Comparelli",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338779.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.332966",
-      "element_tag": "img",
-      "title": "Street Corner",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Street Corner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338506.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333005",
-      "element_tag": "img",
-      "title": "Runway Generative AI",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Runway Generative AI",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "Paul Trillo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Paul Trillo\nTechnique - Generative\nDirector - Paul Trillo",
+      "page_url": "https://eyecannndy.com/technique/generative"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338556.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333044",
-      "element_tag": "img",
+      "alt_text": "Runway Generative AI",
+      "discovered_at": "2025-09-11T14:21:13.366749",
       "title": "Runway Generative AI",
       "description": "",
-      "category": "generative",
-      "alt_text": "Runway Generative AI",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337078.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333083",
-      "element_tag": "img",
-      "title": "The Crow - Glenn Marshall",
-      "description": "",
-      "category": "generative",
-      "alt_text": "The Crow - Glenn Marshall",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237276.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333121",
-      "element_tag": "img",
-      "title": "Flume feat. MAY-A - Say Nothing",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Flume feat. MAY-A - Say Nothing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338533.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333164",
-      "element_tag": "img",
-      "title": "Runway Generative AI",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Runway Generative AI",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337052.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333206",
-      "element_tag": "img",
-      "title": "@visualconnoisseur.ai / IG",
-      "description": "",
-      "category": "generative",
-      "alt_text": "@visualconnoisseur.ai / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338199.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333247",
-      "element_tag": "img",
-      "title": "@David32bit / Giphy",
-      "description": "",
-      "category": "generative",
-      "alt_text": "@David32bit / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337164.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333290",
-      "element_tag": "img",
-      "title": "@takubeats / IG",
-      "description": "",
-      "category": "generative",
-      "alt_text": "@takubeats / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237390.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333330",
-      "element_tag": "img",
-      "title": "Flume feat. MAY-A - Say Nothing",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Flume feat. MAY-A - Say Nothing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338435.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333371",
-      "element_tag": "img",
-      "title": "Art by Paul Trillo",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Art by Paul Trillo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344023.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333412",
-      "element_tag": "img",
-      "title": "Oddworld x Souly - wzf / maybach",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Oddworld x Souly - wzf / maybach",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337376.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333452",
-      "element_tag": "img",
-      "title": "Loxel Li - @Loxel",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Loxel Li - @Loxel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716235825.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333492",
-      "element_tag": "img",
-      "title": "Flume feat. MAY-A - Say Nothing",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Flume feat. MAY-A - Say Nothing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707084544.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333533",
-      "element_tag": "img",
-      "title": "Weirdcore Animation",
-      "description": "",
-      "category": "generative",
-      "alt_text": "Weirdcore Animation",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "INTERIOR",
+        "COFFEE",
+        "POURING"
+      ],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Runway Generative AI\nTechnique - Generative\nINTERIOR\nCOFFEE\nPOURING",
+      "page_url": "https://eyecannndy.com/technique/generative"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338268.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333575",
-      "element_tag": "img",
+      "alt_text": "Artist: @junkboxai / IG",
+      "discovered_at": "2025-09-11T14:21:23.362322",
       "title": "Artist: @junkboxai / IG",
       "description": "",
-      "category": "generative",
-      "alt_text": "Artist: @junkboxai / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: @junkboxai / IG\nTechnique - Generative",
+      "page_url": "https://eyecannndy.com/technique/generative"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720342928.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333617",
-      "element_tag": "img",
-      "title": "Untitled by @kentskooking",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338199.webp",
+      "alt_text": "@David32bit / Giphy",
+      "discovered_at": "2025-09-11T14:21:27.536100",
+      "title": "@David32bit / Giphy",
       "description": "",
-      "category": "generative",
-      "alt_text": "Untitled by @kentskooking",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@David32bit / Giphy\nTechnique - Generative",
+      "page_url": "https://eyecannndy.com/technique/generative"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237241.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333658",
-      "element_tag": "img",
-      "title": "Flume feat. MAY-A - Say Nothing",
-      "description": "",
-      "category": "generative",
       "alt_text": "Flume feat. MAY-A - Say Nothing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:21:31.705208",
+      "title": "Flume feat. MAY-A - Say Nothing (2022)",
+      "description": "The music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BIRD",
+        "AI",
+        "GENERATIVE",
+        "STABLE DIFFUSION"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Generative"
+      ],
+      "director": "Ian Wallace",
+      "dop": "Dimitri Zaunders, Kieran Fowler",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Flume feat. MAY-A - Say Nothing (2022)\nThe music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.\nTechnique - Color Shift , Generative\nDirector - Michael Hili\nDOP - Dimitri Zaunders, Kieran Fowler\nEditor - Ian Wallace\nColorist - Josh Bohoskey\nOriginal Source - Link\nBIRD\nAI\nGENERATIVE\nSTABLE DIFFUSION",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237276.webp",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "discovered_at": "2025-09-11T14:21:35.367440",
+      "title": "Flume feat. MAY-A - Say Nothing (2022)",
+      "description": "The music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.",
+      "tags": [
+        "BIRD",
+        "AI",
+        "GENERATIVE",
+        "STABLE DIFFUSION"
+      ],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "Ian Wallace",
+      "dop": "Dimitri Zaunders, Kieran Fowler",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Flume feat. MAY-A - Say Nothing (2022)\nThe music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.\nTechnique - Generative\nDirector - Michael Hili\nDOP - Dimitri Zaunders, Kieran Fowler\nEditor - Ian Wallace\nColorist - Josh Bohoskey\nOriginal Source - Link\nBIRD\nAI\nGENERATIVE\nSTABLE DIFFUSION",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237390.webp",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "discovered_at": "2025-09-11T14:21:39.027068",
+      "title": "Flume feat. MAY-A - Say Nothing (2022)",
+      "description": "The music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.",
+      "tags": [
+        "BIRD",
+        "AI",
+        "GENERATIVE",
+        "STABLE DIFFUSION"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Extreme Close-Up",
+        "Generative"
+      ],
+      "director": "Ian Wallace",
+      "dop": "Dimitri Zaunders, Kieran Fowler",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Flume feat. MAY-A - Say Nothing (2022)\nThe music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.\nTechnique - Color Shift , Extreme Close-Up , Generative\nDirector - Michael Hili\nDOP - Dimitri Zaunders, Kieran Fowler\nEditor - Ian Wallace\nColorist - Josh Bohoskey\nOriginal Source - Link\nBIRD\nAI\nGENERATIVE\nSTABLE DIFFUSION",
+      "page_url": "https://eyecannndy.com/technique/generative"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707084584.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333702",
-      "element_tag": "img",
-      "title": "Weirdcore Animation",
-      "description": "",
-      "category": "generative",
       "alt_text": "Weirdcore Animation",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:21:42.691909",
+      "title": "Weirdcore Animation (2024)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Generative",
+        "Maximalism",
+        "Weirdcore"
+      ],
+      "director": "The Vidiot",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Weirdcore Animation (2024)\nFrom 3D artist, The Vidiot.\nTechnique - Generative , Maximalism , Weirdcore\nEditor - The Vidiot",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338238.webp",
+      "alt_text": "Artist: Francesco Misceo / IG",
+      "discovered_at": "2025-09-11T14:21:46.369104",
+      "title": "Artist: Francesco Misceo / IG (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: Francesco Misceo / IG (2023)\nTechnique - Generative",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337052.webp",
+      "alt_text": "@visualconnoisseur.ai / IG",
+      "discovered_at": "2025-09-11T14:21:50.009005",
+      "title": "@visualconnoisseur.ai / IG",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@visualconnoisseur.ai / IG\nTechnique - Generative",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720342928.webp",
+      "alt_text": "Untitled by @kentskooking",
+      "discovered_at": "2025-09-11T14:21:53.678842",
+      "title": "Untitled by @kentskooking (2024)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Untitled by @kentskooking (2024)\nTechnique - Generative\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338779.webp",
+      "alt_text": "Street Corner",
+      "discovered_at": "2025-09-11T14:22:00.498771",
+      "title": "Street Corner (2024)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "NIGHT",
+        "CITY",
+        "TOWN",
+        "SODIUM LIGHTS"
+      ],
+      "technique_tags": [
+        "Generative",
+        "Morphing"
+      ],
+      "director": "hellopersonality",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Corner (2024)\nTechnique - Generative , Morphing\nEditor - hellopersonality\nOriginal Source - Link\nNIGHT\nCITY\nTOWN\nSODIUM LIGHTS",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707084544.webp",
+      "alt_text": "Weirdcore Animation",
+      "discovered_at": "2025-09-11T14:22:04.702734",
+      "title": "Weirdcore Animation (2024)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Generative",
+        "Maximalism",
+        "Weirdcore"
+      ],
+      "director": "The Vidiot",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Weirdcore Animation (2024)\nFrom 3D artist, The Vidiot.\nTechnique - Generative , Maximalism , Weirdcore\nEditor - The Vidiot",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337078.webp",
+      "alt_text": "The Crow - Glenn Marshall",
+      "discovered_at": "2025-09-11T14:22:08.881974",
+      "title": "The Crow - Glenn Marshall",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Crow - Glenn Marshall\nTechnique - Generative",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338506.webp",
+      "alt_text": "Runway Generative AI",
+      "discovered_at": "2025-09-11T14:22:13.059979",
+      "title": "Runway Generative AI",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Runway Generative AI\nTechnique - Generative\nEXTERIOR\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337376.webp",
+      "alt_text": "Loxel Li - @Loxel",
+      "discovered_at": "2025-09-11T14:22:16.729999",
+      "title": "Loxel Li - @Loxel",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE",
+        "VINTAGE",
+        "ARCHIVAL",
+        "HISTORIC"
+      ],
+      "technique_tags": [
+        "Generative",
+        "Morphing"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Loxel Li - @Loxel\nTechnique - Generative , Morphing\nBLACK AND WHITE\nVINTAGE\nARCHIVAL\nHISTORIC",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338435.webp",
+      "alt_text": "Art by Paul Trillo",
+      "discovered_at": "2025-09-11T14:22:20.393327",
+      "title": "Art by Paul Trillo",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "Paul Trillo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Paul Trillo\nTechnique - Generative\nDirector - Paul Trillo",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716235825.webp",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "discovered_at": "2025-09-11T14:22:24.054589",
+      "title": "Flume feat. MAY-A - Say Nothing (2022)",
+      "description": "The music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.",
+      "tags": [
+        "COLOR SHIFT",
+        "AI",
+        "GENERATIVE",
+        "STABLE DIFFUSION"
+      ],
+      "technique_tags": [
+        "Generative",
+        "Morphing"
+      ],
+      "director": "Ian Wallace",
+      "dop": "Dimitri Zaunders, Kieran Fowler",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Flume feat. MAY-A - Say Nothing (2022)\nThe music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.\nTechnique - Generative , Morphing\nDirector - Michael Hili\nDOP - Dimitri Zaunders, Kieran Fowler\nEditor - Ian Wallace\nColorist - Josh Bohoskey\nOriginal Source - Link\nCOLOR SHIFT\nAI\nGENERATIVE\nSTABLE DIFFUSION",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338314.webp",
+      "alt_text": "Artist: Fabio Comparelli",
+      "discovered_at": "2025-09-11T14:22:28.246890",
+      "title": "Artist: Fabio Comparelli",
+      "description": "",
+      "tags": [
+        "HIEROGLYPHS"
+      ],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: Fabio Comparelli\nTechnique - Generative\nHIEROGLYPHS",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337025.webp",
+      "alt_text": "@minelauvart / IG",
+      "discovered_at": "2025-09-11T14:22:31.924976",
+      "title": "@minelauvart / IG",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@minelauvart / IG\nTechnique - Generative",
+      "page_url": "https://eyecannndy.com/technique/generative"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338577.webp",
-      "page_url": "https://eyecannndy.com/technique/generative",
-      "discovered_at": "2025-09-05T03:27:35.333745",
-      "element_tag": "img",
+      "alt_text": "Runway Generative AI",
+      "discovered_at": "2025-09-11T14:22:35.604104",
       "title": "Runway Generative AI",
       "description": "",
-      "category": "generative",
-      "alt_text": "Runway Generative AI",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "tags": [],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Runway Generative AI\nTechnique - Generative",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344023.webp",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "discovered_at": "2025-09-11T14:22:39.793022",
+      "title": "Oddworld x Souly - wzf / maybach (2024)",
+      "description": "The music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "GLITCH",
+        "FPV",
+        "THERMAL"
+      ],
+      "technique_tags": [
+        "First-Person",
+        "Generative",
+        "Glitch",
+        "Thermal",
+        "VHS"
+      ],
+      "director": "Yannic Nixdorf",
+      "dop": "Patrick Pichler",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oddworld x Souly - wzf / maybach (2024)\nThe music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.\nTechnique - First-Person , Generative , Glitch , Thermal , VHS\nDirector - Florian Christopher, Grotesk.Group\nDOP - Patrick Pichler\nEditor - Yannic Nixdorf\nOriginal Source - Link\nGLITCH\nFPV\nTHERMAL",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337164.webp",
+      "alt_text": "@takubeats / IG",
+      "discovered_at": "2025-09-11T14:22:43.469513",
+      "title": "@takubeats / IG",
+      "description": "",
+      "tags": [
+        "MALE"
+      ],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "Ta-ku",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@takubeats / IG\nTechnique - Generative\nEditor - Ta-ku\nMALE",
+      "page_url": "https://eyecannndy.com/technique/generative"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338533.webp",
+      "alt_text": "Runway Generative AI",
+      "discovered_at": "2025-09-11T14:22:47.129941",
+      "title": "Runway Generative AI",
+      "description": "",
+      "tags": [
+        "GREEN",
+        "FOREST",
+        "EXTERIOR",
+        "JUNGLE",
+        "HIKE"
+      ],
+      "technique_tags": [
+        "Generative"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Runway Generative AI\nTechnique - Generative\nGREEN\nFOREST\nEXTERIOR\nJUNGLE\nHIKE",
+      "page_url": "https://eyecannndy.com/technique/generative"
     }
   ]
 }

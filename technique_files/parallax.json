@@ -1,6 +1,342 @@
 {
   "technique": "parallax",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.653587",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250912_002524",
+    "total_videos": 16,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705035085.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:24:34.283206",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "MOUNTAIN",
+        "HIKER",
+        "LANDSCAPE"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Parallax\nDAY\nEXTERIOR\nMOUNTAIN\nHIKER\nLANDSCAPE",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399878.webp",
+      "alt_text": "Ultimate Sinatra - Frank Sinatra's 100th Birthday",
+      "discovered_at": "2025-09-12T00:24:38.412200",
+      "title": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)",
+      "description": "Universal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.",
+      "tags": [
+        "BLACK AND WHITE",
+        "FRANK SINATRA"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)\nUniversal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.\nTechnique - Parallax\nOriginal Source - Link\nBLACK AND WHITE\nFRANK SINATRA",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705035327.webp",
+      "alt_text": "Carnivàle (Opening credits)",
+      "discovered_at": "2025-09-12T00:24:42.022760",
+      "title": "Carnivàle (Opening credits) (2013)",
+      "description": "During the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.",
+      "tags": [
+        "TAROT"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Carnivàle (Opening credits) (2013)\nDuring the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.\nTechnique - Parallax\nTAROT",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705030138.webp",
+      "alt_text": "Jimmy Nelson - Blink. And they're gone",
+      "discovered_at": "2025-09-12T00:24:45.642533",
+      "title": "Jimmy Nelson - Blink. And they're gone",
+      "description": "Made in collaboration with @Senthil Kumar / Music by Dhruv Ghanekar @WAH WAH MUSIC Worldwide call to preserve global cultural heritage by portraying the world’s last indigenous cultures in all their glory",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "PHOTOGRAPHY",
+        "PEOPLE"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "Jimmy Nelson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Jimmy Nelson - Blink. And they're gone\nMade in collaboration with @Senthil Kumar / Music by Dhruv Ghanekar @WAH WAH MUSIC Worldwide call to preserve global cultural heritage by portraying the world’s last indigenous cultures in all their glory\nTechnique - Parallax\nDirector - Jimmy Nelson\nOriginal Source - Link\nDAY\nEXTERIOR\nPHOTOGRAPHY\nPEOPLE",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705035292.webp",
+      "alt_text": "Carnivàle (Opening credits)",
+      "discovered_at": "2025-09-12T00:24:49.293563",
+      "title": "Carnivàle (Opening credits) (2013)",
+      "description": "During the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.",
+      "tags": [
+        "TAROT"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Carnivàle (Opening credits) (2013)\nDuring the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.\nTechnique - Parallax\nTAROT",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705034582.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:24:52.927203",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "COLLAGE",
+        "FLOWERS"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Collage , Parallax\nWOMAN\nCOLLAGE\nFLOWERS",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399824.webp",
+      "alt_text": "Ultimate Sinatra - Frank Sinatra's 100th Birthday",
+      "discovered_at": "2025-09-12T00:24:56.060985",
+      "title": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)",
+      "description": "Universal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.",
+      "tags": [
+        "BLACK AND WHITE",
+        "FRANK SINATRA"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)\nUniversal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.\nTechnique - Parallax\nOriginal Source - Link\nBLACK AND WHITE\nFRANK SINATRA",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399774.webp",
+      "alt_text": "Ultimate Sinatra - Frank Sinatra's 100th Birthday",
+      "discovered_at": "2025-09-12T00:24:59.209380",
+      "title": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)",
+      "description": "Universal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.",
+      "tags": [
+        "BLACK AND WHITE",
+        "FRANK SINATRA"
+      ],
+      "technique_tags": [
+        "Conveyor",
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)\nUniversal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.\nTechnique - Conveyor , Parallax\nOriginal Source - Link\nBLACK AND WHITE\nFRANK SINATRA",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399551.webp",
+      "alt_text": "Ultimate Sinatra - Frank Sinatra's 100th Birthday",
+      "discovered_at": "2025-09-12T00:25:02.316942",
+      "title": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)",
+      "description": "Universal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.",
+      "tags": [
+        "BLACK AND WHITE",
+        "FRANK SINATRA"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)\nUniversal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.\nTechnique - Parallax\nOriginal Source - Link\nBLACK AND WHITE\nFRANK SINATRA",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399918.webp",
+      "alt_text": "Ultimate Sinatra - Frank Sinatra's 100th Birthday",
+      "discovered_at": "2025-09-12T00:25:05.437933",
+      "title": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)",
+      "description": "Universal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.",
+      "tags": [
+        "BLACK AND WHITE",
+        "FRANK SINATRA"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)\nUniversal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.\nTechnique - Parallax\nOriginal Source - Link\nBLACK AND WHITE\nFRANK SINATRA",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705034709.webp",
+      "alt_text": "A$AP Ferg - Floor Seats",
+      "discovered_at": "2025-09-12T00:25:08.573396",
+      "title": "A$AP Ferg - Floor Seats (2019)",
+      "description": "In the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?",
+      "tags": [
+        "SHADOW BOX",
+        "PHOTOGRAPHY",
+        "PARALLAX"
+      ],
+      "technique_tags": [
+        "Parallax",
+        "Shadow Box"
+      ],
+      "director": "Maxime Caro",
+      "dop": "Hunter Daly",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "A$AP Ferg - Floor Seats (2019)\nIn the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?\nTechnique - Parallax , Shadow Box\nDirector - Valentin Petit\nDOP - Hunter Daly\nEditor - Maxime Caro\nColorist - Arthur Paux\nOriginal Source - Link\nTutorial - Link\nSHADOW BOX\nPHOTOGRAPHY\nPARALLAX",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399726.webp",
+      "alt_text": "Ultimate Sinatra - Frank Sinatra's 100th Birthday",
+      "discovered_at": "2025-09-12T00:25:11.678183",
+      "title": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)",
+      "description": "Universal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.",
+      "tags": [
+        "BLACK AND WHITE",
+        "FRANK SINATRA"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)\nUniversal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.\nTechnique - Parallax\nOriginal Source - Link\nBLACK AND WHITE\nFRANK SINATRA",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705034972.webp",
+      "alt_text": "'Love You Kiss' by Moments Of Colour",
+      "discovered_at": "2025-09-12T00:25:14.808278",
+      "title": "'Love You Kiss' by Moments Of Colour (2021)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "COUPLE",
+        "TWO SHOT",
+        "EXTERIOR",
+        "KISS",
+        "UMBRELLA"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "'Love You Kiss' by Moments Of Colour (2021)\nTechnique - Parallax\nOriginal Source - Link\nNIGHT\nCOUPLE\nTWO SHOT\nEXTERIOR\nKISS\nUMBRELLA",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705033886.webp",
+      "alt_text": "BERÄ - The Green Knight - A24",
+      "discovered_at": "2025-09-12T00:25:17.943704",
+      "title": "BERÄ - The Green Knight - A24",
+      "description": "",
+      "tags": [
+        "RED",
+        "GREEN KNIGHT",
+        "A24"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "BERÄ - The Green Knight - A24\nTechnique - Parallax\nRED\nGREEN KNIGHT\nA24",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399685.webp",
+      "alt_text": "Ultimate Sinatra - Frank Sinatra's 100th Birthday",
+      "discovered_at": "2025-09-12T00:25:21.089430",
+      "title": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)",
+      "description": "Universal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.",
+      "tags": [
+        "BLACK AND WHITE",
+        "FRANK SINATRA"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ultimate Sinatra - Frank Sinatra's 100th Birthday (2015)\nUniversal Music asked me to create a video about Frank Sinatra who would have had his 100th birthday on December 12, 2015 - to promote the Ultimate Sinatra CD Box.\nTechnique - Parallax\nOriginal Source - Link\nBLACK AND WHITE\nFRANK SINATRA",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705035243.webp",
+      "alt_text": "Carnivàle (Opening credits)",
+      "discovered_at": "2025-09-12T00:25:24.223483",
+      "title": "Carnivàle (Opening credits) (2013)",
+      "description": "During the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.",
+      "tags": [
+        "TAROT"
+      ],
+      "technique_tags": [
+        "Parallax"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Carnivàle (Opening credits) (2013)\nDuring the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.\nTechnique - Parallax\nTAROT",
+      "page_url": "https://eyecannndy.com/technique/parallax"
+    }
+  ]
 }

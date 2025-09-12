@@ -1,1726 +1,1625 @@
 {
   "technique": "double-exposure",
-  "video_count": 89,
-  "generated_at": "2025-09-05T04:03:29.630441",
+  "scrape_info": {
+    "timestamp": "20250911_131400",
+    "total_videos": 73,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334292.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970179",
-      "element_tag": "img",
-      "title": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546105.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970290",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086605.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970359",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972629.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970420",
-      "element_tag": "img",
-      "title": "Apple Music - Stay",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Apple Music - Stay",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916887.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970476",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "double-exposure",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/11/Joao_Borsch_-_Apaz_7zjNg3N/9369e0144d0a00ac8c6f9c8b7e3ad491.gif",
       "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451302.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970530",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Lite",
+      "discovered_at": "2025-09-11T13:09:07.616297",
+      "title": "",
       "description": "",
-      "category": "double-exposure",
-      "alt_text": "Downtown Kayoto - Lite",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972583.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970584",
-      "element_tag": "img",
-      "title": "Apple Music - Stay",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Apple Music - Stay",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329283.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970638",
-      "element_tag": "img",
-      "title": "Last Night in Soho",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Last Night in Soho",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331574.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970689",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Fukk Sleep",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "A$AP Rocky - Fukk Sleep",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023657.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970740",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334535.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970793",
-      "element_tag": "img",
-      "title": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706152181.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970850",
-      "element_tag": "img",
-      "title": "Cat People",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Cat People",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213351.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970904",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333046.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.970957",
-      "element_tag": "img",
-      "title": "Mulholland Drive",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Mulholland Drive",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334292.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971007",
-      "element_tag": "img",
-      "title": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546105.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971058",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086605.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971110",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972629.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971159",
-      "element_tag": "img",
-      "title": "Apple Music - Stay",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Apple Music - Stay",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916887.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971209",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451302.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971259",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Lite",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Downtown Kayoto - Lite",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972583.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971306",
-      "element_tag": "img",
-      "title": "Apple Music - Stay",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Apple Music - Stay",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329283.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971354",
-      "element_tag": "img",
-      "title": "Last Night in Soho",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Last Night in Soho",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331574.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971400",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Fukk Sleep",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "A$AP Rocky - Fukk Sleep",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023657.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971448",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334535.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971494",
-      "element_tag": "img",
-      "title": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706152181.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971541",
-      "element_tag": "img",
-      "title": "Cat People",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Cat People",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213351.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971586",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333046.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971628",
-      "element_tag": "img",
-      "title": "Mulholland Drive",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Mulholland Drive",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704330071.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971674",
-      "element_tag": "img",
-      "title": "St. Vincent - Pay Your Way In Pain",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "St. Vincent - Pay Your Way In Pain",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329156.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971723",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452383.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971770",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329399.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.971817",
-      "element_tag": "img",
-      "title": "Charles Pieper - Jazavac Attack",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Charles Pieper - Jazavac Attack",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334160.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972101",
-      "element_tag": "img",
-      "title": "Travis Scott - 90210",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Travis Scott - 90210",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704330180.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972222",
-      "element_tag": "img",
-      "title": "'Self Portrait' by Matthias Brown",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "'Self Portrait' by Matthias Brown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333472.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972293",
-      "element_tag": "img",
-      "title": "Collage Clip by iosonof",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Collage Clip by iosonof",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704330475.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972350",
-      "element_tag": "img",
-      "title": "Hereditary",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Hereditary",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704617226.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972405",
-      "element_tag": "img",
-      "title": "Willy Wonka and the Chocolate Factory",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Willy Wonka and the Chocolate Factory",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709962080.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972457",
-      "element_tag": "img",
-      "title": "GIF: Bill Domonkos",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "GIF: Bill Domonkos",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331192.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972505",
-      "element_tag": "img",
-      "title": "Lulu for Calvin Klein",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Lulu for Calvin Klein",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076549.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972553",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213209.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972602",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384360.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972650",
-      "element_tag": "img",
-      "title": "Omega - Road to the Olympics",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Omega - Road to the Olympics",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451364.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972699",
-      "element_tag": "img",
-      "title": "Art by Benn Hassett",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Art by Benn Hassett",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329882.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972746",
-      "element_tag": "img",
-      "title": "Woodshock",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Woodshock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023631.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972793",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972664.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972839",
-      "element_tag": "img",
-      "title": "Apple Music - Stay",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Apple Music - Stay",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455258.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972887",
-      "element_tag": "img",
-      "title": "Severance",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Severance",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077406.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972935",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972493.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.972982",
-      "element_tag": "img",
-      "title": "Apple Music - Stay",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Apple Music - Stay",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916959.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973030",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213433.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973077",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086686.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973126",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390482.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973172",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329820.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973221",
-      "element_tag": "img",
-      "title": "Woodshock",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Woodshock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283602.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973269",
-      "element_tag": "img",
-      "title": "Duplication clip by Matthias Brown",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Duplication clip by Matthias Brown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707687655.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973317",
-      "element_tag": "img",
-      "title": "Eternal Sunshine of the Spotless Mind",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Eternal Sunshine of the Spotless Mind",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715632607.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973364",
-      "element_tag": "img",
-      "title": "Offset - CODE ft. Moneybagg Yo",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Offset - CODE ft. Moneybagg Yo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086637.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973413",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334033.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973461",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023573.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973635",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390480.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973697",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739169612.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973750",
-      "element_tag": "img",
-      "title": "GIVĒON - TWENTIES",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "GIVĒON - TWENTIES",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086664.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973800",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455372.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973850",
-      "element_tag": "img",
-      "title": "Severance",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Severance",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924303.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973898",
-      "element_tag": "img",
-      "title": "slowthai - Yum",
-      "description": "",
-      "category": "double-exposure",
       "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:09:11.277827",
+      "title": "slowthai - Yum (2023)",
+      "description": "Shot breakdown: x-axis arc trip shot + double exposure",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "NIGHT",
+        "BLUE",
+        "EXTERIOR",
+        "DARK",
+        "SODIUM LIGHT",
+        "SNOWING"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Arc",
+        "Double Exposure",
+        "Drug trip",
+        "X-Axis Arc"
+      ],
+      "director": "John Holloway",
+      "dop": "Jack Exton",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "slowthai - Yum (2023)\nShot breakdown: x-axis arc trip shot + double exposure\nTechnique - Altered state , Arc , Double Exposure , Drug trip , X-Axis Arc\nDirector - Crowns & Owls\nDOP - Jack Exton\nEditor - John Holloway\nOriginal Source - Link\nNIGHT\nBLUE\nEXTERIOR\nDARK\nSODIUM LIGHT\nSNOWING",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709334920.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973945",
-      "element_tag": "img",
-      "title": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455372.webp",
+      "alt_text": "Severance",
+      "discovered_at": "2025-09-11T13:09:14.926243",
+      "title": "Severance (2022)",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "GREEN",
+        "INTERIOR",
+        "DARK",
+        "CYAN",
+        "ADAM SCOTT",
+        "NORA DALE"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Two Shot"
+      ],
+      "director": "Erica Freed Marker, Geoffrey Richman, Gershon Hinkson",
+      "dop": "Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "Severance (2022)\nMark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.\nTechnique - Double Exposure , Two Shot\nDirector - Ben Stiller\nDOP - Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle\nEditor - Erica Freed Marker, Geoffrey Richman, Gershon Hinkson\nColorist - Company 3, Tom Poole\nGREEN\nINTERIOR\nDARK\nCYAN\nADAM SCOTT\nNORA DALE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008836.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.973994",
-      "element_tag": "img",
-      "title": "Untitled Animation",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390482.webp",
+      "alt_text": "Halfprice - Fitting room",
+      "discovered_at": "2025-09-11T13:09:20.660041",
+      "title": "Halfprice - Fitting room (2022)",
       "description": "",
-      "category": "double-exposure",
-      "alt_text": "Untitled Animation",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "RED",
+        "CHANGING ROOM"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Dutch Angle"
+      ],
+      "director": "Nikodem Chabior",
+      "dop": "Mikołaj Syguda",
+      "colorist": "Florian Martiny",
+      "original_source": "",
+      "additional_info": "Halfprice - Fitting room (2022)\nDutch angled double exposure\nTechnique - Double Exposure , Dutch Angle\nDirector - Grajper\nDOP - Mikołaj Syguda\nEditor - Nikodem Chabior\nColorist - Florian Martiny\nOriginal Source - Link\nRED\nCHANGING ROOM",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707622253.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974044",
-      "element_tag": "img",
-      "title": "A$AP Rocky - L$D",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "A$AP Rocky - L$D",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706152181.webp",
+      "alt_text": "Cat People",
+      "discovered_at": "2025-09-11T13:09:24.313478",
+      "title": "Cat People (1982)",
+      "description": "A young woman's sexual awakening brings horror when she discovers her urges transform her into a monstrous black leopard.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711259102.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974093",
-      "element_tag": "img",
-      "title": "Sam Akpro - Death By Entertainment",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Sam Akpro - Death By Entertainment",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916811.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974140",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329854.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974188",
-      "element_tag": "img",
-      "title": "Woodshock",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Woodshock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329181.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974235",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331657.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974282",
-      "element_tag": "img",
-      "title": "Made by Kristina Sharabinskaia",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Made by Kristina Sharabinskaia",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLACK AND WHITE",
+        "CAT"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Jacqueline Cambas, Jere Huggins, Ned Humphreys",
+      "dop": "John Bailey",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cat People (1982)\nA young woman's sexual awakening brings horror when she discovers her urges transform her into a monstrous black leopard.\nTechnique - Double Exposure\nDirector - Paul Schrader\nDOP - John Bailey\nEditor - Jacqueline Cambas, Jere Huggins, Ned Humphreys\nBLACK AND WHITE\nCAT",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703234033.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974329",
-      "element_tag": "img",
+      "alt_text": "Animation by Matthias Brown",
+      "discovered_at": "2025-09-11T13:09:27.465661",
       "title": "Animation by Matthias Brown",
       "description": "",
-      "category": "double-exposure",
-      "alt_text": "Animation by Matthias Brown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "CLOSE UP",
+        "FACE",
+        "BLACK AND WHITE",
+        "DARK",
+        "PHOTOGRAPHY"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Double Exposure",
+        "X-Axis Arc"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation by Matthias Brown\nTechnique - Arc , Double Exposure , X-Axis Arc\nDirector - Matthias Brown (TraceLoops)\nCLOSE UP\nFACE\nBLACK AND WHITE\nDARK\nPHOTOGRAPHY",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244044.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974375",
-      "element_tag": "img",
-      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916887.webp",
+      "alt_text": "João Borsch - Apaz",
+      "discovered_at": "2025-09-11T13:09:31.636482",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "RED",
+        "DOUBLE EXPOSURE",
+        "SURREAL",
+        "PROFILE"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Echo print",
+        "Light Flash",
+        "Void"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Double Exposure , Echo print , Light Flash , Void\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nRED\nDOUBLE EXPOSURE\nSURREAL\nPROFILE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455258.webp",
+      "alt_text": "Severance",
+      "discovered_at": "2025-09-11T13:09:36.344818",
+      "title": "Severance (2022)",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "tags": [
+        "INTERIOR",
+        "WARM WHITE",
+        "ADAM SCOTT"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Erica Freed Marker, Geoffrey Richman, Gershon Hinkson",
+      "dop": "Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "Severance (2022)\nMark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.\nTechnique - Double Exposure\nDirector - Ben Stiller\nDOP - Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle\nEditor - Erica Freed Marker, Geoffrey Richman, Gershon Hinkson\nColorist - Company 3, Tom Poole\nINTERIOR\nWARM WHITE\nADAM SCOTT",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008836.webp",
+      "alt_text": "Untitled Animation",
+      "discovered_at": "2025-09-11T13:09:40.519552",
+      "title": "Untitled Animation (2020)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Concern",
+        "Double Exposure",
+        "Vintage Graphics"
+      ],
+      "director": "Fuzzy Ghost",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Untitled Animation (2020)\nTechnique - Concern , Double Exposure , Vintage Graphics\nEditor - Fuzzy Ghost",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334033.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:09:44.712022",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Double Exposure\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739169612.webp",
+      "alt_text": "GIVĒON - TWENTIES",
+      "discovered_at": "2025-09-11T13:09:49.425946",
+      "title": "GIVĒON - TWENTIES (2025)",
+      "description": "",
+      "tags": [
+        "GIVĒON - TWENTIES (2025)",
+        "WHITE",
+        "WOMAN",
+        "EXPOSURE"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Silhouette"
+      ],
+      "director": "Jacob McKee",
+      "dop": "Edouard Le Grelle",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "GIVĒON - TWENTIES (2025)\nA cinematic reflection on youth, ambition, and the bittersweet passage of time. Directed by Loris Russier, with stunning cinematography by Edouard Le Grelle and rich, moody color grading by Jacob McKee, the video immerses viewers in a visually striking journey through late-night cityscapes, fleeting romance, and moments of introspection. Blending elegance with raw emotion, \"Twenties\" captures the highs and lows of coming of age, wrapped in GIVĒON’s signature soulful sound. Director - @lorisrussier Production Company - @lotumn_ Executive Producer / Producer - @autumnmaschi Executive Producer - @lorisrussier Director Of Photography - @edlegrelle Creative Director: @riko_akme Giveon Stylist - @yashuasimmons Management - @eeekksss, Simon Gebrelul Epic Head of Video Production - @gstarsz Starring - @ayomideadeduro\nTechnique - Double Exposure , Silhouette\nDirector - Loris Russier\nDOP - Edouard Le Grelle\nEditor - Jacob McKee\nOriginal Source - Link\nWHITE\nWOMAN\nEXPOSURE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711259102.webp",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "discovered_at": "2025-09-11T13:09:54.126670",
+      "title": "Sam Akpro - Death By Entertainment (2023)",
+      "description": "The music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.",
+      "tags": [],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Pedro Takahashi",
+      "dop": "Max Conran",
+      "colorist": "Connor Coolbear, Electric Theatre Collective",
+      "original_source": "",
+      "additional_info": "Sam Akpro - Death By Entertainment (2023)\nThe music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.\nTechnique - Double Exposure\nDirector - Pedro Takahashi\nDOP - Max Conran\nColorist - Connor Coolbear, Electric Theatre Collective\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331657.webp",
+      "alt_text": "Made by Kristina Sharabinskaia",
+      "discovered_at": "2025-09-11T13:09:58.310042",
+      "title": "Made by Kristina Sharabinskaia",
+      "description": "",
+      "tags": [
+        "SURREALIST",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Masking"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Made by Kristina Sharabinskaia\nShot breakdown: Double exposure profile mask\nTechnique - Double Exposure , Masking\nOriginal Source - Link\nSURREALIST\nVOID",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077406.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T13:10:01.981836",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford.",
+      "tags": [
+        "DOUBLE EXPOSURE",
+        "NIGHT"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford.\nTechnique - Double Exposure\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nDOUBLE EXPOSURE\nNIGHT",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451364.webp",
+      "alt_text": "Art by Benn Hassett",
+      "discovered_at": "2025-09-11T13:10:06.187916",
+      "title": "Art by Benn Hassett",
+      "description": "",
+      "tags": [
+        "RED",
+        "DOUBLE EXPOSURE",
+        "YELLOW",
+        "CHROMATIC",
+        "WOMAN",
+        "CLOSE UP"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Ben Hassett",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Benn Hassett\nShot breakdown: Saturated double exposure close up\nTechnique - Double Exposure\nDirector - Ben Hassett\nRED\nDOUBLE EXPOSURE\nYELLOW\nCHROMATIC\nWOMAN\nCLOSE UP",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916811.webp",
+      "alt_text": "João Borsch - Apaz",
+      "discovered_at": "2025-09-11T13:10:10.386638",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
+      "tags": [
+        "RED",
+        "DOUBLE EXPOSURE",
+        "SURREAL",
+        "PROFILE"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Echo print",
+        "Void"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Double Exposure , Echo print , Void\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nRED\nDOUBLE EXPOSURE\nSURREAL\nPROFILE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213351.webp",
+      "alt_text": "Vaeda Black - Run Fast",
+      "discovered_at": "2025-09-11T13:10:14.612390",
+      "title": "Vaeda Black - Run Fast (2019)",
+      "description": "Shot breakdown: Slit-scan motion blur + double exposure",
+      "tags": [
+        "MOTION BLUR",
+        "BLUR",
+        "MUSIC VIDEO",
+        "INTERIOR",
+        "JUSTIN LEYBA",
+        "JACOBI MEHRINGER",
+        "VAEDA BLACK"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Motion Blur",
+        "Slit-scan"
+      ],
+      "director": "Jacobi Mehringer, Justin Leyba",
+      "dop": "Nat Pinhiero",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vaeda Black - Run Fast (2019)\nShot breakdown: Slit-scan motion blur + double exposure\nTechnique - Double Exposure , Motion Blur , Slit-scan\nDirector - Jacobi Mehringer, Justin Leyba\nDOP - Nat Pinhiero\nEditor - Jacobi Mehringer, Justin Leyba\nOriginal Source - Link\nMOTION BLUR\nBLUR\nMUSIC VIDEO\nINTERIOR\nJUSTIN LEYBA\nJACOBI MEHRINGER\nVAEDA BLACK",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213433.webp",
+      "alt_text": "Vaeda Black - Run Fast",
+      "discovered_at": "2025-09-11T13:10:19.290691",
+      "title": "Vaeda Black - Run Fast (2019)",
+      "description": "",
+      "tags": [
+        "TYPOGRAPHY",
+        "CREDITS",
+        "FONT"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Jacobi Mehringer, Justin Leyba",
+      "dop": "Nat Pinhiero",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vaeda Black - Run Fast (2019)\n2019 music video for artist Vaeda Black from directors Jacobi Mehringer and Justin Leyba.\nTechnique - Double Exposure\nDirector - Jacobi Mehringer, Justin Leyba\nDOP - Nat Pinhiero\nEditor - Jacobi Mehringer, Justin Leyba\nOriginal Source - Link\nTYPOGRAPHY\nCREDITS\nFONT",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334292.webp",
+      "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
+      "discovered_at": "2025-09-11T13:10:22.978976",
+      "title": "Metronomy & Katy J Pearson's - Love Factory (2022) (2022)",
+      "description": "Metronomy & Katy J Pearson's - Love Factory (2022) (2022)",
+      "tags": [
+        "DUSK",
+        "PURPLE",
+        "SUNSET"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Ned Botwood",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metronomy & Katy J Pearson's - Love Factory (2022) (2022)\nTechnique - Double Exposure\nDirector - Ned Botwood\nOriginal Source - Link\nDUSK\nPURPLE\nSUNSET",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333472.webp",
+      "alt_text": "Collage Clip by iosonof",
+      "discovered_at": "2025-09-11T13:10:26.619556",
+      "title": "Collage Clip by iosonof (2016)",
+      "description": "",
+      "tags": [
+        "WATER",
+        "WOMAN",
+        "NATURE",
+        "TWO SHOT",
+        "WATERFULL"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Double Exposure"
+      ],
+      "director": "iosonof",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Collage Clip by iosonof (2016)\nTechnique - Collage , Double Exposure\nDirector - iosonof\nOriginal Source - Link\nWATER\nWOMAN\nNATURE\nTWO SHOT\nWATERFULL",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329820.webp",
+      "alt_text": "Woodshock",
+      "discovered_at": "2025-09-11T13:10:30.254196",
+      "title": "Woodshock (2017)",
+      "description": "A haunted young woman spirals in the wake of profound loss, torn between her fractured emotional state and the reality-altering effects of a potent cannabinoid drug.",
+      "tags": [
+        "WOMAN",
+        "PINK",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Dino Jonsäter, Julia Bloch",
+      "dop": "Peter Flinckenberg",
+      "colorist": "Mats Holmgren",
+      "original_source": "",
+      "additional_info": "Woodshock (2017)\nA haunted young woman spirals in the wake of profound loss, torn between her fractured emotional state and the reality-altering effects of a potent cannabinoid drug.\nTechnique - Double Exposure\nDirector - Kate and Laura Mulleavy\nDOP - Peter Flinckenberg\nEditor - Dino Jonsäter, Julia Bloch\nColorist - Mats Holmgren\nOriginal Source - Link\nWOMAN\nPINK\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972629.webp",
+      "alt_text": "Apple Music - Stay",
+      "discovered_at": "2025-09-11T13:10:34.421630",
+      "title": "Apple Music - Stay (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Double Exposure",
+        "Match Split",
+        "Void"
+      ],
+      "director": "Kim Gehrig",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Mark Gethin",
+      "original_source": "",
+      "additional_info": "Apple Music - Stay (2023)\nTechnique - Double Exposure , Match Split , Void\nDirector - Kim Gehrig\nDOP - Rodrigo Prieto\nColorist - Mark Gethin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329156.webp",
+      "alt_text": "Vaeda Black - Run Fast",
+      "discovered_at": "2025-09-11T13:10:38.599801",
+      "title": "Vaeda Black - Run Fast (2019)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Jacobi Mehringer, Justin Leyba",
+      "dop": "Nat Pinhiero",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vaeda Black - Run Fast (2019)\nShot breakdown: Double exposure\nTechnique - Double Exposure\nDirector - Jacobi Mehringer, Justin Leyba\nDOP - Nat Pinhiero\nEditor - Jacobi Mehringer, Justin Leyba\nOriginal Source - Link\nWOMAN\nDARK",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334535.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974420",
-      "element_tag": "img",
-      "title": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "description": "",
-      "category": "double-exposure",
       "alt_text": "Metronomy & Katy J Pearson's - Love Factory (2022)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:10:42.787959",
+      "title": "Metronomy & Katy J Pearson's - Love Factory (2022) (2022)",
+      "description": "Shotbreakdown: Double exposure extreme wide to cross dissolve",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WOMAN",
+        "DUSK",
+        "SKY",
+        "SUNSET",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Cross Dissolve",
+        "Double Exposure"
+      ],
+      "director": "Ned Botwood",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metronomy & Katy J Pearson's - Love Factory (2022) (2022)\nShotbreakdown: Double exposure extreme wide to cross dissolve\nTechnique - Cross Dissolve , Double Exposure\nDirector - Ned Botwood\nOriginal Source - Link\nWOMAN\nDUSK\nSKY\nSUNSET\nDARK",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705287782.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974467",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707687655.webp",
+      "alt_text": "Eternal Sunshine of the Spotless Mind",
+      "discovered_at": "2025-09-11T13:10:46.459000",
+      "title": "Eternal Sunshine of the Spotless Mind (2004)",
+      "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.",
+      "tags": [],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Valdís Óskarsdóttir",
+      "dop": "Ellen Kuras",
+      "colorist": "Kenny Becker",
+      "original_source": "",
+      "additional_info": "Eternal Sunshine of the Spotless Mind (2004)\nWhen their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.\nTechnique - Double Exposure\nDirector - Michel Gondry\nDOP - Ellen Kuras\nEditor - Valdís Óskarsdóttir\nColorist - Kenny Becker",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436038.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974515",
-      "element_tag": "img",
-      "title": "Killdummies - Keine War Großartig//Fukk U",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331192.webp",
+      "alt_text": "Lulu for Calvin Klein",
+      "discovered_at": "2025-09-11T13:10:50.595293",
+      "title": "Lulu for Calvin Klein (2017)",
       "description": "",
-      "category": "double-exposure",
-      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "BLUR",
+        "FOREST",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Step-print"
+      ],
+      "director": "Julian Klincewicz",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lulu for Calvin Klein (2017)\nShot breakdown: Profile step print double exposure\nTechnique - Double Exposure , Step-print\nDirector - Julian Klincewicz\nOriginal Source - Link\nDAY\nBLUR\nFOREST\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449439.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974562",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023573.webp",
+      "alt_text": "Everything Everywhere All at Once",
+      "discovered_at": "2025-09-11T13:10:54.725452",
+      "title": "Everything Everywhere All at Once (2022)",
+      "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+      "tags": [
+        "CRACKED GLASS"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Split Screen"
+      ],
+      "director": "Paul Rogers",
+      "dop": "Larkin Seiple",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Everything Everywhere All at Once (2022)\nA middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.\nTechnique - Double Exposure , Split Screen\nDirector - Daniel Kwan, Daniel Scheinert\nDOP - Larkin Seiple\nEditor - Paul Rogers\nColorist - Alex Bickel\nCRACKED GLASS",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086605.webp",
+      "alt_text": "Chungking Express",
+      "discovered_at": "2025-09-11T13:10:58.358655",
+      "title": "Chungking Express (1994)",
+      "description": "Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.",
+      "tags": [
+        "RUNNING",
+        "SATURATED",
+        "DOUBLE"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Step-print"
+      ],
+      "director": "Chi-Leung Kwong, Hai Kit-Wai, William Chang",
+      "dop": "Andrew Lau, Christopher Doyle",
+      "colorist": "Joe Gawler",
+      "original_source": "",
+      "additional_info": "Chungking Express (1994)\nTwo melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.\nTechnique - Double Exposure , Step-print\nDirector - Wong Kar Wai\nDOP - Andrew Lau, Christopher Doyle\nEditor - Chi-Leung Kwong, Hai Kit-Wai, William Chang\nColorist - Joe Gawler\nRUNNING\nSATURATED\nDOUBLE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709334920.webp",
+      "alt_text": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
+      "discovered_at": "2025-09-11T13:11:02.509389",
+      "title": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)",
+      "description": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)",
+      "tags": [
+        "BLACK AND WHITE",
+        "SPOTLIGHT"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Will Norman",
+      "dop": "Melchiorre Ruvolo",
+      "colorist": "Juliette Wileman",
+      "original_source": "",
+      "additional_info": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)\nMesmerizing music video from director Will Norman. Produced by MoreNight.\nTechnique - Double Exposure\nDirector - Will Norman\nDOP - Melchiorre Ruvolo\nColorist - Juliette Wileman\nOriginal Source - Link\nBLACK AND WHITE\nSPOTLIGHT",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704333046.webp",
+      "alt_text": "Mulholland Drive",
+      "discovered_at": "2025-09-11T13:11:06.170361",
+      "title": "Mulholland Drive (2001)",
+      "description": "After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",
+      "tags": [
+        "WOMAN",
+        "DRIVING",
+        "DUSK",
+        "SUNSET",
+        "EXTERIOR",
+        "LOOKING UP",
+        "PALM TREES"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Mary Sweeney",
+      "dop": "Peter Deming",
+      "colorist": "Chris Jacobson",
+      "original_source": "",
+      "additional_info": "Mulholland Drive (2001)\nAfter a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.\nTechnique - Double Exposure\nDirector - David Lynch\nDOP - Peter Deming\nEditor - Mary Sweeney\nColorist - Chris Jacobson\nWOMAN\nDRIVING\nDUSK\nSUNSET\nEXTERIOR\nLOOKING UP\nPALM TREES",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329399.webp",
+      "alt_text": "Charles Pieper - Jazavac Attack",
+      "discovered_at": "2025-09-11T13:11:09.283795",
+      "title": "Charles Pieper - Jazavac Attack (2002)",
       "description": "",
-      "category": "double-exposure",
+      "tags": [
+        "CLOSE UP",
+        "GREEN"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Anger",
+        "Double Exposure"
+      ],
+      "director": "Charles Pieper",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Charles Pieper - Jazavac Attack (2002)\nTechnique - 2000s , Anger , Double Exposure\nDirector - Charles Pieper\nOriginal Source - Link\nCLOSE UP\nGREEN",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023657.webp",
+      "alt_text": "Everything Everywhere All at Once",
+      "discovered_at": "2025-09-11T13:11:13.949064",
+      "title": "Everything Everywhere All at Once (2022)",
+      "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+      "tags": [
+        "CRACKED GLASS"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Split Screen"
+      ],
+      "director": "Paul Rogers",
+      "dop": "Larkin Seiple",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Everything Everywhere All at Once (2022)\nA middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.\nTechnique - Double Exposure , Split Screen\nDirector - Daniel Kwan, Daniel Scheinert\nDOP - Larkin Seiple\nEditor - Paul Rogers\nColorist - Alex Bickel\nCRACKED GLASS",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329882.webp",
+      "alt_text": "Woodshock",
+      "discovered_at": "2025-09-11T13:11:17.589594",
+      "title": "Woodshock (2017)",
+      "description": "A haunted young woman spirals in the wake of profound loss, torn between her fractured emotional state and the reality-altering effects of a potent cannabinoid drug.",
+      "tags": [
+        "DOUBLE EXPOSURE",
+        "WOMAN",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Dino Jonsäter, Julia Bloch",
+      "dop": "Peter Flinckenberg",
+      "colorist": "Mats Holmgren",
+      "original_source": "",
+      "additional_info": "Woodshock (2017)\nA haunted young woman spirals in the wake of profound loss, torn between her fractured emotional state and the reality-altering effects of a potent cannabinoid drug.\nTechnique - Double Exposure\nDirector - Kate and Laura Mulleavy\nDOP - Peter Flinckenberg\nEditor - Dino Jonsäter, Julia Bloch\nColorist - Mats Holmgren\nOriginal Source - Link\nDOUBLE EXPOSURE\nWOMAN\nDARK",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076549.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T13:11:20.728496",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford.",
+      "tags": [
+        "DOUBLE EXPOSURE",
+        "YELLOW",
+        "NIGHT"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford.\nTechnique - Double Exposure\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nDOUBLE EXPOSURE\nYELLOW\nNIGHT",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086686.webp",
+      "alt_text": "Chungking Express",
+      "discovered_at": "2025-09-11T13:11:24.956622",
+      "title": "Chungking Express (1994)",
+      "description": "Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.",
+      "tags": [
+        "GREEN",
+        "RESTAURANT",
+        "INTERIOR",
+        "PURPLE",
+        "COLORFUL",
+        "SATURATION"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Chi-Leung Kwong, Hai Kit-Wai, William Chang",
+      "dop": "Andrew Lau, Christopher Doyle",
+      "colorist": "Joe Gawler",
+      "original_source": "",
+      "additional_info": "Chungking Express (1994)\nTwo melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.\nTechnique - Double Exposure\nDirector - Wong Kar Wai\nDOP - Andrew Lau, Christopher Doyle\nEditor - Chi-Leung Kwong, Hai Kit-Wai, William Chang\nColorist - Joe Gawler\nGREEN\nRESTAURANT\nINTERIOR\nPURPLE\nCOLORFUL\nSATURATION",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715632607.webp",
+      "alt_text": "Offset - CODE ft. Moneybagg Yo",
+      "discovered_at": "2025-09-11T13:11:28.077630",
+      "title": "Offset - CODE ft. Moneybagg Yo (2022)",
+      "description": "The music video for \"CODE\" by Offset featuring Moneybagg Yo is visually striking and matches the energy and themes of the song. In the video, both artists perform in various gritty, urban settings, enhancing the tough and assertive lyrics of the track. The video features scenes with luxury cars, dynamic group performances, and visually engaging effects that emphasize the rhythm and mood of the music. The overall aesthetic is dark and stylish, with a focus on street fashion and a portrayal of a lavish lifestyle, which is common in hip hop videos. The video complements the song's themes of success, power, and street credibility.",
+      "tags": [
+        "GREEN",
+        "LIME GREEN",
+        "OFFSET"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Mixed Media"
+      ],
+      "director": "Anthony Miralles",
+      "dop": "Taylor McIntosh",
+      "colorist": "Megan Lee",
+      "original_source": "",
+      "additional_info": "Offset - CODE ft. Moneybagg Yo (2022)\nThe music video for \"CODE\" by Offset featuring Moneybagg Yo is visually striking and matches the energy and themes of the song. In the video, both artists perform in various gritty, urban settings, enhancing the tough and assertive lyrics of the track. The video features scenes with luxury cars, dynamic group performances, and visually engaging effects that emphasize the rhythm and mood of the music. The overall aesthetic is dark and stylish, with a focus on street fashion and a portrayal of a lavish lifestyle, which is common in hip hop videos. The video complements the song's themes of success, power, and street credibility.\nTechnique - Double Exposure , Mixed Media\nDirector - Claire Arnold\nDOP - Taylor McIntosh\nEditor - Anthony Miralles\nColorist - Megan Lee\nOriginal Source - Link\nGREEN\nLIME GREEN\nOFFSET",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704334160.webp",
+      "alt_text": "Travis Scott - 90210",
+      "discovered_at": "2025-09-11T13:11:34.308783",
+      "title": "Travis Scott - 90210 (2022)",
+      "description": "",
+      "tags": [
+        "DARK",
+        "SATURATED"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Hype Williams",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Travis Scott - 90210 (2022)\nTechnique - Double Exposure\nDirector - Hype Williams\nOriginal Source - Link\nDARK\nSATURATED",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086664.webp",
+      "alt_text": "Chungking Express",
+      "discovered_at": "2025-09-11T13:11:38.457296",
+      "title": "Chungking Express (1994)",
+      "description": "Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "COLORFUL",
+        "SATURATION"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Chi-Leung Kwong, Hai Kit-Wai, William Chang",
+      "dop": "Andrew Lau, Christopher Doyle",
+      "colorist": "Joe Gawler",
+      "original_source": "",
+      "additional_info": "Chungking Express (1994)\nTwo melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.\nTechnique - Double Exposure\nDirector - Wong Kar Wai\nDOP - Andrew Lau, Christopher Doyle\nEditor - Chi-Leung Kwong, Hai Kit-Wai, William Chang\nColorist - Joe Gawler\nRESTAURANT\nINTERIOR\nCOLORFUL\nSATURATION",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972493.webp",
+      "alt_text": "Apple Music - Stay",
+      "discovered_at": "2025-09-11T13:11:41.578460",
+      "title": "Apple Music - Stay (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Double Exposure",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Kim Gehrig",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Mark Gethin",
+      "original_source": "",
+      "additional_info": "Apple Music - Stay (2023)\nTechnique - Double Exposure , Spotlight , Void\nDirector - Kim Gehrig\nDOP - Rodrigo Prieto\nColorist - Mark Gethin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707622253.webp",
+      "alt_text": "A$AP Rocky - L$D",
+      "discovered_at": "2025-09-11T13:11:45.223553",
+      "title": "A$AP Rocky - L$D (2015)",
+      "description": "Shot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Double Exposure",
+        "Drug trip"
+      ],
+      "director": "Dexter Navy",
+      "dop": "Oliver Millar",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - L$D (2015)\nShot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).\nTechnique - Altered state , Double Exposure , Drug trip\nDirector - Dexter Navy\nDOP - Oliver Millar\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704330071.webp",
+      "alt_text": "St. Vincent - Pay Your Way In Pain",
+      "discovered_at": "2025-09-11T13:11:48.854108",
+      "title": "St. Vincent - Pay Your Way In Pain (2021)",
+      "description": "",
+      "tags": [
+        "DOUBLE EXPOSURE",
+        "HIGH CONTRAST"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Bill Benz",
+      "dop": "Kyle Pahlow",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "St. Vincent - Pay Your Way In Pain (2021)\nA Triple Seven Pictures Production Directed by Bill Benz Produced by Wes Hager Director of Photography by Kyle Pahlow Styled by Avigail Collins Hair by Pamela Neal Makeup by Hinako Nishiguchi Production Design by Stephanie Joens 1st AC – Mathew Borek VTR/DIT – Sarai Morales Gaffer – Adam Schaeffer Light Board Operator – Gigi Pedron Key Grip – Jordan Avtal Best Boy Grip – Nicholas Brazzill Best Boy Electric – Turner Spurling Photographer – Zackary Michael 1st Assistant photographer – Kyrre Krisoffersen 2nd Assistant photographer – Delilah Jesinkey Production Supervisor– Zori Davidkova Production Coordinator(remote) – Jennifer Young Location Scout – Cameron Kashtan Key Production PA – Ryan Fowlkes Set Production PA – Scott Schaeffer\nTechnique - Double Exposure\nDirector - Bill Benz\nDOP - Kyle Pahlow\nOriginal Source - Link\nDOUBLE EXPOSURE\nHIGH CONTRAST",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704330180.webp",
+      "alt_text": "'Self Portrait' by Matthias Brown",
+      "discovered_at": "2025-09-11T13:11:52.489749",
+      "title": "'Self Portrait' by Matthias Brown (2013)",
+      "description": "Shot breakdown: Black and white double exposure portrait",
+      "tags": [
+        "WHITE",
+        "WOMAN",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "'Self Portrait' by Matthias Brown (2013)\nShot breakdown: Black and white double exposure portrait\nTechnique - Double Exposure\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link\nWHITE\nWOMAN\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213209.webp",
+      "alt_text": "Vaeda Black - Run Fast",
+      "discovered_at": "2025-09-11T13:11:56.654152",
+      "title": "Vaeda Black - Run Fast (2019)",
+      "description": "Shot breakdown: Slit-scan motion blur + double exposure",
+      "tags": [
+        "WOMAN",
+        "MUSIC VIDEO",
+        "BLUE",
+        "INTERIOR",
+        "COOL",
+        "BATHROOM",
+        "JUSTIN LEYBA",
+        "JACOBI MEHRINGER",
+        "VAEDA BLACK",
+        "MIRROR SHOT"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Jacobi Mehringer, Justin Leyba",
+      "dop": "Nat Pinhiero",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vaeda Black - Run Fast (2019)\nShot breakdown: Slit-scan motion blur + double exposure\nTechnique - Double Exposure , Mirror Cam , Object POV\nDirector - Jacobi Mehringer, Justin Leyba\nDOP - Nat Pinhiero\nEditor - Jacobi Mehringer, Justin Leyba\nOriginal Source - Link\nWOMAN\nMUSIC VIDEO\nBLUE\nINTERIOR\nCOOL\nBATHROOM\nJUSTIN LEYBA\nJACOBI MEHRINGER\nVAEDA BLACK\nMIRROR SHOT",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384360.webp",
+      "alt_text": "Omega - Road to the Olympics",
+      "discovered_at": "2025-09-11T13:12:00.287761",
+      "title": "Omega - Road to the Olympics (2024)",
+      "description": "The \"Omega - Road to the Olympics 2024\" commercial celebrates Omega's role as the Official Timekeeper for the Paris 2024 Olympics, a position they've held since 1932. The commercial features athletes training and competing, emphasizing Omega's precision and innovation in timekeeping technology. It also highlights the launch of a special edition Seamaster watch, designed to commemorate the upcoming Olympics.",
+      "tags": [
+        "WATER",
+        "POOL",
+        "SPORTS",
+        "BLUE",
+        "ATHLETE",
+        "OLYMPICS",
+        "SWIMMING",
+        "MICHAEL PHELPS"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "Alexis Benot",
+      "dop": "Mathieu Plainfossé",
+      "colorist": "Vincent Amor",
+      "original_source": "",
+      "additional_info": "Omega - Road to the Olympics (2024)\nThe \"Omega - Road to the Olympics 2024\" commercial celebrates Omega's role as the Official Timekeeper for the Paris 2024 Olympics, a position they've held since 1932. The commercial features athletes training and competing, emphasizing Omega's precision and innovation in timekeeping technology. It also highlights the launch of a special edition Seamaster watch, designed to commemorate the upcoming Olympics.\nTechnique - Double Exposure , Echo print , Motion Blur\nDirector - Marius Gonzalez\nDOP - Mathieu Plainfossé\nEditor - Alexis Benot\nColorist - Vincent Amor\nWATER\nPOOL\nSPORTS\nBLUE\nATHLETE\nOLYMPICS\nSWIMMING\nMICHAEL PHELPS",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390480.webp",
+      "alt_text": "Halfprice - Fitting room",
+      "discovered_at": "2025-09-11T13:12:03.925778",
+      "title": "Halfprice - Fitting room (2022)",
+      "description": "",
+      "tags": [
+        "RED",
+        "CHANGING ROOM"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Dutch Angle"
+      ],
+      "director": "Nikodem Chabior",
+      "dop": "Mikołaj Syguda",
+      "colorist": "Florian Martiny",
+      "original_source": "",
+      "additional_info": "Halfprice - Fitting room (2022)\nDutch angled double exposure\nTechnique - Double Exposure , Dutch Angle\nDirector - Grajper\nDOP - Mikołaj Syguda\nEditor - Nikodem Chabior\nColorist - Florian Martiny\nOriginal Source - Link\nRED\nCHANGING ROOM",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452383.webp",
       "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:12:07.572490",
+      "title": "Empimic - Bittere Welt (2021)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "MALE",
+        "FACE",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Angelo Kovatchev",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Empimic - Bittere Welt (2021)\nTechnique - Double Exposure\nDirector - Angelo Kovatchev\nOriginal Source - Link\nMALE\nFACE\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343411.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974608",
-      "element_tag": "img",
-      "title": "Peter Gabriel - Sledgehammer",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/13/231702451302.webp",
+      "alt_text": "Downtown Kayoto - Lite",
+      "discovered_at": "2025-09-11T13:12:11.753850",
+      "title": "Downtown Kayoto - Lite (2023)",
       "description": "",
-      "category": "double-exposure",
-      "alt_text": "Peter Gabriel - Sledgehammer",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "LONDON",
+        "RAIN JACKET",
+        "UK",
+        "DOUBLE EXPOSURE",
+        "JACKET",
+        "MOTION BLUR",
+        "LITE",
+        "DOWNTOWN KAYOTO",
+        "BLUR",
+        "JOE HOWAT"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Joe Howat",
+      "dop": "Ethan Lodge",
+      "colorist": "Mara Ciorba",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Lite (2023)\nDirector Joe Howat delivers a technique masterpiece with artist Downtown Kayoto\nTechnique - Double Exposure\nDirector - Joe Howat\nDOP - Ethan Lodge\nEditor - Joe Howat\nColorist - Mara Ciorba\nOriginal Source - Link\nLONDON\nRAIN JACKET\nUK\nDOUBLE EXPOSURE\nJACKET\nMOTION BLUR\nLITE\nDOWNTOWN KAYOTO\nBLUR\nJOE HOWAT",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707685367.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974654",
-      "element_tag": "img",
-      "title": "Hugo",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329181.webp",
+      "alt_text": "Vaeda Black - Run Fast",
+      "discovered_at": "2025-09-11T13:12:15.391365",
+      "title": "Vaeda Black - Run Fast (2019)",
       "description": "",
-      "category": "double-exposure",
-      "alt_text": "Hugo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WOMAN",
+        "INTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Feedback"
+      ],
+      "director": "Jacobi Mehringer, Justin Leyba",
+      "dop": "Nat Pinhiero",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vaeda Black - Run Fast (2019)\nShot breakdown: Double exposure\nTechnique - Double Exposure , Feedback\nDirector - Jacobi Mehringer, Justin Leyba\nDOP - Nat Pinhiero\nEditor - Jacobi Mehringer, Justin Leyba\nOriginal Source - Link\nWOMAN\nINTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452331.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974700",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704330475.webp",
+      "alt_text": "Hereditary",
+      "discovered_at": "2025-09-11T13:12:19.545336",
+      "title": "Hereditary (2018)",
+      "description": "A grieving family is haunted by tragic and disturbing occurrences.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "RED",
+        "ALEX WOLFF",
+        "HEREDITARY"
+      ],
+      "technique_tags": [
+        "Dispair",
+        "Double Exposure"
+      ],
+      "director": "Jennifer Lame, Lucian Johnston",
+      "dop": "Pawel Pogorzelski",
+      "colorist": "Andrew Francis",
+      "original_source": "",
+      "additional_info": "Hereditary (2018)\nA grieving family is haunted by tragic and disturbing occurrences.\nTechnique - Dispair , Double Exposure\nDirector - Ari Aster\nDOP - Pawel Pogorzelski\nEditor - Jennifer Lame, Lucian Johnston\nColorist - Andrew Francis\nOriginal Source - Link\nTutorial - Link\nRED\nALEX WOLFF\nHEREDITARY",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974745",
-      "element_tag": "img",
-      "title": "The Shining",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972664.webp",
+      "alt_text": "Apple Music - Stay",
+      "discovered_at": "2025-09-11T13:12:23.707472",
+      "title": "Apple Music - Stay (2023)",
       "description": "",
-      "category": "double-exposure",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164595.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974791",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705287905.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974837",
-      "element_tag": "img",
-      "title": "Squarespace - The Singularity",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "Squarespace - The Singularity",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244552.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974883",
-      "element_tag": "img",
-      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566095.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974929",
-      "element_tag": "img",
-      "title": "The French Dispatch",
-      "description": "",
-      "category": "double-exposure",
-      "alt_text": "The French Dispatch",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Double Exposure",
+        "Void"
+      ],
+      "director": "Kim Gehrig",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Mark Gethin",
+      "original_source": "",
+      "additional_info": "Apple Music - Stay (2023)\nTechnique - Collage , Double Exposure , Void\nDirector - Kim Gehrig\nDOP - Rodrigo Prieto\nColorist - Mark Gethin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546105.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.974973",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "double-exposure",
       "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:12:27.862453",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Cross Dissolve",
+        "Double Exposure"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Cross Dissolve , Double Exposure\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972583.webp",
+      "alt_text": "Apple Music - Stay",
+      "discovered_at": "2025-09-11T13:12:31.489210",
+      "title": "Apple Music - Stay (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Double Exposure",
+        "Void"
+      ],
+      "director": "Kim Gehrig",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Mark Gethin",
+      "original_source": "",
+      "additional_info": "Apple Music - Stay (2023)\nTechnique - Double Exposure , Void\nDirector - Kim Gehrig\nDOP - Rodrigo Prieto\nColorist - Mark Gethin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023631.webp",
+      "alt_text": "Everything Everywhere All at Once",
+      "discovered_at": "2025-09-11T13:12:35.120953",
+      "title": "Everything Everywhere All at Once (2022)",
+      "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+      "tags": [
+        "CRACKED GLASS"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Split Screen"
+      ],
+      "director": "Paul Rogers",
+      "dop": "Larkin Seiple",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Everything Everywhere All at Once (2022)\nA middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.\nTechnique - Double Exposure , Split Screen\nDirector - Daniel Kwan, Daniel Scheinert\nDOP - Larkin Seiple\nEditor - Paul Rogers\nColorist - Alex Bickel\nCRACKED GLASS",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329854.webp",
+      "alt_text": "Woodshock",
+      "discovered_at": "2025-09-11T13:12:38.752475",
+      "title": "Woodshock (2017)",
+      "description": "A haunted young woman spirals in the wake of profound loss, torn between her fractured emotional state and the reality-altering effects of a potent cannabinoid drug.",
+      "tags": [
+        "WATER",
+        "DUSK",
+        "LAKE",
+        "DARK",
+        "REFLECTION",
+        "FLOWERS"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Dino Jonsäter, Julia Bloch",
+      "dop": "Peter Flinckenberg",
+      "colorist": "Mats Holmgren",
+      "original_source": "",
+      "additional_info": "Woodshock (2017)\nA haunted young woman spirals in the wake of profound loss, torn between her fractured emotional state and the reality-altering effects of a potent cannabinoid drug.\nTechnique - Double Exposure\nDirector - Kate and Laura Mulleavy\nDOP - Peter Flinckenberg\nEditor - Dino Jonsäter, Julia Bloch\nColorist - Mats Holmgren\nOriginal Source - Link\nWATER\nDUSK\nLAKE\nDARK\nREFLECTION\nFLOWERS",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283602.webp",
+      "alt_text": "Duplication clip by Matthias Brown",
+      "discovered_at": "2025-09-11T13:12:43.409844",
+      "title": "Duplication clip by Matthias Brown (2013)",
+      "description": "",
+      "tags": [
+        "SPIN",
+        "ROTATE",
+        "FACE",
+        "BLACK AND WHITE",
+        "LAZY SUSAN",
+        "VOID",
+        "HEAD",
+        "ROTOSCOPE"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Duplication",
+        "Echo print",
+        "Void"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Duplication clip by Matthias Brown (2013)\nAnimation from artist Matthias Brown, also known as 'TraceLoops'. In this clip, we're seeing the combination of rotoscoped heads from the same person rotating along an X-axis in a black 'void-like' environment, as though on a lazy-susan. It's easy to identify a duplication technique from the clip. Harder to pick between 'Echo printing' and 'Double exposure'. We labeled it as both since it has properties from both techniques. Like most clips, there isn't a clear-cut category it fits under.\nTechnique - Double Exposure , Duplication , Echo print , Void\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link\nSPIN\nROTATE\nFACE\nBLACK AND WHITE\nLAZY SUSAN\nVOID\nHEAD\nROTOSCOPE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704617226.webp",
+      "alt_text": "Willy Wonka and the Chocolate Factory",
+      "discovered_at": "2025-09-11T13:12:47.051632",
+      "title": "Willy Wonka and the Chocolate Factory (1971)",
+      "description": "A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.",
+      "tags": [
+        "FILM",
+        "SURREALISM",
+        "35MM",
+        "ARRIFLEX BL",
+        "VOID",
+        "BOAT",
+        "MITCHELL BNCR"
+      ],
+      "technique_tags": [
+        "1970s",
+        "Double Exposure",
+        "Extreme Close-Up",
+        "Fear"
+      ],
+      "director": "David Saxon",
+      "dop": "Arthur Ibbetson",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Willy Wonka and the Chocolate Factory (1971)\nA poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.\nTechnique - 1970s , Double Exposure , Extreme Close-Up , Fear\nDirector - Mel Stuart\nDOP - Arthur Ibbetson\nEditor - David Saxon\nOriginal Source - Link\nFILM\nSURREALISM\n35MM\nARRIFLEX BL\nVOID\nBOAT\nMITCHELL BNCR",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709962080.webp",
+      "alt_text": "GIF: Bill Domonkos",
+      "discovered_at": "2025-09-11T13:12:50.695301",
+      "title": "GIF: Bill Domonkos (2015)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Bill Domonkos",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "GIF: Bill Domonkos (2015)\nTechnique - Double Exposure\nEditor - Bill Domonkos",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086637.webp",
+      "alt_text": "Chungking Express",
+      "discovered_at": "2025-09-11T13:12:54.329110",
+      "title": "Chungking Express (1994)",
+      "description": "Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.",
+      "tags": [
+        "MUSIC",
+        "INTERIOR",
+        "COLORFUL",
+        "SATURATED",
+        "SATURATION",
+        "JUKEBOX",
+        "CDS"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Chi-Leung Kwong, Hai Kit-Wai, William Chang",
+      "dop": "Andrew Lau, Christopher Doyle",
+      "colorist": "Joe Gawler",
+      "original_source": "",
+      "additional_info": "Chungking Express (1994)\nTwo melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.\nTechnique - Double Exposure\nDirector - Wong Kar Wai\nDOP - Andrew Lau, Christopher Doyle\nEditor - Chi-Leung Kwong, Hai Kit-Wai, William Chang\nColorist - Joe Gawler\nMUSIC\nINTERIOR\nCOLORFUL\nSATURATED\nSATURATION\nJUKEBOX\nCDS",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704331574.webp",
+      "alt_text": "A$AP Rocky - Fukk Sleep",
+      "discovered_at": "2025-09-11T13:12:57.458239",
+      "title": "A$AP Rocky - Fukk Sleep (2018)",
+      "description": "",
+      "tags": [
+        "RED",
+        "INTERIOR",
+        "DARK",
+        "A$AP",
+        "FKA TWIGS"
+      ],
+      "technique_tags": [
+        "Double Exposure"
+      ],
+      "director": "Diana Kunst",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Fukk Sleep (2018)\nTechnique - Double Exposure\nDirector - Diana Kunst\nOriginal Source - Link\nTutorial - Link\nRED\nINTERIOR\nDARK\nA$AP\nFKA TWIGS",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329283.webp",
+      "alt_text": "Last Night in Soho",
+      "discovered_at": "2025-09-11T13:13:00.579281",
+      "title": "Last Night in Soho (2021)",
+      "description": "Aspiring fashion designer Eloise is mysteriously able to enter the 1960s, where she encounters dazzling wannabe singer Sandie. But the glamour is not as it seems, and the dreams of the past crack and splinter into something darker.",
+      "tags": [
+        "INTERIOR",
+        "EDGAR WRIGHT",
+        "DARK",
+        "CLUB",
+        "PANAVISION",
+        "ALEXA",
+        "ARRI ALEXA MINI",
+        "ARRI",
+        "2020S",
+        "LAST NIGHT IN SOHO"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Hard Light",
+        "Light Flash"
+      ],
+      "director": "Paul Machliss",
+      "dop": "Chung-hoon Chung",
+      "colorist": "Asa Shoul",
+      "original_source": "",
+      "additional_info": "Last Night in Soho (2021)\nAspiring fashion designer Eloise is mysteriously able to enter the 1960s, where she encounters dazzling wannabe singer Sandie. But the glamour is not as it seems, and the dreams of the past crack and splinter into something darker.\nTechnique - Double Exposure , Hard Light , Light Flash\nDirector - Edgar Wright\nDOP - Chung-hoon Chung\nEditor - Paul Machliss\nColorist - Asa Shoul\nINTERIOR\n2021\nEDGAR WRIGHT\nDARK\nCLUB\nPANAVISION\nALEXA\nARRI ALEXA MINI\nARRI\n2020S\nLAST NIGHT IN SOHO",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/15/EMPIMIC_-_Bittere_Welt_oMlp8VW/4c48443ca5d6d2886aae42c27b30514f.gif",
+      "alt_text": "Empimic - Bittere Welt",
+      "discovered_at": "2025-09-11T13:13:04.744120",
+      "title": "Empimic - Bittere Welt (2021)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "FACE",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Cross Dissolve"
+      ],
+      "director": "Angelo Kovatchev",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Empimic - Bittere Welt (2021)\nTechnique - Cross Dissolve\nDirector - Angelo Kovatchev\nOriginal Source - Link\nMALE\nFACE\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244552.webp",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "discovered_at": "2025-09-11T13:13:08.902691",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)",
+      "description": "2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.",
+      "tags": [
+        "WATER",
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Cross Dissolve",
+        "Underwater"
+      ],
+      "director": "Logan Fields, Yussef Haridy",
+      "dop": "Zayd Ezzeldine",
+      "colorist": "Dylan Hageman",
+      "original_source": "",
+      "additional_info": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)\n2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.\nTechnique - Cross Dissolve , Underwater\nDirector - Logan Fields, Yussef Haridy\nDOP - Zayd Ezzeldine\nColorist - Dylan Hageman\nOriginal Source - Link\nWATER\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707685367.webp",
+      "alt_text": "Hugo",
+      "discovered_at": "2025-09-11T13:13:14.089992",
+      "title": "Hugo (2011)",
+      "description": "In 1931 Paris, an orphan living in the walls of a train station gets wrapped up in a mystery involving his late father and an automaton.",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Cross Dissolve"
+      ],
+      "director": "Thelma Schoonmaker",
+      "dop": "Robert Richardson",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Hugo (2011)\nIn 1931 Paris, an orphan living in the walls of a train station gets wrapped up in a mystery involving his late father and an automaton.\nTechnique - Cross Dissolve\nDirector - Martin Scorsese\nDOP - Robert Richardson\nEditor - Thelma Schoonmaker\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436038.webp",
+      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
+      "discovered_at": "2025-09-11T13:13:18.235547",
+      "title": "Killdummies - Keine War Großartig//Fukk U (2023)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "MUSIC VIDEO",
+        "FACE"
+      ],
+      "technique_tags": [
+        "Cross Dissolve"
+      ],
+      "director": "Tom Klimek",
+      "dop": "Simon Klostermaier",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Killdummies - Keine War Großartig//Fukk U (2023)\n2023 music video directed by Tom Klimek.\nTechnique - Cross Dissolve\nDirector - Tom Klimek\nDOP - Simon Klostermaier\nOriginal Source - Link\nMALE\nMUSIC VIDEO\nFACE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708343411.webp",
+      "alt_text": "Peter Gabriel - Sledgehammer",
+      "discovered_at": "2025-09-11T13:13:23.974928",
+      "title": "Peter Gabriel - Sledgehammer (1986)",
+      "description": "Directed by Stephen R. Johnson, produced by Adam Whittaker. Claymation, pixilation, and stop motion animation provided by Aardman Animations and the Brothers Quay.",
+      "tags": [
+        "SPERM"
+      ],
+      "technique_tags": [
+        "Cross Dissolve"
+      ],
+      "director": "Stephen Johnson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Peter Gabriel - Sledgehammer (1986)\nDirected by Stephen R. Johnson, produced by Adam Whittaker. Claymation, pixilation, and stop motion animation provided by Aardman Animations and the Brothers Quay.\nTechnique - Cross Dissolve\nDirector - Stephen Johnson\nOriginal Source - Link\nSPERM",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706566095.webp",
+      "alt_text": "The French Dispatch",
+      "discovered_at": "2025-09-11T13:13:28.638721",
+      "title": "The French Dispatch (2021)",
+      "description": "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Cross Dissolve",
+        "Overhead",
+        "Overhead Close-up",
+        "Vintage Graphics"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "The French Dispatch (2021)\nA love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".\nTechnique - 1960s , Cross Dissolve , Overhead , Overhead Close-up , Vintage Graphics\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Gareth Spensley\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739171504.webp",
-      "page_url": "https://eyecannndy.com/technique/double-exposure",
-      "discovered_at": "2025-09-05T03:24:51.975020",
-      "element_tag": "img",
-      "title": "Doechii - DENIAL IS A RIVER",
-      "description": "",
-      "category": "double-exposure",
       "alt_text": "Doechii - DENIAL IS A RIVER",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:13:32.805337",
+      "title": "Doechii - DENIAL IS A RIVER (2025)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "90S",
+        "HOUSE",
+        "EXTERIOR",
+        "TITLES",
+        "SITCOM"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Archival",
+        "Cross Dissolve",
+        "Vintage",
+        "Vintage Titles"
+      ],
+      "director": "Rock Paper Scissors, Sebastian Zotoff",
+      "dop": "Nico Aguilar",
+      "colorist": "Bryan Smaller",
+      "original_source": "",
+      "additional_info": "Doechii - DENIAL IS A RIVER (2025)\nDoechii's \"Denial Is a River\" (2025) reimagines her life as a '90s sitcom, inspired by Family Matters, with a nostalgic title sequence and a star-studded cast including Zack Fox, ScHoolboy Q, and Teezo Touchdown. Blending humor and introspection, the video playfully navigates sitcom-style scenarios that reflect her personal and professional journey. Directors: Carlos Acosta & James Mackel EPs: Moosa Tiffith & Anthony “Top Dawg” Tiffith Production Company: LOTUMN Executive Producer / Producer: Autumn Maschi Executive Producer: Loris Russier Creative Director: Doechii, Moosa Tiffith, & BMR.Nem Director of Photography: Nico Aguilar Production Designer: Hensel Martinez TDE Creative Producer: Langston Siebens Production Manager: Kai Lusk Production Coordinator: Kate Kramnaia, Alex Turner 1st AD: Daniel Bennaiem 2nd AD: Delaney Forrey 1st AC: Hannah Lee 2nd AC: McKay Todd, Marianna Vashchilenko DIT: Pete Aguirre Camera Operator: Chloe Smolkin, Cordell Jomha",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164595.webp",
+      "alt_text": "The Shining",
+      "discovered_at": "2025-09-11T13:13:37.028132",
+      "title": "The Shining (1980)",
+      "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "tags": [
+        "FOREST",
+        "LAKE",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Aerial",
+        "Credits",
+        "Cross Dissolve",
+        "Horror",
+        "Vintage Titles"
+      ],
+      "director": "Ray Lovejoy",
+      "dop": "John Alcott, Martin Kenzie",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Shining (1980)\nA family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.\nTechnique - 1980s , Aerial , Credits , Cross Dissolve , Horror , Vintage Titles\nDirector - Stanley Kubrick\nDOP - John Alcott, Martin Kenzie\nEditor - Ray Lovejoy\nFOREST\nLAKE\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244044.webp",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "discovered_at": "2025-09-11T13:13:41.203161",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)",
+      "description": "2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.",
+      "tags": [
+        "DAY",
+        "LIL YACHTY"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Cross Dissolve"
+      ],
+      "director": "Logan Fields, Yussef Haridy",
+      "dop": "Zayd Ezzeldine",
+      "colorist": "Dylan Hageman",
+      "original_source": "",
+      "additional_info": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)\n2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.\nTechnique - Close-Up , Cross Dissolve\nDirector - Logan Fields, Yussef Haridy\nDOP - Zayd Ezzeldine\nColorist - Dylan Hageman\nOriginal Source - Link\nDAY\nLIL YACHTY",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp",
+      "alt_text": "The Shining",
+      "discovered_at": "2025-09-11T13:13:45.375902",
+      "title": "The Shining (1980)",
+      "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "tags": [
+        "FOREST",
+        "LAKE",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Aerial",
+        "Cross Dissolve",
+        "Horror"
+      ],
+      "director": "Ray Lovejoy",
+      "dop": "John Alcott, Martin Kenzie",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Shining (1980)\nA family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.\nTechnique - 1980s , Aerial , Cross Dissolve , Horror\nDirector - Stanley Kubrick\nDOP - John Alcott, Martin Kenzie\nEditor - Ray Lovejoy\nFOREST\nLAKE\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449439.webp",
+      "alt_text": "Empimic - Bittere Welt",
+      "discovered_at": "2025-09-11T13:13:51.604966",
+      "title": "Empimic - Bittere Welt (2021)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Cross Dissolve"
+      ],
+      "director": "Angelo Kovatchev",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Empimic - Bittere Welt (2021)\nTechnique - Cross Dissolve\nDirector - Angelo Kovatchev\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705287905.webp",
+      "alt_text": "Squarespace - The Singularity",
+      "discovered_at": "2025-09-11T13:13:55.754839",
+      "title": "Squarespace - The Singularity (2023)",
+      "description": "Squarespace's award-winning Super Bowl commercial, directed by Aoife McArdle and featuring Adam Driver. In the commercial, actor Adam Driver ponders the infinite possibilities of a website selling websites.",
+      "tags": [
+        "DUSK",
+        "EXTERIOR",
+        "SILHOUETTE",
+        "TRACKING",
+        "DESERT",
+        "SUN"
+      ],
+      "technique_tags": [
+        "Cross Dissolve"
+      ],
+      "director": "Dan Sherwen",
+      "dop": "Khalid Mohtaseb",
+      "colorist": "George Kyriacou",
+      "original_source": "",
+      "additional_info": "Squarespace - The Singularity (2023)\nSquarespace's award-winning Super Bowl commercial, directed by Aoife McArdle and featuring Adam Driver. In the commercial, actor Adam Driver ponders the infinite possibilities of a website selling websites.\nTechnique - Cross Dissolve\nDirector - Aoife McArdle\nDOP - Khalid Mohtaseb\nEditor - Dan Sherwen\nColorist - George Kyriacou\nOriginal Source - Link\nTutorial - Link\nDUSK\nEXTERIOR\nSILHOUETTE\nTRACKING\nDESERT\nSUN",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705287782.webp",
+      "alt_text": "Squarespace - The Singularity",
+      "discovered_at": "2025-09-11T13:13:59.921702",
+      "title": "Squarespace - The Singularity (2023)",
+      "description": "Squarespace's award-winning Super Bowl commercial, directed by Aoife McArdle and featuring Adam Driver. In the commercial, actor Adam Driver ponders the infinite possibilities of a website selling websites.",
+      "tags": [
+        "INTERIOR",
+        "ADAM DRIVER"
+      ],
+      "technique_tags": [
+        "Cross Dissolve",
+        "Intensity"
+      ],
+      "director": "Dan Sherwen",
+      "dop": "Khalid Mohtaseb",
+      "colorist": "George Kyriacou",
+      "original_source": "",
+      "additional_info": "Squarespace - The Singularity (2023)\nSquarespace's award-winning Super Bowl commercial, directed by Aoife McArdle and featuring Adam Driver. In the commercial, actor Adam Driver ponders the infinite possibilities of a website selling websites.\nTechnique - Cross Dissolve , Intensity\nDirector - Aoife McArdle\nDOP - Khalid Mohtaseb\nEditor - Dan Sherwen\nColorist - George Kyriacou\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nADAM DRIVER",
+      "page_url": "https://eyecannndy.com/technique/double-exposure"
     }
   ]
 }

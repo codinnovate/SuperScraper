@@ -1,6 +1,587 @@
 {
   "technique": "infinite",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.650915",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_151220",
+    "total_videos": 25,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284800.webp",
+      "alt_text": "Clip by Erdal Inci",
+      "discovered_at": "2025-09-11T15:10:39.989732",
+      "title": "Clip by Erdal Inci (2013)",
+      "description": "Erdal Inci is an artist from Istanbul known for their surrealist art that pulls heavily from realistic situations, and then adds a touch of surrealism to them.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "STAIRS",
+        "HOODIE",
+        "SLIDE"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Infinite Loop"
+      ],
+      "director": "Erdal Inci",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip by Erdal Inci (2013)\nErdal Inci is an artist from Istanbul known for their surrealist art that pulls heavily from realistic situations, and then adds a touch of surrealism to them.\nTechnique - Duplication , Infinite Loop\nDirector - Erdal Inci\nOriginal Source - Link\nDAY\nEXTERIOR\nSTAIRS\nHOODIE\nSLIDE",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706573866.webp",
+      "alt_text": "Infinite loop by Sheep Films",
+      "discovered_at": "2025-09-11T15:10:44.172498",
+      "title": "Infinite loop by Sheep Films (2015)",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "BUILDING",
+        "RAILING"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Infinite Zoom"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite loop by Sheep Films (2015)\nTechnique - Infinite Loop , Infinite Zoom\nEXTERIOR\nBUILDING\nRAILING",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706573759.webp",
+      "alt_text": "Infinite loop shot by Pi Slices",
+      "discovered_at": "2025-09-11T15:10:48.352135",
+      "title": "Infinite loop shot by Pi Slices (2021)",
+      "description": "",
+      "tags": [
+        "SNOW",
+        "MOUNTAINS",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "3D animation",
+        "Infinite Loop"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite loop shot by Pi Slices (2021)\nTechnique - 3D animation , Infinite Loop\nDirector - Pi-Slices\nOriginal Source - Link\nSNOW\nMOUNTAINS\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284743.webp",
+      "alt_text": "Clip by Erdal Inci",
+      "discovered_at": "2025-09-11T15:10:53.076708",
+      "title": "Clip by Erdal Inci (2013)",
+      "description": "Erdal Inci is an artist from Istanbul known for their surrealist art that pulls heavily from realistic situations, and then adds a touch of surrealism to them.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "DARK",
+        "HOODIE."
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Infinite Loop"
+      ],
+      "director": "Erdal Inci",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip by Erdal Inci (2013)\nErdal Inci is an artist from Istanbul known for their surrealist art that pulls heavily from realistic situations, and then adds a touch of surrealism to them.\nTechnique - Duplication , Infinite Loop\nDirector - Erdal Inci\nOriginal Source - Link\nNIGHT\nEXTERIOR\nDARK\nHOODIE.",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706573921.webp",
+      "alt_text": "Infinite loop by Sheep Films",
+      "discovered_at": "2025-09-11T15:10:57.273498",
+      "title": "Infinite loop by Sheep Films (2015)",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "BUILDING",
+        "DOOR"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Infinite Zoom"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite loop by Sheep Films (2015)\nTechnique - Infinite Loop , Infinite Zoom\nEXTERIOR\nBUILDING\nDOOR",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706573702.webp",
+      "alt_text": "Infinite dolly shot by Refresh Records",
+      "discovered_at": "2025-09-11T15:11:01.469864",
+      "title": "Infinite dolly shot by Refresh Records (2021)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "ARCH",
+        "DOORWAY"
+      ],
+      "technique_tags": [
+        "Infinite Dolly",
+        "Infinite Loop"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite dolly shot by Refresh Records (2021)\nTechnique - Infinite Dolly , Infinite Loop\nOriginal Source - Link\nDAY\nEXTERIOR\nARCH\nDOORWAY",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706573968.webp",
+      "alt_text": "Infinite loop animation by Chikito Rikiyano",
+      "discovered_at": "2025-09-11T15:11:05.631661",
+      "title": "Infinite loop animation by Chikito Rikiyano",
+      "description": "",
+      "tags": [
+        "ROAD",
+        "SUNSET",
+        "EXTERIOR",
+        "SUNRISE",
+        "SPIRAL",
+        "TWIST"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Magical realism"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite loop animation by Chikito Rikiyano\nTechnique - Infinite Loop , Magical realism\nROAD\nSUNSET\nEXTERIOR\nSUNRISE\nSPIRAL\nTWIST",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703283993.webp",
+      "alt_text": "Art by Paul Trillo",
+      "discovered_at": "2025-09-11T15:11:09.291931",
+      "title": "Art by Paul Trillo",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "BED",
+        "INSTAGRAM",
+        "PHONE"
+      ],
+      "technique_tags": [
+        "Droste Effect",
+        "Infinite Loop",
+        "Infinite Zoom"
+      ],
+      "director": "Paul Trillo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Paul Trillo\nTechnique - Droste Effect , Infinite Loop , Infinite Zoom\nDirector - Paul Trillo\nDAY\nINTERIOR\nBED\nINSTAGRAM\nPHONE",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703235877.webp",
+      "alt_text": "Art Smile GIF By Pi-Slices",
+      "discovered_at": "2025-09-11T15:11:12.918009",
+      "title": "Art Smile GIF By Pi-Slices (2023)",
+      "description": "",
+      "tags": [
+        "SKELETON",
+        "SKULL"
+      ],
+      "technique_tags": [
+        "3D animation",
+        "Infinite Loop"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art Smile GIF By Pi-Slices (2023)\nTechnique - 3D animation , Infinite Loop\nDirector - Pi-Slices\nOriginal Source - Link\nSKELETON\nSKULL",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707007398.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T15:11:16.022106",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "MOUTH",
+        "KID"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Weirdcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Infinite Loop , Weirdcore\nDAY\nEXTERIOR\nMOUTH\nKID",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703239763.webp",
+      "alt_text": "@truehustlerss / IG",
+      "discovered_at": "2025-09-11T15:11:20.206835",
+      "title": "@truehustlerss / IG",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "ZOOM",
+        "SCALE SHIFT",
+        "PLANTS"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Infinite Zoom",
+        "Miniature",
+        "Scale Shift"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@truehustlerss / IG\nTechnique - Infinite Loop , Infinite Zoom , Miniature , Scale Shift\nEXTERIOR\nZOOM\nSCALE SHIFT\nPLANTS",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706573811.webp",
+      "alt_text": "Infinite dolly shot by Dave Strick",
+      "discovered_at": "2025-09-11T15:11:24.395365",
+      "title": "Infinite dolly shot by Dave Strick (2019)",
+      "description": "",
+      "tags": [
+        "WINDOW"
+      ],
+      "technique_tags": [
+        "Infinite Dolly",
+        "Infinite Loop"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite dolly shot by Dave Strick (2019)\nTechnique - Infinite Dolly , Infinite Loop\nOriginal Source - Link\nWINDOW",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706574053.webp",
+      "alt_text": "Infinite loop by Feliks Tomasz Konczakowski",
+      "discovered_at": "2025-09-11T15:11:28.576837",
+      "title": "Infinite loop by Feliks Tomasz Konczakowski (2017)",
+      "description": "",
+      "tags": [
+        "ESCHER"
+      ],
+      "technique_tags": [
+        "Animation",
+        "Infinite Loop",
+        "Infinite Zoom"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite loop by Feliks Tomasz Konczakowski (2017)\nTechnique - Animation , Infinite Loop , Infinite Zoom\nOriginal Source - Link\nESCHER",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405555.webp",
+      "alt_text": "The Animator 2",
+      "discovered_at": "2025-09-11T15:11:32.726051",
+      "title": "The Animator 2 (2019)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "EXTERIOR",
+        "HORROR",
+        "CLAY",
+        "LOOP"
+      ],
+      "technique_tags": [
+        "Claymation",
+        "Infinite Loop",
+        "Stop Motion",
+        "Weirdcore"
+      ],
+      "director": "Trent Shy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Animator 2 (2019)\nFrom stop motion director Trent Shy.\nTechnique - Claymation , Infinite Loop , Stop Motion , Weirdcore\nDirector - Trent Shy\nOriginal Source - Link\nMALE\nEXTERIOR\nHORROR\nCLAY\nLOOP",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703236043.webp",
+      "alt_text": "Art Glow GIF By Pi-Slices",
+      "discovered_at": "2025-09-11T15:11:36.372788",
+      "title": "Art Glow GIF By Pi-Slices (2023)",
+      "description": "",
+      "tags": [
+        "RED",
+        "NIGHT",
+        "INTERIOR",
+        "WINDOW",
+        "DARK",
+        "HORROR"
+      ],
+      "technique_tags": [
+        "3D animation",
+        "Infinite Loop"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art Glow GIF By Pi-Slices (2023)\nTechnique - 3D animation , Infinite Loop\nDirector - Pi-Slices\nOriginal Source - Link\nRED\nNIGHT\nINTERIOR\nWINDOW\nDARK\nHORROR",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706508034.webp",
+      "alt_text": "@sheepfilms / Giphy",
+      "discovered_at": "2025-09-11T15:11:40.582162",
+      "title": "@sheepfilms / Giphy",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Infinite Loop"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@sheepfilms / Giphy\nTechnique - Infinite Loop",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703283176.webp",
+      "alt_text": "Infinite Loop Vintage GIF By François Dejardin",
+      "discovered_at": "2025-09-11T15:11:44.238340",
+      "title": "Infinite Loop Vintage GIF By François Dejardin (2016)",
+      "description": "Infinite Loop Vintage GIF By François Dejardin (2016)",
+      "tags": [],
+      "technique_tags": [
+        "Infinite Loop",
+        "Infinite Zoom"
+      ],
+      "director": "François Dejardin",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite Loop Vintage GIF By François Dejardin (2016)\nTechnique - Infinite Loop , Infinite Zoom\nDirector - François Dejardin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706574129.webp",
+      "alt_text": "Infinite loop animation by Justfont",
+      "discovered_at": "2025-09-11T15:11:47.897206",
+      "title": "Infinite loop animation by Justfont",
+      "description": "",
+      "tags": [
+        "EYE",
+        "TRIP"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Infinite Zoom",
+        "Pass Through"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite loop animation by Justfont\nTechnique - Infinite Loop , Infinite Zoom , Pass Through\nOriginal Source - Link\nEYE\nTRIP",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703285328.webp",
+      "alt_text": "Limitless",
+      "discovered_at": "2025-09-11T15:11:52.089443",
+      "title": "Limitless (2011)",
+      "description": "A mysterious pill that enables the user to access 100% of his brain's abilities transforms a struggling writer into a financial wizard, but it also puts him in a new world with many dangers.",
+      "tags": [
+        "BARBER",
+        "INTERIOR",
+        "MIRROR",
+        "REFLECTION"
+      ],
+      "technique_tags": [
+        "Droste Effect",
+        "Infinite Loop",
+        "Infinite Zoom"
+      ],
+      "director": "Naomi Geraghty, Tracy Adams",
+      "dop": "Jo Willems",
+      "colorist": "David Orr, Michael Hatzer",
+      "original_source": "",
+      "additional_info": "Limitless (2011)\nA mysterious pill that enables the user to access 100% of his brain's abilities transforms a struggling writer into a financial wizard, but it also puts him in a new world with many dangers.\nTechnique - Droste Effect , Infinite Loop , Infinite Zoom\nDirector - Neil Burger\nDOP - Jo Willems\nEditor - Naomi Geraghty, Tracy Adams\nColorist - David Orr, Michael Hatzer\nOriginal Source - Link\nBARBER\nINTERIOR\nMIRROR\nREFLECTION",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704864763.webp",
+      "alt_text": "Locked-on car",
+      "discovered_at": "2025-09-11T15:11:55.771012",
+      "title": "Locked-on car",
+      "description": "",
+      "tags": [
+        "CAR",
+        "RACING",
+        "BLUE",
+        "OVERHEAD",
+        "VEHICLE",
+        "DRIFTING"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Locked-on shadow box",
+        "Overhead",
+        "Shadow Box"
+      ],
+      "director": "Dirk Koy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Locked-on car\nTechnique - Infinite Loop , Locked-on shadow box , Overhead , Shadow Box\nEditor - Dirk Koy\nCAR\nRACING\nBLUE\nOVERHEAD\nVEHICLE\nDRIFTING",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703285465.webp",
+      "alt_text": "Animation by Cole Quigley",
+      "discovered_at": "2025-09-11T15:11:59.954703",
+      "title": "Animation by Cole Quigley",
+      "description": "",
+      "tags": [
+        "DAY",
+        "CAR",
+        "OVERHEAD",
+        "SNOW",
+        "BIRDS EYE"
+      ],
+      "technique_tags": [
+        "Flash Cut",
+        "Infinite Loop",
+        "Infinite Zoom",
+        "Overhead"
+      ],
+      "director": "Cole Quigley",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation by Cole Quigley\nTechnique - Flash Cut , Infinite Loop , Infinite Zoom , Overhead\nDirector - Cole Quigley\nDAY\nCAR\nOVERHEAD\nSNOW\nBIRDS EYE",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703241196.webp",
+      "alt_text": "@truehustlerss / IG",
+      "discovered_at": "2025-09-11T15:12:04.156866",
+      "title": "@truehustlerss / IG",
+      "description": "",
+      "tags": [
+        "CLOSE UP",
+        "EXTREME CLOSE UP",
+        "FOOD",
+        "GUITAR",
+        "BAGEL"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Infinite Zoom",
+        "Miniature",
+        "Scale Shift"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@truehustlerss / IG\nTechnique - Infinite Loop , Infinite Zoom , Miniature , Scale Shift\nCLOSE UP\nEXTREME CLOSE UP\nFOOD\nGUITAR\nBAGEL",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706508092.webp",
+      "alt_text": "@sheepfilms / Giphy",
+      "discovered_at": "2025-09-11T15:12:12.554049",
+      "title": "@sheepfilms / Giphy",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "DOOR"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Object Portal"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@sheepfilms / Giphy\nTechnique - Infinite Loop , Object Portal\nEXTERIOR\nDOOR",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703239705.webp",
+      "alt_text": "@truehustlerss / IG",
+      "discovered_at": "2025-09-11T15:12:16.733436",
+      "title": "@truehustlerss / IG",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "ZOOM",
+        "SCALE SHIFT",
+        "PLANTS"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Miniature",
+        "Scale Shift"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@truehustlerss / IG\nTechnique - Infinite Loop , Miniature , Scale Shift\nEXTERIOR\nZOOM\nSCALE SHIFT\nPLANTS",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703239882.webp",
+      "alt_text": "@truehustlerss / IG",
+      "discovered_at": "2025-09-11T15:12:20.383455",
+      "title": "@truehustlerss / IG",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "ZOOM",
+        "SCALE SHIFT",
+        "PLANTS"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Infinite Zoom",
+        "Miniature",
+        "Scale Shift"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@truehustlerss / IG\nTechnique - Infinite Loop , Infinite Zoom , Miniature , Scale Shift\nEXTERIOR\nZOOM\nSCALE SHIFT\nPLANTS",
+      "page_url": "https://eyecannndy.com/technique/infinite"
+    }
+  ]
 }

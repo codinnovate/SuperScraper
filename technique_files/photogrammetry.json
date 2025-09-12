@@ -1,6 +1,962 @@
 {
   "technique": "photogrammetry",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.653865",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250912_003145",
+    "total_videos": 44,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419664.webp",
+      "alt_text": "Art by Kiryl Kudrautsau",
+      "discovered_at": "2025-09-12T00:29:18.291676",
+      "title": "Art by Kiryl Kudrautsau",
+      "description": "",
+      "tags": [
+        "TREE",
+        "RENDER"
+      ],
+      "technique_tags": [
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Kiryl Kudrautsau\nTechnique - Photogrammetry\nTREE\nRENDER",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/29/261703893380.webp",
+      "alt_text": "Art by Paul Trillo",
+      "discovered_at": "2025-09-12T00:29:21.920553",
+      "title": "Art by Paul Trillo (2017)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Arc",
+        "NeRF",
+        "Photogrammetry",
+        "X-Axis Arc"
+      ],
+      "director": "Paul Trillo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Paul Trillo (2017)\nShot breakdown: NeRF X-axis arc shot\nTechnique - Arc , NeRF , Photogrammetry , X-Axis Arc\nDirector - Paul Trillo\nOriginal Source - Link\nNIGHT\nEXTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419184.webp",
+      "alt_text": "Art by Jack Bowler",
+      "discovered_at": "2025-09-12T00:29:25.054054",
+      "title": "Art by Jack Bowler",
+      "description": "",
+      "tags": [
+        "DARK",
+        "CITY",
+        "STREET"
+      ],
+      "technique_tags": [
+        "Photogrammetry"
+      ],
+      "director": "Jack Bowler",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Jack Bowler\nExample of photogrammetry in its purest form.\nTechnique - Photogrammetry\nDirector - Jack Bowler\nDARK\nCITY\nSTREET",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419081.webp",
+      "alt_text": "Nike - Never Settle. Never Done",
+      "discovered_at": "2025-09-12T00:29:28.191782",
+      "title": "Nike - Never Settle. Never Done (2022)",
+      "description": "",
+      "tags": [
+        "SOCCER",
+        "NERF",
+        "BALL"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "Alexandre Sellem, Hugo Beron, Lola Margrain",
+      "dop": "Maeva Von Dinh, Paul Guilhaume",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Nike - Never Settle. Never Done (2022)\nValentin Petit, the visionary director of Nike's women's football campaign, skillfully captures the essence of the game by featuring a dynamic cast of all-stars and grassroots players in the Women's Euros anthem. His directorial prowess unveils the unparalleled speed, technical finesse, and undeniable quality that define the current landscape of women's football, setting a new standard for equality in the sport.\nTechnique - NeRF , Photogrammetry\nDirector - Valentin Petit\nDOP - Maeva Von Dinh, Paul Guilhaume\nEditor - Alexandre Sellem, Hugo Beron, Lola Margrain\nColorist - Arthur Paux\nOriginal Source - Link\nSOCCER\nNERF\nBALL",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419926.webp",
+      "alt_text": "Memories of Borderline",
+      "discovered_at": "2025-09-12T00:29:31.829583",
+      "title": "Memories of Borderline (2017)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Memories of Borderline (2017)\nTechnique - Photogrammetry\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419954.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:29:34.965783",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "GREEN",
+        "NIGHT",
+        "TREES"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - NeRF , Photogrammetry\nGREEN\nNIGHT\nTREES",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706420022.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:29:38.106670",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "TWO SHOT",
+        "DARK",
+        "HALLWAY"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - NeRF , Photogrammetry\nTWO SHOT\nDARK\nHALLWAY",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706402716.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:29:41.260505",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "WATER FOUNTAIN"
+      ],
+      "technique_tags": [
+        "Photogrammetry",
+        "Wigglegram"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Photogrammetry , Wigglegram\nDAY\nEXTERIOR\nWATER FOUNTAIN",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706402788.webp",
+      "alt_text": "Animation from www.nerf.studio",
+      "discovered_at": "2025-09-12T00:29:44.388791",
+      "title": "Animation from www.nerf.studio",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation from www.nerf.studio\nTechnique - NeRF , Photogrammetry\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419981.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:29:48.054420",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "GIRL",
+        "TALKING",
+        "SINGING"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - NeRF , Photogrammetry\nGIRL\nTALKING\nSINGING",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706402598.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:29:51.713954",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "TREE"
+      ],
+      "technique_tags": [
+        "Photogrammetry",
+        "Wigglegram"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Photogrammetry , Wigglegram\nDAY\nEXTERIOR\nTREE",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702977548.webp",
+      "alt_text": "RL Grime - Pour Your Heart Out (feat. 070 Shake)",
+      "discovered_at": "2025-09-12T00:29:54.837905",
+      "title": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)",
+      "description": "Mind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "LUMA AI",
+        "NERF",
+        "LUMA"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "Jake Oleson",
+      "dop": "Jeremy Snell",
+      "colorist": "Jared Rosenthal",
+      "original_source": "",
+      "additional_info": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)\nMind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.\nTechnique - NeRF , Photogrammetry\nDirector - Jake Oleson\nDOP - Jeremy Snell\nColorist - Jared Rosenthal\nOriginal Source - Link\nINTERIOR\nDARK\nLUMA AI\nNERF\nLUMA",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419838.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:29:57.998994",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "NATURE",
+        "CLIFF",
+        "EXTERIOR",
+        "ROCK",
+        "LANDSCAPE",
+        "HILLS"
+      ],
+      "technique_tags": [
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Photogrammetry\nNATURE\nCLIFF\nEXTERIOR\nROCK\nLANDSCAPE\nHILLS",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419552.webp",
+      "alt_text": "Art by Lowell Robinson",
+      "discovered_at": "2025-09-12T00:30:01.127539",
+      "title": "Art by Lowell Robinson",
+      "description": "NeRF shot from artist Lowell Robinson featuring the arch in Washington Square Park, Manhattan.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "NEW YORK CITY",
+        "ARCH",
+        "WASHINGTON SQUARE PARK"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Lowell Robinson\nNeRF shot from artist Lowell Robinson featuring the arch in Washington Square Park, Manhattan.\nTechnique - NeRF , Photogrammetry\nDAY\nEXTERIOR\nNEW YORK CITY\nARCH\nWASHINGTON SQUARE PARK",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702956012.webp",
+      "alt_text": "Crazypopcorn x Lolipop Shop",
+      "discovered_at": "2025-09-12T00:30:04.288214",
+      "title": "Crazypopcorn x Lolipop Shop (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Photogrammetry",
+        "Scribble"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Crazypopcorn x Lolipop Shop (2023)\nTechnique - Photogrammetry , Scribble\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419286.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:30:07.402682",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Photogrammetry",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419818.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:30:11.037038",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Photogrammetry",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419254.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:30:14.693313",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Photogrammetry",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419205.webp",
+      "alt_text": "Art by Jack Bowler",
+      "discovered_at": "2025-09-12T00:30:18.333284",
+      "title": "Art by Jack Bowler",
+      "description": "",
+      "tags": [
+        "DARK",
+        "CITY",
+        "STREET"
+      ],
+      "technique_tags": [
+        "Photogrammetry"
+      ],
+      "director": "Jack Bowler",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Jack Bowler\nExample of photogrammetry in its purest form.\nTechnique - Photogrammetry\nDirector - Jack Bowler\nDARK\nCITY\nSTREET",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711257139.webp",
+      "alt_text": "Rema - Trouble Maker",
+      "discovered_at": "2025-09-12T00:30:22.014219",
+      "title": "Rema - Trouble Maker (2023)",
+      "description": "The \"Trouble Maker\" music video by Rema, directed by Meji Alabi, features vibrant visuals and dynamic choreography that emphasize themes of triumph and resilience. Enhanced by Blaisebeatz's production, it provides a cinematic experience that complements the track's infectious beats. The video showcases Rema's unique style and artistic versatility.",
+      "tags": [
+        "RED"
+      ],
+      "technique_tags": [
+        "Photogrammetry"
+      ],
+      "director": "Matt Newmann, Trim Editing",
+      "dop": "Stefan Yap",
+      "colorist": "Ana Escorse",
+      "original_source": "",
+      "additional_info": "Rema - Trouble Maker (2023)\nThe \"Trouble Maker\" music video by Rema, directed by Meji Alabi, features vibrant visuals and dynamic choreography that emphasize themes of triumph and resilience. Enhanced by Blaisebeatz's production, it provides a cinematic experience that complements the track's infectious beats. The video showcases Rema's unique style and artistic versatility.\nTechnique - Photogrammetry\nDirector - Meji Alabi\nDOP - Stefan Yap\nEditor - Matt Newmann, Trim Editing\nColorist - Ana Escorse\nOriginal Source - Link\nRED",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419800.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:30:25.162799",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "BUILDING",
+        "DOME"
+      ],
+      "technique_tags": [
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Photogrammetry\nBUILDING\nDOME",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704527609.webp",
+      "alt_text": "@valslooks / IG",
+      "discovered_at": "2025-09-12T00:30:29.345797",
+      "title": "@valslooks / IG",
+      "description": "",
+      "tags": [
+        "WHITE",
+        "INTERIOR",
+        "NEW YORK CITY"
+      ],
+      "technique_tags": [
+        "Dolly Zoom",
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@valslooks / IG\nTechnique - Dolly Zoom , NeRF , Photogrammetry\nWHITE\nINTERIOR\nNEW YORK CITY",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419621.webp",
+      "alt_text": "Art by Maureen Kahn",
+      "discovered_at": "2025-09-12T00:30:32.481159",
+      "title": "Art by Maureen Kahn",
+      "description": "",
+      "tags": [
+        "HAND"
+      ],
+      "technique_tags": [
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Maureen Kahn\nTechnique - Photogrammetry\nHAND",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702784524.webp",
+      "alt_text": "@valslooks / IG",
+      "discovered_at": "2025-09-12T00:30:35.624742",
+      "title": "@valslooks / IG",
+      "description": "",
+      "tags": [
+        "NYC",
+        "NEW YORK CITY",
+        "OCULUS"
+      ],
+      "technique_tags": [
+        "Photogrammetry",
+        "Super Zoom"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@valslooks / IG\nTechnique - Photogrammetry , Super Zoom\nNYC\nNEW YORK CITY\nOCULUS",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/29/261703893464.webp",
+      "alt_text": "Art by Paul Trillo",
+      "discovered_at": "2025-09-12T00:30:38.778546",
+      "title": "Art by Paul Trillo (2017)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Arc",
+        "NeRF",
+        "Photogrammetry",
+        "X-Axis Arc"
+      ],
+      "director": "Paul Trillo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Paul Trillo (2017)\nShot breakdown: NeRF X-axis wide arc shot\nTechnique - Arc , NeRF , Photogrammetry , X-Axis Arc\nDirector - Paul Trillo\nOriginal Source - Link\nNIGHT\nEXTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/19/ezgif.com-video-to-gif2/40db1bfab40e37643771ac4767a2d604.gif",
+      "alt_text": "RL Grime - Pour Your Heart Out (feat. 070 Shake)",
+      "discovered_at": "2025-09-12T00:30:41.945667",
+      "title": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)",
+      "description": "Mind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "LUMA AI",
+        "NERF",
+        "LUMA"
+      ],
+      "technique_tags": [
+        "NeRF"
+      ],
+      "director": "Jake Oleson",
+      "dop": "Jeremy Snell",
+      "colorist": "Jared Rosenthal",
+      "original_source": "",
+      "additional_info": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)\nMind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.\nTechnique - NeRF\nDirector - Jake Oleson\nDOP - Jeremy Snell\nColorist - Jared Rosenthal\nOriginal Source - Link\nINTERIOR\nDARK\nLUMA AI\nNERF\nLUMA",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419552.webp",
+      "alt_text": "Art by Lowell Robinson",
+      "discovered_at": "2025-09-12T00:30:47.149984",
+      "title": "Art by Lowell Robinson",
+      "description": "NeRF shot from artist Lowell Robinson featuring the arch in Washington Square Park, Manhattan.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "NEW YORK CITY",
+        "ARCH",
+        "WASHINGTON SQUARE PARK"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Lowell Robinson\nNeRF shot from artist Lowell Robinson featuring the arch in Washington Square Park, Manhattan.\nTechnique - NeRF , Photogrammetry\nDAY\nEXTERIOR\nNEW YORK CITY\nARCH\nWASHINGTON SQUARE PARK",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702977823.webp",
+      "alt_text": "RL Grime - Pour Your Heart Out (feat. 070 Shake)",
+      "discovered_at": "2025-09-12T00:30:50.287411",
+      "title": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)",
+      "description": "Mind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "LUMA AI",
+        "NERF",
+        "LUMA"
+      ],
+      "technique_tags": [
+        "NeRF"
+      ],
+      "director": "Jake Oleson",
+      "dop": "Jeremy Snell",
+      "colorist": "Jared Rosenthal",
+      "original_source": "",
+      "additional_info": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)\nMind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.\nTechnique - NeRF\nDirector - Jake Oleson\nDOP - Jeremy Snell\nColorist - Jared Rosenthal\nOriginal Source - Link\nINTERIOR\nDARK\nLUMA AI\nNERF\nLUMA",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702978727.webp",
+      "alt_text": "RL Grime - Pour Your Heart Out (feat. 070 Shake)",
+      "discovered_at": "2025-09-12T00:30:53.430719",
+      "title": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)",
+      "description": "Mind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "LUMA AI",
+        "NERF",
+        "LUMA"
+      ],
+      "technique_tags": [
+        "NeRF"
+      ],
+      "director": "Jake Oleson",
+      "dop": "Jeremy Snell",
+      "colorist": "Jared Rosenthal",
+      "original_source": "",
+      "additional_info": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)\nMind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.\nTechnique - NeRF\nDirector - Jake Oleson\nDOP - Jeremy Snell\nColorist - Jared Rosenthal\nOriginal Source - Link\nINTERIOR\nDARK\nLUMA AI\nNERF\nLUMA",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707625630.webp",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-12T00:30:56.565929",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [
+        "VEHICLE",
+        "TRUCK",
+        "LIDAR"
+      ],
+      "technique_tags": [
+        "3D animation",
+        "NeRF"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - 3D animation , NeRF\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link\nVEHICLE\nTRUCK\nLIDAR",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706402788.webp",
+      "alt_text": "Animation from www.nerf.studio",
+      "discovered_at": "2025-09-12T00:31:00.220834",
+      "title": "Animation from www.nerf.studio",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation from www.nerf.studio\nTechnique - NeRF , Photogrammetry\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419954.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:31:03.874442",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "GREEN",
+        "NIGHT",
+        "TREES"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - NeRF , Photogrammetry\nGREEN\nNIGHT\nTREES",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706420022.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:31:07.545834",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "TWO SHOT",
+        "DARK",
+        "HALLWAY"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - NeRF , Photogrammetry\nTWO SHOT\nDARK\nHALLWAY",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419981.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:31:10.665314",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "GIRL",
+        "TALKING",
+        "SINGING"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - NeRF , Photogrammetry\nGIRL\nTALKING\nSINGING",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702977895.webp",
+      "alt_text": "RL Grime - Pour Your Heart Out (feat. 070 Shake)",
+      "discovered_at": "2025-09-12T00:31:13.797692",
+      "title": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)",
+      "description": "Mind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "LUMA AI",
+        "NERF",
+        "LUMA"
+      ],
+      "technique_tags": [
+        "NeRF"
+      ],
+      "director": "Jake Oleson",
+      "dop": "Jeremy Snell",
+      "colorist": "Jared Rosenthal",
+      "original_source": "",
+      "additional_info": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)\nMind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.\nTechnique - NeRF\nDirector - Jake Oleson\nDOP - Jeremy Snell\nColorist - Jared Rosenthal\nOriginal Source - Link\nINTERIOR\nDARK\nLUMA AI\nNERF\nLUMA",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702978704.webp",
+      "alt_text": "RL Grime - Pour Your Heart Out (feat. 070 Shake)",
+      "discovered_at": "2025-09-12T00:31:17.959520",
+      "title": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)",
+      "description": "Mind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "LUMA AI",
+        "NERF",
+        "LUMA"
+      ],
+      "technique_tags": [
+        "NeRF"
+      ],
+      "director": "Jake Oleson",
+      "dop": "Jeremy Snell",
+      "colorist": "Jared Rosenthal",
+      "original_source": "",
+      "additional_info": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)\nMind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.\nTechnique - NeRF\nDirector - Jake Oleson\nDOP - Jeremy Snell\nColorist - Jared Rosenthal\nOriginal Source - Link\nINTERIOR\nDARK\nLUMA AI\nNERF\nLUMA",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711246782.webp",
+      "alt_text": "Audrey Nuna - Cellulite",
+      "discovered_at": "2025-09-12T00:31:21.108374",
+      "title": "Audrey Nuna - Cellulite (2023)",
+      "description": "Audrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.",
+      "tags": [
+        "CAR",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Pass Through"
+      ],
+      "director": "Zac Dov Wiesel",
+      "dop": "Gabe Knoos-Newton",
+      "colorist": "Brian Niles",
+      "original_source": "",
+      "additional_info": "Audrey Nuna - Cellulite (2023)\nAudrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.\nTechnique - NeRF , Pass Through\nDirector - Zac Dov Wiesel\nDOP - Gabe Knoos-Newton\nColorist - Brian Niles\nOriginal Source - Link\nCAR\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702977950.webp",
+      "alt_text": "RL Grime - Pour Your Heart Out (feat. 070 Shake)",
+      "discovered_at": "2025-09-12T00:31:24.749542",
+      "title": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)",
+      "description": "Mind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "LUMA AI",
+        "NERF",
+        "LUMA"
+      ],
+      "technique_tags": [
+        "NeRF"
+      ],
+      "director": "Jake Oleson",
+      "dop": "Jeremy Snell",
+      "colorist": "Jared Rosenthal",
+      "original_source": "",
+      "additional_info": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)\nMind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.\nTechnique - NeRF\nDirector - Jake Oleson\nDOP - Jeremy Snell\nColorist - Jared Rosenthal\nOriginal Source - Link\nINTERIOR\nDARK\nLUMA AI\nNERF\nLUMA",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702977548.webp",
+      "alt_text": "RL Grime - Pour Your Heart Out (feat. 070 Shake)",
+      "discovered_at": "2025-09-12T00:31:28.406635",
+      "title": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)",
+      "description": "Mind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "LUMA AI",
+        "NERF",
+        "LUMA"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "Jake Oleson",
+      "dop": "Jeremy Snell",
+      "colorist": "Jared Rosenthal",
+      "original_source": "",
+      "additional_info": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)\nMind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.\nTechnique - NeRF , Photogrammetry\nDirector - Jake Oleson\nDOP - Jeremy Snell\nColorist - Jared Rosenthal\nOriginal Source - Link\nINTERIOR\nDARK\nLUMA AI\nNERF\nLUMA",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711246896.webp",
+      "alt_text": "Audrey Nuna - Cellulite",
+      "discovered_at": "2025-09-12T00:31:32.077831",
+      "title": "Audrey Nuna - Cellulite (2023)",
+      "description": "Audrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.",
+      "tags": [
+        "CAR",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "NeRF"
+      ],
+      "director": "Zac Dov Wiesel",
+      "dop": "Gabe Knoos-Newton",
+      "colorist": "Brian Niles",
+      "original_source": "",
+      "additional_info": "Audrey Nuna - Cellulite (2023)\nAudrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.\nTechnique - NeRF\nDirector - Zac Dov Wiesel\nDOP - Gabe Knoos-Newton\nColorist - Brian Niles\nOriginal Source - Link\nCAR\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/29/261703893380.webp",
+      "alt_text": "Art by Paul Trillo",
+      "discovered_at": "2025-09-12T00:31:35.246082",
+      "title": "Art by Paul Trillo (2017)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Arc",
+        "NeRF",
+        "Photogrammetry",
+        "X-Axis Arc"
+      ],
+      "director": "Paul Trillo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Paul Trillo (2017)\nShot breakdown: NeRF X-axis arc shot\nTechnique - Arc , NeRF , Photogrammetry , X-Axis Arc\nDirector - Paul Trillo\nOriginal Source - Link\nNIGHT\nEXTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702978668.webp",
+      "alt_text": "RL Grime - Pour Your Heart Out (feat. 070 Shake)",
+      "discovered_at": "2025-09-12T00:31:38.907510",
+      "title": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)",
+      "description": "Mind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "LUMA AI",
+        "NERF",
+        "LUMA"
+      ],
+      "technique_tags": [
+        "NeRF"
+      ],
+      "director": "Jake Oleson",
+      "dop": "Jeremy Snell",
+      "colorist": "Jared Rosenthal",
+      "original_source": "",
+      "additional_info": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)\nMind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.\nTechnique - NeRF\nDirector - Jake Oleson\nDOP - Jeremy Snell\nColorist - Jared Rosenthal\nOriginal Source - Link\nINTERIOR\nDARK\nLUMA AI\nNERF\nLUMA",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706419081.webp",
+      "alt_text": "Nike - Never Settle. Never Done",
+      "discovered_at": "2025-09-12T00:31:42.027070",
+      "title": "Nike - Never Settle. Never Done (2022)",
+      "description": "",
+      "tags": [
+        "SOCCER",
+        "NERF",
+        "BALL"
+      ],
+      "technique_tags": [
+        "NeRF",
+        "Photogrammetry"
+      ],
+      "director": "Alexandre Sellem, Hugo Beron, Lola Margrain",
+      "dop": "Maeva Von Dinh, Paul Guilhaume",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Nike - Never Settle. Never Done (2022)\nValentin Petit, the visionary director of Nike's women's football campaign, skillfully captures the essence of the game by featuring a dynamic cast of all-stars and grassroots players in the Women's Euros anthem. His directorial prowess unveils the unparalleled speed, technical finesse, and undeniable quality that define the current landscape of women's football, setting a new standard for equality in the sport.\nTechnique - NeRF , Photogrammetry\nDirector - Valentin Petit\nDOP - Maeva Von Dinh, Paul Guilhaume\nEditor - Alexandre Sellem, Hugo Beron, Lola Margrain\nColorist - Arthur Paux\nOriginal Source - Link\nSOCCER\nNERF\nBALL",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702977793.webp",
+      "alt_text": "RL Grime - Pour Your Heart Out (feat. 070 Shake)",
+      "discovered_at": "2025-09-12T00:31:45.157122",
+      "title": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)",
+      "description": "Mind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "LUMA AI",
+        "NERF",
+        "LUMA"
+      ],
+      "technique_tags": [
+        "NeRF"
+      ],
+      "director": "Jake Oleson",
+      "dop": "Jeremy Snell",
+      "colorist": "Jared Rosenthal",
+      "original_source": "",
+      "additional_info": "RL Grime - Pour Your Heart Out (feat. 070 Shake) (2023)\nMind-bending music video for RL Grime using Luma AI's 'NeRF to transport us between scenes.\nTechnique - NeRF\nDirector - Jake Oleson\nDOP - Jeremy Snell\nColorist - Jared Rosenthal\nOriginal Source - Link\nINTERIOR\nDARK\nLUMA AI\nNERF\nLUMA",
+      "page_url": "https://eyecannndy.com/technique/photogrammetry"
+    }
+  ]
 }

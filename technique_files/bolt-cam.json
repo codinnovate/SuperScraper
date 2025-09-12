@@ -1,687 +1,378 @@
 {
   "technique": "bolt-cam",
-  "video_count": 34,
-  "generated_at": "2025-09-05T04:03:29.612699",
+  "scrape_info": {
+    "timestamp": "20250911_075121",
+    "total_videos": 17,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389247.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.208687",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409601.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.208901",
-      "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705433284.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209049",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165188.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209113",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703408961.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209161",
-      "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409664.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209283",
-      "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711247452.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209334",
-      "element_tag": "img",
-      "title": "Audrey Nuna - Cellulite",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Audrey Nuna - Cellulite",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389675.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209377",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432650.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209419",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432725.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209461",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739194009.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209502",
-      "element_tag": "img",
-      "title": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "description": "",
-      "category": "bolt-cam",
       "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:50:25.695635",
+      "title": "Severance S2E1 ‘Hello, Ms. Cobel’ (2025)",
+      "description": "In the Severance Season 2 premiere, \"Hello, Ms. Cobel,\" Mark S. awakens on the severed floor and discovers that five months have passed since the innies' revolt, with Mr. Milchick now managing the floor and new employees in the Macrodata Refinement department. As Mark grapples with these changes, he reunites with Helly, Dylan, and Irving, and they confront the implications of their uprising and the evolving dynamics within Lumon Industries.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739193778.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209541",
-      "element_tag": "img",
-      "title": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "RUNNING",
+        "INTERIOR",
+        "ADAM SCOTT",
+        "OFFICE",
+        "SEVERANCE"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Bolt Cam",
+        "X-Axis Arc"
+      ],
+      "director": "Geoffrey Richman, Joe Landauer",
+      "dop": "Jessica Lee Gagné",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "Severance S2E1 ‘Hello, Ms. Cobel’ (2025)\nIn the Severance Season 2 premiere, \"Hello, Ms. Cobel,\" Mark S. awakens on the severed floor and discovers that five months have passed since the innies' revolt, with Mr. Milchick now managing the floor and new employees in the Macrodata Refinement department. As Mark grapples with these changes, he reunites with Helly, Dylan, and Irving, and they confront the implications of their uprising and the evolving dynamics within Lumon Industries.\nTechnique - Arc , Bolt Cam , X-Axis Arc\nDirector - Ben Stiller\nDOP - Jessica Lee Gagné\nEditor - Geoffrey Richman, Joe Landauer\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nRUNNING\nINTERIOR\nADAM SCOTT\nOFFICE\nSEVERANCE",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705433392.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209580",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "bolt-cam",
       "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165546.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209620",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T07:50:28.833134",
+      "title": "Pa Salieu - My Family feat BackRoad Gee (2020)",
       "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432525.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209662",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705433327.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209703",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703410058.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209743",
-      "element_tag": "img",
-      "title": "Kyan Khojandi - Haagen-Dazs",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Kyan Khojandi - Haagen-Dazs",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389247.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209782",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Bolt Cam"
+      ],
+      "director": "Femi Ladi",
+      "dop": "Stefan Yap",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pa Salieu - My Family feat BackRoad Gee (2020)\nMusic video for British rapper Pa Salieu, from director Femi Ladi. Utilizes a bolt arm camera that was popularized in Kendrick Lamar's 2017 music video, Humble, by director Dave Meyers. Ladi's decision to use a black and white color scheme gives this film an interesting juxtaposition between a timeless look, and modern camera techniques, with the help of the bolt arm.\nTechnique - Bolt Cam\nDirector - Femi Ladi\nDOP - Stefan Yap\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409601.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209820",
-      "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
-      "description": "",
-      "category": "bolt-cam",
       "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:50:31.952440",
+      "title": "Kendrick Lamar - Humble (2017)",
+      "description": "The visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705433284.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209857",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165188.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209893",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703408961.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209928",
-      "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409664.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209964",
-      "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "EXTERIOR",
+        "KENDRICK LAMAR",
+        "COOL WHITE"
+      ],
+      "technique_tags": [
+        "Bolt Cam"
+      ],
+      "director": "Greg Scruton",
+      "dop": "Scott Cunningham",
+      "colorist": "Jaime O'Bradovich",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - Humble (2017)\nThe visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.\nTechnique - Bolt Cam\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Greg Scruton\nColorist - Jaime O'Bradovich\nOriginal Source - Link\nTutorial - Link\nEXTERIOR\nKENDRICK LAMAR\nCOOL WHITE",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711247452.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.209999",
-      "element_tag": "img",
-      "title": "Audrey Nuna - Cellulite",
-      "description": "",
-      "category": "bolt-cam",
       "alt_text": "Audrey Nuna - Cellulite",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:50:35.600485",
+      "title": "Audrey Nuna - Cellulite (2023)",
+      "description": "Audrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "WOMAN",
+        "MUSIC VIDEO",
+        "DUSK",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Bolt Cam"
+      ],
+      "director": "Zac Dov Wiesel",
+      "dop": "Gabe Knoos-Newton",
+      "colorist": "Brian Niles",
+      "original_source": "",
+      "additional_info": "Audrey Nuna - Cellulite (2023)\nAudrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.\nTechnique - Bolt Cam\nDirector - Zac Dov Wiesel\nDOP - Gabe Knoos-Newton\nColorist - Brian Niles\nOriginal Source - Link\nWOMAN\nMUSIC VIDEO\nDUSK\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389675.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.210033",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432650.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.210067",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "bolt-cam",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705433284.webp",
       "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432725.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.210102",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
+      "discovered_at": "2025-09-11T07:50:39.244779",
+      "title": "Pa Salieu - My Family feat BackRoad Gee (2020)",
       "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739194009.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.210136",
-      "element_tag": "img",
-      "title": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739193778.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.210170",
-      "element_tag": "img",
-      "title": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705433392.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.210204",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165546.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.210240",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432525.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.210274",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "bolt-cam",
-      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Bolt Cam"
+      ],
+      "director": "Femi Ladi",
+      "dop": "Stefan Yap",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pa Salieu - My Family feat BackRoad Gee (2020)\nMusic video for British rapper Pa Salieu, from director Femi Ladi. Utilizes a bolt arm camera that was popularized in Kendrick Lamar's 2017 music video, Humble, by director Dave Meyers. Ladi's decision to use a black and white color scheme gives this film an interesting juxtaposition between a timeless look, and modern camera techniques, with the help of the bolt arm.\nTechnique - Bolt Cam\nDirector - Femi Ladi\nDOP - Stefan Yap\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705433327.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.210309",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "bolt-cam",
       "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:50:42.876503",
+      "title": "Pa Salieu - My Family feat BackRoad Gee (2020)",
+      "description": "",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Bolt Cam"
+      ],
+      "director": "Femi Ladi",
+      "dop": "Stefan Yap",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pa Salieu - My Family feat BackRoad Gee (2020)\nMusic video for British rapper Pa Salieu, from director Femi Ladi. Utilizes a bolt arm camera that was popularized in Kendrick Lamar's 2017 music video, Humble, by director Dave Meyers. Ladi's decision to use a black and white color scheme gives this film an interesting juxtaposition between a timeless look, and modern camera techniques, with the help of the bolt arm.\nTechnique - Bolt Cam\nDirector - Femi Ladi\nDOP - Stefan Yap\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432725.webp",
+      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
+      "discovered_at": "2025-09-11T07:50:46.511169",
+      "title": "Pa Salieu - My Family feat BackRoad Gee (2020)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Bolt Cam"
+      ],
+      "director": "Femi Ladi",
+      "dop": "Stefan Yap",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pa Salieu - My Family feat BackRoad Gee (2020)\nMusic video for British rapper Pa Salieu, from director Femi Ladi. Utilizes a bolt arm camera that was popularized in Kendrick Lamar's 2017 music video, Humble, by director Dave Meyers. Ladi's decision to use a black and white color scheme gives this film an interesting juxtaposition between a timeless look, and modern camera techniques, with the help of the bolt arm.\nTechnique - Bolt Cam\nDirector - Femi Ladi\nDOP - Stefan Yap\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703408961.webp",
+      "alt_text": "Kendrick Lamar - Humble",
+      "discovered_at": "2025-09-11T07:50:49.642528",
+      "title": "Kendrick Lamar - Humble (2017)",
+      "description": "The visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.",
+      "tags": [
+        "EXTERIOR",
+        "KENDRICK LAMAR",
+        "COOL WHITE"
+      ],
+      "technique_tags": [
+        "Bolt Cam"
+      ],
+      "director": "Greg Scruton",
+      "dop": "Scott Cunningham",
+      "colorist": "Jaime O'Bradovich",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - Humble (2017)\nThe visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.\nTechnique - Bolt Cam\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Greg Scruton\nColorist - Jaime O'Bradovich\nOriginal Source - Link\nTutorial - Link\nEXTERIOR\nKENDRICK LAMAR\nCOOL WHITE",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432525.webp",
+      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
+      "discovered_at": "2025-09-11T07:50:53.273869",
+      "title": "Pa Salieu - My Family feat BackRoad Gee (2020)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Bolt Cam",
+        "Title Card",
+        "Typography"
+      ],
+      "director": "Femi Ladi",
+      "dop": "Stefan Yap",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pa Salieu - My Family feat BackRoad Gee (2020)\nMusic video for British rapper Pa Salieu, from director Femi Ladi. Utilizes a bolt arm camera that was popularized in Kendrick Lamar's 2017 music video, Humble, by director Dave Meyers. Ladi's decision to use a black and white color scheme gives this film an interesting juxtaposition between a timeless look, and modern camera techniques, with the help of the bolt arm.\nTechnique - Bolt Cam , Title Card , Typography\nDirector - Femi Ladi\nDOP - Stefan Yap\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409664.webp",
+      "alt_text": "Kendrick Lamar - Humble",
+      "discovered_at": "2025-09-11T07:50:56.924777",
+      "title": "Kendrick Lamar - Humble (2017)",
+      "description": "The visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.",
+      "tags": [
+        "EXTERIOR",
+        "KENDRICK LAMAR",
+        "COOL WHITE"
+      ],
+      "technique_tags": [
+        "Bolt Cam",
+        "Cut-ins"
+      ],
+      "director": "Greg Scruton",
+      "dop": "Scott Cunningham",
+      "colorist": "Jaime O'Bradovich",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - Humble (2017)\nThe visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.\nTechnique - Bolt Cam , Cut-ins\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Greg Scruton\nColorist - Jaime O'Bradovich\nOriginal Source - Link\nTutorial - Link\nEXTERIOR\nKENDRICK LAMAR\nCOOL WHITE",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165546.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T07:51:00.569066",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "EYE",
+        "PUPIL",
+        "VICTORIA MONET"
+      ],
+      "technique_tags": [
+        "Bolt Cam",
+        "Choreo",
+        "Projections"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Bolt Cam , Choreo , Projections\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nEYE\nPUPIL\nVICTORIA MONET",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703410058.webp",
-      "page_url": "https://eyecannndy.com/technique/bolt-cam",
-      "discovered_at": "2025-09-05T03:22:25.210343",
-      "element_tag": "img",
-      "title": "Kyan Khojandi - Haagen-Dazs",
-      "description": "",
-      "category": "bolt-cam",
       "alt_text": "Kyan Khojandi - Haagen-Dazs",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:51:04.241665",
+      "title": "Kyan Khojandi - Haagen-Dazs (2021)",
+      "description": "Slow bolt arm shot in void environment. The BOLT was popularized in Dave Meyer's 'Humble' where it quickly moved around Kendrick. In this clip, we see it's use at a more normal speed.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "DARK",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Bolt Cam",
+        "Void",
+        "X-Axis Arc"
+      ],
+      "director": "Jérémie Levypon, Royal Post",
+      "dop": "Alex Jamin",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kyan Khojandi - Haagen-Dazs (2021)\nSlow bolt arm shot in void environment. The BOLT was popularized in Dave Meyer's 'Humble' where it quickly moved around Kendrick. In this clip, we see it's use at a more normal speed.\nTechnique - Arc , Bolt Cam , Void , X-Axis Arc\nDirector - Jérémie Levypon\nDOP - Alex Jamin\nEditor - Jérémie Levypon, Royal Post\nOriginal Source - Link\nDARK\nVOID",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389247.webp",
+      "alt_text": "Halfprice - Fitting room",
+      "discovered_at": "2025-09-11T07:51:07.877681",
+      "title": "Halfprice - Fitting room (2022)",
+      "description": "",
+      "tags": [
+        "BLUE",
+        "INTERIOR",
+        "COOL",
+        "SELFIE",
+        "FASHION",
+        "CHANGING ROOM"
+      ],
+      "technique_tags": [
+        "Bolt Cam"
+      ],
+      "director": "Nikodem Chabior",
+      "dop": "Mikołaj Syguda",
+      "colorist": "Florian Martiny",
+      "original_source": "",
+      "additional_info": "Halfprice - Fitting room (2022)\nBolt cam arm. Various angles.\nTechnique - Bolt Cam\nDirector - Grajper\nDOP - Mikołaj Syguda\nEditor - Nikodem Chabior\nColorist - Florian Martiny\nOriginal Source - Link\nBLUE\nINTERIOR\nCOOL\nSELFIE\nFASHION\nCHANGING ROOM",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165188.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T07:51:11.016170",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "VICTORIA MONET",
+        "GLITTER"
+      ],
+      "technique_tags": [
+        "Bolt Cam",
+        "Choreo"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Bolt Cam , Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET\nGLITTER",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739193778.webp",
+      "alt_text": "Severance S2E1 ‘Hello, Ms. Cobel’",
+      "discovered_at": "2025-09-11T07:51:14.668000",
+      "title": "Severance S2E1 ‘Hello, Ms. Cobel’ (2025)",
+      "description": "In the Severance Season 2 premiere, \"Hello, Ms. Cobel,\" Mark S. awakens on the severed floor and discovers that five months have passed since the innies' revolt, with Mr. Milchick now managing the floor and new employees in the Macrodata Refinement department. As Mark grapples with these changes, he reunites with Helly, Dylan, and Irving, and they confront the implications of their uprising and the evolving dynamics within Lumon Industries.",
+      "tags": [
+        "INTERIOR",
+        "ADAM SCOTT",
+        "OFFICE",
+        "SEVERANCE"
+      ],
+      "technique_tags": [
+        "Bolt Cam"
+      ],
+      "director": "Geoffrey Richman, Joe Landauer",
+      "dop": "Jessica Lee Gagné",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "Severance S2E1 ‘Hello, Ms. Cobel’ (2025)\nIn the Severance Season 2 premiere, \"Hello, Ms. Cobel,\" Mark S. awakens on the severed floor and discovers that five months have passed since the innies' revolt, with Mr. Milchick now managing the floor and new employees in the Macrodata Refinement department. As Mark grapples with these changes, he reunites with Helly, Dylan, and Irving, and they confront the implications of their uprising and the evolving dynamics within Lumon Industries.\nTechnique - Bolt Cam\nDirector - Ben Stiller\nDOP - Jessica Lee Gagné\nEditor - Geoffrey Richman, Joe Landauer\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nINTERIOR\nADAM SCOTT\nOFFICE\nSEVERANCE",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432650.webp",
+      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
+      "discovered_at": "2025-09-11T07:51:17.797863",
+      "title": "Pa Salieu - My Family feat BackRoad Gee (2020)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Bolt Cam"
+      ],
+      "director": "Femi Ladi",
+      "dop": "Stefan Yap",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pa Salieu - My Family feat BackRoad Gee (2020)\nMusic video for British rapper Pa Salieu, from director Femi Ladi. Utilizes a bolt arm camera that was popularized in Kendrick Lamar's 2017 music video, Humble, by director Dave Meyers. Ladi's decision to use a black and white color scheme gives this film an interesting juxtaposition between a timeless look, and modern camera techniques, with the help of the bolt arm.\nTechnique - Bolt Cam\nDirector - Femi Ladi\nDOP - Stefan Yap\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389675.webp",
+      "alt_text": "Halfprice - Fitting room",
+      "discovered_at": "2025-09-11T07:51:20.930055",
+      "title": "Halfprice - Fitting room (2022)",
+      "description": "Masking flash cuts on BOLT arm. Various angles. Bullet time.",
+      "tags": [
+        "BLUE",
+        "INTERIOR",
+        "COOL",
+        "SELFIE",
+        "FASHION",
+        "CHANGING ROOM"
+      ],
+      "technique_tags": [
+        "Bolt Cam",
+        "Bullet Time",
+        "Flash Cut"
+      ],
+      "director": "Nikodem Chabior",
+      "dop": "Mikołaj Syguda",
+      "colorist": "Florian Martiny",
+      "original_source": "",
+      "additional_info": "Halfprice - Fitting room (2022)\nMasking flash cuts on BOLT arm. Various angles. Bullet time.\nTechnique - Bolt Cam , Bullet Time , Flash Cut\nDirector - Grajper\nDOP - Mikołaj Syguda\nEditor - Nikodem Chabior\nColorist - Florian Martiny\nOriginal Source - Link\nBLUE\nINTERIOR\nCOOL\nSELFIE\nFASHION\nCHANGING ROOM",
+      "page_url": "https://eyecannndy.com/technique/bolt-cam"
     }
   ]
 }

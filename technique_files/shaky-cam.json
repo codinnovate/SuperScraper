@@ -1,1818 +1,2035 @@
 {
   "technique": "shaky-cam",
-  "video_count": 95,
-  "generated_at": "2025-09-05T04:03:29.649579",
+  "scrape_info": {
+    "timestamp": "20250911_145445",
+    "total_videos": 92,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399812.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171208",
-      "element_tag": "img",
-      "title": "Bourne - Ere We Go",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Bourne - Ere We Go",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656021.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171311",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706570300.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171369",
-      "element_tag": "img",
-      "title": "Atonement",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Atonement",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399812.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171415",
-      "element_tag": "img",
-      "title": "Bourne - Ere We Go",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Bourne - Ere We Go",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656021.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171457",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706570300.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171499",
-      "element_tag": "img",
-      "title": "Atonement",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Atonement",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704831481.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171542",
-      "element_tag": "img",
-      "title": "DJ Pone (ft. Blasé) - All I Want",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "DJ Pone (ft. Blasé) - All I Want",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399440.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171585",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023388.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171631",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335906.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171677",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "shaky-cam",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/13/LoveYourz_3Se9Sb1/c7f111544c1e2c339f76a22c3b3a5614.gif",
       "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T14:42:37.113866",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710025458.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171721",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643687.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171766",
-      "element_tag": "img",
-      "title": "Oblé Reed - WESTON.",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Oblé Reed - WESTON.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400434.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171808",
-      "element_tag": "img",
-      "title": "Unknown source",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Unknown source",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400370.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171851",
-      "element_tag": "img",
-      "title": "Bourne - Ere We Go",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Bourne - Ere We Go",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344846.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171893",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704832903.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171935",
-      "element_tag": "img",
-      "title": "Long Live Liborius",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Long Live Liborius",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716333938.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.171977",
-      "element_tag": "img",
-      "title": "Made for Heroes. Worn by Icons",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Made for Heroes. Worn by Icons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626363.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172018",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489925.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172061",
-      "element_tag": "img",
-      "title": "21 Savage - redrum",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "21 Savage - redrum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610712.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172102",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097013.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172142",
-      "element_tag": "img",
-      "title": "Beethoven",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Beethoven",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399330.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172183",
-      "element_tag": "img",
-      "title": "Varteks (Director Cut)",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Varteks (Director Cut)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626265.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172222",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902361.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172262",
-      "element_tag": "img",
-      "title": "Burberry x POP",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Burberry x POP",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710023723.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172302",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643920.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172345",
-      "element_tag": "img",
-      "title": "Oblé Reed - WESTON.",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Oblé Reed - WESTON.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725946900.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172397",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705385850.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172446",
-      "element_tag": "img",
-      "title": "Moonlight",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Moonlight",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716270889.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172498",
-      "element_tag": "img",
-      "title": "The Blair Witch Project",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "The Blair Witch Project",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705212616.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172550",
-      "element_tag": "img",
-      "title": "Flashbulb",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Flashbulb",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705128344.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172600",
-      "element_tag": "img",
-      "title": "Tyler the Creator - Sorry Not Sorry",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Tyler the Creator - Sorry Not Sorry",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708508040.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172650",
-      "element_tag": "img",
-      "title": "Unicef - Never Give Up",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Unicef - Never Give Up",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141912.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172702",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399371.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172754",
-      "element_tag": "img",
-      "title": "A$AP Ferg - Floor Seats",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "A$AP Ferg - Floor Seats",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399180.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172808",
-      "element_tag": "img",
-      "title": "Rosalía - Despechá",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Rosalía - Despechá",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706398204.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172863",
-      "element_tag": "img",
-      "title": "Facebook - Longboard Family",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Facebook - Longboard Family",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336416.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172917",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "shaky-cam",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/13/LoveYourz_SLEUFqZ/7ff9ab872ddd794d39af0a025f2e4c2b.gif",
       "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400130.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.172970",
-      "element_tag": "img",
-      "title": "Bourne - Ere We Go",
+      "discovered_at": "2025-09-11T14:42:44.608767",
+      "title": "",
       "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Bourne - Ere We Go",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399869.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173022",
-      "element_tag": "img",
-      "title": "Bourne - Ere We Go",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Bourne - Ere We Go",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406931.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173073",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336138.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173125",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643651.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173181",
-      "element_tag": "img",
-      "title": "Oblé Reed - WESTON.",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Oblé Reed - WESTON.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709330521.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173232",
-      "element_tag": "img",
-      "title": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715811213.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173283",
-      "element_tag": "img",
-      "title": "ZOO",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "ZOO",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902075.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173335",
-      "element_tag": "img",
-      "title": "Burberry x POP",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Burberry x POP",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436246.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173386",
-      "element_tag": "img",
-      "title": "Killdummies - Keine War Großartig//Fukk U",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711258085.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173438",
-      "element_tag": "img",
-      "title": "Sam Akpro - Death By Entertainment",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Sam Akpro - Death By Entertainment",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335860.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173488",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706398226.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173543",
-      "element_tag": "img",
-      "title": "Facebook - Longboard Family",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Facebook - Longboard Family",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708508207.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173596",
-      "element_tag": "img",
-      "title": "Unicef - Never Give Up",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Unicef - Never Give Up",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172240.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173649",
-      "element_tag": "img",
-      "title": "Doechii - DENIAL IS A RIVER",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Doechii - DENIAL IS A RIVER",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704834297.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173702",
-      "element_tag": "img",
-      "title": "Nike - Nothing Beats a Londoner",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Nike - Nothing Beats a Londoner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711611098.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173754",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399525.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173806",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705212653.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173858",
-      "element_tag": "img",
-      "title": "Flashbulb",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Flashbulb",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643536.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173909",
-      "element_tag": "img",
-      "title": "Oblé Reed - WESTON.",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Oblé Reed - WESTON.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489964.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.173959",
-      "element_tag": "img",
-      "title": "21 Savage - redrum",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "21 Savage - redrum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715655947.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174011",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172330.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174064",
-      "element_tag": "img",
-      "title": "Doechii - DENIAL IS A RIVER",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Doechii - DENIAL IS A RIVER",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141114.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174209",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345235.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174262",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127956.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174320",
-      "element_tag": "img",
-      "title": "Tyler The Creator - Dogtooth",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Tyler The Creator - Dogtooth",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172292.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174378",
-      "element_tag": "img",
-      "title": "Doechii - DENIAL IS A RIVER",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Doechii - DENIAL IS A RIVER",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705383686.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174437",
-      "element_tag": "img",
-      "title": "La Haine",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "La Haine",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902516.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174479",
-      "element_tag": "img",
-      "title": "Burberry x POP",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Burberry x POP",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335989.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174519",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626138.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174559",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "shaky-cam",
       "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T14:42:52.188676",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400267.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174599",
-      "element_tag": "img",
-      "title": "Bourne - Ere We Go",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708508207.webp",
+      "alt_text": "Unicef - Never Give Up",
+      "discovered_at": "2025-09-11T14:42:59.757770",
+      "title": "",
       "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Bourne - Ere We Go",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452434.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174641",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709537697.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174682",
-      "element_tag": "img",
-      "title": "Miel De Montagne - Le Pigeon",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Miel De Montagne - Le Pigeon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706501986.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174723",
-      "element_tag": "img",
-      "title": "Uncut Gems",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Uncut Gems",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715644042.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174765",
-      "element_tag": "img",
-      "title": "Oblé Reed - WESTON.",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Oblé Reed - WESTON.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336216.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174806",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336523.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174846",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344944.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174888",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "shaky-cam",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345235.webp",
       "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:43:03.423012",
+      "title": "Beastie Boys - An Open Letter To NYC (2004)",
+      "description": "Music video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711258123.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174931",
-      "element_tag": "img",
-      "title": "Sam Akpro - Death By Entertainment",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Sam Akpro - Death By Entertainment",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809488.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.174970",
-      "element_tag": "img",
-      "title": "Majimbo - Aiza",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Majimbo - Aiza",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706901945.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175013",
-      "element_tag": "img",
-      "title": "Burberry x POP",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Burberry x POP",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345282.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175054",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710332621.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175094",
-      "element_tag": "img",
-      "title": "Our England",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Our England",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345180.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175134",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626429.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175183",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902448.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175267",
-      "element_tag": "img",
-      "title": "Burberry x POP",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Burberry x POP",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706398913.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175320",
-      "element_tag": "img",
-      "title": "Unknown source",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Unknown source",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715655888.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175370",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399412.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175414",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344886.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175458",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706501836.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175500",
-      "element_tag": "img",
-      "title": "Uncut Gems",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Uncut Gems",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127564.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175542",
-      "element_tag": "img",
-      "title": "Tyler The Creator - Dogtooth",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Tyler The Creator - Dogtooth",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLACK AND WHITE",
+        "NEW YORK CITY",
+        "SKATING",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Feedback",
+        "Fisheye",
+        "Handheld"
+      ],
+      "director": "Adam Yauch",
+      "dop": "Nathanial Hornblower",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beastie Boys - An Open Letter To NYC (2004)\nMusic video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys\nTechnique - 2000s , Feedback , Fisheye , Handheld\nDirector - Adam Yauch\nDOP - Nathanial Hornblower\nOriginal Source - Link\nBLACK AND WHITE\nNEW YORK CITY\nSKATING\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344791.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175583",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "shaky-cam",
       "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:43:08.126820",
+      "title": "Beastie Boys - An Open Letter To NYC (2004)",
+      "description": "Music video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLACK AND WHITE",
+        "CITY",
+        "NEW YORK CITY",
+        "RIVER",
+        "EAST RIVER",
+        "STATUE OF LIBERTY"
+      ],
+      "technique_tags": [
+        "Archival",
+        "Handheld",
+        "Vintage"
+      ],
+      "director": "Adam Yauch",
+      "dop": "Nathanial Hornblower",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beastie Boys - An Open Letter To NYC (2004)\nMusic video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys\nTechnique - Archival , Handheld , Vintage\nDirector - Adam Yauch\nDOP - Nathanial Hornblower\nOriginal Source - Link\nBLACK AND WHITE\nCITY\nNEW YORK CITY\nRIVER\nEAST RIVER\nSTATUE OF LIBERTY",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336061.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175624",
-      "element_tag": "img",
-      "title": "#LoveYourz",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399412.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T14:43:11.841492",
+      "title": "Source unknown (2014)",
       "description": "",
-      "category": "shaky-cam",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "SKATING",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown (2014)\nKnow the source? Email jacobi@eycndy.com\nTechnique - Handheld\nOriginal Source - Link\nNIGHT\nEXTERIOR\nSKATING\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902448.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T14:43:16.048344",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "SKATING",
+        "SKATEBOARD",
+        "REFLECTIVE",
+        "GLOW"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Handheld",
+        "Motion Blur"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Fast Motion , Handheld , Motion Blur\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nNIGHT\nEXTERIOR\nSKATING\nSKATEBOARD\nREFLECTIVE\nGLOW",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643687.webp",
+      "alt_text": "Oblé Reed - WESTON.",
+      "discovered_at": "2025-09-11T14:43:20.770095",
+      "title": "Oblé Reed - WESTON. (2023)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "NIGHT",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Haze"
+      ],
+      "director": "Nash Pearson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oblé Reed - WESTON. (2023)\nMusic video\nTechnique - Handheld , Haze\nDirector - Nash Pearson\nEditor - Nash Pearson\nOriginal Source - Link\nMALE\nNIGHT\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656021.webp",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-11T14:43:31.779217",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "DAY",
+        "GREEN",
+        "EXTERIOR",
+        "FIELD",
+        "FARM",
+        "TRACTOR"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Handheld",
+        "Low Angle",
+        "Ultra Wide"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Camera Roll , Handheld , Low Angle , Ultra Wide\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nDAY\nGREEN\nEXTERIOR\nFIELD\nFARM\nTRACTOR",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336523.webp",
       "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T14:43:45.963611",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705175639.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175665",
-      "element_tag": "img",
-      "title": "Mammut - Fast Hiking",
-      "description": "",
-      "category": "shaky-cam",
-      "alt_text": "Mammut - Fast Hiking",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709537638.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175704",
-      "element_tag": "img",
-      "title": "Miel De Montagne - Le Pigeon",
-      "description": "",
-      "category": "shaky-cam",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709537697.webp",
       "alt_text": "Miel De Montagne - Le Pigeon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T14:43:50.175055",
+      "title": "#LoveYourz (2018)",
+      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
+      "tags": [],
+      "technique_tags": [
+        "1990s",
+        "Handheld",
+        "VHS"
+      ],
+      "director": "Eavvon O’Neal",
+      "dop": "Greta Zozula, Sam Wootton",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - 1990s , Handheld , VHS\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902075.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T14:44:04.344641",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/06/261709716532.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175744",
-      "element_tag": "img",
-      "title": "Poor Things",
-      "description": "",
-      "category": "shaky-cam",
       "alt_text": "Poor Things",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:44:18.989397",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336138.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:44:24.221634",
+      "title": "#LoveYourz (2018)",
+      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "WOMAN",
+        "EXTERIOR",
+        "HAPPY"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Handheld",
+        "VHS"
+      ],
+      "director": "Eavvon O’Neal",
+      "dop": "Greta Zozula, Sam Wootton",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - 1990s , Handheld , VHS\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link\nDAY\nWOMAN\nEXTERIOR\nHAPPY",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705212616.webp",
+      "alt_text": "Flashbulb",
+      "discovered_at": "2025-09-11T14:44:36.315674",
+      "title": "Flashbulb (2013)",
+      "description": "A quiet film that communicates its story with a strong visual and aural aesthetic. Intricate production design and imaginative cinematography immerse the viewer in the cloistered world of a damaged individual. This is miniature magical realism with an emphasis on the painfully real.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "MAGNIFYING GLASS",
+        "DESK",
+        "SHAKY CAM"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Lens Whacking"
+      ],
+      "director": "Joana Gil-Rico",
+      "dop": "Garry Torrance",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Flashbulb (2013)\nA quiet film that communicates its story with a strong visual and aural aesthetic. Intricate production design and imaginative cinematography immerse the viewer in the cloistered world of a damaged individual. This is miniature magical realism with an emphasis on the painfully real.\nTechnique - Handheld , Lens Whacking\nDirector - Kieran Gosney\nDOP - Garry Torrance\nEditor - Joana Gil-Rico\nOriginal Source - Link\nDAY\nINTERIOR\nMAGNIFYING GLASS\nDESK\nSHAKY CAM",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706398913.webp",
+      "alt_text": "Unknown source",
+      "discovered_at": "2025-09-11T14:44:42.066245",
+      "title": "Unknown source",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "EXTERIOR",
+        "SELFIE"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Unknown source\nKnow the source? Email jacobi@eycndy.com\nTechnique - Handheld\nDAY\nWOMAN\nEXTERIOR\nSELFIE",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709537638.webp",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "discovered_at": "2025-09-11T14:44:46.757008",
+      "title": "Miel De Montagne - Le Pigeon (2023)",
+      "description": "2023 music video directed and edited by Morgan Jouquand.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "SKATING",
+        "SKATEBOARD",
+        "PAN",
+        "PIGEON"
+      ],
+      "technique_tags": [
+        "Away from Camera",
+        "Handheld",
+        "Low Angle",
+        "Tracking"
+      ],
+      "director": "Morgan Jouquand",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Miel De Montagne - Le Pigeon (2023)\n2023 music video directed and edited by Morgan Jouquand.\nTechnique - Away from Camera , Handheld , Low Angle , Tracking\nDirector - Morgan Jouquand\nOriginal Source - Link\nDAY\nEXTERIOR\nSKATING\nSKATEBOARD\nPAN\nPIGEON",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345282.webp",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "discovered_at": "2025-09-11T14:44:52.042026",
+      "title": "Beastie Boys - An Open Letter To NYC (2004)",
+      "description": "Music video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys",
+      "tags": [
+        "CITY",
+        "NEW",
+        "YORK"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Archival",
+        "Handheld",
+        "Vintage"
+      ],
+      "director": "Adam Yauch",
+      "dop": "Nathanial Hornblower",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beastie Boys - An Open Letter To NYC (2004)\nMusic video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys\nTechnique - 2000s , Archival , Handheld , Vintage\nDirector - Adam Yauch\nDOP - Nathanial Hornblower\nOriginal Source - Link\nCITY\nNEW\nYORK",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715655888.webp",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-11T14:44:57.253145",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "DAY",
+        "GREEN",
+        "EXTERIOR",
+        "FIELD",
+        "FARM",
+        "TRACTOR"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Handheld",
+        "Subtitles",
+        "Title Card"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Fast Motion , Handheld , Subtitles , Title Card\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nDAY\nGREEN\nEXTERIOR\nFIELD\nFARM\nTRACTOR",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716333938.webp",
+      "alt_text": "Made for Heroes. Worn by Icons",
+      "discovered_at": "2025-09-11T14:45:02.471549",
+      "title": "Made for Heroes. Worn by Icons (2024)",
+      "description": "A campaign from Alpha Industries that captures the essence of their enduring influence across diverse cultures. From punk rockers to fashion mavens and everything in between.",
+      "tags": [
+        "GROUP",
+        "ANGRY",
+        "MOB",
+        "SHOUTING",
+        "ANGRY MOM"
+      ],
+      "technique_tags": [
+        "Action",
+        "Dystopian",
+        "Handheld"
+      ],
+      "director": "Poria Asghari",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Made for Heroes. Worn by Icons (2024)\nA campaign from Alpha Industries that captures the essence of their enduring influence across diverse cultures. From punk rockers to fashion mavens and everything in between.\nTechnique - Action , Dystopian , Handheld\nDirector - Poria Asghari\nOriginal Source - Link\nGROUP\nANGRY\nMOB\nSHOUTING\nANGRY MOM",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141912.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T14:45:07.181666",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "VOID",
+        "DANCE"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Crash Zoom",
+        "Handheld"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Crash Zoom , Handheld\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nVOID\nDANCE",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705383686.webp",
+      "alt_text": "La Haine",
+      "discovered_at": "2025-09-11T14:45:11.895979",
+      "title": "La Haine (1995)",
+      "description": "A Mathieu Kassovitz-directed thriller where we follow the lives of three young men in the French suburbs the day after a violent riot. Kassovitz uses handheld cameras and fixed cameras on tripods to create a realistic feeling for the audience. The film was originally shot in color, but Kassovitz changed it to black and white in post-production, giving La Haine its timeless look.",
+      "tags": [
+        "RUNNING",
+        "NIGHT",
+        "INTERIOR",
+        "BLACK AND WHITE",
+        "HALLWAY",
+        "GUN",
+        "TUNNEL"
+      ],
+      "technique_tags": [
+        "1990s",
+        "First-Person",
+        "Handheld"
+      ],
+      "director": "Scott Stevenson",
+      "dop": "Pierre A",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "La Haine (1995)\nA Mathieu Kassovitz-directed thriller where we follow the lives of three young men in the French suburbs the day after a violent riot. Kassovitz uses handheld cameras and fixed cameras on tripods to create a realistic feeling for the audience. The film was originally shot in color, but Kassovitz changed it to black and white in post-production, giving La Haine its timeless look.\nTechnique - 1990s , First-Person , Handheld\nDirector - Mathieu Kassovitz\nDOP - Pierre A\nEditor - Scott Stevenson\nTutorial - Link\nRUNNING\nNIGHT\nINTERIOR\nBLACK AND WHITE\nHALLWAY\nGUN\nTUNNEL",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643536.webp",
+      "alt_text": "Oblé Reed - WESTON.",
+      "discovered_at": "2025-09-11T14:45:16.604446",
+      "title": "Oblé Reed - WESTON. (2023)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "NIGHT",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Lens Play"
+      ],
+      "director": "Nash Pearson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oblé Reed - WESTON. (2023)\nMusic video\nTechnique - Handheld , Lens Play\nDirector - Nash Pearson\nEditor - Nash Pearson\nOriginal Source - Link\nMALE\nNIGHT\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141114.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T14:45:20.776072",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "SPOTLIGHT",
+        "VOID",
+        "DANCERS"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Handheld",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Handheld , Spotlight , Void\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nSPOTLIGHT\nVOID\nDANCERS",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172330.webp",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "discovered_at": "2025-09-11T14:45:27.571995",
+      "title": "Doechii - DENIAL IS A RIVER (2025)",
+      "description": "",
+      "tags": [
+        "RED",
+        "EXPLOSION",
+        "SMOKE"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Title Card",
+        "Typography"
+      ],
+      "director": "Rock Paper Scissors, Sebastian Zotoff",
+      "dop": "Nico Aguilar",
+      "colorist": "Bryan Smaller",
+      "original_source": "",
+      "additional_info": "Doechii - DENIAL IS A RIVER (2025)\nDoechii's \"Denial Is a River\" (2025) reimagines her life as a '90s sitcom, inspired by Family Matters, with a nostalgic title sequence and a star-studded cast including Zack Fox, ScHoolboy Q, and Teezo Touchdown. Blending humor and introspection, the video playfully navigates sitcom-style scenarios that reflect her personal and professional journey. Directors: Carlos Acosta & James Mackel EPs: Moosa Tiffith & Anthony “Top Dawg” Tiffith Production Company: LOTUMN Executive Producer / Producer: Autumn Maschi Executive Producer: Loris Russier Creative Director: Doechii, Moosa Tiffith, & BMR.Nem Director of Photography: Nico Aguilar Production Designer: Hensel Martinez TDE Creative Producer: Langston Siebens Production Manager: Kai Lusk Production Coordinator: Kate Kramnaia, Alex Turner 1st AD: Daniel Bennaiem 2nd AD: Delaney Forrey 1st AC: Hannah Lee 2nd AC: McKay Todd, Marianna Vashchilenko DIT: Pete Aguirre Camera Operator: Chloe Smolkin, Cordell Jomha",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335989.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:45:41.696742",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452434.webp",
+      "alt_text": "Empimic - Bittere Welt",
+      "discovered_at": "2025-09-11T14:45:49.588092",
+      "title": "Empimic - Bittere Welt (2021)",
+      "description": "",
+      "tags": [
+        "WALKING",
+        "NIGHT",
+        "BLACK AND WHITE",
+        "EXTERIOR",
+        "STREET",
+        "NEIGHBORHOOD"
+      ],
+      "technique_tags": [
+        "Away from Camera",
+        "Handheld"
+      ],
+      "director": "Angelo Kovatchev",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Empimic - Bittere Welt (2021)\nTechnique - Away from Camera , Handheld\nDirector - Angelo Kovatchev\nOriginal Source - Link\nWALKING\nNIGHT\nBLACK AND WHITE\nEXTERIOR\nSTREET\nNEIGHBORHOOD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335906.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:46:03.740617",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725946900.webp",
+      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "discovered_at": "2025-09-11T14:46:18.354263",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127956.webp",
+      "alt_text": "Tyler The Creator - Dogtooth",
+      "discovered_at": "2025-09-11T14:46:32.535426",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336061.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:46:38.300326",
+      "title": "#LoveYourz (2018)",
+      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "EXTERIOR",
+        "HAPPY"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Handheld",
+        "VHS"
+      ],
+      "director": "Eavvon O’Neal",
+      "dop": "Greta Zozula, Sam Wootton",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - 1990s , Handheld , VHS\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link\nDAY\nWOMAN\nEXTERIOR\nHAPPY",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399440.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T14:46:52.958334",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708508040.webp",
+      "alt_text": "Unicef - Never Give Up",
+      "discovered_at": "2025-09-11T14:47:07.590184",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610712.webp",
+      "alt_text": "THEY. - U-RITE",
+      "discovered_at": "2025-09-11T14:47:21.764285",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489925.webp",
+      "alt_text": "21 Savage - redrum",
+      "discovered_at": "2025-09-11T14:47:36.369549",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710332621.webp",
+      "alt_text": "Our England",
+      "discovered_at": "2025-09-11T14:47:50.596074",
+      "title": "21 Savage - redrum (2024)",
+      "description": "The music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.",
+      "tags": [],
+      "technique_tags": [
+        "Handheld",
+        "Vignette",
+        "Voyeur"
+      ],
+      "director": "Alex Liu, Alex Morrison",
+      "dop": "Chewy Lodge, JAWMIDNIGHT, Thomas Marchese",
+      "colorist": "Vlad Barin",
+      "original_source": "",
+      "additional_info": "21 Savage - redrum (2024)\nThe music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.\nTechnique - Handheld , Vignette , Voyeur\nDirector - Danny Seth\nDOP - Chewy Lodge, JAWMIDNIGHT, Thomas Marchese\nEditor - Alex Liu, Alex Morrison\nColorist - Vlad Barin\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399330.webp",
+      "alt_text": "Varteks (Director Cut)",
+      "discovered_at": "2025-09-11T14:47:55.359365",
+      "title": "Varteks (Director Cut) (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "Stefan Rokvić",
+      "dop": "Lazar Bogdanović",
+      "colorist": "Yerlan Tanayev",
+      "original_source": "",
+      "additional_info": "Varteks (Director Cut) (2022)\nTechnique - Handheld\nDirector - Ivan Stoji\nDOP - Lazar Bogdanović\nEditor - Stefan Rokvić\nColorist - Yerlan Tanayev\nOriginal Source - Link\nDAY\nWOMAN\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705128344.webp",
+      "alt_text": "Tyler the Creator - Sorry Not Sorry",
+      "discovered_at": "2025-09-11T14:48:09.492445",
+      "title": "Tyler the Creator - Sorry Not Sorry (2023)",
+      "description": "a collection of songs that didnt make the original album directed by TYLER OKONMA dp: LUIS \"PANCH\" PEREZ production: TARA RAZAVI for Happy Place",
+      "tags": [
+        "DAY",
+        "GREEN",
+        "FACE",
+        "EXTERIOR",
+        "LIPS",
+        "MOUTH",
+        "SKI MASK"
+      ],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Handheld"
+      ],
+      "director": "Tyler Okonma",
+      "dop": "Luis Perez",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Tyler the Creator - Sorry Not Sorry (2023)\na collection of songs that didnt make the original album directed by TYLER OKONMA dp: LUIS \"PANCH\" PEREZ production: TARA RAZAVI for Happy Place\nTechnique - Extreme Close-Up , Handheld\nDirector - Tyler Okonma\nDOP - Luis Perez\nOriginal Source - Link\nDAY\nGREEN\nFACE\nEXTERIOR\nLIPS\nMOUTH\nSKI MASK",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097013.webp",
+      "alt_text": "Beethoven",
+      "discovered_at": "2025-09-11T14:48:17.359899",
+      "title": "Beethoven (1992)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "MEN",
+        "EXTERIOR",
+        "FENCE"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Fear",
+        "Handheld",
+        "Steadicam",
+        "Two Shot"
+      ],
+      "director": "Sheldon Kahn, William D. Gordean",
+      "dop": "Victor J. Kemper",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - 1990s , Fear , Handheld , Steadicam , Two Shot\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nNIGHT\nMEN\nEXTERIOR\nFENCE",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172240.webp",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "discovered_at": "2025-09-11T14:48:23.642465",
+      "title": "Doechii - DENIAL IS A RIVER (2025)",
+      "description": "",
+      "tags": [
+        "EXPLOSION",
+        "WOMAN",
+        "INTERIOR",
+        "SET",
+        "MOVIE STAGE",
+        "STUDIO AUDIENCE"
+      ],
+      "technique_tags": [
+        "Action",
+        "Central Framing",
+        "Handheld",
+        "Medium Close-up"
+      ],
+      "director": "Rock Paper Scissors, Sebastian Zotoff",
+      "dop": "Nico Aguilar",
+      "colorist": "Bryan Smaller",
+      "original_source": "",
+      "additional_info": "Doechii - DENIAL IS A RIVER (2025)\nDoechii's \"Denial Is a River\" (2025) reimagines her life as a '90s sitcom, inspired by Family Matters, with a nostalgic title sequence and a star-studded cast including Zack Fox, ScHoolboy Q, and Teezo Touchdown. Blending humor and introspection, the video playfully navigates sitcom-style scenarios that reflect her personal and professional journey. Directors: Carlos Acosta & James Mackel EPs: Moosa Tiffith & Anthony “Top Dawg” Tiffith Production Company: LOTUMN Executive Producer / Producer: Autumn Maschi Executive Producer: Loris Russier Creative Director: Doechii, Moosa Tiffith, & BMR.Nem Director of Photography: Nico Aguilar Production Designer: Hensel Martinez TDE Creative Producer: Langston Siebens Production Manager: Kai Lusk Production Coordinator: Kate Kramnaia, Alex Turner 1st AD: Daniel Bennaiem 2nd AD: Delaney Forrey 1st AC: Hannah Lee 2nd AC: McKay Todd, Marianna Vashchilenko DIT: Pete Aguirre Camera Operator: Chloe Smolkin, Cordell Jomha",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709330521.webp",
+      "alt_text": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
+      "discovered_at": "2025-09-11T14:48:35.243568",
+      "title": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)",
+      "description": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Distortions",
+        "Handheld"
+      ],
+      "director": "Will Norman",
+      "dop": "Melchiorre Ruvolo",
+      "colorist": "Juliette Wileman",
+      "original_source": "",
+      "additional_info": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)\nMesmerizing music video from director Will Norman. Produced by MoreNight.\nTechnique - Distortions , Handheld\nDirector - Will Norman\nDOP - Melchiorre Ruvolo\nColorist - Juliette Wileman\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710025458.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T14:48:39.951668",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "CAR",
+        "DRIVING",
+        "MIRROR",
+        "EXTERIOR",
+        "DRIVER"
+      ],
+      "technique_tags": [
+        "First-Person",
+        "Handheld",
+        "Pedestal"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - First-Person , Handheld , Pedestal\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nCAR\nDRIVING\nMIRROR\nEXTERIOR\nDRIVER",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709537961.webp",
-      "page_url": "https://eyecannndy.com/technique/shaky-cam",
-      "discovered_at": "2025-09-05T03:28:19.175782",
-      "element_tag": "img",
-      "title": "Miel De Montagne - Le Pigeon",
-      "description": "",
-      "category": "shaky-cam",
       "alt_text": "Miel De Montagne - Le Pigeon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:48:45.655780",
+      "title": "Miel De Montagne - Le Pigeon (2023)",
+      "description": "2023 music video directed and edited by Morgan Jouquand.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "FIRE HYDRANT",
+        "SWEEPING"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Ultra Wide"
+      ],
+      "director": "Morgan Jouquand",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Miel De Montagne - Le Pigeon (2023)\n2023 music video directed and edited by Morgan Jouquand.\nTechnique - Handheld , Ultra Wide\nDirector - Morgan Jouquand\nOriginal Source - Link\nDAY\nEXTERIOR\nFIRE HYDRANT\nSWEEPING",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705127564.webp",
+      "alt_text": "Tyler The Creator - Dogtooth",
+      "discovered_at": "2025-09-11T14:48:57.692019",
+      "title": "Tyler The Creator - Dogtooth (2023)",
+      "description": "As described by Fader as \"Wes Anderson-meets-Billionaire Boys Club\".",
+      "tags": [
+        "DAY",
+        "TYLER THE CREATOR",
+        "SUIT",
+        "EXTERIOR",
+        "DAYLIGHT",
+        "DOGS"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Tracking"
+      ],
+      "director": "Tyler Okonma",
+      "dop": "Luis Perez",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Tyler The Creator - Dogtooth (2023)\nAs described by Fader as \"Wes Anderson-meets-Billionaire Boys Club\".\nTechnique - Handheld , Tracking\nDirector - Tyler Okonma\nDOP - Luis Perez\nOriginal Source - Link\nDAY\nTYLER THE CREATOR\nSUIT\nEXTERIOR\nDAYLIGHT\nDOGS",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902516.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T14:49:11.850511",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "SKATING",
+        "SKATEBOARD",
+        "REFLECTIVE",
+        "GLOW"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Handheld",
+        "Motion Blur"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Fast Motion , Handheld , Motion Blur\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nNIGHT\nEXTERIOR\nSKATING\nSKATEBOARD\nREFLECTIVE\nGLOW",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399812.webp",
+      "alt_text": "Bourne - Ere We Go",
+      "discovered_at": "2025-09-11T14:49:20.775238",
+      "title": "Bourne - Ere We Go (2022)",
+      "description": "Gritty music video for artist Bourne, from directing duo Truman & Cooper",
+      "tags": [
+        "INTERIOR",
+        "PROFILE",
+        "ORANGE",
+        "SWEATING"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Handheld"
+      ],
+      "director": "Simon Colin",
+      "dop": "Adolpho Veloso",
+      "colorist": "Mathieu Caplanne",
+      "original_source": "",
+      "additional_info": "Bourne - Ere We Go (2022)\nGritty music video for artist Bourne, from directing duo Truman & Cooper\nTechnique - Close-Up , Handheld\nDirector - Truman & Cooper\nDOP - Adolpho Veloso\nEditor - Simon Colin\nColorist - Mathieu Caplanne\nOriginal Source - Link\nINTERIOR\nPROFILE\nORANGE\nSWEATING",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172292.webp",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "discovered_at": "2025-09-11T14:49:24.959782",
+      "title": "Doechii - DENIAL IS A RIVER (2025)",
+      "description": "",
+      "tags": [
+        "EXPLOSION",
+        "SMOKE"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Handheld",
+        "Low Angle",
+        "X-Axis Arc"
+      ],
+      "director": "Rock Paper Scissors, Sebastian Zotoff",
+      "dop": "Nico Aguilar",
+      "colorist": "Bryan Smaller",
+      "original_source": "",
+      "additional_info": "Doechii - DENIAL IS A RIVER (2025)\nDoechii's \"Denial Is a River\" (2025) reimagines her life as a '90s sitcom, inspired by Family Matters, with a nostalgic title sequence and a star-studded cast including Zack Fox, ScHoolboy Q, and Teezo Touchdown. Blending humor and introspection, the video playfully navigates sitcom-style scenarios that reflect her personal and professional journey. Directors: Carlos Acosta & James Mackel EPs: Moosa Tiffith & Anthony “Top Dawg” Tiffith Production Company: LOTUMN Executive Producer / Producer: Autumn Maschi Executive Producer: Loris Russier Creative Director: Doechii, Moosa Tiffith, & BMR.Nem Director of Photography: Nico Aguilar Production Designer: Hensel Martinez TDE Creative Producer: Langston Siebens Production Manager: Kai Lusk Production Coordinator: Kate Kramnaia, Alex Turner 1st AD: Daniel Bennaiem 2nd AD: Delaney Forrey 1st AC: Hannah Lee 2nd AC: McKay Todd, Marianna Vashchilenko DIT: Pete Aguirre Camera Operator: Chloe Smolkin, Cordell Jomha",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715655947.webp",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-11T14:49:34.405985",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "DAY",
+        "GREEN",
+        "EXTERIOR",
+        "FIELD",
+        "FARM",
+        "TRACTOR"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "VHS"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Handheld , VHS\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nDAY\nGREEN\nEXTERIOR\nFIELD\nFARM\nTRACTOR",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715811213.webp",
+      "alt_text": "ZOO",
+      "discovered_at": "2025-09-11T14:49:38.588345",
+      "title": "ZOO (2020)",
+      "description": "\"Zoo,\" directed by Will Niava, is a short film from 2020. It depicts an encounter between three misfits and a troubled man that takes an unexpected turn. The film is noted for its striking visual storytelling and intense narrative, highlighting the complexities of social interactions and unforeseen consequences from seemingly ordinary encounters.",
+      "tags": [
+        "ZOO (2020)",
+        "FAST FOOD",
+        "VEHICLE",
+        "DRIVE-THRU",
+        "ROBBERY",
+        "THEFT",
+        "THIEF",
+        "STEALING"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Security footage",
+        "Shadow Box"
+      ],
+      "director": "Will Niava",
+      "dop": "Simran Dewan",
+      "colorist": "Martin Gaumond",
+      "original_source": "",
+      "additional_info": "ZOO (2020)\n\"Zoo,\" directed by Will Niava, is a short film from 2020. It depicts an encounter between three misfits and a troubled man that takes an unexpected turn. The film is noted for its striking visual storytelling and intense narrative, highlighting the complexities of social interactions and unforeseen consequences from seemingly ordinary encounters.\nTechnique - Handheld , Security footage , Shadow Box\nDirector - Will Niava\nDOP - Simran Dewan\nColorist - Martin Gaumond\nOriginal Source - Link\nFAST FOOD\nVEHICLE\nDRIVE-THRU\nROBBERY\nTHEFT\nTHIEF\nSTEALING",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023388.webp",
+      "alt_text": "Everything Everywhere All at Once",
+      "discovered_at": "2025-09-11T14:49:53.249548",
+      "title": "Everything Everywhere All at Once (2022)",
+      "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+      "tags": [
+        "INTERIOR",
+        "LAUNDROMAT"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "Paul Rogers",
+      "dop": "Larkin Seiple",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Everything Everywhere All at Once (2022)\nA middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.\nTechnique - Handheld\nDirector - Daniel Kwan, Daniel Scheinert\nDOP - Larkin Seiple\nEditor - Paul Rogers\nColorist - Alex Bickel\nINTERIOR\nLAUNDROMAT",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643920.webp",
+      "alt_text": "Oblé Reed - WESTON.",
+      "discovered_at": "2025-09-11T14:50:03.144018",
+      "title": "Oblé Reed - WESTON. (2023)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "JACKET",
+        "ROAD",
+        "NIGHT",
+        "SPOTLIGHT",
+        "LETTERMAN JACKET"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Motion Blur",
+        "Spotlight",
+        "Ultra Wide"
+      ],
+      "director": "Nash Pearson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oblé Reed - WESTON. (2023)\nMusic video\nTechnique - Handheld , Motion Blur , Spotlight , Ultra Wide\nDirector - Nash Pearson\nEditor - Nash Pearson\nOriginal Source - Link\nMALE\nJACKET\nROAD\nNIGHT\nSPOTLIGHT\nLETTERMAN JACKET",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710023723.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T14:50:07.372206",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "INTERIOR",
+        "HELICOPTER",
+        "THEO JAMES",
+        "CHOPPER"
+      ],
+      "technique_tags": [
+        "Halation",
+        "Handheld",
+        "Pan"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Halation , Handheld , Pan\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nINTERIOR\nHELICOPTER\nTHEO JAMES\nCHOPPER",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436246.webp",
+      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
+      "discovered_at": "2025-09-11T14:50:12.099595",
+      "title": "Killdummies - Keine War Großartig//Fukk U (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "MUSIC VIDEO",
+        "WALKING",
+        "EXTERIOR",
+        "FIELD"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Trucking"
+      ],
+      "director": "Tom Klimek",
+      "dop": "Simon Klostermaier",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Killdummies - Keine War Großartig//Fukk U (2023)\n2023 music video directed by Tom Klimek.\nTechnique - Handheld , Trucking\nDirector - Tom Klimek\nDOP - Simon Klostermaier\nOriginal Source - Link\nDAY\nMUSIC VIDEO\nWALKING\nEXTERIOR\nFIELD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706901945.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T14:50:16.804035",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "NIGHT",
+        "MEN",
+        "EXTERIOR",
+        "SKATING",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Handheld\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nMALE\nNIGHT\nMEN\nEXTERIOR\nSKATING\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344846.webp",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "discovered_at": "2025-09-11T14:50:22.011597",
+      "title": "Beastie Boys - An Open Letter To NYC (2004)",
+      "description": "Music video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys",
+      "tags": [
+        "NEW YORK CITY"
+      ],
+      "technique_tags": [
+        "Archival",
+        "Handheld",
+        "Vintage"
+      ],
+      "director": "Adam Yauch",
+      "dop": "Nathanial Hornblower",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beastie Boys - An Open Letter To NYC (2004)\nMusic video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys\nTechnique - Archival , Handheld , Vintage\nDirector - Adam Yauch\nDOP - Nathanial Hornblower\nOriginal Source - Link\nNEW YORK CITY",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705212653.webp",
+      "alt_text": "Flashbulb",
+      "discovered_at": "2025-09-11T14:50:26.709588",
+      "title": "Flashbulb (2013)",
+      "description": "A quiet film that communicates its story with a strong visual and aural aesthetic. Intricate production design and imaginative cinematography immerse the viewer in the cloistered world of a damaged individual. This is miniature magical realism with an emphasis on the painfully real.",
+      "tags": [
+        "DAY",
+        "LOW ANGLE",
+        "WOMAN",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Lens Whacking",
+        "Two Shot"
+      ],
+      "director": "Joana Gil-Rico",
+      "dop": "Garry Torrance",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Flashbulb (2013)\nA quiet film that communicates its story with a strong visual and aural aesthetic. Intricate production design and imaginative cinematography immerse the viewer in the cloistered world of a damaged individual. This is miniature magical realism with an emphasis on the painfully real.\nTechnique - Handheld , Lens Whacking , Two Shot\nDirector - Kieran Gosney\nDOP - Garry Torrance\nEditor - Joana Gil-Rico\nOriginal Source - Link\nDAY\nLOW ANGLE\nWOMAN\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902361.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T14:50:31.403088",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "REFLECTIVE",
+        "GLOW"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Handheld",
+        "Motion Blur",
+        "Void"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Fast Motion , Handheld , Motion Blur , Void\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nNIGHT\nEXTERIOR\nREFLECTIVE\nGLOW",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344886.webp",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "discovered_at": "2025-09-11T14:50:36.095497",
+      "title": "Beastie Boys - An Open Letter To NYC (2004)",
+      "description": "Music video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys",
+      "tags": [
+        "NEW YORK CITY"
+      ],
+      "technique_tags": [
+        "Archival",
+        "Fast Motion",
+        "Handheld",
+        "Vintage"
+      ],
+      "director": "Adam Yauch",
+      "dop": "Nathanial Hornblower",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beastie Boys - An Open Letter To NYC (2004)\nMusic video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys\nTechnique - Archival , Fast Motion , Handheld , Vintage\nDirector - Adam Yauch\nDOP - Nathanial Hornblower\nOriginal Source - Link\nNEW YORK CITY",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345180.webp",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "discovered_at": "2025-09-11T14:50:50.302758",
+      "title": "Beastie Boys - An Open Letter To NYC (2004)",
+      "description": "Music video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys",
+      "tags": [
+        "BRIDGE",
+        "BLACK AND WHITE",
+        "NEW YORK CITY",
+        "SKATING",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Speed Ramp"
+      ],
+      "director": "Adam Yauch",
+      "dop": "Nathanial Hornblower",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beastie Boys - An Open Letter To NYC (2004)\nMusic video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys\nTechnique - Handheld , Speed Ramp\nDirector - Adam Yauch\nDOP - Nathanial Hornblower\nOriginal Source - Link\nBRIDGE\nBLACK AND WHITE\nNEW YORK CITY\nSKATING\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626429.webp",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-11T14:50:58.279126",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "CITY",
+        "CROWD"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - Handheld\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link\nNIGHT\nEXTERIOR\nCITY\nCROWD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399869.webp",
+      "alt_text": "Bourne - Ere We Go",
+      "discovered_at": "2025-09-11T14:51:07.688146",
+      "title": "Bourne - Ere We Go (2022)",
+      "description": "Gritty music video for artist Bourne, from directing duo Truman & Cooper",
+      "tags": [
+        "INTERIOR",
+        "PROFILE",
+        "ORANGE",
+        "SWEATING"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Handheld"
+      ],
+      "director": "Simon Colin",
+      "dop": "Adolpho Veloso",
+      "colorist": "Mathieu Caplanne",
+      "original_source": "",
+      "additional_info": "Bourne - Ere We Go (2022)\nGritty music video for artist Bourne, from directing duo Truman & Cooper\nTechnique - Close-Up , Handheld\nDirector - Truman & Cooper\nDOP - Adolpho Veloso\nEditor - Simon Colin\nColorist - Mathieu Caplanne\nOriginal Source - Link\nINTERIOR\nPROFILE\nORANGE\nSWEATING",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399180.webp",
+      "alt_text": "Rosalía - Despechá",
+      "discovered_at": "2025-09-11T14:51:12.391779",
+      "title": "Rosalía - Despechá (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WATER",
+        "BEACH",
+        "OCEAN",
+        "EXTERIOR",
+        "SUN"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "Mitch Ryan",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Rosalía - Despechá (2022)\nTechnique - Handheld\nDirector - Mitch Ryan\nOriginal Source - Link\nDAY\nWATER\nBEACH\nOCEAN\nEXTERIOR\nSUN",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706570300.webp",
+      "alt_text": "Atonement",
+      "discovered_at": "2025-09-11T14:51:22.306728",
+      "title": "Atonement (2007)",
+      "description": "Early 2000s Joe Wright directed drama-mystery in which thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit. You're seeing a ground-level tracking shot.",
+      "tags": [
+        "WOMAN",
+        "GREEN",
+        "RUNNING",
+        "FOREST",
+        "NATURE",
+        "DRESS",
+        "WOODS",
+        "SINGLE SHOT"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Single shot",
+        "Trucking"
+      ],
+      "director": "Joe Wright",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Atonement (2007)\nEarly 2000s Joe Wright directed drama-mystery in which thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit. You're seeing a ground-level tracking shot.\nTechnique - Handheld , Single shot , Trucking\nDirector - Joe Wright\nWOMAN\nGREEN\nRUNNING\nFOREST\nNATURE\nDRESS\nWOODS\nSINGLE SHOT",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716270889.webp",
+      "alt_text": "The Blair Witch Project",
+      "discovered_at": "2025-09-11T14:51:36.889323",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708344944.webp",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "discovered_at": "2025-09-11T14:51:51.109148",
+      "title": "The Blair Witch Project (1999)",
+      "description": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.",
+      "tags": [
+        "BLACK AND WHITE",
+        "HORROR"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Handheld",
+        "Paranormal",
+        "VHS",
+        "Vintage"
+      ],
+      "director": "Daniel Myrick, Eduardo Sánchez",
+      "dop": "Neal Fredericks",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Blair Witch Project (1999)\nThree film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.\nTechnique - 1990s , Handheld , Paranormal , VHS , Vintage\nDirector - Daniel Myrick, Eduardo Sánchez\nDOP - Neal Fredericks\nOriginal Source - Link\nTutorial - Link\nBLACK AND WHITE\nHORROR",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706398226.webp",
+      "alt_text": "Facebook - Longboard Family",
+      "discovered_at": "2025-09-11T14:52:02.082630",
+      "title": "Facebook - Longboard Family (2021)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "SKATING",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "FKA Twigs",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Facebook - Longboard Family (2021)\nTechnique - Handheld\nDirector - FKA Twigs\nDAY\nEXTERIOR\nSKATING\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400370.webp",
+      "alt_text": "Bourne - Ere We Go",
+      "discovered_at": "2025-09-11T14:52:12.569566",
+      "title": "Bourne - Ere We Go (2022)",
+      "description": "Gritty music video for artist Bourne, from directing duo Truman & Cooper",
+      "tags": [
+        "DAY",
+        "RUNNING",
+        "DUSK",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Trucking"
+      ],
+      "director": "Simon Colin",
+      "dop": "Adolpho Veloso",
+      "colorist": "Mathieu Caplanne",
+      "original_source": "",
+      "additional_info": "Bourne - Ere We Go (2022)\nGritty music video for artist Bourne, from directing duo Truman & Cooper\nTechnique - Handheld , Trucking\nDirector - Truman & Cooper\nDOP - Adolpho Veloso\nEditor - Simon Colin\nColorist - Mathieu Caplanne\nOriginal Source - Link\nDAY\nRUNNING\nDUSK\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705385850.webp",
+      "alt_text": "Moonlight",
+      "discovered_at": "2025-09-11T14:52:18.295409",
+      "title": "Moonlight (2016)",
+      "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera.",
+      "tags": [
+        "DAY",
+        "WATER",
+        "OCEAN",
+        "HANDHELD",
+        "ANGENIEUX",
+        "KOWA",
+        "HAWK V-LITE",
+        "ARRI ALEXA XT"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Water Level"
+      ],
+      "director": "Joi McMillon, Nat Sanders",
+      "dop": "James Laxton",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Moonlight (2016)\nA young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera.\nTechnique - Handheld , Water Level\nDirector - Barry Jenkins\nDOP - James Laxton\nEditor - Joi McMillon, Nat Sanders\nColorist - Alex Bickel\nDAY\nWATER\nOCEAN\nHANDHELD\nANGENIEUX\nKOWA\nHAWK V-LITE\nARRI ALEXA XT",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399371.webp",
+      "alt_text": "A$AP Ferg - Floor Seats",
+      "discovered_at": "2025-09-11T14:52:26.680925",
+      "title": "A$AP Ferg - Floor Seats (2019)",
+      "description": "In the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?",
+      "tags": [
+        "INTERIOR",
+        "GROUP",
+        "PARTY",
+        "DANCE"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "Maxime Caro",
+      "dop": "Hunter Daly",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "A$AP Ferg - Floor Seats (2019)\nIn the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?\nTechnique - Handheld\nDirector - Valentin Petit\nDOP - Hunter Daly\nEditor - Maxime Caro\nColorist - Arthur Paux\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nGROUP\nPARTY\nDANCE",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706501836.webp",
+      "alt_text": "Uncut Gems",
+      "discovered_at": "2025-09-11T14:52:30.847390",
+      "title": "Uncut Gems (2019)",
+      "description": "With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.",
+      "tags": [
+        "BLUE",
+        "HANDHELD"
+      ],
+      "technique_tags": [
+        "Anger",
+        "Handheld"
+      ],
+      "director": "Benny Safdie, Ronald Bronstein",
+      "dop": "Darius Khondji",
+      "colorist": "Damien Vandercruyssen",
+      "original_source": "",
+      "additional_info": "Uncut Gems (2019)\nWith his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.\nTechnique - Anger , Handheld\nDirector - Safdie Brothers\nDOP - Darius Khondji\nEditor - Benny Safdie, Ronald Bronstein\nColorist - Damien Vandercruyssen\nBLUE\nHANDHELD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706399525.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T14:52:41.872057",
+      "title": "Source unknown (2014)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "SWEAT",
+        "ATHLETE",
+        "WORKOUT",
+        "GYM",
+        "ROPES"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown (2014)\nKnow the source? Email jacobi@eycndy.com\nTechnique - Handheld\nOriginal Source - Link\nINTERIOR\nSWEAT\nATHLETE\nWORKOUT\nGYM\nROPES",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489964.webp",
+      "alt_text": "21 Savage - redrum",
+      "discovered_at": "2025-09-11T14:52:46.053549",
+      "title": "21 Savage - redrum (2024)",
+      "description": "The music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.",
+      "tags": [],
+      "technique_tags": [
+        "Handheld",
+        "Vignette",
+        "Voyeur"
+      ],
+      "director": "Alex Liu, Alex Morrison",
+      "dop": "Chewy Lodge, JAWMIDNIGHT, Thomas Marchese",
+      "colorist": "Vlad Barin",
+      "original_source": "",
+      "additional_info": "21 Savage - redrum (2024)\nThe music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.\nTechnique - Handheld , Vignette , Voyeur\nDirector - Danny Seth\nDOP - Chewy Lodge, JAWMIDNIGHT, Thomas Marchese\nEditor - Alex Liu, Alex Morrison\nColorist - Vlad Barin\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400434.webp",
+      "alt_text": "Unknown source",
+      "discovered_at": "2025-09-11T14:53:00.709279",
+      "title": "Unknown source",
+      "description": "",
+      "tags": [
+        "DAY",
+        "SPORTS",
+        "EXTERIOR",
+        "SOCCER",
+        "ATHLETE"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Unknown source\nKnow the source? Email jacobi@eycndy.com\nTechnique - Handheld\nDAY\nSPORTS\nEXTERIOR\nSOCCER\nATHLETE",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400130.webp",
+      "alt_text": "Bourne - Ere We Go",
+      "discovered_at": "2025-09-11T14:53:05.423469",
+      "title": "Bourne - Ere We Go (2022)",
+      "description": "Gritty music video for artist Bourne, from directing duo Truman & Cooper",
+      "tags": [
+        "DAY",
+        "MALE",
+        "WATER",
+        "OCEAN",
+        "EXTERIOR",
+        "SWIMMING",
+        "RUN"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "Simon Colin",
+      "dop": "Adolpho Veloso",
+      "colorist": "Mathieu Caplanne",
+      "original_source": "",
+      "additional_info": "Bourne - Ere We Go (2022)\nGritty music video for artist Bourne, from directing duo Truman & Cooper\nTechnique - Handheld\nDirector - Truman & Cooper\nDOP - Adolpho Veloso\nEditor - Simon Colin\nColorist - Mathieu Caplanne\nOriginal Source - Link\nDAY\nMALE\nWATER\nOCEAN\nEXTERIOR\nSWIMMING\nRUN",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643651.webp",
+      "alt_text": "Oblé Reed - WESTON.",
+      "discovered_at": "2025-09-11T14:53:11.202502",
+      "title": "Oblé Reed - WESTON. (2023)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "NIGHT",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Lens Play",
+        "Ultra Wide",
+        "Whip Transition"
+      ],
+      "director": "Nash Pearson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oblé Reed - WESTON. (2023)\nMusic video\nTechnique - Handheld , Lens Play , Ultra Wide , Whip Transition\nDirector - Nash Pearson\nEditor - Nash Pearson\nOriginal Source - Link\nMALE\nNIGHT\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715644042.webp",
+      "alt_text": "Oblé Reed - WESTON.",
+      "discovered_at": "2025-09-11T14:53:14.877027",
+      "title": "Oblé Reed - WESTON. (2023)",
+      "description": "",
+      "tags": [
+        "RED",
+        "MALE",
+        "JACKET",
+        "NIGHT",
+        "EXTERIOR",
+        "RAIN"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Handheld"
+      ],
+      "director": "Nash Pearson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oblé Reed - WESTON. (2023)\nMusic video\nTechnique - Camera Roll , Handheld\nDirector - Nash Pearson\nEditor - Nash Pearson\nOriginal Source - Link\nRED\nMALE\nJACKET\nNIGHT\nEXTERIOR\nRAIN",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711611098.webp",
+      "alt_text": "THEY. - U-RITE",
+      "discovered_at": "2025-09-11T14:53:18.515049",
+      "title": "THEY. - U-RITE (2017)",
+      "description": "The music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.",
+      "tags": [
+        "THEY. - U-RITE (2017)",
+        "MALE"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "Jack Begert",
+      "dop": "Phillips Shum",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "THEY. - U-RITE (2017)\nThe music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.\nTechnique - Handheld\nDirector - Jack Begert\nDOP - Phillips Shum\nOriginal Source - Link\nMALE",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711258123.webp",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "discovered_at": "2025-09-11T14:53:23.278245",
+      "title": "Sam Akpro - Death By Entertainment (2023)",
+      "description": "The music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.",
+      "tags": [],
+      "technique_tags": [
+        "Handheld",
+        "Spotlight",
+        "Trucking"
+      ],
+      "director": "Pedro Takahashi",
+      "dop": "Max Conran",
+      "colorist": "Connor Coolbear, Electric Theatre Collective",
+      "original_source": "",
+      "additional_info": "Sam Akpro - Death By Entertainment (2023)\nThe music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.\nTechnique - Handheld , Spotlight , Trucking\nDirector - Pedro Takahashi\nDOP - Max Conran\nColorist - Connor Coolbear, Electric Theatre Collective\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336216.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:53:37.400852",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705175639.webp",
+      "alt_text": "Mammut - Fast Hiking",
+      "discovered_at": "2025-09-11T14:53:42.716544",
+      "title": "#LoveYourz (2018)",
+      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "BLACK AND WHITE",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Handheld",
+        "VHS"
+      ],
+      "director": "Eavvon O’Neal",
+      "dop": "Greta Zozula, Sam Wootton",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - 1990s , Handheld , VHS\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link\nDAY\nWOMAN\nBLACK AND WHITE\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704832903.webp",
+      "alt_text": "Long Live Liborius",
+      "discovered_at": "2025-09-11T14:53:46.880918",
+      "title": "Long Live Liborius (2021)",
+      "description": "Catholic church turned sanctuary for skaters. Burned down in 2023.",
+      "tags": [
+        "INTERIOR",
+        "SKATING",
+        "SKATE",
+        "CHURCH",
+        "SKATEBOARDING"
+      ],
+      "technique_tags": [
+        "Fisheye",
+        "Handheld"
+      ],
+      "director": "Bruton Stroube",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Long Live Liborius (2021)\nCatholic church turned sanctuary for skaters. Burned down in 2023.\nTechnique - Fisheye , Handheld\nDirector - Bruton Stroube\nOriginal Source - Link\nINTERIOR\nSKATING\nSKATE\nCHURCH\nSKATEBOARDING",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704831481.webp",
+      "alt_text": "DJ Pone (ft. Blasé) - All I Want",
+      "discovered_at": "2025-09-11T14:53:50.588526",
+      "title": "DJ Pone (ft. Blasé) - All I Want (2023)",
+      "description": "",
+      "tags": [
+        "RUNNING",
+        "NIGHT",
+        "BLUE",
+        "DUSK",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "Benoît Marzouvanlian",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "DJ Pone (ft. Blasé) - All I Want (2023)\nDirector: Benoît Marzouvanlian Producer: Ludovic De Sousa Production: Mandibule & The Lab Editing: Benoît Marzouvanlian Prod Director: Theo Mariaggi Prod Assistant: Mathis Routier 1st Director Assistant: Ibrahim Doumbia 2nd Assistant Real: Maroussia Monino - Op Head: Bfao Marakouvanlian Electrical Chef: Tom Pezziardi Calibration: Florian Martiny Chef Machino: Ben Aka Rigman Deco Chief: Julie Jarrige Deco: Alice Morand Deco: Gaétan Raggi Paris Stunter: Djamel Benyahia Barcelona Stunter: Nabil Hadim Stunting Lining: Sergio Cavalier\nTechnique - Handheld\nDirector - Benoît Marzouvanlian\nOriginal Source - Link\nRUNNING\nNIGHT\nBLUE\nDUSK\nDARK",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626265.webp",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-11T14:53:56.306162",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "CITY",
+        "CROWD"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - Handheld\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link\nNIGHT\nEXTERIOR\nCITY\nCROWD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809488.webp",
+      "alt_text": "Majimbo - Aiza",
+      "discovered_at": "2025-09-11T14:54:00.977910",
+      "title": "Majimbo - Aiza (2023)",
+      "description": "The music video for Aiza’s \"Majimbo\" showcases vibrant, energetic scenes that match the feel-good thumpy pop bassline and braggadocious flow of the song. Aiza, full of confidence, is seen walking down colorful city streets that transform into impromptu fashion runways, exuding an infectious joy and inner strength. K.O.G’s electric vocals elevate the video’s energy, capturing the pride and inspiration drawn from Elsa Majimbo’s rise to fame. The video blends Afropop, Afrobeat, and soulful R&B elements, celebrating Aiza’s journey and the empowerment of loving boldly.",
+      "tags": [
+        "DAY",
+        "MALE",
+        "SWEAT"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Handheld"
+      ],
+      "director": "Daniyal Shah",
+      "dop": "Daniel Attoh",
+      "colorist": "Tricia Hagoriles",
+      "original_source": "",
+      "additional_info": "Majimbo - Aiza (2023)\nThe music video for Aiza’s \"Majimbo\" showcases vibrant, energetic scenes that match the feel-good thumpy pop bassline and braggadocious flow of the song. Aiza, full of confidence, is seen walking down colorful city streets that transform into impromptu fashion runways, exuding an infectious joy and inner strength. K.O.G’s electric vocals elevate the video’s energy, capturing the pride and inspiration drawn from Elsa Majimbo’s rise to fame. The video blends Afropop, Afrobeat, and soulful R&B elements, celebrating Aiza’s journey and the empowerment of loving boldly.\nTechnique - Close-Up , Handheld\nDirector - Will Niava\nDOP - Daniel Attoh\nEditor - Daniyal Shah\nColorist - Tricia Hagoriles\nOriginal Source - Link\nDAY\nMALE\nSWEAT",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711258085.webp",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "discovered_at": "2025-09-11T14:54:11.954515",
+      "title": "Sam Akpro - Death By Entertainment (2023)",
+      "description": "The music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.",
+      "tags": [],
+      "technique_tags": [
+        "Handheld",
+        "Trucking"
+      ],
+      "director": "Pedro Takahashi",
+      "dop": "Max Conran",
+      "colorist": "Connor Coolbear, Electric Theatre Collective",
+      "original_source": "",
+      "additional_info": "Sam Akpro - Death By Entertainment (2023)\nThe music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.\nTechnique - Handheld , Trucking\nDirector - Pedro Takahashi\nDOP - Max Conran\nColorist - Connor Coolbear, Electric Theatre Collective\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400267.webp",
+      "alt_text": "Bourne - Ere We Go",
+      "discovered_at": "2025-09-11T14:54:16.126937",
+      "title": "Bourne - Ere We Go (2022)",
+      "description": "Gritty music video for artist Bourne, from directing duo Truman & Cooper",
+      "tags": [
+        "CLUB",
+        "COLORFUL",
+        "SATURATION",
+        "DANCE",
+        "STRIPPER"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Handheld"
+      ],
+      "director": "Simon Colin",
+      "dop": "Adolpho Veloso",
+      "colorist": "Mathieu Caplanne",
+      "original_source": "",
+      "additional_info": "Bourne - Ere We Go (2022)\nGritty music video for artist Bourne, from directing duo Truman & Cooper\nTechnique - Color Shift , Handheld\nDirector - Truman & Cooper\nDOP - Adolpho Veloso\nEditor - Simon Colin\nColorist - Mathieu Caplanne\nOriginal Source - Link\nCLUB\nCOLORFUL\nSATURATION\nDANCE\nSTRIPPER",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/27/261706398204.webp",
+      "alt_text": "Facebook - Longboard Family",
+      "discovered_at": "2025-09-11T14:54:20.295845",
+      "title": "Facebook - Longboard Family (2021)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "SKATING",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "Handheld"
+      ],
+      "director": "FKA Twigs",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Facebook - Longboard Family (2021)\nTechnique - Handheld\nDirector - FKA Twigs\nDAY\nEXTERIOR\nSKATING\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406931.webp",
+      "alt_text": "The Chronicles of Riddick",
+      "discovered_at": "2025-09-11T14:54:24.976186",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "tags": [
+        "MALE",
+        "FIGHT",
+        "BATTLE",
+        "SOLDIER"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Future",
+        "Handheld"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Echo print , Future , Handheld\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link\nMALE\nFIGHT\nBATTLE\nSOLDIER",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704834297.webp",
+      "alt_text": "Nike - Nothing Beats a Londoner",
+      "discovered_at": "2025-09-11T14:54:37.486979",
+      "title": "Nike - Nothing Beats a Londoner (2018)",
+      "description": "Energetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.",
+      "tags": [
+        "RUNNING",
+        "NIGHT",
+        "DUSK",
+        "EXTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Direct address",
+        "Handheld",
+        "Tracking"
+      ],
+      "director": "Joe Guest",
+      "dop": "Nicolas Loir",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - Nothing Beats a Londoner (2018)\nEnergetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.\nTechnique - Direct address , Handheld , Tracking\nDirector - Megaforce\nDOP - Nicolas Loir\nEditor - Joe Guest\nOriginal Source - Link\nRUNNING\nNIGHT\nDUSK\nEXTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706501986.webp",
+      "alt_text": "Uncut Gems",
+      "discovered_at": "2025-09-11T14:54:41.633600",
+      "title": "Uncut Gems (2019)",
+      "description": "With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.",
+      "tags": [
+        "CAR",
+        "INTERIOR",
+        "VEHICLE",
+        "HARD LIGHT"
+      ],
+      "technique_tags": [
+        "Anger",
+        "Handheld",
+        "Intensity"
+      ],
+      "director": "Benny Safdie, Ronald Bronstein",
+      "dop": "Darius Khondji",
+      "colorist": "Damien Vandercruyssen",
+      "original_source": "",
+      "additional_info": "Uncut Gems (2019)\nWith his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.\nTechnique - Anger , Handheld , Intensity\nDirector - Safdie Brothers\nDOP - Darius Khondji\nEditor - Benny Safdie, Ronald Bronstein\nColorist - Damien Vandercruyssen\nCAR\nINTERIOR\nVEHICLE\nHARD LIGHT",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626363.webp",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-11T14:54:45.829501",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "CITY",
+        "CROWD"
+      ],
+      "technique_tags": [
+        "Archival",
+        "Handheld",
+        "Vintage"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - Archival , Handheld , Vintage\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link\nNIGHT\nEXTERIOR\nCITY\nCROWD",
+      "page_url": "https://eyecannndy.com/technique/shaky-cam"
     }
   ]
 }

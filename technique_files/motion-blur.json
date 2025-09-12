@@ -1,6 +1,1176 @@
 {
   "technique": "motion-blur",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.652749",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_162216",
+    "total_videos": 49,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976709.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T16:19:10.087614",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710832875.webp",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "discovered_at": "2025-09-11T16:19:13.253042",
+      "title": "Oppo - Make Every Shot Stand Out (2024)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "HAND",
+        "PHONE"
+      ],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Fast Motion",
+        "Motion Blur"
+      ],
+      "director": "Gramatova Katarina",
+      "dop": "Filip Marek",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Oppo - Make Every Shot Stand Out (2024)\nTechnique - Extreme Close-Up , Fast Motion , Motion Blur\nDirector - Jara Moravec\nDOP - Filip Marek\nEditor - Gramatova Katarina\nColorist - Arthur Paux\nOriginal Source - Link\nINTERIOR\nHAND\nPHONE",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706500235.webp",
+      "alt_text": "Jackboys - Gang Gang",
+      "discovered_at": "2025-09-11T16:19:16.454758",
+      "title": "Jackboys - Gang Gang (2019)",
+      "description": "2019 music video for Jackboys and directed by Cactus Jack and White Trash Tyler. Produced by Nathan Scherrer & Randy Donaldson for Freenjoy.",
+      "tags": [
+        "CAR",
+        "NIGHT",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Motion Blur",
+        "Step-print"
+      ],
+      "director": "Cactus Jack, White Trash Tyler",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Jackboys - Gang Gang (2019)\n2019 music video for Jackboys and directed by Cactus Jack and White Trash Tyler. Produced by Nathan Scherrer & Randy Donaldson for Freenjoy.\nTechnique - Motion Blur , Step-print\nDirector - Cactus Jack, White Trash Tyler\nOriginal Source - Link\nCAR\nNIGHT\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709342611.webp",
+      "alt_text": "AJ Tracey - Wifey Riddim 4",
+      "discovered_at": "2025-09-11T16:19:19.623080",
+      "title": "AJ Tracey - Wifey Riddim 4 (2024)",
+      "description": "",
+      "tags": [
+        "YELLOW",
+        "NIGHT",
+        "TAXI",
+        "EXTERIOR",
+        "VEHICLE"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Fixed Cam",
+        "Motion Blur"
+      ],
+      "director": "Late Milk",
+      "dop": "Mike Koziel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJ Tracey - Wifey Riddim 4 (2024)\nTechnique - Fast Motion , Fixed Cam , Motion Blur\nDirector - Late Milk\nDOP - Mike Koziel\nOriginal Source - Link\nYELLOW\nNIGHT\nTAXI\nEXTERIOR\nVEHICLE",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706901528.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T16:19:23.291815",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "MOTION BLUR",
+        "NIGHT",
+        "EXTERIOR",
+        "SKATING",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "Low Frame-rate",
+        "Motion Blur"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Low Frame-rate , Motion Blur\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nMOTION BLUR\nNIGHT\nEXTERIOR\nSKATING\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709019389.webp",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "discovered_at": "2025-09-11T16:19:26.447516",
+      "title": "Snipes x Nike - The Cypher (2023)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "DANCE",
+        "CYPHER"
+      ],
+      "technique_tags": [
+        "Motion Blur"
+      ],
+      "director": "Alexis Benot, Eugène Signoret",
+      "dop": "Cesar Decharme",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Snipes x Nike - The Cypher (2023)\nTechnique - Motion Blur\nDirector - Marius Gonzalez\nDOP - Cesar Decharme\nEditor - Alexis Benot, Eugène Signoret\nColorist - Arthur Paux\nOriginal Source - Link\nGROUP\nDANCE\nCYPHER",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703998428.webp",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "discovered_at": "2025-09-11T16:19:30.615720",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "description": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Motion Blur",
+        "Speed Ramp"
+      ],
+      "director": "Kenny Shimm (Editor)",
+      "dop": "Chuk Town",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)\nShot breakdown: Wide shot speed ramp jump cut w/ motion blur\nTechnique - Jump cut , Motion Blur , Speed Ramp\nDirector - HIDJI WORLD\nDOP - Chuk Town\nEditor - Kenny Shimm (Editor)\nOriginal Source - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633084.webp",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "discovered_at": "2025-09-11T16:19:34.295124",
+      "title": "IKEA – Show Off Your Savvy (2023)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "MOTION BLUR",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Fourth Wall",
+        "Motion Blur",
+        "Speed Ramp"
+      ],
+      "director": "Hasani Franke-Harris",
+      "dop": "Benjamin Todd",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "IKEA – Show Off Your Savvy (2023)\n2023 advert for IKEA, directed by Sanjay De Silva.\nTechnique - Fast Motion , Fourth Wall , Motion Blur , Speed Ramp\nDirector - Sanjay De Silva\nDOP - Benjamin Todd\nEditor - Hasani Franke-Harris\nColorist - Matt Turner\nOriginal Source - Link\nMALE\nMOTION BLUR\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708402737.webp",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "discovered_at": "2025-09-11T16:19:38.982072",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby (2006)",
+      "description": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
+      "tags": [
+        "RACING",
+        "EXTERIOR",
+        "STADIUM",
+        "NASCAR",
+        "RACETRACK",
+        "RACE CAR"
+      ],
+      "technique_tags": [
+        "Motion Blur",
+        "Quick Cuts"
+      ],
+      "director": "Brent White",
+      "dop": "Oliver Wood",
+      "colorist": "Joe Finley",
+      "original_source": "",
+      "additional_info": "Talladega Nights: The Ballad of Ricky Bobby (2006)\nNumber one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.\nTechnique - Motion Blur , Quick Cuts\nDirector - Adam McKay\nDOP - Oliver Wood\nEditor - Brent White\nColorist - Joe Finley\nOriginal Source - Link\nRACING\nEXTERIOR\nSTADIUM\nNASCAR\nRACETRACK\nRACE CAR",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902404.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T16:19:42.645226",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "REFLECTIVE",
+        "GLOW"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print",
+        "Fast Motion",
+        "Motion Blur",
+        "Silhouette"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Duplication , Echo print , Fast Motion , Motion Blur , Silhouette\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nNIGHT\nEXTERIOR\nREFLECTIVE\nGLOW",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707625980.webp",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-11T16:19:46.795269",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "DARK",
+        "VEHICLE"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Fast Motion",
+        "Fixed Cam",
+        "Inebriation",
+        "Motion Blur"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - Altered state , Fast Motion , Fixed Cam , Inebriation , Motion Blur\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link\nNIGHT\nEXTERIOR\nDARK\nVEHICLE",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706500446.webp",
+      "alt_text": "Fallen Angels",
+      "discovered_at": "2025-09-11T16:19:50.437676",
+      "title": "Fallen Angels (1995)",
+      "description": "This Hong Kong-set crime drama follows the lives of a hitman, hoping to get out of the business, and his elusive female partner.",
+      "tags": [
+        "WARM",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Low Frame-rate",
+        "Motion Blur"
+      ],
+      "director": "Wong Kar-Wai",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Fallen Angels (1995)\nThis Hong Kong-set crime drama follows the lives of a hitman, hoping to get out of the business, and his elusive female partner.\nTechnique - Low Frame-rate , Motion Blur\nDirector - Wong Kar-Wai\nWARM\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902448.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T16:19:53.568725",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "SKATING",
+        "SKATEBOARD",
+        "REFLECTIVE",
+        "GLOW"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Handheld",
+        "Motion Blur"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Fast Motion , Handheld , Motion Blur\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nNIGHT\nEXTERIOR\nSKATING\nSKATEBOARD\nREFLECTIVE\nGLOW",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976637.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T16:19:57.197113",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545953.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T16:20:00.321808",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "INTERIOR",
+        "OFFICE"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Fast Motion",
+        "High Angle",
+        "Motion Blur"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Echo print , Fast Motion , High Angle , Motion Blur\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nINTERIOR\nOFFICE",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976682.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T16:20:03.973110",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213351.webp",
+      "alt_text": "Vaeda Black - Run Fast",
+      "discovered_at": "2025-09-11T16:20:07.602076",
+      "title": "Vaeda Black - Run Fast (2019)",
+      "description": "Shot breakdown: Slit-scan motion blur + double exposure",
+      "tags": [
+        "MOTION BLUR",
+        "BLUR",
+        "MUSIC VIDEO",
+        "INTERIOR",
+        "JUSTIN LEYBA",
+        "JACOBI MEHRINGER",
+        "VAEDA BLACK"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Motion Blur",
+        "Slit-scan"
+      ],
+      "director": "Jacobi Mehringer, Justin Leyba",
+      "dop": "Nat Pinhiero",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vaeda Black - Run Fast (2019)\nShot breakdown: Slit-scan motion blur + double exposure\nTechnique - Double Exposure , Motion Blur , Slit-scan\nDirector - Jacobi Mehringer, Justin Leyba\nDOP - Nat Pinhiero\nEditor - Jacobi Mehringer, Justin Leyba\nOriginal Source - Link\nMOTION BLUR\nBLUR\nMUSIC VIDEO\nINTERIOR\nJUSTIN LEYBA\nJACOBI MEHRINGER\nVAEDA BLACK",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902516.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T16:20:10.723181",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "SKATING",
+        "SKATEBOARD",
+        "REFLECTIVE",
+        "GLOW"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Handheld",
+        "Motion Blur"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Fast Motion , Handheld , Motion Blur\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nNIGHT\nEXTERIOR\nSKATING\nSKATEBOARD\nREFLECTIVE\nGLOW",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334745.webp",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T16:20:14.375680",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "GROUP",
+        "CROWD",
+        "DUA LIPA"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "High Angle",
+        "Motion Blur"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Echo print , High Angle , Motion Blur\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nGROUP\nCROWD\nDUA LIPA",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710830468.webp",
+      "alt_text": "Aritzia - Sweatfleece",
+      "discovered_at": "2025-09-11T16:20:17.505573",
+      "title": "Aritzia - Sweatfleece (2024)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "STUDIO",
+        "PHOTOGRAPHY",
+        "MODEL"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Motion Blur"
+      ],
+      "director": "Miloš Bogojevic",
+      "dop": "Thomas Marchese",
+      "colorist": "Dylan Hageman",
+      "original_source": "",
+      "additional_info": "Aritzia - Sweatfleece (2024)\nTechnique - Fast Motion , Motion Blur\nDirector - Miloš Bogojevic\nDOP - Thomas Marchese\nColorist - Dylan Hageman\nOriginal Source - Link\nINTERIOR\nSTUDIO\nPHOTOGRAPHY\nMODEL",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709019537.webp",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "discovered_at": "2025-09-11T16:20:21.164117",
+      "title": "Snipes x Nike - The Cypher (2023)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "DANCE",
+        "CYPHER"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Low Frame-rate",
+        "Motion Blur"
+      ],
+      "director": "Alexis Benot, Eugène Signoret",
+      "dop": "Cesar Decharme",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Snipes x Nike - The Cypher (2023)\nTechnique - Lazy Susan , Low Frame-rate , Motion Blur\nDirector - Marius Gonzalez\nDOP - Cesar Decharme\nEditor - Alexis Benot, Eugène Signoret\nColorist - Arthur Paux\nOriginal Source - Link\nGROUP\nDANCE\nCYPHER",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334620.webp",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T16:20:24.879554",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "GROUP",
+        "CROWD",
+        "DUA LIPA"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "High Angle",
+        "Motion Blur"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Echo print , High Angle , Motion Blur\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nGROUP\nCROWD\nDUA LIPA",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707978134.webp",
+      "alt_text": "Rosalia - Saoko",
+      "discovered_at": "2025-09-11T16:20:29.076134",
+      "title": "Rosalia - Saoko (2022)",
+      "description": "Rosalía and her motorcycle girl gang run riot in Valentin Petit's brilliant video for Saoko, the first track from the Spanish superstar's latest album Motomami. Shot breakdown: Ultra Wide Zero distortion lens low angle tracking in shot.",
+      "tags": [],
+      "technique_tags": [
+        "Motion Blur",
+        "Quick Cuts"
+      ],
+      "director": "Jon Echeveste",
+      "dop": "Paul Guilhaume",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Rosalia - Saoko (2022)\nRosalía and her motorcycle girl gang run riot in Valentin Petit's brilliant video for Saoko, the first track from the Spanish superstar's latest album Motomami. Shot breakdown: Ultra Wide Zero distortion lens low angle tracking in shot.\nTechnique - Motion Blur , Quick Cuts\nDirector - Valentin Petit\nDOP - Paul Guilhaume\nEditor - Jon Echeveste\nColorist - Arthur Paux\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711984439.webp",
+      "alt_text": "Face",
+      "discovered_at": "2025-09-11T16:20:32.743243",
+      "title": "Face (2021)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "BLUE",
+        "STUDIO",
+        "SELFIE",
+        "CROWD",
+        "PHONE",
+        "CIRCLE"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Motion Blur",
+        "Video Portraits"
+      ],
+      "director": "Mah Ferraz",
+      "dop": "Mayer Chalom",
+      "colorist": "Carlos Flores",
+      "original_source": "",
+      "additional_info": "Face (2021)\nThe 2021 trailer for Jessica Helfand's book FACE, directed by Lake Buckley and Dayday, was produced for its release by MIT Press. The production team behind the trailer included Nicolas Thau as the producer, Harry Walters as the production manager, and Charlotte Arnoux handling casting. Mayer Chalom was the director of photography, with Davide Sorasio and Emma Penrose assisting as 1st and 2nd AC respectively.\nTechnique - Fast Motion , Motion Blur , Video Portraits\nDirector - dayday, Lake Buckley\nDOP - Mayer Chalom\nEditor - Mah Ferraz\nColorist - Carlos Flores\nOriginal Source - Link\nWOMAN\nBLUE\nSTUDIO\nSELFIE\nCROWD\nPHONE\nCIRCLE",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720385427.webp",
+      "alt_text": "The Dare - Perfume",
+      "discovered_at": "2025-09-11T16:20:36.395064",
+      "title": "The Dare - Perfume (2024)",
+      "description": "The \"The Dare - Perfume 2024\" commercial is an evocative and visually striking advertisement that captures the essence of boldness and sensuality. It features a series of elegantly choreographed scenes where the protagonist moves through various luxurious settings, exuding confidence and allure. The commercial employs a rich color palette and dramatic lighting to highlight the sophistication and intensity of the perfume. The narrative is punctuated by close-up shots of the perfume bottle, emphasizing its sleek design and the brand's logo, leaving a lasting impression of elegance and daring on the viewer.",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Conveyor",
+        "Motion Blur",
+        "Speed Ramp"
+      ],
+      "director": "Josh Wehle",
+      "dop": "Ben Carey",
+      "colorist": "Myles Bevan",
+      "original_source": "",
+      "additional_info": "The Dare - Perfume (2024)\nThe \"The Dare - Perfume 2024\" commercial is an evocative and visually striking advertisement that captures the essence of boldness and sensuality. It features a series of elegantly choreographed scenes where the protagonist moves through various luxurious settings, exuding confidence and allure. The commercial employs a rich color palette and dramatic lighting to highlight the sophistication and intensity of the perfume. The narrative is punctuated by close-up shots of the perfume bottle, emphasizing its sleek design and the brand's logo, leaving a lasting impression of elegance and daring on the viewer.\nTechnique - Collage , Conveyor , Motion Blur , Speed Ramp\nDirector - Nick Harwood\nDOP - Ben Carey\nEditor - Josh Wehle\nColorist - Myles Bevan\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708333800.webp",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T16:20:40.061620",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "MOTION BLUR",
+        "RESTAURANT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Echo print , Motion Blur\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nMOTION BLUR\nRESTAURANT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709020374.webp",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "discovered_at": "2025-09-11T16:20:43.202392",
+      "title": "Snipes x Nike - The Cypher (2023)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "DANCE",
+        "CYPHER"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur",
+        "Overhead"
+      ],
+      "director": "Alexis Benot, Eugène Signoret",
+      "dop": "Cesar Decharme",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Snipes x Nike - The Cypher (2023)\nTechnique - Echo print , Motion Blur , Overhead\nDirector - Marius Gonzalez\nDOP - Cesar Decharme\nEditor - Alexis Benot, Eugène Signoret\nColorist - Arthur Paux\nOriginal Source - Link\nGROUP\nDANCE\nCYPHER",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086523.webp",
+      "alt_text": "Chungking Express",
+      "discovered_at": "2025-09-11T16:20:46.343032",
+      "title": "Chungking Express (1994)",
+      "description": "Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.",
+      "tags": [
+        "RESTAURANT",
+        "BLUE",
+        "INTERIOR",
+        "BAR"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Motion Blur"
+      ],
+      "director": "Chi-Leung Kwong, Hai Kit-Wai, William Chang",
+      "dop": "Andrew Lau, Christopher Doyle",
+      "colorist": "Joe Gawler",
+      "original_source": "",
+      "additional_info": "Chungking Express (1994)\nTwo melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.\nTechnique - Fast Motion , Motion Blur\nDirector - Wong Kar Wai\nDOP - Andrew Lau, Christopher Doyle\nEditor - Chi-Leung Kwong, Hai Kit-Wai, William Chang\nColorist - Joe Gawler\nRESTAURANT\nBLUE\nINTERIOR\nBAR",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384360.webp",
+      "alt_text": "Omega - Road to the Olympics",
+      "discovered_at": "2025-09-11T16:20:50.013125",
+      "title": "Omega - Road to the Olympics (2024)",
+      "description": "The \"Omega - Road to the Olympics 2024\" commercial celebrates Omega's role as the Official Timekeeper for the Paris 2024 Olympics, a position they've held since 1932. The commercial features athletes training and competing, emphasizing Omega's precision and innovation in timekeeping technology. It also highlights the launch of a special edition Seamaster watch, designed to commemorate the upcoming Olympics.",
+      "tags": [
+        "WATER",
+        "POOL",
+        "SPORTS",
+        "BLUE",
+        "ATHLETE",
+        "OLYMPICS",
+        "SWIMMING",
+        "MICHAEL PHELPS"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "Alexis Benot",
+      "dop": "Mathieu Plainfossé",
+      "colorist": "Vincent Amor",
+      "original_source": "",
+      "additional_info": "Omega - Road to the Olympics (2024)\nThe \"Omega - Road to the Olympics 2024\" commercial celebrates Omega's role as the Official Timekeeper for the Paris 2024 Olympics, a position they've held since 1932. The commercial features athletes training and competing, emphasizing Omega's precision and innovation in timekeeping technology. It also highlights the launch of a special edition Seamaster watch, designed to commemorate the upcoming Olympics.\nTechnique - Double Exposure , Echo print , Motion Blur\nDirector - Marius Gonzalez\nDOP - Mathieu Plainfossé\nEditor - Alexis Benot\nColorist - Vincent Amor\nWATER\nPOOL\nSPORTS\nBLUE\nATHLETE\nOLYMPICS\nSWIMMING\nMICHAEL PHELPS",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703108172.webp",
+      "alt_text": "Sampha - Sampha - Can't Go Back",
+      "discovered_at": "2025-09-11T16:20:54.200827",
+      "title": "Sampha - Sampha - Can't Go Back (2023)",
+      "description": "Directed by Saad Moosajee. An abstract visual journey centered around an eclipse.",
+      "tags": [
+        "BLUR",
+        "CLOSE UP",
+        "ABSTRACT",
+        "BLACK AND WHITE",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Motion Blur"
+      ],
+      "director": "Cabin Edit, Dylan Edwards",
+      "dop": "Maximilian Pittner",
+      "colorist": "No 8, Tim Smith",
+      "original_source": "",
+      "additional_info": "Sampha - Sampha - Can't Go Back (2023)\nDirected by Saad Moosajee. An abstract visual journey centered around an eclipse.\nTechnique - Motion Blur\nDirector - Saad Moosajee\nDOP - Maximilian Pittner\nEditor - Cabin Edit, Dylan Edwards\nColorist - No 8, Tim Smith\nBLUR\nCLOSE UP\nABSTRACT\nBLACK AND WHITE\nDARK",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643920.webp",
+      "alt_text": "Oblé Reed - WESTON.",
+      "discovered_at": "2025-09-11T16:20:58.480927",
+      "title": "Oblé Reed - WESTON. (2023)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "JACKET",
+        "ROAD",
+        "NIGHT",
+        "SPOTLIGHT",
+        "LETTERMAN JACKET"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Motion Blur",
+        "Spotlight",
+        "Ultra Wide"
+      ],
+      "director": "Nash Pearson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oblé Reed - WESTON. (2023)\nMusic video\nTechnique - Handheld , Motion Blur , Spotlight , Ultra Wide\nDirector - Nash Pearson\nEditor - Nash Pearson\nOriginal Source - Link\nMALE\nJACKET\nROAD\nNIGHT\nSPOTLIGHT\nLETTERMAN JACKET",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708402674.webp",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "discovered_at": "2025-09-11T16:21:02.138284",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby (2006)",
+      "description": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
+      "tags": [
+        "MOTION BLUR",
+        "RACING",
+        "EXTERIOR",
+        "STADIUM",
+        "CROWD",
+        "FANS",
+        "NASCAR",
+        "RACETRACK"
+      ],
+      "technique_tags": [
+        "Motion Blur",
+        "Tilt"
+      ],
+      "director": "Brent White",
+      "dop": "Oliver Wood",
+      "colorist": "Joe Finley",
+      "original_source": "",
+      "additional_info": "Talladega Nights: The Ballad of Ricky Bobby (2006)\nNumber one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.\nTechnique - Motion Blur , Tilt\nDirector - Adam McKay\nDOP - Oliver Wood\nEditor - Brent White\nColorist - Joe Finley\nOriginal Source - Link\nMOTION BLUR\nRACING\nEXTERIOR\nSTADIUM\nCROWD\nFANS\nNASCAR\nRACETRACK",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708402935.webp",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "discovered_at": "2025-09-11T16:21:05.285175",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby (2006)",
+      "description": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
+      "tags": [
+        "RACING",
+        "EXTERIOR",
+        "STADIUM",
+        "NASCAR",
+        "RACETRACK",
+        "RACE CAR"
+      ],
+      "technique_tags": [
+        "Motion Blur",
+        "Whip Transition"
+      ],
+      "director": "Brent White",
+      "dop": "Oliver Wood",
+      "colorist": "Joe Finley",
+      "original_source": "",
+      "additional_info": "Talladega Nights: The Ballad of Ricky Bobby (2006)\nNumber one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.\nTechnique - Motion Blur , Whip Transition\nDirector - Adam McKay\nDOP - Oliver Wood\nEditor - Brent White\nColorist - Joe Finley\nOriginal Source - Link\nRACING\nEXTERIOR\nSTADIUM\nNASCAR\nRACETRACK\nRACE CAR",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742372.webp",
+      "alt_text": "ONHA - KODAK",
+      "discovered_at": "2025-09-11T16:21:09.514631",
+      "title": "ONHA - KODAK (2024)",
+      "description": "The music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.",
+      "tags": [
+        "ONHA - KODAK (2024)",
+        "MALE",
+        "SPIN"
+      ],
+      "technique_tags": [
+        "Locked-on Lazy Susan",
+        "Motion Blur"
+      ],
+      "director": "M. Tikal",
+      "dop": "Virgil Leclercq",
+      "colorist": "Francois Dubois",
+      "original_source": "",
+      "additional_info": "ONHA - KODAK (2024)\nThe music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.\nTechnique - Locked-on Lazy Susan , Motion Blur\nDirector - Nitram\nDOP - Virgil Leclercq\nEditor - M. Tikal\nColorist - Francois Dubois\nOriginal Source - Link\nMALE\nSPIN",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334489.webp",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T16:21:13.186748",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "GROUP",
+        "CROWD",
+        "DUA LIPA"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Echo print , Motion Blur\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nGROUP\nCROWD\nDUA LIPA",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384475.webp",
+      "alt_text": "Omega - Road to the Olympics",
+      "discovered_at": "2025-09-11T16:21:17.935904",
+      "title": "Omega - Road to the Olympics (2024)",
+      "description": "The \"Omega - Road to the Olympics 2024\" commercial celebrates Omega's role as the Official Timekeeper for the Paris 2024 Olympics, a position they've held since 1932. The commercial features athletes training and competing, emphasizing Omega's precision and innovation in timekeeping technology. It also highlights the launch of a special edition Seamaster watch, designed to commemorate the upcoming Olympics.",
+      "tags": [
+        "WATER",
+        "POOL",
+        "SPORTS",
+        "BLUE",
+        "ATHLETE",
+        "OLYMPICS",
+        "SWIMMING",
+        "MICHAEL PHELPS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "Alexis Benot",
+      "dop": "Mathieu Plainfossé",
+      "colorist": "Vincent Amor",
+      "original_source": "",
+      "additional_info": "Omega - Road to the Olympics (2024)\nThe \"Omega - Road to the Olympics 2024\" commercial celebrates Omega's role as the Official Timekeeper for the Paris 2024 Olympics, a position they've held since 1932. The commercial features athletes training and competing, emphasizing Omega's precision and innovation in timekeeping technology. It also highlights the launch of a special edition Seamaster watch, designed to commemorate the upcoming Olympics.\nTechnique - Echo print , Motion Blur\nDirector - Marius Gonzalez\nDOP - Mathieu Plainfossé\nEditor - Alexis Benot\nColorist - Vincent Amor\nWATER\nPOOL\nSPORTS\nBLUE\nATHLETE\nOLYMPICS\nSWIMMING\nMICHAEL PHELPS",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709342610.webp",
+      "alt_text": "AJ Tracey - Wifey Riddim 4",
+      "discovered_at": "2025-09-11T16:21:22.632519",
+      "title": "AJ Tracey - Wifey Riddim 4 (2024)",
+      "description": "",
+      "tags": [
+        "YELLOW",
+        "NIGHT",
+        "TAXI",
+        "EXTERIOR",
+        "VEHICLE"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Fixed Cam",
+        "Motion Blur"
+      ],
+      "director": "Late Milk",
+      "dop": "Mike Koziel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJ Tracey - Wifey Riddim 4 (2024)\nTechnique - Fast Motion , Fixed Cam , Motion Blur\nDirector - Late Milk\nDOP - Mike Koziel\nOriginal Source - Link\nYELLOW\nNIGHT\nTAXI\nEXTERIOR\nVEHICLE",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710313059.webp",
+      "alt_text": "Carousel GIF by Dave Gorum",
+      "discovered_at": "2025-09-11T16:21:26.307831",
+      "title": "Carousel GIF by Dave Gorum (2015)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "CAROUSEL"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Fast Motion",
+        "Motion Blur"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Carousel GIF by Dave Gorum (2015)\nTechnique - Echo print , Fast Motion , Motion Blur\nOriginal Source - Link\nNIGHT\nEXTERIOR\nCAROUSEL",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708472556.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T16:21:30.492524",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "INTERIOR",
+        "LIL NAS X",
+        "RECORD STUDIO"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Fast Motion",
+        "Motion Blur",
+        "Ultra Wide"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Echo print , Fast Motion , Motion Blur , Ultra Wide\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nINTERIOR\nLIL NAS X\nRECORD STUDIO",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086989.webp",
+      "alt_text": "Chungking Express",
+      "discovered_at": "2025-09-11T16:21:34.134743",
+      "title": "Chungking Express (1994)",
+      "description": "Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.",
+      "tags": [
+        "NIGHT",
+        "TWO SHOT",
+        "EXTERIOR",
+        "FIGHT",
+        "VIOLENCE"
+      ],
+      "technique_tags": [
+        "Low Frame-rate",
+        "Motion Blur"
+      ],
+      "director": "Chi-Leung Kwong, Hai Kit-Wai, William Chang",
+      "dop": "Andrew Lau, Christopher Doyle",
+      "colorist": "Joe Gawler",
+      "original_source": "",
+      "additional_info": "Chungking Express (1994)\nTwo melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.\nTechnique - Low Frame-rate , Motion Blur\nDirector - Wong Kar Wai\nDOP - Andrew Lau, Christopher Doyle\nEditor - Chi-Leung Kwong, Hai Kit-Wai, William Chang\nColorist - Joe Gawler\nNIGHT\nTWO SHOT\nEXTERIOR\nFIGHT\nVIOLENCE",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710830498.webp",
+      "alt_text": "Aritzia - Sweatfleece",
+      "discovered_at": "2025-09-11T16:21:48.724419",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164076.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T16:21:51.839679",
+      "title": "Aritzia - Sweatfleece (2024)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "STUDIO",
+        "PHOTOGRAPHY",
+        "MODEL"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Motion Blur"
+      ],
+      "director": "Miloš Bogojevic",
+      "dop": "Thomas Marchese",
+      "colorist": "Dylan Hageman",
+      "original_source": "",
+      "additional_info": "Aritzia - Sweatfleece (2024)\nTechnique - Fast Motion , Motion Blur\nDirector - Miloš Bogojevic\nDOP - Thomas Marchese\nColorist - Dylan Hageman\nOriginal Source - Link\nINTERIOR\nSTUDIO\nPHOTOGRAPHY\nMODEL",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102742.webp",
+      "alt_text": "Watchtower of Turkey",
+      "discovered_at": "2025-09-11T16:21:55.487635",
+      "title": "Watchtower of Turkey (2014)",
+      "description": "Described as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.",
+      "tags": [
+        "BEACH",
+        "RUNNING",
+        "FEET"
+      ],
+      "technique_tags": [
+        "Motion Blur",
+        "Overhead Close-up"
+      ],
+      "director": "Leonardo Dalessandri",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Watchtower of Turkey (2014)\nDescribed as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.\nTechnique - Motion Blur , Overhead Close-up\nDirector - Leonardo Dalessandri\nOriginal Source - Link\nBEACH\nRUNNING\nFEET",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902361.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T16:21:58.616533",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "REFLECTIVE",
+        "GLOW"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Handheld",
+        "Motion Blur",
+        "Void"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Fast Motion , Handheld , Motion Blur , Void\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nNIGHT\nEXTERIOR\nREFLECTIVE\nGLOW",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702983797.webp",
+      "alt_text": "Heracles GIF By Hateplow",
+      "discovered_at": "2025-09-11T16:22:02.810546",
+      "title": "Heracles GIF By Hateplow (2015)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "3D animation",
+        "Motion Blur"
+      ],
+      "director": "hateplow",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Heracles GIF By Hateplow (2015)\nTechnique - 3D animation , Motion Blur\nDirector - hateplow\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709019597.webp",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "discovered_at": "2025-09-11T16:22:05.979688",
+      "title": "Snipes x Nike - The Cypher (2023)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "DANCE",
+        "CYPHER"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Motion Blur",
+        "Void"
+      ],
+      "director": "Alexis Benot, Eugène Signoret",
+      "dop": "Cesar Decharme",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Snipes x Nike - The Cypher (2023)\nTechnique - Arc , Motion Blur , Void\nDirector - Marius Gonzalez\nDOP - Cesar Decharme\nEditor - Alexis Benot, Eugène Signoret\nColorist - Arthur Paux\nOriginal Source - Link\nGROUP\nDANCE\nCYPHER",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334823.webp",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T16:22:09.653975",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "GROUP",
+        "CROWD",
+        "DUA LIPA"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Echo print , Motion Blur\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nGROUP\nCROWD\nDUA LIPA",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529358.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T16:22:13.317632",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Echo print , Motion Blur\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742331.webp",
+      "alt_text": "ONHA - KODAK",
+      "discovered_at": "2025-09-11T16:22:16.513887",
+      "title": "ONHA - KODAK (2024)",
+      "description": "The music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.",
+      "tags": [
+        "ONHA - KODAK (2024)",
+        "MALE",
+        "SPIN"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Locked-on Lazy Susan",
+        "Motion Blur"
+      ],
+      "director": "M. Tikal",
+      "dop": "Virgil Leclercq",
+      "colorist": "Francois Dubois",
+      "original_source": "",
+      "additional_info": "ONHA - KODAK (2024)\nThe music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.\nTechnique - Jump cut , Locked-on Lazy Susan , Motion Blur\nDirector - Nitram\nDOP - Virgil Leclercq\nEditor - M. Tikal\nColorist - Francois Dubois\nOriginal Source - Link\nMALE\nSPIN",
+      "page_url": "https://eyecannndy.com/technique/motion-blur"
+    }
+  ]
 }

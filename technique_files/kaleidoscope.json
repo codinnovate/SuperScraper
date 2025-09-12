@@ -1,6 +1,484 @@
 {
   "technique": "kaleidoscope",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.651205",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_152016",
+    "total_videos": 22,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705211550.webp",
+      "alt_text": "Waveform",
+      "discovered_at": "2025-09-11T15:18:27.957428",
+      "title": "Waveform (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "SUNSET",
+        "OCEAN",
+        "EXTERIOR",
+        "SURFING"
+      ],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "Stefan Nadelman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Waveform (2015)\nShort film directed by Stefan Nadelman, featuring an array of duplication techniques. You're seeing a kaleidescope-like effect where the footage has been duplicated and mirrored — akin to peering into a kaleidescope.\nTechnique - Kaleidoscope\nDirector - Stefan Nadelman\nOriginal Source - Link\nDAY\nSUNSET\nOCEAN\nEXTERIOR\nSURFING",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705211513.webp",
+      "alt_text": "Waveform",
+      "discovered_at": "2025-09-11T15:18:32.677472",
+      "title": "Waveform (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "OCEAN",
+        "EXTERIOR",
+        "SURFING"
+      ],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "Stefan Nadelman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Waveform (2015)\nShort film directed by Stefan Nadelman, featuring an array of duplication techniques. You're seeing a kaleidescope-like effect where the footage has been duplicated and mirrored — akin to peering into a kaleidescope.\nTechnique - Kaleidoscope\nDirector - Stefan Nadelman\nOriginal Source - Link\nDAY\nOCEAN\nEXTERIOR\nSURFING",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705822788.webp",
+      "alt_text": "Kevin McGloughlin for Max Cooper 'Repetition'",
+      "discovered_at": "2025-09-11T15:18:37.400723",
+      "title": "Kevin McGloughlin for Max Cooper 'Repetition' (2019)",
+      "description": "'Repetition' is an attempt to convey the importance of our endless endeavours toward human development and growth amidst a chaotic and disorienting landscape. The struggle for a fruitful future is challenging with the distractions of everyday life alongside its ever-growing technological 'advancements'. The hope is for humanity to strive through all of this in a meaningful and positive way.",
+      "tags": [],
+      "technique_tags": [
+        "Kaleidoscope",
+        "Object Duplication"
+      ],
+      "director": "Kevin McGloughlin",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin McGloughlin for Max Cooper 'Repetition' (2019)\n'Repetition' is an attempt to convey the importance of our endless endeavours toward human development and growth amidst a chaotic and disorienting landscape. The struggle for a fruitful future is challenging with the distractions of everyday life alongside its ever-growing technological 'advancements'. The hope is for humanity to strive through all of this in a meaningful and positive way.\nTechnique - Kaleidoscope , Object Duplication\nDirector - Kevin McGloughlin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703997863.webp",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "discovered_at": "2025-09-11T15:18:42.085503",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "description": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "tags": [
+        "WHITE",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "Kenny Shimm (Editor)",
+      "dop": "Chuk Town",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)\nTechnique - Kaleidoscope\nDirector - HIDJI WORLD\nDOP - Chuk Town\nEditor - Kenny Shimm (Editor)\nOriginal Source - Link\nWHITE\nVOID",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860699.webp",
+      "alt_text": "Waveform",
+      "discovered_at": "2025-09-11T15:18:46.281893",
+      "title": "Waveform (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "OCEAN",
+        "POLAROID",
+        "SURFING",
+        "STOP MOTION"
+      ],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "Stefan Nadelman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Waveform (2015)\nTechnique - Kaleidoscope\nDirector - Stefan Nadelman\nOriginal Source - Link\nDAY\nOCEAN\nPOLAROID\nSURFING\nSTOP MOTION",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705211827.webp",
+      "alt_text": "Clip by Natasha Chomko",
+      "discovered_at": "2025-09-11T15:18:50.492024",
+      "title": "Clip by Natasha Chomko",
+      "description": "Natasha Chomko is an artist and graphic designer known for her dizzying art pieces. In this case, you're seeing footage that has been duplicated and mirrored, giving a kaleidescope-like effect.",
+      "tags": [
+        "SURREALIST",
+        "ABSTRACT",
+        "SATURATED",
+        "SATURATION"
+      ],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "Natasha Chomko",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip by Natasha Chomko\nNatasha Chomko is an artist and graphic designer known for her dizzying art pieces. In this case, you're seeing footage that has been duplicated and mirrored, giving a kaleidescope-like effect.\nTechnique - Kaleidoscope\nDirector - Natasha Chomko\nSURREALIST\nABSTRACT\nSATURATED\nSATURATION",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705211535.webp",
+      "alt_text": "Waveform",
+      "discovered_at": "2025-09-11T15:18:55.233924",
+      "title": "Waveform (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "SUNSET",
+        "OCEAN",
+        "EXTERIOR",
+        "SURFING"
+      ],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "Stefan Nadelman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Waveform (2015)\nShort film directed by Stefan Nadelman, featuring an array of duplication techniques. You're seeing a kaleidescope-like effect where the footage has been duplicated and mirrored — akin to peering into a kaleidescope.\nTechnique - Kaleidoscope\nDirector - Stefan Nadelman\nOriginal Source - Link\nDAY\nSUNSET\nOCEAN\nEXTERIOR\nSURFING",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861327.webp",
+      "alt_text": "@pislices / IG",
+      "discovered_at": "2025-09-11T15:18:59.428129",
+      "title": "@pislices / IG",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "3D animation",
+        "Kaleidoscope"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@pislices / IG\nTechnique - 3D animation , Kaleidoscope\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702861407.webp",
+      "alt_text": "Unknown Source",
+      "discovered_at": "2025-09-11T15:19:03.638874",
+      "title": "Unknown Source",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "3D animation",
+        "Duplication",
+        "Kaleidoscope",
+        "Phenakistiscope"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Unknown Source\nKnow the source? Please email jacobi@eycndy.com\nTechnique - 3D animation , Duplication , Kaleidoscope , Phenakistiscope",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860743.webp",
+      "alt_text": "Waveform",
+      "discovered_at": "2025-09-11T15:19:13.537553",
+      "title": "Waveform (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "OCEAN",
+        "POLAROID",
+        "SURFING",
+        "STOP MOTION"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print",
+        "Kaleidoscope"
+      ],
+      "director": "Stefan Nadelman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Waveform (2015)\nTechnique - Duplication , Echo print , Kaleidoscope\nDirector - Stefan Nadelman\nOriginal Source - Link\nDAY\nOCEAN\nPOLAROID\nSURFING\nSTOP MOTION",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705211854.webp",
+      "alt_text": "Clip by Natasha Chomko",
+      "discovered_at": "2025-09-11T15:19:22.472963",
+      "title": "Clip by Natasha Chomko",
+      "description": "Natasha Chomko is an artist and graphic designer known for her dizzying art pieces. In this case, you're seeing footage that has been duplicated and mirrored, giving a kaleidescope-like effect.",
+      "tags": [
+        "SURREALIST",
+        "ABSTRACT",
+        "SATURATED",
+        "SATURATION"
+      ],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "Natasha Chomko",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip by Natasha Chomko\nNatasha Chomko is an artist and graphic designer known for her dizzying art pieces. In this case, you're seeing footage that has been duplicated and mirrored, giving a kaleidescope-like effect.\nTechnique - Kaleidoscope\nDirector - Natasha Chomko\nSURREALIST\nABSTRACT\nSATURATED\nSATURATION",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705212088.webp",
+      "alt_text": "Kathmandu - Summer Never Sleeps",
+      "discovered_at": "2025-09-11T15:19:27.720728",
+      "title": "Kathmandu - Summer Never Sleeps (2022)",
+      "description": "",
+      "tags": [
+        "FACE",
+        "DUPLICATION",
+        "CLOSE-UP"
+      ],
+      "technique_tags": [
+        "Kaleidoscope",
+        "Subtitles"
+      ],
+      "director": "Adam Wills",
+      "dop": "Jan David Günther",
+      "colorist": "Sarah Salzmann",
+      "original_source": "",
+      "additional_info": "Kathmandu - Summer Never Sleeps (2022)\nTechnique - Kaleidoscope , Subtitles\nDirector - Daniel Warwick\nDOP - Jan David Günther\nEditor - Adam Wills\nColorist - Sarah Salzmann\nOriginal Source - Link\nFACE\nDUPLICATION\nCLOSE-UP",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705211929.webp",
+      "alt_text": "Clip by A.L. Crego",
+      "discovered_at": "2025-09-11T15:19:32.951607",
+      "title": "Clip by A.L. Crego",
+      "description": "",
+      "tags": [
+        "BIKE",
+        "BLACK AND WHITE",
+        "BIKING",
+        "BICYCLE"
+      ],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "A. L. Crego",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip by A.L. Crego\nTechnique - Kaleidoscope\nDirector - A. L. Crego\nBIKE\nBLACK AND WHITE\nBIKING\nBICYCLE",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163825.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T15:19:38.747235",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [
+        "DANCING",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Kaleidoscope",
+        "Void"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Choreo , Kaleidoscope , Void\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link\nDANCING\nVOID",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705212099.webp",
+      "alt_text": "Kathmandu - Summer Never Sleeps",
+      "discovered_at": "2025-09-11T15:19:43.457209",
+      "title": "Kathmandu - Summer Never Sleeps (2022)",
+      "description": "",
+      "tags": [
+        "FACE",
+        "DUPLICATION",
+        "CLOSE-UP"
+      ],
+      "technique_tags": [
+        "Kaleidoscope",
+        "Subtitles"
+      ],
+      "director": "Adam Wills",
+      "dop": "Jan David Günther",
+      "colorist": "Sarah Salzmann",
+      "original_source": "",
+      "additional_info": "Kathmandu - Summer Never Sleeps (2022)\nTechnique - Kaleidoscope , Subtitles\nDirector - Daniel Warwick\nDOP - Jan David Günther\nEditor - Adam Wills\nColorist - Sarah Salzmann\nOriginal Source - Link\nFACE\nDUPLICATION\nCLOSE-UP",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163965.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T15:19:48.691973",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [
+        "DANCING",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Kaleidoscope",
+        "Void"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Duplication , Kaleidoscope , Void\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link\nDANCING\nVOID",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705212008.webp",
+      "alt_text": "Clip by Chris Cubellis",
+      "discovered_at": "2025-09-11T15:19:52.874972",
+      "title": "Clip by Chris Cubellis",
+      "description": "",
+      "tags": [
+        "DAY",
+        "BEACH",
+        "SAND",
+        "EXTERIOR",
+        "PALM TREE"
+      ],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "Chris Cubellis",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip by Chris Cubellis\nTechnique - Kaleidoscope\nDirector - Chris Cubellis\nDAY\nBEACH\nSAND\nEXTERIOR\nPALM TREE",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164016.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T15:19:57.587221",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [
+        "DANCING",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Kaleidoscope",
+        "Void"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Echo print , Kaleidoscope , Void\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link\nDANCING\nVOID",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163864.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T15:20:03.858939",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [
+        "DANCING",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Datamosh",
+        "Glitch",
+        "Kaleidoscope",
+        "Void"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Choreo , Datamosh , Glitch , Kaleidoscope , Void\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link\nDANCING\nVOID",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709534460.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T15:20:07.505869",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE",
+        "EYES"
+      ],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Kaleidoscope\nBLACK AND WHITE\nEYES",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704621668.webp",
+      "alt_text": "Turning Live Action GIF By Dyan Jong",
+      "discovered_at": "2025-09-11T15:20:11.704015",
+      "title": "Turning Live Action GIF By Dyan Jong (2016)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "Dylan Jong",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Turning Live Action GIF By Dyan Jong (2016)\nTechnique - Kaleidoscope\nDirector - Dylan Jong\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705211844.webp",
+      "alt_text": "Clip by Natasha Chomko",
+      "discovered_at": "2025-09-11T15:20:15.901016",
+      "title": "Clip by Natasha Chomko",
+      "description": "Natasha Chomko is an artist and graphic designer known for her dizzying art pieces. In this case, you're seeing footage that has been duplicated and mirrored, giving a kaleidescope-like effect.",
+      "tags": [
+        "SURREALIST",
+        "ABSTRACT",
+        "SATURATED",
+        "SATURATION"
+      ],
+      "technique_tags": [
+        "Kaleidoscope"
+      ],
+      "director": "Natasha Chomko",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip by Natasha Chomko\nNatasha Chomko is an artist and graphic designer known for her dizzying art pieces. In this case, you're seeing footage that has been duplicated and mirrored, giving a kaleidescope-like effect.\nTechnique - Kaleidoscope\nDirector - Natasha Chomko\nSURREALIST\nABSTRACT\nSATURATED\nSATURATION",
+      "page_url": "https://eyecannndy.com/technique/kaleidoscope"
+    }
+  ]
 }

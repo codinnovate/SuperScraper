@@ -1,6 +1,797 @@
 {
   "technique": "pedestal",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.653772",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250912_002911",
+    "total_videos": 33,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706478966.webp",
+      "alt_text": "Paramount - Scream VI",
+      "discovered_at": "2025-09-12T00:27:22.922334",
+      "title": "Paramount - Scream VI (2023)",
+      "description": "In the next installment, the survivors of the Ghostface killings leave Woodsboro behind and start a fresh chapter in New York City.",
+      "tags": [
+        "NIGHT",
+        "WINDOW",
+        "EXTERIOR",
+        "APARTMENT"
+      ],
+      "technique_tags": [
+        "Pedestal"
+      ],
+      "director": "Evan Larsen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Paramount - Scream VI (2023)\nIn the next installment, the survivors of the Ghostface killings leave Woodsboro behind and start a fresh chapter in New York City.\nTechnique - Pedestal\nDirector - Evan Larsen\nOriginal Source - Link\nNIGHT\nWINDOW\nEXTERIOR\nAPARTMENT",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705112280.webp",
+      "alt_text": "Instagram - Yours to Make",
+      "discovered_at": "2025-09-12T00:27:26.553522",
+      "title": "Instagram - Yours to Make (2021)",
+      "description": "",
+      "tags": [
+        "SPOTLIGHT",
+        "BATHTUB",
+        "CLAPPING"
+      ],
+      "technique_tags": [
+        "Pedestal",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Cabin Edit, Robert Lopuski",
+      "dop": "Oliver Millar",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Instagram - Yours to Make (2021)\nDirector: rubberband Production Company: SMUGGLER Executive Producers: Patrick John Milling-Smith, Brian Carmody, Sue Yeon Ahn COO: Andrew Colon Head of Production: Alex Hughes Producer: Carmen Bosley Director of Photography: Oliver Millar Production Designer: Miranda Lorenz Stylist: Eric Mcneal Hair Stylist: Jayson Medina Makeup Artist: Jenn Hanching\nTechnique - Pedestal , Spotlight , Void\nDirector - rubberband\nDOP - Oliver Millar\nEditor - Cabin Edit, Robert Lopuski\nOriginal Source - Link\nSPOTLIGHT\nBATHTUB\nCLAPPING",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403949.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-12T00:27:29.656305",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. We'd identify this clip as a pedestal shot VFX breakdown. As we ascend higher, the post-production begins to fall away until all that is left is the studio it was shot in.",
+      "tags": [
+        "STUDIO",
+        "VFX",
+        "BREAKDOWN",
+        "GREEN SCREEN"
+      ],
+      "technique_tags": [
+        "BTS",
+        "Pedestal"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. We'd identify this clip as a pedestal shot VFX breakdown. As we ascend higher, the post-production begins to fall away until all that is left is the studio it was shot in.\nTechnique - BTS , Pedestal\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nSTUDIO\nVFX\nBREAKDOWN\nGREEN SCREEN",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344021.webp",
+      "alt_text": "Fantastic Mr. Fox",
+      "discovered_at": "2025-09-12T00:27:32.774098",
+      "title": "Fantastic Mr. Fox (2009)",
+      "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "NEWS",
+        "DIGGING",
+        "EXCAVATOR",
+        "CONSTRUCTION"
+      ],
+      "technique_tags": [
+        "Diorama",
+        "Intertitles",
+        "Pedestal",
+        "Stop Motion"
+      ],
+      "director": "Ralph Foster, Stephen Perkins",
+      "dop": "Tristan Oliver",
+      "colorist": "Max Horton",
+      "original_source": "",
+      "additional_info": "Fantastic Mr. Fox (2009)\nAn urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.\nTechnique - Diorama , Intertitles , Pedestal , Stop Motion\nDirector - Wes Anderson\nDOP - Tristan Oliver\nEditor - Ralph Foster, Stephen Perkins\nColorist - Max Horton\nNIGHT\nEXTERIOR\nNEWS\nDIGGING\nEXCAVATOR\nCONSTRUCTION",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711345089.webp",
+      "alt_text": "Fantastic Mr. Fox",
+      "discovered_at": "2025-09-12T00:27:35.898118",
+      "title": "Fantastic Mr. Fox (2009)",
+      "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+      "tags": [],
+      "technique_tags": [
+        "Pedestal",
+        "Stop Motion"
+      ],
+      "director": "Ralph Foster, Stephen Perkins",
+      "dop": "Tristan Oliver",
+      "colorist": "Max Horton",
+      "original_source": "",
+      "additional_info": "Fantastic Mr. Fox (2009)\nAn urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.\nTechnique - Pedestal , Stop Motion\nDirector - Wes Anderson\nDOP - Tristan Oliver\nEditor - Ralph Foster, Stephen Perkins\nColorist - Max Horton",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400658.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-12T00:27:39.560667",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. This shot begins with a pedestal upwards into an analogue glitch. It transitions into a traditional trucking shot right but with one of the skaters duplicating near the end.",
+      "tags": [
+        "DARK",
+        "GLITCH",
+        "SODIUM LIGHTS",
+        "WARM WHITE",
+        "AMATEUR",
+        "ANALOGUE"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Feedback",
+        "Pedestal",
+        "Trucking"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. This shot begins with a pedestal upwards into an analogue glitch. It transitions into a traditional trucking shot right but with one of the skaters duplicating near the end.\nTechnique - Duplication , Feedback , Pedestal , Trucking\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nDARK\nGLITCH\nSODIUM LIGHTS\nWARM WHITE\nAMATEUR\nANALOGUE",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703405911.webp",
+      "alt_text": "Come Together: A Fashion Picture in Motion",
+      "discovered_at": "2025-09-12T00:27:42.696503",
+      "title": "Come Together: A Fashion Picture in Motion (2016)",
+      "description": "Lone passengers are traveling to join their loved ones for the Christmas holiday, but winter weather conspires to way-lay them.",
+      "tags": [
+        "GREEN",
+        "INTERIOR",
+        "PEDESTAL"
+      ],
+      "technique_tags": [
+        "Pedestal",
+        "Tableau"
+      ],
+      "director": "Joe Guest",
+      "dop": "Bruno Delbonnel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Come Together: A Fashion Picture in Motion (2016)\nLone passengers are traveling to join their loved ones for the Christmas holiday, but winter weather conspires to way-lay them.\nTechnique - Pedestal , Tableau\nDirector - Wes Anderson\nDOP - Bruno Delbonnel\nEditor - Joe Guest\nOriginal Source - Link\nTutorial - Link\nGREEN\nINTERIOR\nPEDESTAL",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703406371.webp",
+      "alt_text": "Moonrise Kingdom",
+      "discovered_at": "2025-09-12T00:27:46.350677",
+      "title": "Moonrise Kingdom (2012)",
+      "description": "A whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.",
+      "tags": [
+        "WHITE",
+        "FILM",
+        "16MM",
+        "ZEISS SUPER SPEED",
+        "MUTED",
+        "WARM WHITE",
+        "AATON AMINIMA"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Pedestal"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Tim Stipan",
+      "original_source": "",
+      "additional_info": "Moonrise Kingdom (2012)\nA whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.\nTechnique - 1960s , Pedestal\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Tim Stipan\nWHITE\nFILM\n16MM\n1.85\nZEISS SUPER SPEED\nMUTED\nWARM WHITE\nAATON AMINIMA",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709969749.webp",
+      "alt_text": "Emporio Armani SS24 Campaign",
+      "discovered_at": "2025-09-12T00:27:50.008809",
+      "title": "Emporio Armani SS24 Campaign (2024)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Pedestal",
+        "Scale Shift"
+      ],
+      "director": "Amedeo Zancanella",
+      "dop": "Francesco Bartoli Avveduti",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Emporio Armani SS24 Campaign (2024)\n2024 advert for Emporio Armani from director Amedeo Zancanella. Starring Barbara Palvin & Patrick Schwarzenegger. Choreography from Olivier Casamayou.\nTechnique - Pedestal , Scale Shift\nDirector - Amedeo Zancanella\nDOP - Francesco Bartoli Avveduti\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703406456.webp",
+      "alt_text": "Scott Pilgrim vs. the World",
+      "discovered_at": "2025-09-12T00:27:53.152614",
+      "title": "Scott Pilgrim vs. the World (2010)",
+      "description": "In this offbeat romantic comedy, Michael Cera is Scott Pilgrim, the underachieving musician on a quest to win a record deal by facing off against seven evil exes to impress his girlfriend, Ramona Flowers (Mary Elizabeth Winstead). Because nothing says love like defeating exes in epic bass battles—just your typical, everyday relationship hurdles.",
+      "tags": [
+        "MUSIC",
+        "INTERIOR",
+        "BAND"
+      ],
+      "technique_tags": [
+        "Pedestal"
+      ],
+      "director": "Jonathan Amos",
+      "dop": "Bill Pope",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Scott Pilgrim vs. the World (2010)\nIn this offbeat romantic comedy, Michael Cera is Scott Pilgrim, the underachieving musician on a quest to win a record deal by facing off against seven evil exes to impress his girlfriend, Ramona Flowers (Mary Elizabeth Winstead). Because nothing says love like defeating exes in epic bass battles—just your typical, everyday relationship hurdles.\nTechnique - Pedestal\nDirector - Edgar Wright\nDOP - Bill Pope\nEditor - Jonathan Amos\nTutorial - Link\nMUSIC\nINTERIOR\nBAND",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385291.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-12T00:27:56.804171",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
+      "tags": [
+        "DAY",
+        "GOLD",
+        "WES ANDERSON",
+        "INTERIOR",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "DESERT",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "CYAN"
+      ],
+      "technique_tags": [
+        "1950s",
+        "Pedestal",
+        "Wide shot"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.\nTechnique - 1950s , Pedestal , Wide shot\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nDAY\nGOLD\nWES ANDERSON\nINTERIOR\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nDESERT\nARRICAM LT\nARRICAM ST\nCYAN",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703402298.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-12T00:27:59.946844",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. We'd categorize this shot as an extreme iteration of the pedestal shot.",
+      "tags": [
+        "PURPLE",
+        "SHOES",
+        "ADIDAS"
+      ],
+      "technique_tags": [
+        "Pedestal"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. We'd categorize this shot as an extreme iteration of the pedestal shot.\nTechnique - Pedestal\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nPURPLE\nSHOES\nADIDAS",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400196.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-12T00:28:03.088704",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. This shot features an upward moving Trucking Pedestal in conjunction with Duplication and a wipe transition near the end, using the pillars as a device to change characters. Unlike Conveyor shots, which move left to right along a dolly track, the pedestal moves up and down, either practically (or like in this example) with the help of post-production VFX.",
+      "tags": [
+        "INTERIOR",
+        "PEDESTAL"
+      ],
+      "technique_tags": [
+        "Pedestal",
+        "Trucking"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. This shot features an upward moving Trucking Pedestal in conjunction with Duplication and a wipe transition near the end, using the pillars as a device to change characters. Unlike Conveyor shots, which move left to right along a dolly track, the pedestal moves up and down, either practically (or like in this example) with the help of post-production VFX.\nTechnique - Pedestal , Trucking\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nINTERIOR\nPEDESTAL",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703406738.webp",
+      "alt_text": "Sorry to Bother You",
+      "discovered_at": "2025-09-12T00:28:06.231875",
+      "title": "Sorry to Bother You (2018)",
+      "description": "In an alternate present-day version of Oakland, telemarketer Cassius Green discovers a magical key to professional success, propelling him into a universe of greed.",
+      "tags": [
+        "ARRI ALEXA MINI",
+        "ANAMORPHIC",
+        "3.2K / 3.2K ARRIRAW",
+        "COOKE"
+      ],
+      "technique_tags": [
+        "Pedestal"
+      ],
+      "director": "Terel Gibson",
+      "dop": "Doug Emmett",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "Sorry to Bother You (2018)\nIn an alternate present-day version of Oakland, telemarketer Cassius Green discovers a magical key to professional success, propelling him into a universe of greed.\nTechnique - Pedestal\nDirector - Boots Riley\nDOP - Doug Emmett\nEditor - Terel Gibson\nColorist - Sam Daley\nARRI ALEXA MINI\n2.39\nANAMORPHIC\n3.2K / 3.2K ARRIRAW\nCOOKE",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401107.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-12T00:28:09.367258",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. This shot features a combination of a pedestal shot and an analogue glitch, reminiscent of late 90s television static.",
+      "tags": [
+        "GREEN",
+        "DARK",
+        "SKATING",
+        "SKATEBOARD",
+        "GLITCH",
+        "SODIUM LIGHTS",
+        "WARM WHITE",
+        "AMATEUR",
+        "ANALOGUE",
+        "CAMCORDER"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Pedestal"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. This shot features a combination of a pedestal shot and an analogue glitch, reminiscent of late 90s television static.\nTechnique - Feedback , Pedestal\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nGREEN\nDARK\nSKATING\nSKATEBOARD\nGLITCH\nSODIUM LIGHTS\nWARM WHITE\nAMATEUR\nANALOGUE\nCAMCORDER",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343806.webp",
+      "alt_text": "Fantastic Mr. Fox",
+      "discovered_at": "2025-09-12T00:28:12.513028",
+      "title": "Fantastic Mr. Fox (2009)",
+      "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+      "tags": [
+        "TUNNEL",
+        "ANIMALS",
+        "DIGGING"
+      ],
+      "technique_tags": [
+        "Pedestal",
+        "Stop Motion",
+        "Trucking"
+      ],
+      "director": "Ralph Foster, Stephen Perkins",
+      "dop": "Tristan Oliver",
+      "colorist": "Max Horton",
+      "original_source": "",
+      "additional_info": "Fantastic Mr. Fox (2009)\nAn urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.\nTechnique - Pedestal , Stop Motion , Trucking\nDirector - Wes Anderson\nDOP - Tristan Oliver\nEditor - Ralph Foster, Stephen Perkins\nColorist - Max Horton\nTUNNEL\nANIMALS\nDIGGING",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384537.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-12T00:28:15.674652",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
+      "tags": [
+        "DAY",
+        "WES ANDERSON",
+        "EXTERIOR",
+        "SATURATED",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "DESERT",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "CYAN"
+      ],
+      "technique_tags": [
+        "1950s",
+        "Pedestal"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.\nTechnique - 1950s , Pedestal\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nDAY\nWES ANDERSON\nEXTERIOR\nSATURATED\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nDESERT\nARRICAM LT\nARRICAM ST\nCYAN",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706479076.webp",
+      "alt_text": "Scott Pilgrim vs. the World",
+      "discovered_at": "2025-09-12T00:28:19.337510",
+      "title": "Scott Pilgrim vs. the World (2010)",
+      "description": "In this offbeat romantic comedy, Michael Cera is Scott Pilgrim, the underachieving musician on a quest to win a record deal by facing off against seven evil exes to impress his girlfriend, Ramona Flowers (Mary Elizabeth Winstead). Because nothing says love like defeating exes in epic bass battles—just your typical, everyday relationship hurdles.",
+      "tags": [
+        "INTERIOR",
+        "BAND",
+        "JAM SESSON"
+      ],
+      "technique_tags": [
+        "Pedestal"
+      ],
+      "director": "Jonathan Amos",
+      "dop": "Bill Pope",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Scott Pilgrim vs. the World (2010)\nIn this offbeat romantic comedy, Michael Cera is Scott Pilgrim, the underachieving musician on a quest to win a record deal by facing off against seven evil exes to impress his girlfriend, Ramona Flowers (Mary Elizabeth Winstead). Because nothing says love like defeating exes in epic bass battles—just your typical, everyday relationship hurdles.\nTechnique - Pedestal\nDirector - Edgar Wright\nDOP - Bill Pope\nEditor - Jonathan Amos\nTutorial - Link\nINTERIOR\nBAND\nJAM SESSON",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075513.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-12T00:28:22.997508",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Tilt down + trucking right",
+      "tags": [
+        "WOMAN",
+        "CAR",
+        "DRIVING",
+        "SUNSET",
+        "PHONE",
+        "TRANSITION"
+      ],
+      "technique_tags": [
+        "Pedestal",
+        "Seamless Transition",
+        "Transitions"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Tilt down + trucking right\nTechnique - Pedestal , Seamless Transition , Transitions\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nWOMAN\nCAR\nDRIVING\nSUNSET\nPHONE\nTRANSITION",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706478545.webp",
+      "alt_text": "Film4 Idents Full Set",
+      "discovered_at": "2025-09-12T00:28:26.129810",
+      "title": "Film4 Idents Full Set (2016)",
+      "description": "",
+      "tags": [
+        "DUSK",
+        "EXTERIOR",
+        "DARK",
+        "GAS STATION"
+      ],
+      "technique_tags": [
+        "Pedestal"
+      ],
+      "director": "Man vs Machine",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Film4 Idents Full Set (2016)\nTechnique - Pedestal\nDirector - Man vs Machine\nDUSK\nEXTERIOR\nDARK\nGAS STATION",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703406396.webp",
+      "alt_text": "Moonrise Kingdom",
+      "discovered_at": "2025-09-12T00:28:30.305311",
+      "title": "Moonrise Kingdom (2012)",
+      "description": "A whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.",
+      "tags": [
+        "NIGHT",
+        "BLUE",
+        "EXTERIOR",
+        "DARK",
+        "SILHOUETTE",
+        "FILM",
+        "TILT",
+        "16MM",
+        "ZEISS SUPER SPEED",
+        "AATON AMINIMA"
+      ],
+      "technique_tags": [
+        "Pedestal",
+        "Tilt"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Tim Stipan",
+      "original_source": "",
+      "additional_info": "Moonrise Kingdom (2012)\nA whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.\nTechnique - Pedestal , Tilt\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Tim Stipan\nNIGHT\nBLUE\nEXTERIOR\nDARK\nSILHOUETTE\nFILM\nTILT\n16MM\n1.85\nZEISS SUPER SPEED\nAATON AMINIMA",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710025458.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T00:28:33.436823",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "CAR",
+        "DRIVING",
+        "MIRROR",
+        "EXTERIOR",
+        "DRIVER"
+      ],
+      "technique_tags": [
+        "First-Person",
+        "Handheld",
+        "Pedestal"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - First-Person , Handheld , Pedestal\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nCAR\nDRIVING\nMIRROR\nEXTERIOR\nDRIVER",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702873165.webp",
+      "alt_text": "Salomon - Tomorrow is yours",
+      "discovered_at": "2025-09-12T00:28:37.062324",
+      "title": "Salomon - Tomorrow is yours (2022)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Pedestal",
+        "Wipe Transition"
+      ],
+      "director": "Jon Echeveste",
+      "dop": "Olmo Sobrino, Téva Vasseur",
+      "colorist": "Sylvain Canaux",
+      "original_source": "",
+      "additional_info": "Salomon - Tomorrow is yours (2022)\nTechnique - Pedestal , Wipe Transition\nDirector - Valentin Petit\nDOP - Olmo Sobrino, Téva Vasseur\nEditor - Jon Echeveste\nColorist - Sylvain Canaux\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703405367.webp",
+      "alt_text": "Come Together: A Fashion Picture in Motion",
+      "discovered_at": "2025-09-12T00:28:40.209082",
+      "title": "Come Together: A Fashion Picture in Motion (2016)",
+      "description": "Lone passengers are traveling to join their loved ones for the Christmas holiday, but winter weather conspires to way-lay them. In this clip, we see a combination of a conveyor and pedestal shot.",
+      "tags": [
+        "EXTERIOR",
+        "TRAIN",
+        "CONDUCTOR",
+        "CONVEYOR",
+        "COOL WHITE"
+      ],
+      "technique_tags": [
+        "Pedestal"
+      ],
+      "director": "Joe Guest",
+      "dop": "Bruno Delbonnel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Come Together: A Fashion Picture in Motion (2016)\nLone passengers are traveling to join their loved ones for the Christmas holiday, but winter weather conspires to way-lay them. In this clip, we see a combination of a conveyor and pedestal shot.\nTechnique - Pedestal\nDirector - Wes Anderson\nDOP - Bruno Delbonnel\nEditor - Joe Guest\nOriginal Source - Link\nTutorial - Link\nEXTERIOR\nTRAIN\nCONDUCTOR\nCONVEYOR\nCOOL WHITE",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344164.webp",
+      "alt_text": "Fantastic Mr. Fox",
+      "discovered_at": "2025-09-12T00:28:43.846871",
+      "title": "Fantastic Mr. Fox (2009)",
+      "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+      "tags": [
+        "GROUND",
+        "TUNNEL",
+        "UNDERGROUND"
+      ],
+      "technique_tags": [
+        "Diorama",
+        "Pedestal",
+        "Stop Motion"
+      ],
+      "director": "Ralph Foster, Stephen Perkins",
+      "dop": "Tristan Oliver",
+      "colorist": "Max Horton",
+      "original_source": "",
+      "additional_info": "Fantastic Mr. Fox (2009)\nAn urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.\nTechnique - Diorama , Pedestal , Stop Motion\nDirector - Wes Anderson\nDOP - Tristan Oliver\nEditor - Ralph Foster, Stephen Perkins\nColorist - Max Horton\nGROUND\nTUNNEL\nUNDERGROUND",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705098696.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-12T00:28:47.507226",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "INTERIOR",
+        "TUNNEL",
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Pedestal"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Pedestal\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nTUNNEL\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704383512.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-12T00:28:50.664432",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
+      "tags": [
+        "WES ANDERSON",
+        "BLACK AND WHITE",
+        "SPOTLIGHT",
+        "SEPIA",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "STAGE"
+      ],
+      "technique_tags": [
+        "Pedestal",
+        "Vintage"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.\nTechnique - Pedestal , Vintage\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nWES ANDERSON\nBLACK AND WHITE\nSPOTLIGHT\nSEPIA\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nARRICAM LT\nARRICAM ST\nSTAGE",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703406346.webp",
+      "alt_text": "Moonrise Kingdom",
+      "discovered_at": "2025-09-12T00:28:54.842159",
+      "title": "Moonrise Kingdom (2012)",
+      "description": "A whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.",
+      "tags": [
+        "WHITE",
+        "FILM",
+        "16MM",
+        "ZEISS SUPER SPEED",
+        "MUTED",
+        "AATON AMINIMA"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Pedestal"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Tim Stipan",
+      "original_source": "",
+      "additional_info": "Moonrise Kingdom (2012)\nA whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.\nTechnique - 1960s , Pedestal\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Tim Stipan\nWHITE\nFILM\n16MM\n1.85\nZEISS SUPER SPEED\nMUTED\nAATON AMINIMA",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703060084.webp",
+      "alt_text": "The French Dispatch",
+      "discovered_at": "2025-09-12T00:28:58.500641",
+      "title": "The French Dispatch (2021)",
+      "description": "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".",
+      "tags": [
+        "CLOSE UP",
+        "WES ANDERSON",
+        "BLACK AND WHITE",
+        "EXTREME WIDE",
+        "WILLEM DAFOE",
+        "35MM",
+        "COOKE S4/ I",
+        "GARETH SPENSLEY",
+        "ROBERT D. YEOMAN",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "ARRIFLEX 235",
+        "ANDREW WEISBLUM",
+        "CONVEYOR"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Close-Up",
+        "Pedestal",
+        "Suspicion"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "The French Dispatch (2021)\nA love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".\nTechnique - 1960s , Close-Up , Pedestal , Suspicion\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Gareth Spensley\nCLOSE UP\nWES ANDERSON\nBLACK AND WHITE\nEXTREME WIDE\nWILLEM DAFOE\n35MM\nCOOKE S4/ I\nGARETH SPENSLEY\nROBERT D. YEOMAN\nARRICAM LT\nARRICAM ST\nARRIFLEX 235\n1.37\nANDREW WEISBLUM\nCONVEYOR",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703406511.webp",
+      "alt_text": "Art by Paul Trillo",
+      "discovered_at": "2025-09-12T00:29:01.636619",
+      "title": "Art by Paul Trillo",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "BUILDING",
+        "BRICK"
+      ],
+      "technique_tags": [
+        "Pedestal"
+      ],
+      "director": "Paul Trillo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Paul Trillo\nTechnique - Pedestal\nDirector - Paul Trillo\nDAY\nEXTERIOR\nBUILDING\nBRICK",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329792.webp",
+      "alt_text": "Graubünden - Best Version (DC)",
+      "discovered_at": "2025-09-12T00:29:05.279364",
+      "title": "Graubünden - Best Version (DC) (2024)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Pedestal"
+      ],
+      "director": "Thomas Cervenca",
+      "dop": "Pierre Castillo Bernad",
+      "colorist": "Nurali Kushkov",
+      "original_source": "",
+      "additional_info": "Graubünden - Best Version (DC) (2024)\nTechnique - Pedestal\nDirector - Maximilian Speidel\nDOP - Pierre Castillo Bernad\nEditor - Thomas Cervenca\nColorist - Nurali Kushkov\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706479030.webp",
+      "alt_text": "Moonrise Kingdom",
+      "discovered_at": "2025-09-12T00:29:08.405275",
+      "title": "Moonrise Kingdom (2012)",
+      "description": "A whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.",
+      "tags": [
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Pedestal"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Tim Stipan",
+      "original_source": "",
+      "additional_info": "Moonrise Kingdom (2012)\nA whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.\nTechnique - 1960s , Pedestal\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Tim Stipan\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704940729.webp",
+      "alt_text": "Flybuys - Give a Flybuys",
+      "discovered_at": "2025-09-12T00:29:11.535002",
+      "title": "Flybuys - Give a Flybuys (2021)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "GOLDFISH",
+        "PEDESTAL",
+        "FISH TANK"
+      ],
+      "technique_tags": [
+        "Pedestal",
+        "Underwater"
+      ],
+      "director": "Leila Gaabi",
+      "dop": "",
+      "colorist": "Fergus Rotherham",
+      "original_source": "",
+      "additional_info": "Flybuys - Give a Flybuys (2021)\nTechnique - Pedestal , Underwater\nDirector - Sanjay De Silva\nEditor - Leila Gaabi\nColorist - Fergus Rotherham\nDAY\nINTERIOR\nGOLDFISH\nPEDESTAL\nFISH TANK",
+      "page_url": "https://eyecannndy.com/technique/pedestal"
+    }
+  ]
 }

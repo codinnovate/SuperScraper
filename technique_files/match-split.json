@@ -1,6 +1,1244 @@
 {
   "technique": "match-split",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.652341",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_161149",
+    "total_videos": 57,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703479775.webp",
+      "alt_text": "Nike - The Ball Makes Us More",
+      "discovered_at": "2025-09-11T16:08:20.777286",
+      "title": "Nike - The Ball Makes Us More (2018)",
+      "description": "",
+      "tags": [
+        "SPORTS",
+        "SOCCER",
+        "JERSEY"
+      ],
+      "technique_tags": [
+        "Match Split",
+        "Subtitles"
+      ],
+      "director": "Wally Pfister",
+      "dop": "",
+      "colorist": "Daniel De Vue",
+      "original_source": "",
+      "additional_info": "Nike - The Ball Makes Us More (2018)\nBirds-eye overhead + frame division\nTechnique - Match Split , Subtitles\nDirector - Wally Pfister\nColorist - Daniel De Vue\nOriginal Source - Link\nSPORTS\nSOCCER\nJERSEY",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703460828.webp",
+      "alt_text": "Instagram - Coeur Sur Toi",
+      "discovered_at": "2025-09-11T16:08:24.977789",
+      "title": "Instagram - Coeur Sur Toi (2019)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "BRIGHT",
+        "ICE CREAM"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "CANADA, Nicolás Méndez",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Instagram - Coeur Sur Toi (2019)\nTechnique - Match Split\nDirector - CANADA, Nicolás Méndez\nOriginal Source - Link\nDAY\nEXTERIOR\nBRIGHT\nICE CREAM",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401194.webp",
+      "alt_text": "JJ DOOM - GUV'NOR",
+      "discovered_at": "2025-09-11T16:08:27.935540",
+      "title": "JJ DOOM - GUV'NOR (2012)",
+      "description": "",
+      "tags": [
+        "JJ DOOM - GUV'NOR (2012)",
+        "DAY",
+        "INTERIOR",
+        "TRACKING",
+        "BIKING",
+        "MASK",
+        "BICYCLE",
+        "MF DOOM"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Ninian Doff",
+      "dop": "Ben Fordesman",
+      "colorist": "Jack Jones",
+      "original_source": "",
+      "additional_info": "JJ DOOM - GUV'NOR (2012)\nNow iconic music video from director Ninian Doff featuring two shots merged together, creating a match split shot. Produced by Pulse Films.\nTechnique - Match Split\nDirector - Ninian Doff\nDOP - Ben Fordesman\nColorist - Jack Jones\nOriginal Source - Link\nDAY\nINTERIOR\nTRACKING\nBIKING\nMASK\nBICYCLE\nMF DOOM",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703460802.webp",
+      "alt_text": "Instagram - Coeur Sur Toi",
+      "discovered_at": "2025-09-11T16:08:31.576695",
+      "title": "Instagram - Coeur Sur Toi (2019)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WALKING",
+        "EXTERIOR",
+        "TRACKING",
+        "BRIGHT"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "CANADA, Nicolás Méndez",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Instagram - Coeur Sur Toi (2019)\nTechnique - Match Split\nDirector - CANADA, Nicolás Méndez\nOriginal Source - Link\nDAY\nWALKING\nEXTERIOR\nTRACKING\nBRIGHT",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707400975.webp",
+      "alt_text": "JJ DOOM - GUV'NOR",
+      "discovered_at": "2025-09-11T16:08:35.219850",
+      "title": "JJ DOOM - GUV'NOR (2012)",
+      "description": "",
+      "tags": [
+        "JJ DOOM - GUV'NOR (2012)",
+        "DAY",
+        "INTERIOR",
+        "PARKING GARAGE",
+        "MASK",
+        "MF DOOM"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Ninian Doff",
+      "dop": "Ben Fordesman",
+      "colorist": "Jack Jones",
+      "original_source": "",
+      "additional_info": "JJ DOOM - GUV'NOR (2012)\nNow iconic music video from director Ninian Doff featuring two shots merged together, creating a match split shot. Produced by Pulse Films.\nTechnique - Match Split\nDirector - Ninian Doff\nDOP - Ben Fordesman\nColorist - Jack Jones\nOriginal Source - Link\nDAY\nINTERIOR\nPARKING GARAGE\nMASK\nMF DOOM",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703459367.webp",
+      "alt_text": "Fargo (TV Series)",
+      "discovered_at": "2025-09-11T16:08:38.880078",
+      "title": "Fargo (TV Series) (2014)",
+      "description": "Various chronicles of deception, intrigue, and murder in and around frozen Minnesota. All of these tales mysteriously lead back one way or another to Fargo, North Dakota.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "ARRI ALEXA MINI",
+        "TRUCK",
+        "LEITZ SUMMILUX-C",
+        "ARRI ALEXA",
+        "ZEISS SUPREME PRIME"
+      ],
+      "technique_tags": [
+        "Match Split",
+        "Split Screen"
+      ],
+      "director": "Curtis Thurber, Robin August",
+      "dop": "",
+      "colorist": "Mark Kueper, Patrick Bellanger, Sean Coleman, Tony D'Amore",
+      "original_source": "",
+      "additional_info": "Fargo (TV Series) (2014)\nVarious chronicles of deception, intrigue, and murder in and around frozen Minnesota. All of these tales mysteriously lead back one way or another to Fargo, North Dakota.\nTechnique - Match Split , Split Screen\nDirector - Adam Arkin, Adam Bernstein, Colin Bucksey, Dana Gonzales, Dearbhla Walsh, Donald Murphy, Jeffrey Reiner, John Cameron, Keith Gordon, Matt Shakman, Michael Uppendahl, Mike Barker, Noah Hawley, Randall Einhorn, Scott Winant, Sylvain White, Thomas Bezucha\nEditor - Curtis Thurber, Robin August\nColorist - Mark Kueper, Patrick Bellanger, Sean Coleman, Tony D'Amore\nOriginal Source - Link\nDAY\nEXTERIOR\nARRI ALEXA MINI\n1.78\nTRUCK\nLEITZ SUMMILUX-C\nARRI ALEXA\nZEISS SUPREME PRIME",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703460714.webp",
+      "alt_text": "Instagram - Coeur Sur Toi",
+      "discovered_at": "2025-09-11T16:08:42.027932",
+      "title": "Instagram - Coeur Sur Toi (2019)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "BRIGHT"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "CANADA, Nicolás Méndez",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Instagram - Coeur Sur Toi (2019)\nTechnique - Match Split\nDirector - CANADA, Nicolás Méndez\nOriginal Source - Link\nDAY\nEXTERIOR\nBRIGHT",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711259149.webp",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "discovered_at": "2025-09-11T16:08:45.189436",
+      "title": "Sam Akpro - Death By Entertainment (2023)",
+      "description": "The music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.",
+      "tags": [],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Pedro Takahashi",
+      "dop": "Max Conran",
+      "colorist": "Connor Coolbear, Electric Theatre Collective",
+      "original_source": "",
+      "additional_info": "Sam Akpro - Death By Entertainment (2023)\nThe music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.\nTechnique - Match Split\nDirector - Pedro Takahashi\nDOP - Max Conran\nColorist - Connor Coolbear, Electric Theatre Collective\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706253266.webp",
+      "alt_text": "Cassius feat Pharrell Williams & Cat Power - Go Up",
+      "discovered_at": "2025-09-11T16:08:48.316357",
+      "title": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "description": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "tags": [
+        "EXPLOSION",
+        "PHARRELL WILLIAMS",
+        "HEAD",
+        "FIREWORKS"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Alex Courtès",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)\nMasterclass on the match-split from Director Alexandre Courtès, using stock footage throughout.\nTechnique - Match Split\nDirector - Alex Courtès\nTutorial - Link\nEXPLOSION\nPHARRELL WILLIAMS\nHEAD\nFIREWORKS",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707976671.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T16:08:51.992095",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [
+        "TEETH",
+        "MOUTH"
+      ],
+      "technique_tags": [
+        "Match Split",
+        "Rotoscope"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Match Split , Rotoscope\nDirector - Daniel Stessen\nTEETH\nMOUTH",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401368.webp",
+      "alt_text": "JJ DOOM - GUV'NOR",
+      "discovered_at": "2025-09-11T16:08:55.145848",
+      "title": "JJ DOOM - GUV'NOR (2012)",
+      "description": "",
+      "tags": [
+        "JJ DOOM - GUV'NOR (2012)",
+        "DAY",
+        "INTERIOR",
+        "MASK",
+        "MF DOOM"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Ninian Doff",
+      "dop": "Ben Fordesman",
+      "colorist": "Jack Jones",
+      "original_source": "",
+      "additional_info": "JJ DOOM - GUV'NOR (2012)\nNow iconic music video from director Ninian Doff featuring two shots merged together, creating a match split shot. Produced by Pulse Films.\nTechnique - Match Split\nDirector - Ninian Doff\nDOP - Ben Fordesman\nColorist - Jack Jones\nOriginal Source - Link\nDAY\nINTERIOR\nMASK\nMF DOOM",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709972629.webp",
+      "alt_text": "Apple Music - Stay",
+      "discovered_at": "2025-09-11T16:08:58.306437",
+      "title": "Apple Music - Stay (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Double Exposure",
+        "Match Split",
+        "Void"
+      ],
+      "director": "Kim Gehrig",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Mark Gethin",
+      "original_source": "",
+      "additional_info": "Apple Music - Stay (2023)\nTechnique - Double Exposure , Match Split , Void\nDirector - Kim Gehrig\nDOP - Rodrigo Prieto\nColorist - Mark Gethin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706253433.webp",
+      "alt_text": "Art by Andy Babbitz",
+      "discovered_at": "2025-09-11T16:09:01.443184",
+      "title": "Art by Andy Babbitz",
+      "description": "",
+      "tags": [
+        "PIZZA",
+        "BROWSER",
+        "MOUSE",
+        "TABS"
+      ],
+      "technique_tags": [
+        "Full frame",
+        "Match Split"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Andy Babbitz\nTechnique - Full frame , Match Split\nPIZZA\nBROWSER\nMOUSE\nTABS",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703461216.webp",
+      "alt_text": "Cassius feat Pharrell Williams & Cat Power - Go Up",
+      "discovered_at": "2025-09-11T16:09:05.626379",
+      "title": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "description": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "tags": [
+        "PROFILE",
+        "STOCK",
+        "LION",
+        "PHARRELL WILLIAMS"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Alex Courtès",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)\nMasterclass on the match-split from Director Alexandre Courtès, using stock footage throughout.\nTechnique - Match Split\nDirector - Alex Courtès\nTutorial - Link\nPROFILE\nSTOCK\nLION\nPHARRELL WILLIAMS",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401410.webp",
+      "alt_text": "JJ DOOM - GUV'NOR",
+      "discovered_at": "2025-09-11T16:09:09.280574",
+      "title": "JJ DOOM - GUV'NOR (2012)",
+      "description": "",
+      "tags": [
+        "JJ DOOM - GUV'NOR (2012)",
+        "DAY",
+        "INTERIOR",
+        "MASK",
+        "MF DOOM"
+      ],
+      "technique_tags": [
+        "Levitation",
+        "Match Split"
+      ],
+      "director": "Ninian Doff",
+      "dop": "Ben Fordesman",
+      "colorist": "Jack Jones",
+      "original_source": "",
+      "additional_info": "JJ DOOM - GUV'NOR (2012)\nNow iconic music video from director Ninian Doff featuring two shots merged together, creating a match split shot. Produced by Pulse Films.\nTechnique - Levitation , Match Split\nDirector - Ninian Doff\nDOP - Ben Fordesman\nColorist - Jack Jones\nOriginal Source - Link\nDAY\nINTERIOR\nMASK\nMF DOOM",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711257849.webp",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "discovered_at": "2025-09-11T16:09:17.111113",
+      "title": "Sam Akpro - Death By Entertainment (2023)",
+      "description": "The music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.",
+      "tags": [
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Pedro Takahashi",
+      "dop": "Max Conran",
+      "colorist": "Connor Coolbear, Electric Theatre Collective",
+      "original_source": "",
+      "additional_info": "Sam Akpro - Death By Entertainment (2023)\nThe music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.\nTechnique - Match Split\nDirector - Pedro Takahashi\nDOP - Max Conran\nColorist - Connor Coolbear, Electric Theatre Collective\nOriginal Source - Link\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703479378.webp",
+      "alt_text": "Nike - The Ball Makes Us More",
+      "discovered_at": "2025-09-11T16:09:20.796697",
+      "title": "Nike - The Ball Makes Us More (2018)",
+      "description": "",
+      "tags": [
+        "SPORTS",
+        "SOCCER",
+        "JERSEY"
+      ],
+      "technique_tags": [
+        "Frame Division",
+        "Match Split"
+      ],
+      "director": "Wally Pfister",
+      "dop": "",
+      "colorist": "Daniel De Vue",
+      "original_source": "",
+      "additional_info": "Nike - The Ball Makes Us More (2018)\nMatch split frame division\nTechnique - Frame Division , Match Split\nDirector - Wally Pfister\nColorist - Daniel De Vue\nOriginal Source - Link\nSPORTS\nSOCCER\nJERSEY",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703478179.webp",
+      "alt_text": "@wysh.shop / IG",
+      "discovered_at": "2025-09-11T16:09:24.458570",
+      "title": "@wysh.shop / IG",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@wysh.shop / IG\nTechnique - Match Split",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707400905.webp",
+      "alt_text": "JJ DOOM - GUV'NOR",
+      "discovered_at": "2025-09-11T16:09:27.614670",
+      "title": "JJ DOOM - GUV'NOR (2012)",
+      "description": "",
+      "tags": [
+        "JJ DOOM - GUV'NOR (2012)",
+        "DAY",
+        "INTERIOR",
+        "PARKING GARAGE",
+        "MASK",
+        "MF DOOM"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Ninian Doff",
+      "dop": "Ben Fordesman",
+      "colorist": "Jack Jones",
+      "original_source": "",
+      "additional_info": "JJ DOOM - GUV'NOR (2012)\nNow iconic music video from director Ninian Doff featuring two shots merged together, creating a match split shot. Produced by Pulse Films.\nTechnique - Match Split\nDirector - Ninian Doff\nDOP - Ben Fordesman\nColorist - Jack Jones\nOriginal Source - Link\nDAY\nINTERIOR\nPARKING GARAGE\nMASK\nMF DOOM",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706252676.webp",
+      "alt_text": "Cassius feat Pharrell Williams & Cat Power - Go Up",
+      "discovered_at": "2025-09-11T16:09:31.280288",
+      "title": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "description": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "tags": [
+        "PHARRELL WILLIAMS",
+        "STRIP POLE",
+        "SCREW"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Alex Courtès",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)\nMasterclass on the match-split from Director Alexandre Courtès, using stock footage throughout.\nTechnique - Match Split\nDirector - Alex Courtès\nTutorial - Link\nPHARRELL WILLIAMS\nSTRIP POLE\nSCREW",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704858965.webp",
+      "alt_text": "Cassius feat Pharrell Williams & Cat Power - Go Up",
+      "discovered_at": "2025-09-11T16:09:34.936124",
+      "title": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "description": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "tags": [
+        "WATER",
+        "HAND",
+        "PHARRELL WILLIAMS"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Alex Courtès",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)\nMasterclass on the match-split from Director Alexandre Courtès, using stock footage throughout.\nTechnique - Match Split\nDirector - Alex Courtès\nTutorial - Link\nWATER\nHAND\nPHARRELL WILLIAMS",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703478130.webp",
+      "alt_text": "Merge Records Walking In The Dark GIF By Escape-Ism",
+      "discovered_at": "2025-09-11T16:09:38.081237",
+      "title": "Merge Records Walking In The Dark GIF By Escape-Ism (2017)",
+      "description": "Merge Records Walking In The Dark GIF By Escape-Ism (2017)",
+      "tags": [
+        "WHITE",
+        "BLACK"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Ian Svenoniu",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Merge Records Walking In The Dark GIF By Escape-Ism (2017)\nTechnique - Match Split\nEditor - Ian Svenoniu\nOriginal Source - Link\nWHITE\nBLACK",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401511.webp",
+      "alt_text": "JJ DOOM - GUV'NOR",
+      "discovered_at": "2025-09-11T16:09:41.726801",
+      "title": "JJ DOOM - GUV'NOR (2012)",
+      "description": "",
+      "tags": [
+        "JJ DOOM - GUV'NOR (2012)",
+        "DAY",
+        "INTERIOR",
+        "MASK",
+        "MF DOOM"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Ninian Doff",
+      "dop": "Ben Fordesman",
+      "colorist": "Jack Jones",
+      "original_source": "",
+      "additional_info": "JJ DOOM - GUV'NOR (2012)\nNow iconic music video from director Ninian Doff featuring two shots merged together, creating a match split shot. Produced by Pulse Films.\nTechnique - Match Split\nDirector - Ninian Doff\nDOP - Ben Fordesman\nColorist - Jack Jones\nOriginal Source - Link\nDAY\nINTERIOR\nMASK\nMF DOOM",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250650.webp",
+      "alt_text": "Self Portrait Animation GIF By Leandro Estrella",
+      "discovered_at": "2025-09-11T16:09:45.916275",
+      "title": "Self Portrait Animation GIF By Leandro Estrella (2016)",
+      "description": "Self Portrait Animation GIF By Leandro Estrella (2016)",
+      "tags": [
+        "FACE",
+        "COLLAGE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Full frame",
+        "Match Split",
+        "Mixed Media"
+      ],
+      "director": "Leandro Estrella",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Self Portrait Animation GIF By Leandro Estrella (2016)\nTechnique - Collage , Full frame , Match Split , Mixed Media\nDirector - Leandro Estrella\nOriginal Source - Link\nFACE\nCOLLAGE",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401055.webp",
+      "alt_text": "JJ DOOM - GUV'NOR",
+      "discovered_at": "2025-09-11T16:09:49.596806",
+      "title": "JJ DOOM - GUV'NOR (2012)",
+      "description": "",
+      "tags": [
+        "JJ DOOM - GUV'NOR (2012)",
+        "DAY",
+        "INTERIOR",
+        "PARKING GARAGE",
+        "MASK",
+        "MF DOOM"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Ninian Doff",
+      "dop": "Ben Fordesman",
+      "colorist": "Jack Jones",
+      "original_source": "",
+      "additional_info": "JJ DOOM - GUV'NOR (2012)\nNow iconic music video from director Ninian Doff featuring two shots merged together, creating a match split shot. Produced by Pulse Films.\nTechnique - Match Split\nDirector - Ninian Doff\nDOP - Ben Fordesman\nColorist - Jack Jones\nOriginal Source - Link\nDAY\nINTERIOR\nPARKING GARAGE\nMASK\nMF DOOM",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703466713.webp",
+      "alt_text": "A$AP Rocky - Praise The Lord",
+      "discovered_at": "2025-09-11T16:09:53.245589",
+      "title": "A$AP Rocky - Praise The Lord (2018)",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "VINTAGE",
+        "NEW YORK CITY"
+      ],
+      "technique_tags": [
+        "Match Split",
+        "Split Screen"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Praise The Lord (2018)\nTechnique - Match Split , Split Screen\nDirector - Dexter Navy\nOriginal Source - Link\nTutorial - Link\nEXTERIOR\nVINTAGE\nNEW YORK CITY",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634906.webp",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "discovered_at": "2025-09-11T16:09:56.883778",
+      "title": "Cowboy Bepop (TV Series) (2021)",
+      "description": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.",
+      "tags": [],
+      "technique_tags": [
+        "Action",
+        "Frame play",
+        "Match Split",
+        "Split Screen"
+      ],
+      "director": "Bridget Durnford, Elliot Greenberg",
+      "dop": "Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn",
+      "colorist": "Bill Ferwerda, Company 3",
+      "original_source": "",
+      "additional_info": "Cowboy Bepop (TV Series) (2021)\nA ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.\nTechnique - Action , Frame play , Match Split , Split Screen\nDirector - Alex Garcia Lopez, Michael Katleman\nDOP - Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn\nEditor - Bridget Durnford, Elliot Greenberg\nColorist - Bill Ferwerda, Company 3\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704610102.webp",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "discovered_at": "2025-09-11T16:10:00.580144",
+      "title": "Carly Gibert - Dropping Seeds (2023)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "FACE",
+        "CARLY GIBERT"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Frame Division",
+        "Match Split"
+      ],
+      "director": "Christopher A. Medina",
+      "dop": "Sonali Chugani",
+      "colorist": "Ben Cerauli",
+      "original_source": "",
+      "additional_info": "Carly Gibert - Dropping Seeds (2023)\nMusic video from artist Carly Gibert featuring a litany of visual techniques brought to life in a vivid color palette.\nTechnique - Collage , Frame Division , Match Split\nDirector - Luciana Baldovino\nDOP - Sonali Chugani\nEditor - Christopher A. Medina\nColorist - Ben Cerauli\nOriginal Source - Link\nWOMAN\nFACE\nCARLY GIBERT",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634954.webp",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "discovered_at": "2025-09-11T16:10:04.247015",
+      "title": "Cowboy Bepop (TV Series) (2021)",
+      "description": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.",
+      "tags": [],
+      "technique_tags": [
+        "Action",
+        "Frame play",
+        "Match Split",
+        "Split Screen"
+      ],
+      "director": "Bridget Durnford, Elliot Greenberg",
+      "dop": "Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn",
+      "colorist": "Bill Ferwerda, Company 3",
+      "original_source": "",
+      "additional_info": "Cowboy Bepop (TV Series) (2021)\nA ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.\nTechnique - Action , Frame play , Match Split , Split Screen\nDirector - Alex Garcia Lopez, Michael Katleman\nDOP - Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn\nEditor - Bridget Durnford, Elliot Greenberg\nColorist - Bill Ferwerda, Company 3\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703466600.webp",
+      "alt_text": "A$AP Rocky - Praise The Lord",
+      "discovered_at": "2025-09-11T16:10:11.079733",
+      "title": "A$AP Rocky - Praise The Lord (2018)",
+      "description": "",
+      "tags": [
+        "COLLAGE",
+        "BLACK"
+      ],
+      "technique_tags": [
+        "Match Split",
+        "Title Card",
+        "Typography"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Praise The Lord (2018)\nTechnique - Match Split , Title Card , Typography\nDirector - Dexter Navy\nOriginal Source - Link\nTutorial - Link\nCOLLAGE\nBLACK",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703465956.webp",
+      "alt_text": "A$AP Rocky - Praise The Lord",
+      "discovered_at": "2025-09-11T16:10:14.236672",
+      "title": "A$AP Rocky - Praise The Lord (2018)",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "NEW YORK CITY"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Praise The Lord (2018)\nTechnique - Match Split\nDirector - Dexter Navy\nOriginal Source - Link\nTutorial - Link\nEXTERIOR\nNEW YORK CITY",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489787.webp",
+      "alt_text": "21 Savage - redrum",
+      "discovered_at": "2025-09-11T16:10:17.891581",
+      "title": "21 Savage - redrum (2024)",
+      "description": "The music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.",
+      "tags": [
+        "MALE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Match Split"
+      ],
+      "director": "Anders Mills, Trim Editing",
+      "dop": "Chewy Lodge, JAWMIDNIGHT, Thomas Marchese",
+      "colorist": "Vlad Barin",
+      "original_source": "",
+      "additional_info": "21 Savage - redrum (2024)\nThe music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.\nTechnique - Collage , Match Split\nDirector - Danny Seth\nDOP - Chewy Lodge, JAWMIDNIGHT, Thomas Marchese\nEditor - Anders Mills, Trim Editing\nColorist - Vlad Barin\nOriginal Source - Link\nTutorial - Link\nMALE",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401477.webp",
+      "alt_text": "JJ DOOM - GUV'NOR",
+      "discovered_at": "2025-09-11T16:10:21.539928",
+      "title": "JJ DOOM - GUV'NOR (2012)",
+      "description": "",
+      "tags": [
+        "JJ DOOM - GUV'NOR (2012)",
+        "DAY",
+        "INTERIOR",
+        "MASK",
+        "MF DOOM"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Ninian Doff",
+      "dop": "Ben Fordesman",
+      "colorist": "Jack Jones",
+      "original_source": "",
+      "additional_info": "JJ DOOM - GUV'NOR (2012)\nNow iconic music video from director Ninian Doff featuring two shots merged together, creating a match split shot. Produced by Pulse Films.\nTechnique - Match Split\nDirector - Ninian Doff\nDOP - Ben Fordesman\nColorist - Jack Jones\nOriginal Source - Link\nDAY\nINTERIOR\nMASK\nMF DOOM",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401289.webp",
+      "alt_text": "JJ DOOM - GUV'NOR",
+      "discovered_at": "2025-09-11T16:10:25.251366",
+      "title": "JJ DOOM - GUV'NOR (2012)",
+      "description": "",
+      "tags": [
+        "JJ DOOM - GUV'NOR (2012)",
+        "DAY",
+        "INTERIOR",
+        "MASK",
+        "MF DOOM",
+        "BICYCLE TIRE"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Match Split"
+      ],
+      "director": "Ninian Doff",
+      "dop": "Ben Fordesman",
+      "colorist": "Jack Jones",
+      "original_source": "",
+      "additional_info": "JJ DOOM - GUV'NOR (2012)\nNow iconic music video from director Ninian Doff featuring two shots merged together, creating a match split shot. Produced by Pulse Films.\nTechnique - Close-Up , Match Split\nDirector - Ninian Doff\nDOP - Ben Fordesman\nColorist - Jack Jones\nOriginal Source - Link\nDAY\nINTERIOR\nMASK\nMF DOOM\nBICYCLE TIRE",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703467493.webp",
+      "alt_text": "A$AP Rocky - Praise The Lord",
+      "discovered_at": "2025-09-11T16:10:28.406589",
+      "title": "A$AP Rocky - Praise The Lord (2018)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Praise The Lord (2018)\nTechnique - Match Split\nDirector - Dexter Navy\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703460768.webp",
+      "alt_text": "Instagram - Coeur Sur Toi",
+      "discovered_at": "2025-09-11T16:10:32.085703",
+      "title": "Instagram - Coeur Sur Toi (2019)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "BRIGHT"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Match Split",
+        "Y-Axis Arc"
+      ],
+      "director": "CANADA, Nicolás Méndez",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Instagram - Coeur Sur Toi (2019)\nTechnique - Arc , Match Split , Y-Axis Arc\nDirector - CANADA, Nicolás Méndez\nOriginal Source - Link\nDAY\nEXTERIOR\nBRIGHT",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706253304.webp",
+      "alt_text": "Cassius feat Pharrell Williams & Cat Power - Go Up",
+      "discovered_at": "2025-09-11T16:10:35.242635",
+      "title": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "description": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "tags": [
+        "RED",
+        "CAR",
+        "VEHICLE",
+        "PHARRELL WILLIAMS",
+        "CASETTE",
+        "PLAYER"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Alex Courtès",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)\nMasterclass on the match-split from Director Alexandre Courtès, using stock footage throughout.\nTechnique - Match Split\nDirector - Alex Courtès\nTutorial - Link\nRED\nCAR\nVEHICLE\nPHARRELL WILLIAMS\nCASETTE\nPLAYER",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703478021.webp",
+      "alt_text": "blink-182 - Always",
+      "discovered_at": "2025-09-11T16:10:38.885657",
+      "title": "blink-182 - Always (2009)",
+      "description": "Blink-182's \"Always\" music video, released in 2004 from their fifth studio album, features a comedic and surreal storyline directed by Joseph Kahn. The video features Australian pop singer Sophie Monk, who flirts with DeLonge, Hoppus, and Barker in three horizontal panels.",
+      "tags": [
+        "YELLOW",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "David Blackburn",
+      "dop": "Brad Rushing",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "blink-182 - Always (2009)\nBlink-182's \"Always\" music video, released in 2004 from their fifth studio album, features a comedic and surreal storyline directed by Joseph Kahn. The video features Australian pop singer Sophie Monk, who flirts with DeLonge, Hoppus, and Barker in three horizontal panels.\nTechnique - Match Split\nDirector - Joseph Kahn\nDOP - Brad Rushing\nEditor - David Blackburn\nOriginal Source - Link\nTutorial - Link\nYELLOW\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703460879.webp",
+      "alt_text": "Nike - The Ball Makes Us More",
+      "discovered_at": "2025-09-11T16:10:42.037254",
+      "title": "Nike - The Ball Makes Us More (2018)",
+      "description": "",
+      "tags": [
+        "SPORTS",
+        "SOCCER",
+        "JERSEY"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Wally Pfister",
+      "dop": "",
+      "colorist": "Daniel De Vue",
+      "original_source": "",
+      "additional_info": "Nike - The Ball Makes Us More (2018)\nSplit screen match split technique\nTechnique - Match Split\nDirector - Wally Pfister\nColorist - Daniel De Vue\nOriginal Source - Link\nSPORTS\nSOCCER\nJERSEY",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706252712.webp",
+      "alt_text": "Cassius feat Pharrell Williams & Cat Power - Go Up",
+      "discovered_at": "2025-09-11T16:10:46.756529",
+      "title": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "description": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "PHARRELL WILLIAMS",
+        "ROCKET",
+        "CHRIST"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Alex Courtès",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)\nMasterclass on the match-split from Director Alexandre Courtès, using stock footage throughout.\nTechnique - Match Split\nDirector - Alex Courtès\nTutorial - Link\nDAY\nEXTERIOR\nPHARRELL WILLIAMS\nROCKET\nCHRIST",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703465712.webp",
+      "alt_text": "Nike - You Can't Stop Sport",
+      "discovered_at": "2025-09-11T16:10:49.903800",
+      "title": "Nike - You Can't Stop Sport (2020)",
+      "description": "Closed gyms and empty stadiums haven’t stopped athletes from pushing forward and using their platforms to help create change. Through those actions, sport shows us what an equal playing field looks like, and reminds us that a better future is possible.",
+      "tags": [
+        "SPORTS",
+        "SOCCER",
+        "ATHLETE",
+        "FOUND FOOTAGE"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Jessica Baclesse, Peter Wiedensmith",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - You Can't Stop Sport (2020)\nClosed gyms and empty stadiums haven’t stopped athletes from pushing forward and using their platforms to help create change. Through those actions, sport shows us what an equal playing field looks like, and reminds us that a better future is possible.\nTechnique - Match Split\nDirector - Oscar Hudson\nEditor - Jessica Baclesse, Peter Wiedensmith\nOriginal Source - Link\nTutorial - Link\nSPORTS\nSOCCER\nATHLETE\nFOUND FOOTAGE",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401444.webp",
+      "alt_text": "JJ DOOM - GUV'NOR",
+      "discovered_at": "2025-09-11T16:10:53.581008",
+      "title": "JJ DOOM - GUV'NOR (2012)",
+      "description": "",
+      "tags": [
+        "JJ DOOM - GUV'NOR (2012)",
+        "DAY",
+        "INTERIOR",
+        "MASK",
+        "MF DOOM"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Match Split"
+      ],
+      "director": "Ninian Doff",
+      "dop": "Ben Fordesman",
+      "colorist": "Jack Jones",
+      "original_source": "",
+      "additional_info": "JJ DOOM - GUV'NOR (2012)\nNow iconic music video from director Ninian Doff featuring two shots merged together, creating a match split shot. Produced by Pulse Films.\nTechnique - Close-Up , Match Split\nDirector - Ninian Doff\nDOP - Ben Fordesman\nColorist - Jack Jones\nOriginal Source - Link\nDAY\nINTERIOR\nMASK\nMF DOOM",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401153.webp",
+      "alt_text": "JJ DOOM - GUV'NOR",
+      "discovered_at": "2025-09-11T16:10:56.724801",
+      "title": "JJ DOOM - GUV'NOR (2012)",
+      "description": "",
+      "tags": [
+        "JJ DOOM - GUV'NOR (2012)",
+        "DAY",
+        "WALKING",
+        "EXTERIOR",
+        "TRACKING",
+        "MASK",
+        "MF DOOM"
+      ],
+      "technique_tags": [
+        "Match Split",
+        "Towards camera",
+        "Tracking"
+      ],
+      "director": "Ninian Doff",
+      "dop": "Ben Fordesman",
+      "colorist": "Jack Jones",
+      "original_source": "",
+      "additional_info": "JJ DOOM - GUV'NOR (2012)\nNow iconic music video from director Ninian Doff featuring two shots merged together, creating a match split shot. Produced by Pulse Films.\nTechnique - Match Split , Towards camera , Tracking\nDirector - Ninian Doff\nDOP - Ben Fordesman\nColorist - Jack Jones\nOriginal Source - Link\nDAY\nWALKING\nEXTERIOR\nTRACKING\nMASK\nMF DOOM",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703460204.webp",
+      "alt_text": "Nike - The Ball Makes Us More",
+      "discovered_at": "2025-09-11T16:11:00.406261",
+      "title": "Nike - The Ball Makes Us More (2018)",
+      "description": "",
+      "tags": [
+        "SPORTS",
+        "SOCCER",
+        "JERSEY"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Wally Pfister",
+      "dop": "",
+      "colorist": "Daniel De Vue",
+      "original_source": "",
+      "additional_info": "Nike - The Ball Makes Us More (2018)\nSplit screen match split technique\nTechnique - Match Split\nDirector - Wally Pfister\nColorist - Daniel De Vue\nOriginal Source - Link\nSPORTS\nSOCCER\nJERSEY",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706040810.webp",
+      "alt_text": "Travis Scott - I KNOW ?",
+      "discovered_at": "2025-09-11T16:11:03.571928",
+      "title": "Travis Scott - I KNOW ? (2024)",
+      "description": "Travis Scott music video, directed by Dave Meyers. Cinematic romance.",
+      "tags": [
+        "SHADOW BOX",
+        "SPLIT SCREEN",
+        "TRAVIS SCOTT"
+      ],
+      "technique_tags": [
+        "Match Split",
+        "Split Screen"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Travis Scott - I KNOW ? (2024)\nTravis Scott music video, directed by Dave Meyers. Cinematic romance.\nTechnique - Match Split , Split Screen\nOriginal Source - Link\nSHADOW BOX\nSPLIT SCREEN\nTRAVIS SCOTT",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703459956.webp",
+      "alt_text": "Fargo (TV Series)",
+      "discovered_at": "2025-09-11T16:11:06.736780",
+      "title": "Fargo (TV Series) (2014)",
+      "description": "Various chronicles of deception, intrigue, and murder in and around frozen Minnesota. All of these tales mysteriously lead back one way or another to Fargo, North Dakota.",
+      "tags": [
+        "CAR",
+        "DRIVING",
+        "INTERIOR",
+        "TWO SHOT",
+        "ARRI ALEXA MINI",
+        "COOL WHITE",
+        "LEITZ SUMMILUX-C",
+        "ARRI ALEXA",
+        "ZEISS SUPREME PRIME"
+      ],
+      "technique_tags": [
+        "Match Split",
+        "Split Screen",
+        "Two Shot"
+      ],
+      "director": "Curtis Thurber, Robin August",
+      "dop": "",
+      "colorist": "Mark Kueper, Patrick Bellanger, Sean Coleman, Tony D'Amore",
+      "original_source": "",
+      "additional_info": "Fargo (TV Series) (2014)\nVarious chronicles of deception, intrigue, and murder in and around frozen Minnesota. All of these tales mysteriously lead back one way or another to Fargo, North Dakota.\nTechnique - Match Split , Split Screen , Two Shot\nDirector - Adam Arkin, Adam Bernstein, Colin Bucksey, Dana Gonzales, Dearbhla Walsh, Donald Murphy, Jeffrey Reiner, John Cameron, Keith Gordon, Matt Shakman, Michael Uppendahl, Mike Barker, Noah Hawley, Randall Einhorn, Scott Winant, Sylvain White, Thomas Bezucha\nEditor - Curtis Thurber, Robin August\nColorist - Mark Kueper, Patrick Bellanger, Sean Coleman, Tony D'Amore\nOriginal Source - Link\nCAR\nDRIVING\nINTERIOR\nTWO SHOT\nARRI ALEXA MINI\n1.78\nCOOL WHITE\nLEITZ SUMMILUX-C\nARRI ALEXA\nZEISS SUPREME PRIME",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703476829.webp",
+      "alt_text": "A$AP Rocky - Praise The Lord",
+      "discovered_at": "2025-09-11T16:11:09.893839",
+      "title": "A$AP Rocky - Praise The Lord (2018)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Praise The Lord (2018)\nTechnique - Match Split\nDirector - Dexter Navy\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703408709.webp",
+      "alt_text": "Kendrick Lamar - Humble",
+      "discovered_at": "2025-09-11T16:11:13.561912",
+      "title": "Kendrick Lamar - Humble (2017)",
+      "description": "The visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.",
+      "tags": [
+        "INTERIOR",
+        "STUDIO",
+        "SPLIT SCREEN",
+        "KENDRICK LAMAR",
+        "COOL WHITE"
+      ],
+      "technique_tags": [
+        "Match Split",
+        "Split Screen"
+      ],
+      "director": "Greg Scruton",
+      "dop": "Scott Cunningham",
+      "colorist": "Jaime O'Bradovich",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - Humble (2017)\nThe visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.\nTechnique - Match Split , Split Screen\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Greg Scruton\nColorist - Jaime O'Bradovich\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nSTUDIO\nSPLIT SCREEN\nKENDRICK LAMAR\nCOOL WHITE",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529870.webp",
+      "alt_text": "Untitled Collage",
+      "discovered_at": "2025-09-11T16:11:18.813841",
+      "title": "Untitled Collage",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Match Split"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Untitled Collage\nTechnique - Collage , Match Split\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703408747.webp",
+      "alt_text": "Kendrick Lamar - Humble",
+      "discovered_at": "2025-09-11T16:11:22.498373",
+      "title": "Kendrick Lamar - Humble (2017)",
+      "description": "The visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.",
+      "tags": [
+        "INTERIOR",
+        "STUDIO",
+        "SPLIT SCREEN",
+        "KENDRICK LAMAR",
+        "COOL WHITE"
+      ],
+      "technique_tags": [
+        "Match Split",
+        "Split Screen"
+      ],
+      "director": "Greg Scruton",
+      "dop": "Scott Cunningham",
+      "colorist": "Jaime O'Bradovich",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - Humble (2017)\nThe visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.\nTechnique - Match Split , Split Screen\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Greg Scruton\nColorist - Jaime O'Bradovich\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nSTUDIO\nSPLIT SCREEN\nKENDRICK LAMAR\nCOOL WHITE",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634386.webp",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "discovered_at": "2025-09-11T16:11:26.167993",
+      "title": "Cowboy Bepop (TV Series) (2021)",
+      "description": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.",
+      "tags": [],
+      "technique_tags": [
+        "Frame play",
+        "Match Split",
+        "Split Screen"
+      ],
+      "director": "Bridget Durnford, Elliot Greenberg",
+      "dop": "Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn",
+      "colorist": "Bill Ferwerda, Company 3",
+      "original_source": "",
+      "additional_info": "Cowboy Bepop (TV Series) (2021)\nA ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.\nTechnique - Frame play , Match Split , Split Screen\nDirector - Alex Garcia Lopez, Michael Katleman\nDOP - Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn\nEditor - Bridget Durnford, Elliot Greenberg\nColorist - Bill Ferwerda, Company 3\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706253242.webp",
+      "alt_text": "Cassius feat Pharrell Williams & Cat Power - Go Up",
+      "discovered_at": "2025-09-11T16:11:29.318427",
+      "title": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "description": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)",
+      "tags": [
+        "INTERIOR",
+        "BATHROOM",
+        "PHARRELL WILLIAMS",
+        "TOILET",
+        "CAN"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Alex Courtès",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cassius feat Pharrell Williams & Cat Power - Go Up (2021)\nMasterclass on the match-split from Director Alexandre Courtès, using stock footage throughout.\nTechnique - Match Split\nDirector - Alex Courtès\nTutorial - Link\nINTERIOR\nBATHROOM\nPHARRELL WILLIAMS\nTOILET\nCAN",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706253379.webp",
+      "alt_text": "blink-182 - Always",
+      "discovered_at": "2025-09-11T16:11:32.984884",
+      "title": "blink-182 - Always (2009)",
+      "description": "Blink-182's \"Always\" music video, released in 2004 from their fifth studio album, features a comedic and surreal storyline directed by Joseph Kahn. The video features Australian pop singer Sophie Monk, who flirts with DeLonge, Hoppus, and Barker in three horizontal panels.",
+      "tags": [
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "David Blackburn",
+      "dop": "Brad Rushing",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "blink-182 - Always (2009)\nBlink-182's \"Always\" music video, released in 2004 from their fifth studio album, features a comedic and surreal storyline directed by Joseph Kahn. The video features Australian pop singer Sophie Monk, who flirts with DeLonge, Hoppus, and Barker in three horizontal panels.\nTechnique - Match Split\nDirector - Joseph Kahn\nDOP - Brad Rushing\nEditor - David Blackburn\nOriginal Source - Link\nTutorial - Link\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703465433.webp",
+      "alt_text": "Stan Smith x Adidas “Superstan”",
+      "discovered_at": "2025-09-11T16:11:38.741118",
+      "title": "Stan Smith x Adidas “Superstan” (2020)",
+      "description": "Stan Smith reminds us he's more than a shoe. Crash zoom > split screen > match split close up shoe shot.",
+      "tags": [],
+      "technique_tags": [
+        "Match Split",
+        "Split Screen"
+      ],
+      "director": "Marie Schuller",
+      "dop": "Marz Miller",
+      "colorist": "Denny Cooper",
+      "original_source": "",
+      "additional_info": "Stan Smith x Adidas “Superstan” (2020)\nStan Smith reminds us he's more than a shoe. Crash zoom > split screen > match split close up shoe shot.\nTechnique - Match Split , Split Screen\nDirector - Marie Schuller\nDOP - Marz Miller\nColorist - Denny Cooper\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711257886.webp",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "discovered_at": "2025-09-11T16:11:42.388119",
+      "title": "Sam Akpro - Death By Entertainment (2023)",
+      "description": "The music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.",
+      "tags": [
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Match Split"
+      ],
+      "director": "Pedro Takahashi",
+      "dop": "Max Conran",
+      "colorist": "Connor Coolbear, Electric Theatre Collective",
+      "original_source": "",
+      "additional_info": "Sam Akpro - Death By Entertainment (2023)\nThe music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.\nTechnique - Match Split\nDirector - Pedro Takahashi\nDOP - Max Conran\nColorist - Connor Coolbear, Electric Theatre Collective\nOriginal Source - Link\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634342.webp",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "discovered_at": "2025-09-11T16:11:46.065654",
+      "title": "Cowboy Bepop (TV Series) (2021)",
+      "description": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.",
+      "tags": [],
+      "technique_tags": [
+        "Match Split",
+        "Split Screen"
+      ],
+      "director": "Bridget Durnford, Elliot Greenberg",
+      "dop": "Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn",
+      "colorist": "Bill Ferwerda, Company 3",
+      "original_source": "",
+      "additional_info": "Cowboy Bepop (TV Series) (2021)\nA ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.\nTechnique - Match Split , Split Screen\nDirector - Alex Garcia Lopez, Michael Katleman\nDOP - Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn\nEditor - Bridget Durnford, Elliot Greenberg\nColorist - Bill Ferwerda, Company 3\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489746.webp",
+      "alt_text": "21 Savage - redrum",
+      "discovered_at": "2025-09-11T16:11:49.244359",
+      "title": "21 Savage - redrum (2024)",
+      "description": "The music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Match Split"
+      ],
+      "director": "Anders Mills, Trim Editing",
+      "dop": "Chewy Lodge, JAWMIDNIGHT, Thomas Marchese",
+      "colorist": "Vlad Barin",
+      "original_source": "",
+      "additional_info": "21 Savage - redrum (2024)\nThe music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.\nTechnique - Collage , Match Split\nDirector - Danny Seth\nDOP - Chewy Lodge, JAWMIDNIGHT, Thomas Marchese\nEditor - Anders Mills, Trim Editing\nColorist - Vlad Barin\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/match-split"
+    }
+  ]
 }

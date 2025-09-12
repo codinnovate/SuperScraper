@@ -1,0 +1,25 @@
+{
+  "start_time": "2025-09-11T07:41:15.111974",
+  "end_time": "2025-09-11T07:50:05.003953",
+  "total_techniques": 3,
+  "completed_techniques": 8,
+  "failed_techniques": [],
+  "total_videos_scraped": 145,
+  "techniques_results": {
+    "architexture": {
+      "videos_count": 60,
+      "status": "completed",
+      "timestamp": "2025-09-11T07:44:48.263897"
+    },
+    "as-object": {
+      "videos_count": 72,
+      "status": "completed",
+      "timestamp": "2025-09-11T07:49:13.694982"
+    },
+    "aspect-ratio-switch": {
+      "videos_count": 13,
+      "status": "completed",
+      "timestamp": "2025-09-11T07:50:05.003431"
+    }
+  }
+}

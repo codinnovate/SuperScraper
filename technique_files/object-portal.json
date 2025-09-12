@@ -1,6 +1,1740 @@
 {
   "technique": "object-portal",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.652953",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_162837",
+    "total_videos": 77,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705099710.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T16:23:02.808037",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "INTERIOR",
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Masking",
+        "Object Portal"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Infinite Zoom , Masking , Object Portal\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705099841.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T16:23:05.956492",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "INTERIOR",
+        "BLONDE",
+        "ORANGE",
+        "ZOOM",
+        "PORTAL",
+        "A$AP ROCKY",
+        "FRANK OCEAN"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Object Portal",
+        "Vintage"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Feedback , Object Portal , Vintage\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nBLONDE\nORANGE\nZOOM\nPORTAL\nA$AP ROCKY\nFRANK OCEAN",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244972.webp",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "discovered_at": "2025-09-11T16:23:09.611539",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)",
+      "description": "2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.",
+      "tags": [
+        "WATER",
+        "MACRO",
+        "BLUE",
+        "EYEBALL",
+        "PUPIL"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Logan Fields, Yussef Haridy",
+      "dop": "Zayd Ezzeldine",
+      "colorist": "Dylan Hageman",
+      "original_source": "",
+      "additional_info": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)\n2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.\nTechnique - Object Portal\nDirector - Logan Fields, Yussef Haridy\nDOP - Zayd Ezzeldine\nColorist - Dylan Hageman\nOriginal Source - Link\nWATER\nMACRO\nBLUE\nEYEBALL\nPUPIL",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710364832.webp",
+      "alt_text": "Fortuna - Fortuna Favors You",
+      "discovered_at": "2025-09-11T16:23:12.812109",
+      "title": "Fortuna - Fortuna Favors You (2024)",
+      "description": "To be lucky is not lucky. We have to push our luck. Whether it’s a favorite ritual, hard preparation or careful analysis and study… These are all things that tilt fortune in our favor. Fortuna favors you. New TVC for year 2023.",
+      "tags": [
+        "CAMERA",
+        "LENS",
+        "COINS"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Transitions"
+      ],
+      "director": "Petr Dvořák",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Fortuna - Fortuna Favors You (2024)\nTo be lucky is not lucky. We have to push our luck. Whether it’s a favorite ritual, hard preparation or careful analysis and study… These are all things that tilt fortune in our favor. Fortuna favors you. New TVC for year 2023.\nTechnique - Object Portal , Transitions\nDirector - Petr Dvořák\nOriginal Source - Link\nCAMERA\nLENS\nCOINS",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707624980.webp",
+      "alt_text": "Art by Devon Lalin",
+      "discovered_at": "2025-09-11T16:23:15.960411",
+      "title": "Art by Devon Lalin",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Object Portal"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Devon Lalin\nTechnique - Altered state , Object Portal",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709018065.webp",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "discovered_at": "2025-09-11T16:23:19.126123",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
+      "description": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
+      "tags": [
+        "MALE",
+        "ALL IS YELLOW",
+        "3D ANIMATION",
+        "CHAIN"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Transitions"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)\nStunning 2024 music video from director Cole Bennett of Lyrical Lemonade.\nTechnique - Object Portal , Transitions\nDirector - Cole Bennett\nDOP - Franklin Ricart\nColorist - Josh Bohoskey\nOriginal Source - Link\nMALE\nALL IS YELLOW\n3D ANIMATION\nCHAIN",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710575485.webp",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "discovered_at": "2025-09-11T16:23:23.117688",
+      "title": "Ken Carson - Fighting My Demons (2023)",
+      "description": "The music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.",
+      "tags": [],
+      "technique_tags": [
+        "Object Portal",
+        "Void"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Ken Carson - Fighting My Demons (2023)\nThe music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.\nTechnique - Object Portal , Void\nDirector - Cole Bennett\nDOP - Franklin Ricart\nEditor - Cole Bennett\nColorist - Loren White\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703203817.webp",
+      "alt_text": "IKEA - Make Space for What You Love",
+      "discovered_at": "2025-09-11T16:23:26.235975",
+      "title": "IKEA - Make Space for What You Love (2022)",
+      "description": "",
+      "tags": [
+        "WARM",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Magical realism",
+        "Object Portal",
+        "Object POV"
+      ],
+      "director": "Mackenzie Sheppard",
+      "dop": "Mikul Villaluna Eriksson",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "IKEA - Make Space for What You Love (2022)\nCharming technique driven short films created by award-winning director Mackenzie Sheppard in partnership with Wieden + Kennedy Tokyo.\nTechnique - Magical realism , Object Portal , Object POV\nDirector - Mackenzie Sheppard\nDOP - Mikul Villaluna Eriksson\nOriginal Source - Link\nWARM\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704507835.webp",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-11T16:23:29.908035",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "tags": [
+        "COLORFUL",
+        "DOLLY",
+        "SATURATED",
+        "HULA HOOP"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nShot: Object portal + Dolly out\nTechnique - Object Portal\nDirector - Mikhail Parkhomenko (parh0)\nCOLORFUL\nDOLLY\nSATURATED\nHULA HOOP",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329887.webp",
+      "alt_text": "Graubünden - Best Version (DC)",
+      "discovered_at": "2025-09-11T16:23:33.113541",
+      "title": "Graubünden - Best Version (DC) (2024)",
+      "description": "",
+      "tags": [
+        "PAINTING",
+        "GALLERY"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Zoom"
+      ],
+      "director": "Thomas Cervenca",
+      "dop": "Pierre Castillo Bernad",
+      "colorist": "Nurali Kushkov",
+      "original_source": "",
+      "additional_info": "Graubünden - Best Version (DC) (2024)\nTechnique - Object Portal , Zoom\nDirector - Maximilian Speidel\nDOP - Pierre Castillo Bernad\nEditor - Thomas Cervenca\nColorist - Nurali Kushkov\nOriginal Source - Link\nPAINTING\nGALLERY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/21/261703199199.webp",
+      "alt_text": "A$AP Ferg - Floor Seats",
+      "discovered_at": "2025-09-11T16:23:36.777173",
+      "title": "A$AP Ferg - Floor Seats (2019)",
+      "description": "In the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?",
+      "tags": [
+        "CLOSE UP",
+        "GOLD",
+        "NIGHT",
+        "TEETH",
+        "GRILLZ"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Maxime Caro",
+      "dop": "Hunter Daly",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "A$AP Ferg - Floor Seats (2019)\nIn the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?\nTechnique - Object Portal\nDirector - Valentin Petit\nDOP - Hunter Daly\nEditor - Maxime Caro\nColorist - Arthur Paux\nOriginal Source - Link\nTutorial - Link\nCLOSE UP\nGOLD\nNIGHT\nTEETH\nGRILLZ",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705099960.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T16:23:43.552195",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Object Portal"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Infinite Zoom , Object Portal\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709971504.webp",
+      "alt_text": "Nike - Rise of the kids",
+      "discovered_at": "2025-09-11T16:23:47.211938",
+      "title": "Nike - Rise of the kids (2022)",
+      "description": "",
+      "tags": [
+        "GOLF"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "ALASKA",
+      "dop": "Todd Martin",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - Rise of the kids (2022)\nTechnique - Object Portal\nDirector - ALASKA\nDOP - Todd Martin\nOriginal Source - Link\nGOLF",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703214111.webp",
+      "alt_text": "The Wandering Earth",
+      "discovered_at": "2025-09-11T16:23:50.364824",
+      "title": "The Wandering Earth (2019)",
+      "description": "As the sun is dying out, people all around the world build giant planet thrusters to move Earth out of its orbit and sail Earth to a new star system. Yet the 2500-year journey comes with unexpected dangers, and in order to save humanity, a group of young people in this age of a wandering Earth fight hard for the survival of humankind.",
+      "tags": [
+        "SPACE",
+        "EXTERIOR",
+        "DARK",
+        "OUTER SPACE",
+        "EYE",
+        "WINDOW PORTAL",
+        "NATURLA"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Cheung Ka-fai",
+      "dop": "Michael Liu",
+      "colorist": "Amber Zhang",
+      "original_source": "",
+      "additional_info": "The Wandering Earth (2019)\nAs the sun is dying out, people all around the world build giant planet thrusters to move Earth out of its orbit and sail Earth to a new star system. Yet the 2500-year journey comes with unexpected dangers, and in order to save humanity, a group of young people in this age of a wandering Earth fight hard for the survival of humankind.\nTechnique - Object Portal\nDirector - Frant Gwo\nDOP - Michael Liu\nEditor - Cheung Ka-fai\nColorist - Amber Zhang\nSPACE\nEXTERIOR\nDARK\nOUTER SPACE\nEYE\nWINDOW PORTAL\nNATURLA",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703214788.webp",
+      "alt_text": "Nike x End Clothing",
+      "discovered_at": "2025-09-11T16:23:54.024492",
+      "title": "Nike x End Clothing (2020)",
+      "description": "",
+      "tags": [
+        "BLUE",
+        "DUSK",
+        "EXTERIOR",
+        "DARK",
+        "COOL",
+        "DOLLY IN"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Felix Brady",
+      "dop": "Pat Aldinger",
+      "colorist": "Tim Smith",
+      "original_source": "",
+      "additional_info": "Nike x End Clothing (2020)\nA delicious Felix Brady dessert for the eyes, featuring a collection of unique techniques.\nTechnique - Object Portal\nDirector - Felix Brady\nDOP - Pat Aldinger\nColorist - Tim Smith\nOriginal Source - Link\nBLUE\nDUSK\nEXTERIOR\nDARK\nCOOL\nDOLLY IN",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261703028977.webp",
+      "alt_text": "Object Portal GIF by Lauren Sanderson",
+      "discovered_at": "2025-09-11T16:23:57.171615",
+      "title": "Object Portal GIF by Lauren Sanderson",
+      "description": "",
+      "tags": [
+        "WHITE",
+        "NATURAL LIGHT",
+        "SILHOUETTE",
+        "VINTAGE",
+        "OBJECT PORTAL",
+        "NATURAL",
+        "VHS",
+        "LAUREN SANDERSON",
+        "WINDOWS",
+        "WASHING MACHINE"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Vintage"
+      ],
+      "director": "Lauren Sanderson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Object Portal GIF by Lauren Sanderson\nTechnique - Object Portal , Vintage\nDirector - Lauren Sanderson\nWHITE\nNATURAL LIGHT\nSILHOUETTE\nVINTAGE\nOBJECT PORTAL\nNATURAL\nVHS\nLAUREN SANDERSON\nWINDOWS\nWASHING MACHINE",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704918924.webp",
+      "alt_text": "João Borsch - Apaz",
+      "discovered_at": "2025-09-11T16:24:01.375175",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
+      "tags": [
+        "WOMAN",
+        "PORTAL",
+        "PHONE",
+        "VOID",
+        "CAMCORDER"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Object Portal"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Infinite Zoom , Object Portal\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nWOMAN\nPORTAL\nPHONE\nVOID\nCAMCORDER",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707976578.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T16:24:04.531484",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [
+        "TEETH",
+        "MOUTH"
+      ],
+      "technique_tags": [
+        "Magical realism",
+        "Object Portal",
+        "Rotoscope"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Magical realism , Object Portal , Rotoscope\nDirector - Daniel Stessen\nTEETH\nMOUTH",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707974207.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T16:24:08.160420",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [
+        "INTERIOR",
+        "DOOR",
+        "PORTAL",
+        "RUG"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Rotoscope"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Object Portal , Rotoscope\nDirector - Daniel Stessen\nINTERIOR\nDOOR\nPORTAL\nRUG",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707625739.webp",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-11T16:24:11.307561",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [
+        "VEHICLE",
+        "TRUCK",
+        "LIDAR"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Transitions"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - Object Portal , Transitions\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link\nVEHICLE\nTRUCK\nLIDAR",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709016440.webp",
+      "alt_text": "adidas - Imagination",
+      "discovered_at": "2025-09-11T16:24:14.450762",
+      "title": "adidas - Imagination (2017)",
+      "description": "",
+      "tags": [
+        "MACRO",
+        "DUSK",
+        "EXTERIOR",
+        "EYE",
+        "SOCCER",
+        "ATHLETE",
+        "LOS ANGELES",
+        "EVENING",
+        "GIO REYNA"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Robert Lopuski",
+      "dop": "Pat Scola",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "adidas - Imagination (2017)\n2017 U.S. World Cup commercial for adidas from director Young Replicant. In it, we see rising star Gio Reyna take to the streets with his imaginative play style.\nTechnique - Object Portal\nDirector - Young Replicant\nDOP - Pat Scola\nEditor - Robert Lopuski\nOriginal Source - Link\nMACRO\nDUSK\nEXTERIOR\nEYE\nSOCCER\nATHLETE\nLOS ANGELES\nEVENING\nGIO REYNA",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705100257.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T16:24:18.078048",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Object Portal"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Infinite Zoom , Object Portal\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702784060.webp",
+      "alt_text": "Anime Crimes Division (TV Series)",
+      "discovered_at": "2025-09-11T16:24:21.736748",
+      "title": "Anime Crimes Division (TV Series) (2017)",
+      "description": "Agent Furaya and newly assigned partner Diesel chase down rare Yu-Gi-Oh cards and Gundam killers in this collaboration series between RocketJump and Crunchyroll.",
+      "tags": [
+        "GLASSES",
+        "OBJECT PORTAL",
+        "PORTAL",
+        "EYE PORTAL"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Super Zoom"
+      ],
+      "director": "Freddie Wong, Matthew Arnold",
+      "dop": "Lauren Haroutunian",
+      "colorist": "Persephanie Engel",
+      "original_source": "",
+      "additional_info": "Anime Crimes Division (TV Series) (2017)\nAgent Furaya and newly assigned partner Diesel chase down rare Yu-Gi-Oh cards and Gundam killers in this collaboration series between RocketJump and Crunchyroll.\nTechnique - Object Portal , Super Zoom\nDirector - Freddie Wong, Matthew Arnold\nDOP - Lauren Haroutunian\nColorist - Persephanie Engel\nOriginal Source - Link\nGLASSES\nOBJECT PORTAL\nPORTAL\nEYE PORTAL",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/21/261703198896.webp",
+      "alt_text": "A$AP Ferg - Floor Seats",
+      "discovered_at": "2025-09-11T16:24:24.883553",
+      "title": "A$AP Ferg - Floor Seats (2019)",
+      "description": "In the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?",
+      "tags": [
+        "DAY",
+        "BULLET TIME",
+        "MOUTH",
+        "FROZEN"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Maxime Caro",
+      "dop": "Hunter Daly",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "A$AP Ferg - Floor Seats (2019)\nIn the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?\nTechnique - Object Portal\nDirector - Valentin Petit\nDOP - Hunter Daly\nEditor - Maxime Caro\nColorist - Arthur Paux\nOriginal Source - Link\nTutorial - Link\nDAY\nBULLET TIME\nMOUTH\nFROZEN",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824529.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T16:24:28.530794",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "RED",
+        "TITLE",
+        "MOUTH",
+        "OBJECT POV"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Pass Through",
+        "Title Card",
+        "Typography"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Object Portal , Pass Through , Title Card , Typography\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nRED\nTITLE\nMOUTH\nOBJECT POV",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709342666.webp",
+      "alt_text": "AJ Tracey - Wifey Riddim 4",
+      "discovered_at": "2025-09-11T16:24:31.667690",
+      "title": "AJ Tracey - Wifey Riddim 4 (2024)",
+      "description": "",
+      "tags": [
+        "CAR",
+        "EXTERIOR",
+        "RIM",
+        "WHEEL"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Late Milk",
+      "dop": "Mike Koziel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJ Tracey - Wifey Riddim 4 (2024)\nTechnique - Object Portal\nDirector - Late Milk\nDOP - Mike Koziel\nOriginal Source - Link\nCAR\nEXTERIOR\nRIM\nWHEEL",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705100141.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T16:24:36.398573",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Object Portal",
+        "Screen in Screen"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Infinite Zoom , Object Portal , Screen in Screen\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/21/261703199986.webp",
+      "alt_text": "Nike - Never Settle. Never Done",
+      "discovered_at": "2025-09-11T16:24:40.020893",
+      "title": "Nike - Never Settle. Never Done (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "RED",
+        "SPORTS",
+        "INTERIOR",
+        "BULLET TIME",
+        "SOCCER",
+        "STADIUM",
+        "FRAME"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Bullet Time",
+        "Object Portal",
+        "X-Axis Arc"
+      ],
+      "director": "Alexandre Sellem, Hugo Beron, Lola Margrain",
+      "dop": "Maeva Von Dinh, Paul Guilhaume",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Nike - Never Settle. Never Done (2022)\nValentin Petit, the visionary director of Nike's women's football campaign, skillfully captures the essence of the game by featuring a dynamic cast of all-stars and grassroots players in the Women's Euros anthem. His directorial prowess unveils the unparalleled speed, technical finesse, and undeniable quality that define the current landscape of women's football, setting a new standard for equality in the sport.\nTechnique - Arc , Bullet Time , Object Portal , X-Axis Arc\nDirector - Valentin Petit\nDOP - Maeva Von Dinh, Paul Guilhaume\nEditor - Alexandre Sellem, Hugo Beron, Lola Margrain\nColorist - Arthur Paux\nOriginal Source - Link\nDAY\nRED\nSPORTS\nINTERIOR\nBULLET TIME\nSOCCER\nSTADIUM\nFRAME",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705100210.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T16:24:43.678296",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Object Portal"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Infinite Zoom , Object Portal\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705100008.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T16:24:46.829852",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Object Portal"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Infinite Zoom , Object Portal\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420551.webp",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "discovered_at": "2025-09-11T16:24:49.972225",
+      "title": "AJR - The DJ Is Crying For Help (2022)",
+      "description": "Directed by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "SITTING"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Object Portal",
+        "Screen Transition",
+        "Transitions"
+      ],
+      "director": "Austin Roa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJR - The DJ Is Crying For Help (2022)\nDirected by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.\nTechnique - Duplication , Object Portal , Screen Transition , Transitions\nDirector - Austin Roa\nOriginal Source - Link\nDAY\nEXTERIOR\nSITTING",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706903032.webp",
+      "alt_text": "Converse - AS-1 Pro",
+      "discovered_at": "2025-09-11T16:24:53.139637",
+      "title": "Converse - AS-1 Pro (2023)",
+      "description": "",
+      "tags": [
+        "MAGNIFYING GLASS",
+        "SHOE",
+        "CONVERSE"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Magnification",
+        "Object Portal",
+        "Super Zoom",
+        "Zoom"
+      ],
+      "director": "Daer Niloc",
+      "dop": "Eric Schleicher",
+      "colorist": "ETHOS, Joseph Bicknell, Kaitlyn Battistelli",
+      "original_source": "",
+      "additional_info": "Converse - AS-1 Pro (2023)\n2023 advert for Converse from director COLIN READ (Mandible Claw). Features an Infinite Dolly effect throughout the film. Produced by SEA COW and MIRMADE. Color by ETHOS.\nTechnique - Infinite Zoom , Magnification , Object Portal , Super Zoom , Zoom\nDirector - Colin Read\nDOP - Eric Schleicher\nEditor - Daer Niloc\nColorist - ETHOS, Joseph Bicknell, Kaitlyn Battistelli\nOriginal Source - Link\nMAGNIFYING GLASS\nSHOE\nCONVERSE",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704822081.webp",
+      "alt_text": "Yuh - Can Do it",
+      "discovered_at": "2025-09-11T16:24:56.763305",
+      "title": "Yuh - Can Do it (2022)",
+      "description": "",
+      "tags": [
+        "EYE",
+        "PHONE"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Screen in Screen",
+        "Wipe Transition"
+      ],
+      "director": "We Are From L.A",
+      "dop": "Nicolas Loir",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Yuh - Can Do it (2022)\nAdvertising Agency: cavalcade, Lausanne, Switzerland Production: Iconoclast Creative Director: David Von Ritter Creative Director: Damien Real Director: We Are From L.A Director Of Photography: Nicolas Loir Copywriter: Martin Arnold Strategy: Alexis Mouthon Graphic Designer: Camille Natalini Client Director: Nina Hugentobler Account Manager: Maxime Fiechter Producer: Camille Lambert Line Producer: Arnaud Le Méné Choreographer: Cathy Ematchoua\nTechnique - Object Portal , Screen in Screen , Wipe Transition\nDirector - We Are From L.A\nDOP - Nicolas Loir\nOriginal Source - Link\nEYE\nPHONE",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703106006.webp",
+      "alt_text": "NBA - Play Off Mode",
+      "discovered_at": "2025-09-11T16:24:59.900317",
+      "title": "NBA - Play Off Mode (2023)",
+      "description": "Welcome to \"Playoff Mode\"—that's the spot's title—which follows Non-Stop around the globe and even into orbit, as he hobnobs with hoop stars Donovan Mitchell, Julius Randle, Jaren Jackson Jr. and Jamal Murray.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "OBJECT PORTAL",
+        "HOLE",
+        "TERENCE NEALE"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Terence Neale",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "NBA - Play Off Mode (2023)\nWelcome to \"Playoff Mode\"—that's the spot's title—which follows Non-Stop around the globe and even into orbit, as he hobnobs with hoop stars Donovan Mitchell, Julius Randle, Jaren Jackson Jr. and Jamal Murray.\nTechnique - Object Portal\nDirector - Terence Neale\nTutorial - Link\nDAY\nEXTERIOR\nOBJECT PORTAL\nHOLE\nTERENCE NEALE",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706507026.webp",
+      "alt_text": "Unknown source",
+      "discovered_at": "2025-09-11T16:25:03.564497",
+      "title": "Unknown source",
+      "description": "",
+      "tags": [
+        "ELEVATOR"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Unknown source\nKnow the source? Email jacobi@eycndy.com\nTechnique - Object Portal\nELEVATOR",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703213540.webp",
+      "alt_text": "Armani White - Billie Eilish.",
+      "discovered_at": "2025-09-11T16:25:07.231345",
+      "title": "Armani White - Billie Eilish. (2022)",
+      "description": "Directed by Mikey D’Amico, Davey Robinson, and Armani White. Beautiful homage to a litany of Billie Eilish references.",
+      "tags": [
+        "UNO"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Casamare Filmworks",
+      "dop": "",
+      "colorist": "Salvador Madriz",
+      "original_source": "",
+      "additional_info": "Armani White - Billie Eilish. (2022)\nDirected by Mikey D’Amico, Davey Robinson, and Armani White. Beautiful homage to a litany of Billie Eilish references.\nTechnique - Object Portal\nDirector - Davey Robinson, Mikey D'Amico\nEditor - Casamare Filmworks\nColorist - Salvador Madriz\nOriginal Source - Link\nTutorial - Link\nUNO",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709334828.webp",
+      "alt_text": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
+      "discovered_at": "2025-09-11T16:25:10.880828",
+      "title": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)",
+      "description": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)",
+      "tags": [
+        "BLACK AND WHITE",
+        "TEETH"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Object Portal",
+        "Transitions"
+      ],
+      "director": "Will Norman",
+      "dop": "Melchiorre Ruvolo",
+      "colorist": "Juliette Wileman",
+      "original_source": "",
+      "additional_info": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)\nMesmerizing music video from director Will Norman. Produced by MoreNight.\nTechnique - Collage , Object Portal , Transitions\nDirector - Will Norman\nDOP - Melchiorre Ruvolo\nColorist - Juliette Wileman\nOriginal Source - Link\nBLACK AND WHITE\nTEETH",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706506443.webp",
+      "alt_text": "Art by Emmanuel Uddenberg",
+      "discovered_at": "2025-09-11T16:25:14.531007",
+      "title": "Art by Emmanuel Uddenberg",
+      "description": "",
+      "tags": [
+        "GLASSES"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Emmanuel Uddenberg\nTechnique - Object Portal\nGLASSES",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538296.webp",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "discovered_at": "2025-09-11T16:25:18.179715",
+      "title": "Miel De Montagne - Le Pigeon (2023)",
+      "description": "2023 music video directed and edited by Morgan Jouquand.",
+      "tags": [
+        "BLOOD",
+        "GARBAGE CAN"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Morgan Jouquand",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Miel De Montagne - Le Pigeon (2023)\n2023 music video directed and edited by Morgan Jouquand.\nTechnique - Object Portal\nDirector - Morgan Jouquand\nOriginal Source - Link\nBLOOD\nGARBAGE CAN",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703214940.webp",
+      "alt_text": "Nike x End Clothing",
+      "discovered_at": "2025-09-11T16:25:21.330462",
+      "title": "Nike x End Clothing (2020)",
+      "description": "",
+      "tags": [
+        "CLOSE UP",
+        "HAND",
+        "GRILLZ",
+        "TUNNEL"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Felix Brady",
+      "dop": "Pat Aldinger",
+      "colorist": "Tim Smith",
+      "original_source": "",
+      "additional_info": "Nike x End Clothing (2020)\nA delicious Felix Brady dessert for the eyes, featuring a collection of unique techniques.\nTechnique - Object Portal\nDirector - Felix Brady\nDOP - Pat Aldinger\nColorist - Tim Smith\nOriginal Source - Link\nCLOSE UP\nHAND\nGRILLZ\nTUNNEL",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/21/261703199458.webp",
+      "alt_text": "Nike x End Clothing",
+      "discovered_at": "2025-09-11T16:25:24.463332",
+      "title": "Nike x End Clothing (2020)",
+      "description": "",
+      "tags": [
+        "GREEN",
+        "INTERIOR",
+        "SURREALIST",
+        "DARK",
+        "CAMERA",
+        "ARTIFICIAL LIGHT",
+        "TEAL",
+        "LENS"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Felix Brady",
+      "dop": "Pat Aldinger",
+      "colorist": "Tim Smith",
+      "original_source": "",
+      "additional_info": "Nike x End Clothing (2020)\nA delicious Felix Brady dessert for the eyes, featuring a collection of unique techniques.\nTechnique - Object Portal\nDirector - Felix Brady\nDOP - Pat Aldinger\nColorist - Tim Smith\nOriginal Source - Link\nGREEN\nINTERIOR\nSURREALIST\nDARK\nCAMERA\nARTIFICIAL LIGHT\nTEAL\nLENS",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075232.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T16:25:27.589458",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "GOGGLES"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford.\nTechnique - Object Portal\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nDARK\nGOGGLES",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/21/261703203101.webp",
+      "alt_text": "Samsung - I'm Open to That",
+      "discovered_at": "2025-09-11T16:25:30.728003",
+      "title": "Samsung - I'm Open to That (2022)",
+      "description": "An epic, two-minute mini-musical showcasing the transformative capabilities of Samsung's Galaxy phones and celebrating the myriad possibilities they unveil in life.",
+      "tags": [
+        "SPACE",
+        "EXTERIOR",
+        "DOORS"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Magical realism",
+        "Object Portal"
+      ],
+      "director": "Final Cut, Sam Bould",
+      "dop": "Todd Martin",
+      "colorist": "Osmar Junior",
+      "original_source": "",
+      "additional_info": "Samsung - I'm Open to That (2022)\nAn epic, two-minute mini-musical showcasing the transformative capabilities of Samsung's Galaxy phones and celebrating the myriad possibilities they unveil in life.\nTechnique - Flying , Magical realism , Object Portal\nDirector - ALASKA, Gustavo Moraes, Marco Laver\nDOP - Todd Martin\nEditor - Final Cut, Sam Bould\nColorist - Osmar Junior\nOriginal Source - Link\nSPACE\nEXTERIOR\nDOORS",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709017871.webp",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "discovered_at": "2025-09-11T16:25:34.376335",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
+      "description": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
+      "tags": [
+        "BLUNT",
+        "CIGARETTE",
+        "NIGHT",
+        "ALL IS YELLOW"
+      ],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Object Portal",
+        "Transitions"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)\nStunning 2024 music video from director Cole Bennett of Lyrical Lemonade.\nTechnique - Extreme Close-Up , Object Portal , Transitions\nDirector - Cole Bennett\nDOP - Franklin Ricart\nColorist - Josh Bohoskey\nOriginal Source - Link\nBLUNT\nCIGARETTE\nNIGHT\nALL IS YELLOW",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704372919.webp",
+      "alt_text": "St. Louis City FC - The City Kit Is Here",
+      "discovered_at": "2025-09-11T16:25:38.032725",
+      "title": "St. Louis City FC - The City Kit Is Here (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "SPORTS",
+        "EXTERIOR",
+        "SOCCER"
+      ],
+      "technique_tags": [
+        "Ground Level",
+        "Object Portal"
+      ],
+      "director": "Bruton Stroube",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "St. Louis City FC - The City Kit Is Here (2022)\nShot breakdown: Low angle ground POV shot\nTechnique - Ground Level , Object Portal\nDirector - Bruton Stroube\nOriginal Source - Link\nDAY\nSPORTS\nEXTERIOR\nSOCCER",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710331720.webp",
+      "alt_text": "Nike - Mad Ready (DC)",
+      "discovered_at": "2025-09-11T16:25:41.693977",
+      "title": "Nike - Mad Ready (DC) (2024)",
+      "description": "",
+      "tags": [
+        "NIKE",
+        "EYE",
+        "SOCCER",
+        "SHOE"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Lorna Searl, Trim Editing",
+      "dop": "Konrad Losch",
+      "colorist": "Tim Smith",
+      "original_source": "",
+      "additional_info": "Nike - Mad Ready (DC) (2024)\nTechnique - Object Portal\nDirector - India Harris\nDOP - Konrad Losch\nEditor - Lorna Searl, Trim Editing\nColorist - Tim Smith\nOriginal Source - Link\nNIKE\nEYE\nSOCCER\nSHOE",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705099775.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T16:25:45.355356",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "INTERIOR",
+        "GIRL",
+        "EYE",
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Masking",
+        "Object Portal"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Infinite Zoom , Masking , Object Portal\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nGIRL\nEYE\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489145.webp",
+      "alt_text": "21 Savage - redrum",
+      "discovered_at": "2025-09-11T16:25:48.999882",
+      "title": "21 Savage - redrum (2024)",
+      "description": "The music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.",
+      "tags": [],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Anders Mills, Trim Editing",
+      "dop": "Chewy Lodge, JAWMIDNIGHT, Thomas Marchese",
+      "colorist": "Vlad Barin",
+      "original_source": "",
+      "additional_info": "21 Savage - redrum (2024)\nThe music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.\nTechnique - Object Portal\nDirector - Danny Seth\nDOP - Chewy Lodge, JAWMIDNIGHT, Thomas Marchese\nEditor - Anders Mills, Trim Editing\nColorist - Vlad Barin\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707023361.webp",
+      "alt_text": "Everything Everywhere All at Once",
+      "discovered_at": "2025-09-11T16:25:52.138529",
+      "title": "Everything Everywhere All at Once (2022)",
+      "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+      "tags": [
+        "DOUBLE DOLLY",
+        "MICHELLE YEOH"
+      ],
+      "technique_tags": [
+        "Double Dolly",
+        "Object Portal"
+      ],
+      "director": "Paul Rogers",
+      "dop": "Larkin Seiple",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Everything Everywhere All at Once (2022)\nA middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.\nTechnique - Double Dolly , Object Portal\nDirector - Daniel Kwan, Daniel Scheinert\nDOP - Larkin Seiple\nEditor - Paul Rogers\nColorist - Alex Bickel\nDOUBLE DOLLY\nMICHELLE YEOH",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703214433.webp",
+      "alt_text": "Valentino Khan - Deep Down Low",
+      "discovered_at": "2025-09-11T16:25:55.799127",
+      "title": "Valentino Khan - Deep Down Low (2016)",
+      "description": "One of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.",
+      "tags": [
+        "PINK",
+        "OBJECT PORTAL",
+        "MOUTH"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Gaia Borretti",
+      "dop": "Naoki Noda",
+      "colorist": "Luke Morrison",
+      "original_source": "",
+      "additional_info": "Valentino Khan - Deep Down Low (2016)\nOne of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.\nTechnique - Object Portal\nDirector - Ian Pons Jewell\nDOP - Naoki Noda\nEditor - Gaia Borretti\nColorist - Luke Morrison\nOriginal Source - Link\nPINK\nOBJECT PORTAL\nMOUTH",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703215128.webp",
+      "alt_text": "H&M - House of Members",
+      "discovered_at": "2025-09-11T16:25:59.438809",
+      "title": "H&M - House of Members (2023)",
+      "description": "A colourful, fun and smashing world of the H&M membership – “The house of members”.",
+      "tags": [
+        "PINK",
+        "INTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Infinite Zoom",
+        "Object Portal",
+        "Scale Shift"
+      ],
+      "director": "Jason Yan Francis",
+      "dop": "Persona",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "H&M - House of Members (2023)\nA colourful, fun and smashing world of the H&M membership – “The house of members”.\nTechnique - Infinite Zoom , Object Portal , Scale Shift\nDirector - Jason Yan Francis\nDOP - Persona\nOriginal Source - Link\nPINK\nINTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706507812.webp",
+      "alt_text": "Slovenska - Sporitelna",
+      "discovered_at": "2025-09-11T16:26:07.805789",
+      "title": "Slovenska - Sporitelna (2023)",
+      "description": "",
+      "tags": [
+        "GLASSES",
+        "PINK"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Laurence Dunmore",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Slovenska - Sporitelna (2023)\nTechnique - Object Portal\nDirector - Laurence Dunmore\nOriginal Source - Link\nGLASSES\nPINK",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710453842.webp",
+      "alt_text": "Air Jordan - Rookie Card (Short Film)",
+      "discovered_at": "2025-09-11T16:26:14.587677",
+      "title": "Air Jordan - Rookie Card (Short Film) (2024)",
+      "description": "An homage to the greatest to ever play the game and the card that started it all.",
+      "tags": [
+        "CLOSE UP",
+        "NIKE",
+        "SHOES"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Object Portal",
+        "Product",
+        "Product: Shoes"
+      ],
+      "director": "Masood Ahmed",
+      "dop": "Geoffrey Taylor",
+      "colorist": "Spyros Katsihtis",
+      "original_source": "",
+      "additional_info": "Air Jordan - Rookie Card (Short Film) (2024)\nAn homage to the greatest to ever play the game and the card that started it all.\nTechnique - Close-Up , Object Portal , Product , Product: Shoes\nDirector - Masood Ahmed\nDOP - Geoffrey Taylor\nEditor - Masood Ahmed\nColorist - Spyros Katsihtis\nOriginal Source - Link\nCLOSE UP\nNIKE\nSHOES",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710331947.webp",
+      "alt_text": "Nike - Mad Ready (DC)",
+      "discovered_at": "2025-09-11T16:26:29.151639",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706507235.webp",
+      "alt_text": "Loop GIF By Kidmograph",
+      "discovered_at": "2025-09-11T16:26:34.937216",
+      "title": "Loop GIF By Kidmograph (2013)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Object Portal"
+      ],
+      "director": "kidmograph",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Loop GIF By Kidmograph (2013)\nTechnique - Extreme Close-Up , Object Portal\nEditor - kidmograph",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703214843.webp",
+      "alt_text": "Valentino Khan - Deep Down Low",
+      "discovered_at": "2025-09-11T16:26:39.611421",
+      "title": "Valentino Khan - Deep Down Low (2016)",
+      "description": "One of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.",
+      "tags": [
+        "PINK",
+        "OBJECT PORTAL",
+        "MOUTH"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Gaia Borretti",
+      "dop": "Naoki Noda",
+      "colorist": "Luke Morrison",
+      "original_source": "",
+      "additional_info": "Valentino Khan - Deep Down Low (2016)\nOne of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.\nTechnique - Object Portal\nDirector - Ian Pons Jewell\nDOP - Naoki Noda\nEditor - Gaia Borretti\nColorist - Luke Morrison\nOriginal Source - Link\nPINK\nOBJECT PORTAL\nMOUTH",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709970367.webp",
+      "alt_text": "Emporio Armani SS24 Campaign",
+      "discovered_at": "2025-09-11T16:26:44.292318",
+      "title": "Emporio Armani SS24 Campaign (2024)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Object Portal",
+        "Spotlight",
+        "Transitions"
+      ],
+      "director": "Amedeo Zancanella",
+      "dop": "Francesco Bartoli Avveduti",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Emporio Armani SS24 Campaign (2024)\n2024 advert for Emporio Armani from director Amedeo Zancanella. Starring Barbara Palvin & Patrick Schwarzenegger. Choreography from Olivier Casamayou.\nTechnique - Object Portal , Spotlight , Transitions\nDirector - Amedeo Zancanella\nDOP - Francesco Bartoli Avveduti\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707628828.webp",
+      "alt_text": "Slovenska - Sporitelna",
+      "discovered_at": "2025-09-11T16:26:56.911811",
+      "title": "Slovenska - Sporitelna (2023)",
+      "description": "",
+      "tags": [
+        "GLASSES",
+        "PINK"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Transitions"
+      ],
+      "director": "Laurence Dunmore",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Slovenska - Sporitelna (2023)\nTechnique - Object Portal , Transitions\nDirector - Laurence Dunmore\nOriginal Source - Link\nGLASSES\nPINK",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705100563.webp",
+      "alt_text": "A$AP Rocky - A$AP Forever",
+      "discovered_at": "2025-09-11T16:27:00.591224",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
+      "tags": [
+        "FACE",
+        "DARK",
+        "EYE",
+        "ZOOM",
+        "VOID",
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Void"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Object Portal , Void\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nFACE\nDARK\nEYE\nZOOM\nVOID\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825463.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T16:27:14.832495",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "MALE",
+        "RESTAURANT",
+        "DINNER",
+        "MOUTH",
+        "FISH",
+        "SEX",
+        "ACID",
+        "PEANUTS"
+      ],
+      "technique_tags": [
+        "Magical realism",
+        "Object Portal"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Magical realism , Object Portal\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nMALE\nRESTAURANT\nDINNER\nMOUTH\nFISH\nSEX\nACID\nPEANUTS",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975899.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T16:27:19.031727",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Dreamcore",
+        "Drug trip",
+        "Object Portal",
+        "Rotoscope",
+        "Transitions"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Altered state , Dreamcore , Drug trip , Object Portal , Rotoscope , Transitions\nDirector - Daniel Stessen",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709332005.webp",
+      "alt_text": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME)",
+      "discovered_at": "2025-09-11T16:27:22.797404",
+      "title": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)",
+      "description": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)",
+      "tags": [
+        "BLACK AND WHITE",
+        "TEETH"
+      ],
+      "technique_tags": [
+        "Object Portal",
+        "Overhead"
+      ],
+      "director": "Will Norman",
+      "dop": "Melchiorre Ruvolo",
+      "colorist": "Juliette Wileman",
+      "original_source": "",
+      "additional_info": "Manga Saint Hilare, MoreNight - Alarm Bells (Feat. P Money & JME) (2024)\nMesmerizing music video from director Will Norman. Produced by MoreNight.\nTechnique - Object Portal , Overhead\nDirector - Will Norman\nDOP - Melchiorre Ruvolo\nColorist - Juliette Wileman\nOriginal Source - Link\nBLACK AND WHITE\nTEETH",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703214826.webp",
+      "alt_text": "Valentino Khan - Deep Down Low",
+      "discovered_at": "2025-09-11T16:27:36.963945",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704364614.webp",
+      "alt_text": "ASAHI — The Unusual",
+      "discovered_at": "2025-09-11T16:27:51.147919",
+      "title": "ASAHI — The Unusual (2022)",
+      "description": "",
+      "tags": [
+        "BAR",
+        "WINDOW",
+        "CITY",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "MANSON",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "ASAHI — The Unusual (2022)\nTitle The Unusual Client Asahi Agency Dentsu McGarrenBowen Production Company CANADA Director BLISS Creative Sudio: BLISS Executive Creative Director: Pau López Executive Producer: Maria Soler Chopo Production Coordinator: Berta Rodríguez CG Lead: César Rodrez Illustrators: Claudia Duran, Pablo Casal, Toni Caballero, Paula Blumen, Jonathan Romero, Laura Pérez 3D Artists: Lucas Céspedes, Bernat Martínez, Mike Fernández Art Director and 3D Artist Videogame: Enric Sant Animation 2D / Cel: Pablo Navarro, Libardo Bohórquez, Alberto Sánchez Cleanup 2D: Pau Anglada Lettering: Arantxa Gil Motion Graphics: Hernán Scassa Compositing: Héctor Cornelles, Alain Laza\nTechnique - Object Portal\nDirector - MANSON\nOriginal Source - Link\nBAR\nWINDOW\nCITY\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704365360.webp",
+      "alt_text": "ASAHI — The Unusual",
+      "discovered_at": "2025-09-11T16:27:55.347478",
+      "title": "ASAHI — The Unusual (2022)",
+      "description": "",
+      "tags": [
+        "ANIMATION",
+        "EXTERIOR",
+        "TRAIN",
+        "CITY",
+        "PHONE"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "MANSON",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "ASAHI — The Unusual (2022)\nTitle The Unusual Client Asahi Agency Dentsu McGarrenBowen Production Company CANADA Director BLISS Creative Sudio: BLISS Executive Creative Director: Pau López Executive Producer: Maria Soler Chopo Production Coordinator: Berta Rodríguez CG Lead: César Rodrez Illustrators: Claudia Duran, Pablo Casal, Toni Caballero, Paula Blumen, Jonathan Romero, Laura Pérez 3D Artists: Lucas Céspedes, Bernat Martínez, Mike Fernández Art Director and 3D Artist Videogame: Enric Sant Animation 2D / Cel: Pablo Navarro, Libardo Bohórquez, Alberto Sánchez Cleanup 2D: Pau Anglada Lettering: Arantxa Gil Motion Graphics: Hernán Scassa Compositing: Héctor Cornelles, Alain Laza\nTechnique - Object Portal\nDirector - MANSON\nOriginal Source - Link\nANIMATION\nEXTERIOR\nTRAIN\nCITY\nPHONE",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703106259.webp",
+      "alt_text": "Salomon - Tomorrow is Yours",
+      "discovered_at": "2025-09-11T16:27:59.012146",
+      "title": "Salomon - Tomorrow is Yours (2023)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "EXTERIOR",
+        "OBJECT PORTAL",
+        "SKATING",
+        "VALENTIN PETIT",
+        "PORTAL",
+        "2020S",
+        "SALOMON",
+        "SYLVAIN CANAUX",
+        "OLMO SOBRINO",
+        "JON ECHEVESTE",
+        "SHOE",
+        "TEVA VASSEUR",
+        "TUNNEL"
+      ],
+      "technique_tags": [
+        "Object Portal"
+      ],
+      "director": "Valentin Petit",
+      "dop": "Olmo Sobrino, Téva Vasseur",
+      "colorist": "Sylvain Canaux",
+      "original_source": "",
+      "additional_info": "Salomon - Tomorrow is Yours (2023)\nTechnique - Object Portal\nDirector - Valentin Petit\nDOP - Olmo Sobrino, Téva Vasseur\nColorist - Sylvain Canaux\nOriginal Source - Link\n2023\nINTERIOR\nEXTERIOR\nOBJECT PORTAL\nSKATING\nVALENTIN PETIT\nPORTAL\n2020S\nSALOMON\nSYLVAIN CANAUX\nOLMO SOBRINO\nJON ECHEVESTE\nSHOE\nTEVA VASSEUR\nTUNNEL",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706508092.webp",
+      "alt_text": "@sheepfilms / Giphy",
+      "discovered_at": "2025-09-11T16:28:02.653882",
+      "title": "@sheepfilms / Giphy",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "DOOR"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Object Portal"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@sheepfilms / Giphy\nTechnique - Infinite Loop , Object Portal\nEXTERIOR\nDOOR",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707976419.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T16:28:06.313370",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [],
+      "technique_tags": [
+        "Object Portal",
+        "Rotoscope",
+        "Transitions"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Object Portal , Rotoscope , Transitions\nDirector - Daniel Stessen",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/01/Mar-29-202319-31-46/04f13afa76931655580ac6d7ea5e1308.gif",
+      "alt_text": "Nike x End Clothing",
+      "discovered_at": "2025-09-11T16:28:09.970205",
+      "title": "Nike x End Clothing (2020)",
+      "description": "",
+      "tags": [
+        "RED",
+        "NIGHT",
+        "INTERIOR",
+        "DUSK",
+        "ORANGE",
+        "DOLLY",
+        "SATURATED",
+        "SATURATION",
+        "DOLLY SHOT"
+      ],
+      "technique_tags": [
+        "Dolly",
+        "Frame Portal"
+      ],
+      "director": "Felix Brady",
+      "dop": "Pat Aldinger",
+      "colorist": "Tim Smith",
+      "original_source": "",
+      "additional_info": "Nike x End Clothing (2020)\nA delicious Felix Brady dessert for the eyes, featuring a collection of unique techniques.\nTechnique - Dolly , Frame Portal\nDirector - Felix Brady\nDOP - Pat Aldinger\nColorist - Tim Smith\nOriginal Source - Link\nRED\nNIGHT\nINTERIOR\nDUSK\nORANGE\nDOLLY\nSATURATED\nSATURATION\nDOLLY SHOT",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704859313.webp",
+      "alt_text": "Artist: Sankalp Pandey / IG",
+      "discovered_at": "2025-09-11T16:28:13.640022",
+      "title": "Artist: Sankalp Pandey / IG",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "QUARTER",
+        "TOSS",
+        "COIN"
+      ],
+      "technique_tags": [
+        "Frame Portal"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: Sankalp Pandey / IG\nTechnique - Frame Portal\nEXTERIOR\nQUARTER\nTOSS\nCOIN",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707976321.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T16:28:17.292645",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [
+        "MALE",
+        "PURPLE",
+        "GUY"
+      ],
+      "technique_tags": [
+        "Away from Camera",
+        "Frame Portal",
+        "Rotoscope",
+        "Tracking",
+        "Transitions"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Away from Camera , Frame Portal , Rotoscope , Tracking , Transitions\nDirector - Daniel Stessen\nMALE\nPURPLE\nGUY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508694.webp",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-11T16:28:20.942203",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "tags": [
+        "ROAD",
+        "RIDING",
+        "EXTERIOR",
+        "MOTORCYCLE",
+        "METEOR"
+      ],
+      "technique_tags": [
+        "Frame Portal"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nTechnique - Frame Portal\nDirector - Mikhail Parkhomenko (parh0)\nROAD\nRIDING\nEXTERIOR\nMOTORCYCLE\nMETEOR",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704114248.webp",
+      "alt_text": "Nike x End Clothing",
+      "discovered_at": "2025-09-11T16:28:24.594287",
+      "title": "Nike x End Clothing (2020)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "WIDE",
+        "CYAN"
+      ],
+      "technique_tags": [
+        "Dolly",
+        "Frame Portal"
+      ],
+      "director": "Felix Brady",
+      "dop": "Pat Aldinger",
+      "colorist": "Tim Smith",
+      "original_source": "",
+      "additional_info": "Nike x End Clothing (2020)\nA delicious Felix Brady dessert for the eyes, featuring a collection of unique techniques.\nTechnique - Dolly , Frame Portal\nDirector - Felix Brady\nDOP - Pat Aldinger\nColorist - Tim Smith\nOriginal Source - Link\nINTERIOR\nWIDE\nCYAN",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710612373.webp",
+      "alt_text": "adidas - Your Future Is Not Mine",
+      "discovered_at": "2025-09-11T16:28:27.732010",
+      "title": "adidas - Your Future Is Not Mine (2016)",
+      "description": "The 2016 Adidas commercial \"Your Future is Not Mine,\" directed by Terence Neale, features influential creatives like Aleali May, Luka Sabbat, and Iman Shumpert, among others, who march confidently towards an optimistic future, challenging the preconceived notions of a dystopian tomorrow. This campaign, produced by the advertising agency Johannes Leonardo, emphasizes individual empowerment and the message that one's future is theirs to create, rallying viewers to defy negative expectations and shape their own destinies through creativity and personal initiative.",
+      "tags": [
+        "DAY",
+        "WALKING",
+        "GROUP",
+        "EXTERIOR",
+        "ADIDAS",
+        "HUNTER HAMPTON",
+        "MATTHEW EDWARDS",
+        "JEPH BURTON",
+        "WES PHELAN",
+        "JOHANNES LEONARDO"
+      ],
+      "technique_tags": [
+        "Away from Camera",
+        "Frame Portal",
+        "Tracking"
+      ],
+      "director": "Exile Edit, Nate Gross, Shane Reid",
+      "dop": "Sebastian Wintero",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas - Your Future Is Not Mine (2016)\nThe 2016 Adidas commercial \"Your Future is Not Mine,\" directed by Terence Neale, features influential creatives like Aleali May, Luka Sabbat, and Iman Shumpert, among others, who march confidently towards an optimistic future, challenging the preconceived notions of a dystopian tomorrow. This campaign, produced by the advertising agency Johannes Leonardo, emphasizes individual empowerment and the message that one's future is theirs to create, rallying viewers to defy negative expectations and shape their own destinies through creativity and personal initiative.\nTechnique - Away from Camera , Frame Portal , Tracking\nDirector - Terence Neale\nDOP - Sebastian Wintero\nEditor - Exile Edit, Nate Gross, Shane Reid\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nDAY\nWALKING\nGROUP\nEXTERIOR\nADIDAS\nHUNTER HAMPTON\nMATTHEW EDWARDS\nJEPH BURTON\nWES PHELAN\nJOHANNES LEONARDO",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704114041.webp",
+      "alt_text": "Nike x End Clothing",
+      "discovered_at": "2025-09-11T16:28:31.370587",
+      "title": "Nike x End Clothing (2020)",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "ORANGE",
+        "DOLLY"
+      ],
+      "technique_tags": [
+        "Dolly",
+        "Frame Portal"
+      ],
+      "director": "Felix Brady",
+      "dop": "Pat Aldinger",
+      "colorist": "Tim Smith",
+      "original_source": "",
+      "additional_info": "Nike x End Clothing (2020)\nA delicious Felix Brady dessert for the eyes, featuring a collection of unique techniques.\nTechnique - Dolly , Frame Portal\nDirector - Felix Brady\nDOP - Pat Aldinger\nColorist - Tim Smith\nOriginal Source - Link\nEXTERIOR\nORANGE\nDOLLY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704114079.webp",
+      "alt_text": "Nike x End Clothing",
+      "discovered_at": "2025-09-11T16:28:34.507500",
+      "title": "Nike x End Clothing (2020)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "INTERIOR",
+        "DUSK",
+        "DARK",
+        "ORANGE",
+        "NEON",
+        "DOLLY"
+      ],
+      "technique_tags": [
+        "Dolly",
+        "Frame Portal"
+      ],
+      "director": "Felix Brady",
+      "dop": "Pat Aldinger",
+      "colorist": "Tim Smith",
+      "original_source": "",
+      "additional_info": "Nike x End Clothing (2020)\nA delicious Felix Brady dessert for the eyes, featuring a collection of unique techniques.\nTechnique - Dolly , Frame Portal\nDirector - Felix Brady\nDOP - Pat Aldinger\nColorist - Tim Smith\nOriginal Source - Link\nNIGHT\nINTERIOR\nDUSK\nDARK\nORANGE\nNEON\nDOLLY",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710612513.webp",
+      "alt_text": "adidas - Your Future Is Not Mine",
+      "discovered_at": "2025-09-11T16:28:37.636765",
+      "title": "adidas - Your Future Is Not Mine (2016)",
+      "description": "The 2016 Adidas commercial \"Your Future is Not Mine,\" directed by Terence Neale, features influential creatives like Aleali May, Luka Sabbat, and Iman Shumpert, among others, who march confidently towards an optimistic future, challenging the preconceived notions of a dystopian tomorrow. This campaign, produced by the advertising agency Johannes Leonardo, emphasizes individual empowerment and the message that one's future is theirs to create, rallying viewers to defy negative expectations and shape their own destinies through creativity and personal initiative.",
+      "tags": [
+        "DAY",
+        "WALKING",
+        "GROUP",
+        "EXTERIOR",
+        "ADIDAS",
+        "HUNTER HAMPTON",
+        "MATTHEW EDWARDS",
+        "JEPH BURTON",
+        "WES PHELAN",
+        "JOHANNES LEONARDO"
+      ],
+      "technique_tags": [
+        "Frame Portal",
+        "Infinite Dolly"
+      ],
+      "director": "Exile Edit, Nate Gross, Shane Reid",
+      "dop": "Sebastian Wintero",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas - Your Future Is Not Mine (2016)\nThe 2016 Adidas commercial \"Your Future is Not Mine,\" directed by Terence Neale, features influential creatives like Aleali May, Luka Sabbat, and Iman Shumpert, among others, who march confidently towards an optimistic future, challenging the preconceived notions of a dystopian tomorrow. This campaign, produced by the advertising agency Johannes Leonardo, emphasizes individual empowerment and the message that one's future is theirs to create, rallying viewers to defy negative expectations and shape their own destinies through creativity and personal initiative.\nTechnique - Frame Portal , Infinite Dolly\nDirector - Terence Neale\nDOP - Sebastian Wintero\nEditor - Exile Edit, Nate Gross, Shane Reid\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nDAY\nWALKING\nGROUP\nEXTERIOR\nADIDAS\nHUNTER HAMPTON\nMATTHEW EDWARDS\nJEPH BURTON\nWES PHELAN\nJOHANNES LEONARDO",
+      "page_url": "https://eyecannndy.com/technique/object-portal"
+    }
+  ]
 }

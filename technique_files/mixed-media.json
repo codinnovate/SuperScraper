@@ -1,6 +1,1317 @@
 {
   "technique": "mixed-media",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.652559",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_161634",
+    "total_videos": 60,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250488.webp",
+      "alt_text": "YOLOv3 Object Detection Project",
+      "discovered_at": "2025-09-11T16:13:01.623342",
+      "title": "YOLOv3 Object Detection Project (2018)",
+      "description": "Video clips from the YOLOv3 Object Detection project which uses artificial intelligence to identify objects captured on camera in real time.",
+      "tags": [
+        "DAY",
+        "GREEN",
+        "EXTERIOR",
+        "DESERT",
+        "MAGENTA",
+        "CAMEL"
+      ],
+      "technique_tags": [
+        "Mixed Media"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "YOLOv3 Object Detection Project (2018)\nVideo clips from the YOLOv3 Object Detection project which uses artificial intelligence to identify objects captured on camera in real time.\nTechnique - Mixed Media\nOriginal Source - Link\nDAY\nGREEN\nEXTERIOR\nDESERT\nMAGENTA\nCAMEL",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715655189.webp",
+      "alt_text": "Vans Australia BTS",
+      "discovered_at": "2025-09-11T16:13:04.754865",
+      "title": "Vans Australia BTS",
+      "description": "",
+      "tags": [
+        "RED",
+        "PAPER",
+        "TEXTURE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Ian Ferguson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vans Australia BTS\nTechnique - Collage , Mixed Media\nEditor - Ian Ferguson\nRED\nPAPER\nTEXTURE",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703451821.webp",
+      "alt_text": "John Grant Animation GIF By Ewan Jones Morris",
+      "discovered_at": "2025-09-11T16:13:08.416045",
+      "title": "John Grant Animation GIF By Ewan Jones Morris (2018)",
+      "description": "Close up mask replacement of face with quick cut collage, on black shadow box.",
+      "tags": [
+        "DARK",
+        "COLORFUL",
+        "SATURATED",
+        "BLACK"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Cutout",
+        "Masking",
+        "Mixed Media"
+      ],
+      "director": "Ewan Jones Morris",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "John Grant Animation GIF By Ewan Jones Morris (2018)\nClose up mask replacement of face with quick cut collage, on black shadow box.\nTechnique - Collage , Cutout , Masking , Mixed Media\nDirector - Ewan Jones Morris\nOriginal Source - Link\nDARK\nCOLORFUL\nSATURATED\nBLACK",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710400316.webp",
+      "alt_text": "Twitter new brand identity",
+      "discovered_at": "2025-09-11T16:13:11.563472",
+      "title": "Twitter new brand identity (2021)",
+      "description": "Created by Twitter’s in-house team and French studio Irradié, the social media platform’s refreshed branding features an “intentionally imperfect” aesthetic and new brand font, Chirp.",
+      "tags": [
+        "NEWSPAPER",
+        "CUTOUT",
+        "TORN PAPER"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Twitter new brand identity (2021)\nCreated by Twitter’s in-house team and French studio Irradié, the social media platform’s refreshed branding features an “intentionally imperfect” aesthetic and new brand font, Chirp.\nTechnique - Collage , Mixed Media\nOriginal Source - Link\nNEWSPAPER\nCUTOUT\nTORN PAPER",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706691774.webp",
+      "alt_text": "Kid Culture - KEEP IT",
+      "discovered_at": "2025-09-11T16:13:16.765328",
+      "title": "Kid Culture - KEEP IT (2023)",
+      "description": "2023 music video for artist Kid Culture. Produced by Stray Dogs",
+      "tags": [
+        "WOMAN",
+        "HULA HOOP"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Daniel Iglesias Jr.",
+      "dop": "Scott Siracusano",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Kid Culture - KEEP IT (2023)\n2023 music video for artist Kid Culture. Produced by Stray Dogs\nTechnique - Collage , Mixed Media\nDirector - Daniel Iglesias Jr.\nDOP - Scott Siracusano\nColorist - Dante Pasquinelli\nOriginal Source - Link\nWOMAN\nHULA HOOP",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706251155.webp",
+      "alt_text": "adidas Originals - Powered by the Past",
+      "discovered_at": "2025-09-11T16:13:19.904895",
+      "title": "adidas Originals - Powered by the Past (2020)",
+      "description": "2020 commercial for adidas Originals featuring a mixed media collage approach throughout. Concepted by Johannes Leonardo. Produced by 'Not to Scale'.",
+      "tags": [
+        "SHOES",
+        "ADIDAS"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Vintage"
+      ],
+      "director": "Britt Bellamy, Danny Weeks",
+      "dop": "",
+      "colorist": "Phil Choe",
+      "original_source": "",
+      "additional_info": "adidas Originals - Powered by the Past (2020)\n2020 commercial for adidas Originals featuring a mixed media collage approach throughout. Concepted by Johannes Leonardo. Produced by 'Not to Scale'.\nTechnique - Collage , Mixed Media , Vintage\nDirector - Kristian Mercado\nEditor - Britt Bellamy, Danny Weeks\nColorist - Phil Choe\nOriginal Source - Link\nSHOES\nADIDAS\n1998",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248796.webp",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "discovered_at": "2025-09-11T16:13:23.555355",
+      "title": "Danny Brown - Y.B.P. (2024)",
+      "description": "The music video for \"Danny Brown - Y.B.P. (feat. Bruiser Wolf)\" utilizes claymation-inspired visuals, beginning with Danny Brown performing in a living room among various characters. The plot thickens with a dramatic armed robbery at a fast-food restaurant led by Brown and Wolf, followed by a suspenseful police chase. These visuals serve to underline the song's narrative of overcoming past hardships.",
+      "tags": [
+        "CAR",
+        "DRIVING"
+      ],
+      "technique_tags": [
+        "Claymation",
+        "Mixed Media",
+        "Stop Motion"
+      ],
+      "director": "Edem Wornoo, William Child",
+      "dop": "MOSHPXT",
+      "colorist": "Electric Theatre Collective, Megan Lee",
+      "original_source": "",
+      "additional_info": "Danny Brown - Y.B.P. (2024)\nThe music video for \"Danny Brown - Y.B.P. (feat. Bruiser Wolf)\" utilizes claymation-inspired visuals, beginning with Danny Brown performing in a living room among various characters. The plot thickens with a dramatic armed robbery at a fast-food restaurant led by Brown and Wolf, followed by a suspenseful police chase. These visuals serve to underline the song's narrative of overcoming past hardships.\nTechnique - Claymation , Mixed Media , Stop Motion\nDirector - Edem Wornoo, William Child\nDOP - MOSHPXT\nColorist - Electric Theatre Collective, Megan Lee\nOriginal Source - Link\nCAR\nDRIVING",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535781.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T16:13:26.735509",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE",
+        "NEWSPAPER"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Collage , Mixed Media\nBLACK AND WHITE\nNEWSPAPER",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710578377.webp",
+      "alt_text": "Design by Landon Khiry",
+      "discovered_at": "2025-09-11T16:13:29.871832",
+      "title": "Design by Landon Khiry (2024)",
+      "description": "",
+      "tags": [
+        "MAGAZINE",
+        "COVER"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Stylistic Suck"
+      ],
+      "director": "Landon Khiry",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Design by Landon Khiry (2024)\nFrom artist, Landon Khiry.\nTechnique - Collage , Mixed Media , Stylistic Suck\nEditor - Landon Khiry\nOriginal Source - Link\nMAGAZINE\nCOVER",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535578.webp",
+      "alt_text": "Shifts",
+      "discovered_at": "2025-09-11T16:13:33.506327",
+      "title": "Shifts (2021)",
+      "description": "Elements of fragmented narrative, abstract visions and blurred memories collected and shuffled together in this small animation study for an abandoned short film. Score by MYNAH FM.",
+      "tags": [],
+      "technique_tags": [
+        "Masking",
+        "Mixed Media",
+        "Profile",
+        "Stop Motion"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shifts (2021)\nElements of fragmented narrative, abstract visions and blurred memories collected and shuffled together in this small animation study for an abandoned short film. Score by MYNAH FM.\nTechnique - Masking , Mixed Media , Profile , Stop Motion\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706251181.webp",
+      "alt_text": "adidas Originals - Powered by the Past",
+      "discovered_at": "2025-09-11T16:13:37.235201",
+      "title": "adidas Originals - Powered by the Past (2020)",
+      "description": "2020 commercial for adidas Originals featuring a mixed media collage approach throughout. Concepted by Johannes Leonardo. Produced by 'Not to Scale'.",
+      "tags": [
+        "SHOES",
+        "ADIDAS",
+        "STOP MOTION",
+        "BOOK"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Britt Bellamy, Danny Weeks",
+      "dop": "",
+      "colorist": "Phil Choe",
+      "original_source": "",
+      "additional_info": "adidas Originals - Powered by the Past (2020)\n2020 commercial for adidas Originals featuring a mixed media collage approach throughout. Concepted by Johannes Leonardo. Produced by 'Not to Scale'.\nTechnique - Collage , Mixed Media\nDirector - Kristian Mercado\nEditor - Britt Bellamy, Danny Weeks\nColorist - Phil Choe\nOriginal Source - Link\nSHOES\nADIDAS\nSTOP MOTION\nBOOK\n1998",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706251786.webp",
+      "alt_text": "Coca-Cola Energy - Show Up",
+      "discovered_at": "2025-09-11T16:13:40.894640",
+      "title": "Coca-Cola Energy - Show Up (2022)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "PHONE",
+        "MARTIN SCORSESE",
+        "UI",
+        "TEXT BUBBLE"
+      ],
+      "technique_tags": [
+        "Annoyance",
+        "Live Action",
+        "Mixed Media"
+      ],
+      "director": "Damion Clayton, Rock Paper Scissors",
+      "dop": "Andrzej Sekula",
+      "colorist": "Matt Osborne, The Mill",
+      "original_source": "",
+      "additional_info": "Coca-Cola Energy - Show Up (2022)\n2022 Super Bowl commercial from agency Wieden + Kennedy featuring famed director Martin Scorsese, and actor Jonah Hill.\nTechnique - Annoyance , Live Action , Mixed Media\nDirector - Ulf Johansson\nDOP - Andrzej Sekula\nEditor - Damion Clayton, Rock Paper Scissors\nColorist - Matt Osborne, The Mill\nOriginal Source - Link\nINTERIOR\nPHONE\nMARTIN SCORSESE\nUI\nTEXT BUBBLE",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704862502.webp",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "discovered_at": "2025-09-11T16:13:44.576573",
+      "title": "A$AP Rocky - D.M.B. (2022)",
+      "description": "",
+      "tags": [
+        "CLOSE UP",
+        "TEETH",
+        "RIHANNA",
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Maximalism",
+        "Mixed Media"
+      ],
+      "director": "A$AP Rocky",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - D.M.B. (2022)\nDirected and produced by him for AWGE, this music video depicts a devoted relationship in challenging circumstances, filmed in New York. This specific clip features a flash cut photography technique inside a vintage film border that duplicates.\nTechnique - Collage , Maximalism , Mixed Media\nDirector - A$AP Rocky\nOriginal Source - Link\nCLOSE UP\nTEETH\nRIHANNA\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250091.webp",
+      "alt_text": "Art by Andrew Benson",
+      "discovered_at": "2025-09-11T16:13:48.227170",
+      "title": "Art by Andrew Benson (2016)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Glitch",
+        "Mixed Media"
+      ],
+      "director": "Andrew Benson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Andrew Benson (2016)\nTechnique - Collage , Glitch , Mixed Media\nDirector - Andrew Benson",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707403017.webp",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "discovered_at": "2025-09-11T16:13:51.886323",
+      "title": "Tierra Whack - SHOWER SONG (2024)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Stop Motion"
+      ],
+      "director": "Harvey Benschoter",
+      "dop": "Drew Saracco",
+      "colorist": "Ryan Berger",
+      "original_source": "",
+      "additional_info": "Tierra Whack - SHOWER SONG (2024)\n2024 music video for artist Tierra Whack, from conceptual artist and director, Alex Da Corte. Features a wonderful mixture of stop motion and mixed-media collages. Title design by Amy DiLorenzo.\nTechnique - Collage , Mixed Media , Stop Motion\nDirector - Alex Da Corte\nDOP - Drew Saracco\nEditor - Harvey Benschoter\nColorist - Ryan Berger\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707620612.webp",
+      "alt_text": "Carly Gibert - WILLOW",
+      "discovered_at": "2025-09-11T16:13:55.556838",
+      "title": "Carly Gibert - WILLOW (2024)",
+      "description": "2024 music video performed and directed by artist Carly Gibert.",
+      "tags": [
+        "COLORFUL",
+        "SATURATED"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Carly Gibert",
+      "dop": "Enzo Iriarte",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Carly Gibert - WILLOW (2024)\n2024 music video performed and directed by artist Carly Gibert.\nTechnique - Collage , Mixed Media\nDirector - Carly Gibert\nDOP - Enzo Iriarte\nOriginal Source - Link\nCOLORFUL\nSATURATED",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706252338.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T16:13:59.271586",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "UNDERWATER",
+        "FISH"
+      ],
+      "technique_tags": [
+        "Mixed Media",
+        "Underwater"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Mixed Media , Underwater\nUNDERWATER\nFISH",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250694.webp",
+      "alt_text": "YOLOv3 Object Detection Project",
+      "discovered_at": "2025-09-11T16:14:02.939390",
+      "title": "YOLOv3 Object Detection Project (2018)",
+      "description": "Video clips from the YOLOv3 Object Detection project which uses artificial intelligence to identify objects captured on camera in real time. This clip features a scene from The Wolf of Wall Street (2013).",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "HAND",
+        "MAGENTA",
+        "HORSE",
+        "LIME GREEN"
+      ],
+      "technique_tags": [
+        "Mixed Media"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "YOLOv3 Object Detection Project (2018)\nVideo clips from the YOLOv3 Object Detection project which uses artificial intelligence to identify objects captured on camera in real time. This clip features a scene from The Wolf of Wall Street (2013).\nTechnique - Mixed Media\nOriginal Source - Link\nDAY\nEXTERIOR\nHAND\nMAGENTA\nHORSE\nLIME GREEN",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535402.webp",
+      "alt_text": "Shifts",
+      "discovered_at": "2025-09-11T16:14:06.563791",
+      "title": "Shifts (2021)",
+      "description": "Elements of fragmented narrative, abstract visions and blurred memories collected and shuffled together in this small animation study for an abandoned short film. Score by MYNAH FM.",
+      "tags": [],
+      "technique_tags": [
+        "Light Void",
+        "Mixed Media",
+        "Silhouette",
+        "Stop Motion"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shifts (2021)\nElements of fragmented narrative, abstract visions and blurred memories collected and shuffled together in this small animation study for an abandoned short film. Score by MYNAH FM.\nTechnique - Light Void , Mixed Media , Silhouette , Stop Motion\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715655084.webp",
+      "alt_text": "Subtype Selects x Lucky Punch",
+      "discovered_at": "2025-09-11T16:14:10.221522",
+      "title": "Subtype Selects x Lucky Punch",
+      "description": "",
+      "tags": [
+        "PAPER",
+        "TEXTURE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Ian Ferguson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Subtype Selects x Lucky Punch\nTechnique - Collage , Mixed Media\nEditor - Ian Ferguson\nOriginal Source - Link\nPAPER\nTEXTURE",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707403057.webp",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "discovered_at": "2025-09-11T16:14:13.868629",
+      "title": "Tierra Whack - SHOWER SONG (2024)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Harvey Benschoter",
+      "dop": "Drew Saracco",
+      "colorist": "Ryan Berger",
+      "original_source": "",
+      "additional_info": "Tierra Whack - SHOWER SONG (2024)\n2024 music video for artist Tierra Whack, from conceptual artist and director, Alex Da Corte. Features a wonderful mixture of stop motion and mixed-media collages. Title design by Amy DiLorenzo.\nTechnique - Collage , Mixed Media\nDirector - Alex Da Corte\nDOP - Drew Saracco\nEditor - Harvey Benschoter\nColorist - Ryan Berger\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535611.webp",
+      "alt_text": "Shifts",
+      "discovered_at": "2025-09-11T16:14:17.005523",
+      "title": "Shifts (2021)",
+      "description": "Elements of fragmented narrative, abstract visions and blurred memories collected and shuffled together in this small animation study for an abandoned short film. Score by MYNAH FM.",
+      "tags": [],
+      "technique_tags": [
+        "Mixed Media",
+        "Silhouette",
+        "Stop Motion",
+        "Vector"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shifts (2021)\nElements of fragmented narrative, abstract visions and blurred memories collected and shuffled together in this small animation study for an abandoned short film. Score by MYNAH FM.\nTechnique - Mixed Media , Silhouette , Stop Motion , Vector\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707403127.webp",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "discovered_at": "2025-09-11T16:14:20.165813",
+      "title": "Tierra Whack - SHOWER SONG (2024)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Mixed Media",
+        "Stop Motion",
+        "Subtitles",
+        "Typography"
+      ],
+      "director": "Harvey Benschoter",
+      "dop": "Drew Saracco",
+      "colorist": "Ryan Berger",
+      "original_source": "",
+      "additional_info": "Tierra Whack - SHOWER SONG (2024)\n2024 music video for artist Tierra Whack, from conceptual artist and director, Alex Da Corte. Features a wonderful mixture of stop motion and mixed-media collages. Title design by Amy DiLorenzo.\nTechnique - Mixed Media , Stop Motion , Subtitles , Typography\nDirector - Alex Da Corte\nDOP - Drew Saracco\nEditor - Harvey Benschoter\nColorist - Ryan Berger\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707402014.webp",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "discovered_at": "2025-09-11T16:14:24.367603",
+      "title": "Tierra Whack - SHOWER SONG (2024)",
+      "description": "",
+      "tags": [
+        "RED",
+        "SURREALIST",
+        "COLORFUL",
+        "SATURATED",
+        "SATURATION",
+        "PLAYFUL"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Harvey Benschoter",
+      "dop": "Drew Saracco",
+      "colorist": "Ryan Berger",
+      "original_source": "",
+      "additional_info": "Tierra Whack - SHOWER SONG (2024)\n2024 music video for artist Tierra Whack, from conceptual artist and director, Alex Da Corte. Features a wonderful mixture of stop motion and mixed-media collages. Title design by Amy DiLorenzo.\nTechnique - Collage , Mixed Media\nDirector - Alex Da Corte\nDOP - Drew Saracco\nEditor - Harvey Benschoter\nColorist - Ryan Berger\nOriginal Source - Link\nRED\nSURREALIST\nCOLORFUL\nSATURATED\nSATURATION\nPLAYFUL",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706251541.webp",
+      "alt_text": "Art by Ryan Seslow",
+      "discovered_at": "2025-09-11T16:14:27.539385",
+      "title": "Art by Ryan Seslow (2013)",
+      "description": "",
+      "tags": [
+        "NEW YORK CITY",
+        "SUBWAY"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Ryan Seslow",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Ryan Seslow (2013)\nTechnique - Collage , Mixed Media\nEditor - Ryan Seslow\nOriginal Source - Link\nNEW YORK CITY\nSUBWAY",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710578324.webp",
+      "alt_text": "Shai Gilgeous-Alexander",
+      "discovered_at": "2025-09-11T16:14:31.221366",
+      "title": "Shai Gilgeous-Alexander (2024)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "SPORTS"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Landon Khiry",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shai Gilgeous-Alexander (2024)\nFrom artist, Landon Khiry.\nTechnique - Collage , Mixed Media\nEditor - Landon Khiry\nOriginal Source - Link\nMALE\nSPORTS",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706251570.webp",
+      "alt_text": "Art by Ryan Seslow",
+      "discovered_at": "2025-09-11T16:14:34.879446",
+      "title": "Art by Ryan Seslow (2013)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Ryan Seslow",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Ryan Seslow (2013)\nTechnique - Collage , Mixed Media\nEditor - Ryan Seslow\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706252191.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T16:14:38.054025",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "CLOSE UP"
+      ],
+      "technique_tags": [
+        "Mixed Media",
+        "Stop Motion"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Mixed Media , Stop Motion\nCLOSE UP",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706252504.webp",
+      "alt_text": "Art by Ana Projects",
+      "discovered_at": "2025-09-11T16:14:41.761147",
+      "title": "Art by Ana Projects",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Ana Projects\nTechnique - Collage , Mixed Media",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706252210.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T16:14:45.431202",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "EYE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Collage , Mixed Media\nEYE",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711434813.webp",
+      "alt_text": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art",
+      "discovered_at": "2025-09-11T16:14:49.070355",
+      "title": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art (2024)",
+      "description": "\"The Fear Cycle\" film explores Nicolas Bruno’s experiences with Sleep Paralysis, a sleep disorder that causes vivid nightmares. Bruno transforms his fears into artwork, giving viewers a glimpse into each dream sequence. This film delves into Bruno's creative journey, showcasing his artistic process, dream journal entries, and theatrical renditions of his visions.",
+      "tags": [
+        "BEACH",
+        "HORSE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Armen Harootun",
+      "dop": "",
+      "colorist": "Connor Bailey",
+      "original_source": "",
+      "additional_info": "\"The Fear Cycle\" Film - Unveiling Sleep Paralysis Through Art (2024)\n\"The Fear Cycle\" film explores Nicolas Bruno’s experiences with Sleep Paralysis, a sleep disorder that causes vivid nightmares. Bruno transforms his fears into artwork, giving viewers a glimpse into each dream sequence. This film delves into Bruno's creative journey, showcasing his artistic process, dream journal entries, and theatrical renditions of his visions.\nTechnique - Collage , Mixed Media\nDirector - Dexter Brierley, Matthew Seger\nEditor - Armen Harootun\nColorist - Connor Bailey\nOriginal Source - Link\nBEACH\nHORSE",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539958.webp",
+      "alt_text": "Saint Levant - Nails",
+      "discovered_at": "2025-09-11T16:14:52.247525",
+      "title": "Saint Levant - Nails (2023)",
+      "description": "2024 music video by Saint Levant performing Nails starring Mia Khalifa.",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Photography"
+      ],
+      "director": "Mattias Russo-Larsson",
+      "dop": "Melisse Riahi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Saint Levant - Nails (2023)\n2024 music video by Saint Levant performing Nails starring Mia Khalifa.\nTechnique - Collage , Mixed Media , Photography\nDirector - Mattias Russo-Larsson\nDOP - Melisse Riahi\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250532.webp",
+      "alt_text": "YOLOv3 Object Detection Project",
+      "discovered_at": "2025-09-11T16:14:55.895431",
+      "title": "YOLOv3 Object Detection Project (2018)",
+      "description": "Video clips from the YOLOv3 Object Detection project which uses artificial intelligence to identify objects captured on camera in real time.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "HAND",
+        "MAGENTA",
+        "HORSE",
+        "LIME GREEN"
+      ],
+      "technique_tags": [
+        "Mixed Media"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "YOLOv3 Object Detection Project (2018)\nVideo clips from the YOLOv3 Object Detection project which uses artificial intelligence to identify objects captured on camera in real time.\nTechnique - Mixed Media\nOriginal Source - Link\nDAY\nEXTERIOR\nHAND\nMAGENTA\nHORSE\nLIME GREEN",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656902.webp",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-11T16:14:59.570600",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "DAY",
+        "MALE",
+        "EXTERIOR",
+        "HANDSHAKE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Freeze Frame",
+        "Mixed Media",
+        "Title Card"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Collage , Freeze Frame , Mixed Media , Title Card\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nDAY\nMALE\nEXTERIOR\nHANDSHAKE",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709976428.webp",
+      "alt_text": "eLaLiga Santander - What Can't Can Be",
+      "discovered_at": "2025-09-11T16:15:03.229155",
+      "title": "eLaLiga Santander - What Can't Can Be (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Keane Pearce Shaw",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "eLaLiga Santander - What Can't Can Be (2023)\nTechnique - Collage , Mixed Media\nDirector - Keane Pearce Shaw",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250469.webp",
+      "alt_text": "YOLOv3 Object Detection Project",
+      "discovered_at": "2025-09-11T16:15:06.898293",
+      "title": "YOLOv3 Object Detection Project (2018)",
+      "description": "Video clips from the YOLOv3 Object Detection project which uses artificial intelligence to identify objects captured on camera in real time.",
+      "tags": [
+        "PURPLE",
+        "EXTERIOR",
+        "MAGENTA",
+        "LIME",
+        "LIME GREEN"
+      ],
+      "technique_tags": [
+        "Mixed Media"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "YOLOv3 Object Detection Project (2018)\nVideo clips from the YOLOv3 Object Detection project which uses artificial intelligence to identify objects captured on camera in real time.\nTechnique - Mixed Media\nOriginal Source - Link\nPURPLE\nEXTERIOR\nMAGENTA\nLIME\nLIME GREEN",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709540049.webp",
+      "alt_text": "Saint Levant - Nails",
+      "discovered_at": "2025-09-11T16:15:10.582378",
+      "title": "Saint Levant - Nails (2023)",
+      "description": "2024 music video by Saint Levant performing Nails starring Mia Khalifa.",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Photography"
+      ],
+      "director": "Mattias Russo-Larsson",
+      "dop": "Melisse Riahi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Saint Levant - Nails (2023)\n2024 music video by Saint Levant performing Nails starring Mia Khalifa.\nTechnique - Collage , Mixed Media , Photography\nDirector - Mattias Russo-Larsson\nDOP - Melisse Riahi\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702704321.webp",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "discovered_at": "2025-09-11T16:15:13.714010",
+      "title": "A$AP Rocky - D.M.B. (2022)",
+      "description": "",
+      "tags": [
+        "RED",
+        "MUSIC VIDEO",
+        "RESTAURANT",
+        "INTERIOR",
+        "COLLAGE",
+        "ROCKY",
+        "ASAP ROCKY",
+        "ASAP",
+        "FLOWERS",
+        "PETALS",
+        "LAMP",
+        "MONEY",
+        "A$AP",
+        "DINING",
+        "CASH"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Maximalism",
+        "Mixed Media"
+      ],
+      "director": "A$AP Rocky",
+      "dop": "Sean Price Williams",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - D.M.B. (2022)\nTechnique - Collage , Maximalism , Mixed Media\nDirector - A$AP Rocky\nDOP - Sean Price Williams\nOriginal Source - Link\nRED\nMUSIC VIDEO\nRESTAURANT\nINTERIOR\nCOLLAGE\nROCKY\nASAP ROCKY\nASAP\nFLOWERS\nPETALS\nLAMP\nMONEY\nA$AP\nDINING\nCASH",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656122.webp",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-11T16:15:18.443681",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "DAY",
+        "GREEN",
+        "EXTERIOR",
+        "FIELD",
+        "FARM",
+        "TRACTOR"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Collage , Mixed Media\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nDAY\nGREEN\nEXTERIOR\nFIELD\nFARM\nTRACTOR",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539206.webp",
+      "alt_text": "Saint Levant - Nails",
+      "discovered_at": "2025-09-11T16:15:21.599276",
+      "title": "Saint Levant - Nails (2023)",
+      "description": "2024 music video by Saint Levant performing Nails starring Mia Khalifa.",
+      "tags": [
+        "WOMAN",
+        "NEWSPAPER",
+        "PAPER"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Mattias Russo-Larsson",
+      "dop": "Melisse Riahi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Saint Levant - Nails (2023)\n2024 music video by Saint Levant performing Nails starring Mia Khalifa.\nTechnique - Collage , Mixed Media\nDirector - Mattias Russo-Larsson\nDOP - Melisse Riahi\nOriginal Source - Link\nWOMAN\nNEWSPAPER\nPAPER",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711432814.webp",
+      "alt_text": "Yung Jake - Unfollow",
+      "discovered_at": "2025-09-11T16:15:26.344825",
+      "title": "Yung Jake - Unfollow (2014)",
+      "description": "\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.",
+      "tags": [
+        "EXTERIOR",
+        "INSTAGRAM",
+        "PHONE"
+      ],
+      "technique_tags": [
+        "2010s",
+        "Collage",
+        "Full frame",
+        "Mixed Media"
+      ],
+      "director": "Yung Jake",
+      "dop": "Temra Pavlovic",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Yung Jake - Unfollow (2014)\n\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.\nTechnique - 2010s , Collage , Full frame , Mixed Media\nDirector - Yung Jake\nDOP - Temra Pavlovic\nOriginal Source - Link\nEXTERIOR\nINSTAGRAM\nPHONE",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715632607.webp",
+      "alt_text": "Offset - CODE ft. Moneybagg Yo",
+      "discovered_at": "2025-09-11T16:15:30.551134",
+      "title": "Offset - CODE ft. Moneybagg Yo (2022)",
+      "description": "The music video for \"CODE\" by Offset featuring Moneybagg Yo is visually striking and matches the energy and themes of the song. In the video, both artists perform in various gritty, urban settings, enhancing the tough and assertive lyrics of the track. The video features scenes with luxury cars, dynamic group performances, and visually engaging effects that emphasize the rhythm and mood of the music. The overall aesthetic is dark and stylish, with a focus on street fashion and a portrayal of a lavish lifestyle, which is common in hip hop videos. The video complements the song's themes of success, power, and street credibility.",
+      "tags": [
+        "GREEN",
+        "LIME GREEN",
+        "OFFSET"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Mixed Media"
+      ],
+      "director": "Anthony Miralles",
+      "dop": "Taylor McIntosh",
+      "colorist": "Megan Lee",
+      "original_source": "",
+      "additional_info": "Offset - CODE ft. Moneybagg Yo (2022)\nThe music video for \"CODE\" by Offset featuring Moneybagg Yo is visually striking and matches the energy and themes of the song. In the video, both artists perform in various gritty, urban settings, enhancing the tough and assertive lyrics of the track. The video features scenes with luxury cars, dynamic group performances, and visually engaging effects that emphasize the rhythm and mood of the music. The overall aesthetic is dark and stylish, with a focus on street fashion and a portrayal of a lavish lifestyle, which is common in hip hop videos. The video complements the song's themes of success, power, and street credibility.\nTechnique - Double Exposure , Mixed Media\nDirector - Claire Arnold\nDOP - Taylor McIntosh\nEditor - Anthony Miralles\nColorist - Megan Lee\nOriginal Source - Link\nGREEN\nLIME GREEN\nOFFSET",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709536031.webp",
+      "alt_text": "Mixed Media Animation",
+      "discovered_at": "2025-09-11T16:15:34.760725",
+      "title": "Mixed Media Animation (2024)",
+      "description": "",
+      "tags": [
+        "CLOSE UP",
+        "EYE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Scribble"
+      ],
+      "director": "Noodles In The Trenches",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Mixed Media Animation (2024)\nTechnique - Collage , Mixed Media , Scribble\nDirector - Noodles In The Trenches\nOriginal Source - Link\nCLOSE UP\nEYE",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533917.webp",
+      "alt_text": "Xerox Experiments",
+      "discovered_at": "2025-09-11T16:15:38.478351",
+      "title": "Xerox Experiments (2021)",
+      "description": "Experimental Xerox — Series of Xerox stop-motion experiments made entirely in-camera.",
+      "tags": [
+        "PURPLE",
+        "RUN",
+        "JUMPING"
+      ],
+      "technique_tags": [
+        "Mixed Media",
+        "Stop Motion"
+      ],
+      "director": "Katie Mias",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Xerox Experiments (2021)\nExperimental Xerox — Series of Xerox stop-motion experiments made entirely in-camera.\nTechnique - Mixed Media , Stop Motion\nEditor - Katie Mias\nPURPLE\nRUN\nJUMPING",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711248944.webp",
+      "alt_text": "Danny Brown - Y.B.P.",
+      "discovered_at": "2025-09-11T16:15:42.158644",
+      "title": "Danny Brown - Y.B.P. (2024)",
+      "description": "The music video for \"Danny Brown - Y.B.P. (feat. Bruiser Wolf)\" utilizes claymation-inspired visuals, beginning with Danny Brown performing in a living room among various characters. The plot thickens with a dramatic armed robbery at a fast-food restaurant led by Brown and Wolf, followed by a suspenseful police chase. These visuals serve to underline the song's narrative of overcoming past hardships.",
+      "tags": [
+        "CAR",
+        "VEHICLE",
+        "DRIVER"
+      ],
+      "technique_tags": [
+        "Claymation",
+        "Mixed Media",
+        "Stop Motion"
+      ],
+      "director": "Edem Wornoo, William Child",
+      "dop": "MOSHPXT",
+      "colorist": "Electric Theatre Collective, Megan Lee",
+      "original_source": "",
+      "additional_info": "Danny Brown - Y.B.P. (2024)\nThe music video for \"Danny Brown - Y.B.P. (feat. Bruiser Wolf)\" utilizes claymation-inspired visuals, beginning with Danny Brown performing in a living room among various characters. The plot thickens with a dramatic armed robbery at a fast-food restaurant led by Brown and Wolf, followed by a suspenseful police chase. These visuals serve to underline the song's narrative of overcoming past hardships.\nTechnique - Claymation , Mixed Media , Stop Motion\nDirector - Edem Wornoo, William Child\nDOP - MOSHPXT\nColorist - Electric Theatre Collective, Megan Lee\nOriginal Source - Link\nCAR\nVEHICLE\nDRIVER",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706251485.webp",
+      "alt_text": "Hip Hop Nyc GIF By Ryan Seslow",
+      "discovered_at": "2025-09-11T16:15:45.828832",
+      "title": "Hip Hop Nyc GIF By Ryan Seslow (2017)",
+      "description": "Collage + Mask replacement of face with feedback glitch + maximalism",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Ryan Seslow",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Hip Hop Nyc GIF By Ryan Seslow (2017)\nCollage + Mask replacement of face with feedback glitch + maximalism\nTechnique - Collage , Mixed Media\nEditor - Ryan Seslow\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711432936.webp",
+      "alt_text": "Yung Jake - Unfollow",
+      "discovered_at": "2025-09-11T16:15:49.518822",
+      "title": "Yung Jake - Unfollow (2014)",
+      "description": "\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.",
+      "tags": [
+        "MALE",
+        "TEXT MESSAGES"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Stylistic Suck"
+      ],
+      "director": "Yung Jake",
+      "dop": "Temra Pavlovic",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Yung Jake - Unfollow (2014)\n\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.\nTechnique - Collage , Mixed Media , Stylistic Suck\nDirector - Yung Jake\nDOP - Temra Pavlovic\nOriginal Source - Link\nMALE\nTEXT MESSAGES",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656702.webp",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-11T16:15:53.198438",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "CAR",
+        "PAPER",
+        "POLICE",
+        "COPS",
+        "TEXTURE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Freeze Frame",
+        "Mixed Media",
+        "Title Card",
+        "Typography"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Collage , Freeze Frame , Mixed Media , Title Card , Typography\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nCAR\nPAPER\nPOLICE\nCOPS\nTEXTURE",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250069.webp",
+      "alt_text": "Art by Andrew Benson",
+      "discovered_at": "2025-09-11T16:15:56.856418",
+      "title": "Art by Andrew Benson (2016)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Glitch",
+        "Mixed Media"
+      ],
+      "director": "Andrew Benson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Andrew Benson (2016)\nTechnique - Collage , Glitch , Mixed Media\nDirector - Andrew Benson",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706251402.webp",
+      "alt_text": "Art by Anna Malina",
+      "discovered_at": "2025-09-11T16:16:00.525850",
+      "title": "Art by Anna Malina (2021)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE",
+        "SKETCH"
+      ],
+      "technique_tags": [
+        "Mixed Media",
+        "Pencil Sketch"
+      ],
+      "director": "Anna Malina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Anna Malina (2021)\nTechnique - Mixed Media , Pencil Sketch\nDirector - Anna Malina\nOriginal Source - Link\nBLACK AND WHITE\nSKETCH",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656547.webp",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-11T16:16:04.202389",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "POOL",
+        "INTERIOR",
+        "PURPLE",
+        "BAR",
+        "BILLIARDS"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Transitions"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Collage , Mixed Media , Transitions\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nPOOL\nINTERIOR\nPURPLE\nBAR\nBILLIARDS",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708342110.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T16:16:07.860043",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Mixed Media",
+        "Shadow Box"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Mixed Media , Shadow Box",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702704407.webp",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "discovered_at": "2025-09-11T16:16:11.509225",
+      "title": "A$AP Rocky - D.M.B. (2022)",
+      "description": "",
+      "tags": [
+        "TRUCKING",
+        "COLLAGE",
+        "BUILDINGS",
+        "D.M.B.",
+        "DMB",
+        "SHOES",
+        "ROCKY",
+        "ASAP ROCKY",
+        "ASAP"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Maximalism",
+        "Mixed Media"
+      ],
+      "director": "A$AP Rocky",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - D.M.B. (2022)\nDirector / Writer / Executive Producer: A$AP Rocky for AWGE Producer: Happy Place / Tara Razavi Cinematographer: Sean Price Williams 2nd Unit Cinematographer: Jabari Canada Production Designer: Miranda Lorenz Production Manager: Galen Core Editor: Hidji, Kenny Shimm VFX: Kyle Zemborain & McGloughlin Brothers Production Coordinator: Alyssa Craig, Taylor Hess Location Manager: Teddy Yoon Casting: Michele Mansoor, Eleonore Hendricks Art Director: Rose Kennedy Set Decorator: Cub Sam Gary Lead Man: Zach Burnett Set Dresser: Cedar Kirwin, Danny Fabricant VTR: Konstantin Lyubimov Art PA: Joseph Magee, Alisha Mascarenhas, Joseph Nell, Chase Mcaulay, Joe Monetefu, Charlie Robinson Steadicam Operator: Aaron Brown Grip: Edmundo Cid Production Assistant: Miranda Cuellar, Omega Davis-Long, Jessica Dimento, Casilda Garcia Lopez, Gideon Babe Howard, Ryan Kilday, Zachary Kubersky, Julie Lozano Prieto, Holly McClintock, David Mcveigh, Emily Mills, Zac Pabon, Jason Paulino 1st",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706252047.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T16:16:14.657341",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Collage , Mixed Media",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707403213.webp",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "discovered_at": "2025-09-11T16:16:18.359279",
+      "title": "Tierra Whack - SHOWER SONG (2024)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media"
+      ],
+      "director": "Harvey Benschoter",
+      "dop": "Drew Saracco",
+      "colorist": "Ryan Berger",
+      "original_source": "",
+      "additional_info": "Tierra Whack - SHOWER SONG (2024)\n2024 music video for artist Tierra Whack, from conceptual artist and director, Alex Da Corte. Features a wonderful mixture of stop motion and mixed-media collages. Title design by Amy DiLorenzo.\nTechnique - Collage , Mixed Media\nDirector - Alex Da Corte\nDOP - Drew Saracco\nEditor - Harvey Benschoter\nColorist - Ryan Berger\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656436.webp",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-11T16:16:21.494643",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "SUNGLASSES"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Ultra Wide",
+        "Whip Pan"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Collage , Mixed Media , Ultra Wide , Whip Pan\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nDAY\nEXTERIOR\nSUNGLASSES",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709535053.webp",
+      "alt_text": "The infinite fragmented datawaves of oXane",
+      "discovered_at": "2025-09-11T16:16:24.675543",
+      "title": "The infinite fragmented datawaves of oXane",
+      "description": "",
+      "tags": [
+        "MALE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Oil Paint"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The infinite fragmented datawaves of oXane\nTechnique - Collage , Mixed Media , Oil Paint\nMALE",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711433177.webp",
+      "alt_text": "Yung Jake - Unfollow",
+      "discovered_at": "2025-09-11T16:16:27.825290",
+      "title": "Yung Jake - Unfollow (2014)",
+      "description": "\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.",
+      "tags": [],
+      "technique_tags": [
+        "2010s",
+        "Mixed Media",
+        "Stylistic Suck"
+      ],
+      "director": "Yung Jake",
+      "dop": "Temra Pavlovic",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Yung Jake - Unfollow (2014)\n\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.\nTechnique - 2010s , Mixed Media , Stylistic Suck\nDirector - Yung Jake\nDOP - Temra Pavlovic\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250650.webp",
+      "alt_text": "Self Portrait Animation GIF By Leandro Estrella",
+      "discovered_at": "2025-09-11T16:16:31.500633",
+      "title": "Self Portrait Animation GIF By Leandro Estrella (2016)",
+      "description": "Self Portrait Animation GIF By Leandro Estrella (2016)",
+      "tags": [
+        "FACE",
+        "COLLAGE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Full frame",
+        "Match Split",
+        "Mixed Media"
+      ],
+      "director": "Leandro Estrella",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Self Portrait Animation GIF By Leandro Estrella (2016)\nTechnique - Collage , Full frame , Match Split , Mixed Media\nDirector - Leandro Estrella\nOriginal Source - Link\nFACE\nCOLLAGE",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533890.webp",
+      "alt_text": "Xerox Experiments",
+      "discovered_at": "2025-09-11T16:16:34.639599",
+      "title": "Xerox Experiments (2021)",
+      "description": "Experimental Xerox — Series of Xerox stop-motion experiments made entirely in-camera.",
+      "tags": [
+        "GREEN",
+        "SKATING",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "Mixed Media",
+        "Stop Motion"
+      ],
+      "director": "Katie Mias",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Xerox Experiments (2021)\nExperimental Xerox — Series of Xerox stop-motion experiments made entirely in-camera.\nTechnique - Mixed Media , Stop Motion\nEditor - Katie Mias\nGREEN\nSKATING\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/mixed-media"
+    }
+  ]
 }

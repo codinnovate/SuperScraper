@@ -1,1389 +1,1513 @@
 {
   "technique": "echo-printing",
-  "video_count": 72,
-  "generated_at": "2025-09-05T04:03:29.634468",
+  "scrape_info": {
+    "timestamp": "20250911_133626",
+    "total_videos": 65,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334620.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496193",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164016.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496331",
-      "element_tag": "img",
-      "title": "Bree Runway - Just Like That",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283602.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496408",
-      "element_tag": "img",
-      "title": "Duplication clip by Matthias Brown",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Duplication clip by Matthias Brown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709020374.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496473",
-      "element_tag": "img",
-      "title": "Snipes x Nike - The Cypher",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Snipes x Nike - The Cypher",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406931.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496534",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708333800.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496595",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420944.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496655",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334620.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496711",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164016.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496769",
-      "element_tag": "img",
-      "title": "Bree Runway - Just Like That",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283602.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496826",
-      "element_tag": "img",
-      "title": "Duplication clip by Matthias Brown",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Duplication clip by Matthias Brown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709020374.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496882",
-      "element_tag": "img",
-      "title": "Snipes x Nike - The Cypher",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Snipes x Nike - The Cypher",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406931.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496937",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708333800.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.496989",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420944.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497041",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860861.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497098",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420589.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497162",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709534547.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497229",
-      "element_tag": "img",
-      "title": "Pas De Deux",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Pas De Deux",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294828.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497290",
-      "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860545.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497350",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407291.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497411",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916811.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497468",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710832728.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497526",
-      "element_tag": "img",
-      "title": "Oppo - Make Every Shot Stand Out",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Oppo - Make Every Shot Stand Out",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294876.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497584",
-      "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334823.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497643",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449402.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497698",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708472556.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497757",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976682.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497815",
-      "element_tag": "img",
-      "title": "Usher, H.E.R. - Risk It All",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Usher, H.E.R. - Risk It All",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384475.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497872",
-      "element_tag": "img",
-      "title": "Omega - Road to the Olympics",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Omega - Road to the Olympics",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407599.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497929",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975580.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.497986",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406989.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498045",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165149.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498104",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420462.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498163",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407048.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498219",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976709.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498277",
-      "element_tag": "img",
-      "title": "Usher, H.E.R. - Risk It All",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Usher, H.E.R. - Risk It All",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916959.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498333",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924451.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498389",
-      "element_tag": "img",
-      "title": "slowthai - Yum",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420385.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498446",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "echo-printing",
       "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:32:21.169610",
+      "title": "AJR - The DJ Is Crying For Help (2022)",
+      "description": "Directed by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452170.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498501",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704023962.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498556",
-      "element_tag": "img",
-      "title": "slowthai - Yum",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710750777.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498611",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289556.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498667",
-      "element_tag": "img",
-      "title": "Souce unknown",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Souce unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294548.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498723",
-      "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294671.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498779",
-      "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420497.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498840",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406828.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498902",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710313059.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.498958",
-      "element_tag": "img",
-      "title": "Carousel GIF by Dave Gorum",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Carousel GIF by Dave Gorum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284956.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499017",
-      "element_tag": "img",
-      "title": "adidas x DC Look",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "adidas x DC Look",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985544.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499072",
-      "element_tag": "img",
-      "title": "Travis Scott - FE!N",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Travis Scott - FE!N",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407122.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499128",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294641.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499184",
-      "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704030931.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499240",
-      "element_tag": "img",
-      "title": "Botis Seva - Santo",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Botis Seva - Santo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860743.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499296",
-      "element_tag": "img",
-      "title": "Waveform",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Waveform",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344945.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499351",
-      "element_tag": "img",
-      "title": "Oddworld x Souly - wzf / maybach",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Oddworld x Souly - wzf / maybach",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449190.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499407",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710752932.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499461",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545953.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499516",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420642.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499571",
-      "element_tag": "img",
-      "title": "AJR - The DJ Is Crying For Help",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "AJR - The DJ Is Crying For Help",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976637.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499625",
-      "element_tag": "img",
-      "title": "Usher, H.E.R. - Risk It All",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Usher, H.E.R. - Risk It All",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384360.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499680",
-      "element_tag": "img",
-      "title": "Omega - Road to the Olympics",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Omega - Road to the Olympics",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529358.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499734",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406762.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499790",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294754.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499847",
-      "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902404.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499899",
-      "element_tag": "img",
-      "title": "Burberry x POP",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Burberry x POP",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164076.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499949",
-      "element_tag": "img",
-      "title": "Bree Runway - Just Like That",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334745.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.499999",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973445.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.500049",
-      "element_tag": "img",
-      "title": "Fist of Fury",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Fist of Fury",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334489.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.500100",
-      "element_tag": "img",
-      "title": "Dua Lipa - Training Season",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Dua Lipa - Training Season",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916887.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.500151",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "SITTING"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print"
+      ],
+      "director": "Austin Roa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJR - The DJ Is Crying For Help (2022)\nDirected by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.\nTechnique - Duplication , Echo print\nDirector - Austin Roa\nOriginal Source - Link\nDAY\nEXTERIOR\nSITTING",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715295068.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.500201",
-      "element_tag": "img",
-      "title": "Shit Robot \"Take 'Em Up\"",
-      "description": "",
-      "category": "echo-printing",
       "alt_text": "Shit Robot \"Take 'Em Up\"",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:32:24.810981",
+      "title": "Shit Robot \"Take 'Em Up\" (2010)",
+      "description": "The music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "WOMAN",
+        "WALKING",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Echo print"
+      ],
+      "director": "Eoghan Kidney",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shit Robot \"Take 'Em Up\" (2010)\nThe music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.\nTechnique - Echo print\nDirector - Eoghan Kidney\nOriginal Source - Link\nDAY\nWOMAN\nWALKING\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576508.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.500251",
-      "element_tag": "img",
-      "title": "Ken Carson - Fighting My Demons",
-      "description": "",
-      "category": "echo-printing",
-      "alt_text": "Ken Carson - Fighting My Demons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165149.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T13:32:28.514678",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLUE",
+        "VICTORIA MONET",
+        "GLITTER"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Echo print"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo , Echo print\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET\nGLITTER",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860743.webp",
+      "alt_text": "Waveform",
+      "discovered_at": "2025-09-11T13:32:32.219937",
+      "title": "Waveform (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "OCEAN",
+        "POLAROID",
+        "SURFING",
+        "STOP MOTION"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print",
+        "Kaleidoscope"
+      ],
+      "director": "Stefan Nadelman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Waveform (2015)\nTechnique - Duplication , Echo print , Kaleidoscope\nDirector - Stefan Nadelman\nOriginal Source - Link\nDAY\nOCEAN\nPOLAROID\nSURFING\nSTOP MOTION",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708333800.webp",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T13:32:36.432862",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "MOTION BLUR",
+        "RESTAURANT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Echo print , Motion Blur\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nMOTION BLUR\nRESTAURANT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704023962.webp",
+      "alt_text": "slowthai - Yum",
+      "discovered_at": "2025-09-11T13:32:40.110085",
+      "title": "slowthai - Yum (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Arc",
+        "Drug trip",
+        "Echo print",
+        "X-Axis Arc"
+      ],
+      "director": "John Holloway",
+      "dop": "Jack Exton",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "slowthai - Yum (2023)\nShot breakdown: x-axis echo printing\nTechnique - Altered state , Arc , Drug trip , Echo print , X-Axis Arc\nDirector - Crowns & Owls\nDOP - Jack Exton\nEditor - John Holloway\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452170.webp",
+      "alt_text": "Empimic - Bittere Welt",
+      "discovered_at": "2025-09-11T13:32:43.768104",
+      "title": "Empimic - Bittere Welt (2021)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "FACE",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Distortions",
+        "Drug trip",
+        "Echo print"
+      ],
+      "director": "Angelo Kovatchev",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Empimic - Bittere Welt (2021)\nTechnique - Distortions , Drug trip , Echo print\nDirector - Angelo Kovatchev\nOriginal Source - Link\nMALE\nFACE\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294671.webp",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "discovered_at": "2025-09-11T13:32:47.452688",
+      "title": "Shit Robot \"Take 'Em Up\" (2010)",
+      "description": "The music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.",
+      "tags": [
+        "WOMAN",
+        "COLORFUL"
+      ],
+      "technique_tags": [
+        "Echo print"
+      ],
+      "director": "Eoghan Kidney",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shit Robot \"Take 'Em Up\" (2010)\nThe music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.\nTechnique - Echo print\nDirector - Eoghan Kidney\nOriginal Source - Link\nWOMAN\nCOLORFUL",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706902404.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T13:32:51.649970",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "REFLECTIVE",
+        "GLOW"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print",
+        "Fast Motion",
+        "Motion Blur",
+        "Silhouette"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Duplication , Echo print , Fast Motion , Motion Blur , Silhouette\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nNIGHT\nEXTERIOR\nREFLECTIVE\nGLOW",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985544.webp",
+      "alt_text": "Travis Scott - FE!N",
+      "discovered_at": "2025-09-11T13:32:55.287114",
+      "title": "Travis Scott - FE!N (2024)",
+      "description": "The music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.",
+      "tags": [
+        "MALE",
+        "GROUP",
+        "SURREALIST"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Echo print",
+        "Speed warp",
+        "Void",
+        "X-Axis Arc"
+      ],
+      "director": "Joseph Taylor, Trim Editing",
+      "dop": "Xiaolong Liu",
+      "colorist": "John Lowe",
+      "original_source": "",
+      "additional_info": "Travis Scott - FE!N (2024)\nThe music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.\nTechnique - Arc , Echo print , Speed warp , Void , X-Axis Arc\nDirector - Gabriel Moses\nDOP - Xiaolong Liu\nEditor - Joseph Taylor, Trim Editing\nColorist - John Lowe\nOriginal Source - Link\nMALE\nGROUP\nSURREALIST",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916887.webp",
+      "alt_text": "João Borsch - Apaz",
+      "discovered_at": "2025-09-11T13:32:58.934096",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
+      "tags": [
+        "RED",
+        "DOUBLE EXPOSURE",
+        "SURREAL",
+        "PROFILE"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Echo print",
+        "Light Flash",
+        "Void"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Double Exposure , Echo print , Light Flash , Void\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nRED\nDOUBLE EXPOSURE\nSURREAL\nPROFILE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420642.webp",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "discovered_at": "2025-09-11T13:33:02.564971",
+      "title": "AJR - The DJ Is Crying For Help (2022)",
+      "description": "Directed by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.",
+      "tags": [
+        "DAY",
+        "WALKING",
+        "EXTERIOR",
+        "PARIS"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print",
+        "Trucking"
+      ],
+      "director": "Austin Roa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJR - The DJ Is Crying For Help (2022)\nDirected by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.\nTechnique - Duplication , Echo print , Trucking\nDirector - Austin Roa\nOriginal Source - Link\nDAY\nWALKING\nEXTERIOR\nPARIS",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710832728.webp",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "discovered_at": "2025-09-11T13:33:06.748220",
+      "title": "Oppo - Make Every Shot Stand Out (2024)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "RESTAURANT",
+        "INTERIOR",
+        "TAKING PICTURE"
+      ],
+      "technique_tags": [
+        "Echo print"
+      ],
+      "director": "Gramatova Katarina",
+      "dop": "Filip Marek",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Oppo - Make Every Shot Stand Out (2024)\nTechnique - Echo print\nDirector - Jara Moravec\nDOP - Filip Marek\nEditor - Gramatova Katarina\nColorist - Arthur Paux\nOriginal Source - Link\nDAY\nWOMAN\nRESTAURANT\nINTERIOR\nTAKING PICTURE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407291.webp",
+      "alt_text": "The Chronicles of Riddick",
+      "discovered_at": "2025-09-11T13:33:10.392186",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "tags": [
+        "FIGHT",
+        "BATTLE KNIFE"
+      ],
+      "technique_tags": [
+        "Echo print"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Echo print\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link\nFIGHT\nBATTLE KNIFE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710313059.webp",
+      "alt_text": "Carousel GIF by Dave Gorum",
+      "discovered_at": "2025-09-11T13:33:14.075819",
+      "title": "Carousel GIF by Dave Gorum (2015)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "CAROUSEL"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Fast Motion",
+        "Motion Blur"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Carousel GIF by Dave Gorum (2015)\nTechnique - Echo print , Fast Motion , Motion Blur\nOriginal Source - Link\nNIGHT\nEXTERIOR\nCAROUSEL",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449190.webp",
+      "alt_text": "Empimic - Bittere Welt",
+      "discovered_at": "2025-09-11T13:33:17.715914",
+      "title": "Empimic - Bittere Welt (2021)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Echo print"
+      ],
+      "director": "Angelo Kovatchev",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Empimic - Bittere Welt (2021)\nTechnique - Echo print\nDirector - Angelo Kovatchev\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420462.webp",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "discovered_at": "2025-09-11T13:33:21.382221",
+      "title": "AJR - The DJ Is Crying For Help (2022)",
+      "description": "Directed by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "SITTING"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print",
+        "Towards camera",
+        "Tracking"
+      ],
+      "director": "Austin Roa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJR - The DJ Is Crying For Help (2022)\nDirected by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.\nTechnique - Duplication , Echo print , Towards camera , Tracking\nDirector - Austin Roa\nOriginal Source - Link\nDAY\nEXTERIOR\nSITTING",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334745.webp",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T13:33:25.609514",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "GROUP",
+        "CROWD",
+        "DUA LIPA"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "High Angle",
+        "Motion Blur"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Echo print , High Angle , Motion Blur\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nGROUP\nCROWD\nDUA LIPA",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334620.webp",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T13:33:29.848211",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "GROUP",
+        "CROWD",
+        "DUA LIPA"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "High Angle",
+        "Motion Blur"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Echo print , High Angle , Motion Blur\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nGROUP\nCROWD\nDUA LIPA",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406931.webp",
+      "alt_text": "The Chronicles of Riddick",
+      "discovered_at": "2025-09-11T13:33:34.571070",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "tags": [
+        "MALE",
+        "FIGHT",
+        "BATTLE",
+        "SOLDIER"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Future",
+        "Handheld"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Echo print , Future , Handheld\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link\nMALE\nFIGHT\nBATTLE\nSOLDIER",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709020374.webp",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "discovered_at": "2025-09-11T13:33:38.214455",
+      "title": "Snipes x Nike - The Cypher (2023)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "DANCE",
+        "CYPHER"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur",
+        "Overhead"
+      ],
+      "director": "Alexis Benot, Eugène Signoret",
+      "dop": "Cesar Decharme",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Snipes x Nike - The Cypher (2023)\nTechnique - Echo print , Motion Blur , Overhead\nDirector - Marius Gonzalez\nDOP - Cesar Decharme\nEditor - Alexis Benot, Eugène Signoret\nColorist - Arthur Paux\nOriginal Source - Link\nGROUP\nDANCE\nCYPHER",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/27/261711529358.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:33:41.890281",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Echo print , Motion Blur\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705283602.webp",
+      "alt_text": "Duplication clip by Matthias Brown",
+      "discovered_at": "2025-09-11T13:33:45.613508",
+      "title": "Duplication clip by Matthias Brown (2013)",
+      "description": "",
+      "tags": [
+        "SPIN",
+        "ROTATE",
+        "FACE",
+        "BLACK AND WHITE",
+        "LAZY SUSAN",
+        "VOID",
+        "HEAD",
+        "ROTOSCOPE"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Duplication",
+        "Echo print",
+        "Void"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Duplication clip by Matthias Brown (2013)\nAnimation from artist Matthias Brown, also known as 'TraceLoops'. In this clip, we're seeing the combination of rotoscoped heads from the same person rotating along an X-axis in a black 'void-like' environment, as though on a lazy-susan. It's easy to identify a duplication technique from the clip. Harder to pick between 'Echo printing' and 'Double exposure'. We labeled it as both since it has properties from both techniques. Like most clips, there isn't a clear-cut category it fits under.\nTechnique - Double Exposure , Duplication , Echo print , Void\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link\nSPIN\nROTATE\nFACE\nBLACK AND WHITE\nLAZY SUSAN\nVOID\nHEAD\nROTOSCOPE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334823.webp",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T13:33:50.879277",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "GROUP",
+        "CROWD",
+        "DUA LIPA"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Echo print , Motion Blur\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nGROUP\nCROWD\nDUA LIPA",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294876.webp",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "discovered_at": "2025-09-11T13:33:55.055982",
+      "title": "Shit Robot \"Take 'Em Up\" (2010)",
+      "description": "The music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.",
+      "tags": [
+        "WOMAN",
+        "WALKING",
+        "EXTERIOR",
+        "COLORFUL"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Silhouette"
+      ],
+      "director": "Eoghan Kidney",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shit Robot \"Take 'Em Up\" (2010)\nThe music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.\nTechnique - Echo print , Silhouette\nDirector - Eoghan Kidney\nOriginal Source - Link\nWOMAN\nWALKING\nEXTERIOR\nCOLORFUL",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975580.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T13:33:59.201483",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [],
+      "technique_tags": [
+        "Echo print",
+        "Rotoscope"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Echo print , Rotoscope\nDirector - Daniel Stessen",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860545.webp",
+      "alt_text": "Waveform",
+      "discovered_at": "2025-09-11T13:34:03.359267",
+      "title": "Waveform (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "OCEAN",
+        "POLAROID",
+        "SURFING",
+        "STOP MOTION"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print"
+      ],
+      "director": "Stefan Nadelman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Waveform (2015)\nTechnique - Duplication , Echo print\nDirector - Stefan Nadelman\nOriginal Source - Link\nDAY\nOCEAN\nPOLAROID\nSURFING\nSTOP MOTION",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164016.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T13:34:08.067103",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [
+        "DANCING",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Kaleidoscope",
+        "Void"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Echo print , Kaleidoscope , Void\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link\nDANCING\nVOID",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916811.webp",
+      "alt_text": "João Borsch - Apaz",
+      "discovered_at": "2025-09-11T13:34:12.227105",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
+      "tags": [
+        "RED",
+        "DOUBLE EXPOSURE",
+        "SURREAL",
+        "PROFILE"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Echo print",
+        "Void"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Double Exposure , Echo print , Void\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nRED\nDOUBLE EXPOSURE\nSURREAL\nPROFILE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702860861.webp",
+      "alt_text": "Waveform",
+      "discovered_at": "2025-09-11T13:34:16.446890",
+      "title": "Waveform (2015)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "OCEAN",
+        "POLAROID",
+        "SURFING",
+        "STOP MOTION"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print"
+      ],
+      "director": "Stefan Nadelman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Waveform (2015)\nTechnique - Duplication , Echo print\nDirector - Stefan Nadelman\nOriginal Source - Link\nDAY\nOCEAN\nPOLAROID\nSURFING\nSTOP MOTION",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334489.webp",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T13:34:20.710766",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "GROUP",
+        "CROWD",
+        "DUA LIPA"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Echo print , Motion Blur\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nGROUP\nCROWD\nDUA LIPA",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384360.webp",
+      "alt_text": "Omega - Road to the Olympics",
+      "discovered_at": "2025-09-11T13:34:24.443018",
+      "title": "Omega - Road to the Olympics (2024)",
+      "description": "The \"Omega - Road to the Olympics 2024\" commercial celebrates Omega's role as the Official Timekeeper for the Paris 2024 Olympics, a position they've held since 1932. The commercial features athletes training and competing, emphasizing Omega's precision and innovation in timekeeping technology. It also highlights the launch of a special edition Seamaster watch, designed to commemorate the upcoming Olympics.",
+      "tags": [
+        "WATER",
+        "POOL",
+        "SPORTS",
+        "BLUE",
+        "ATHLETE",
+        "OLYMPICS",
+        "SWIMMING",
+        "MICHAEL PHELPS"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "Alexis Benot",
+      "dop": "Mathieu Plainfossé",
+      "colorist": "Vincent Amor",
+      "original_source": "",
+      "additional_info": "Omega - Road to the Olympics (2024)\nThe \"Omega - Road to the Olympics 2024\" commercial celebrates Omega's role as the Official Timekeeper for the Paris 2024 Olympics, a position they've held since 1932. The commercial features athletes training and competing, emphasizing Omega's precision and innovation in timekeeping technology. It also highlights the launch of a special edition Seamaster watch, designed to commemorate the upcoming Olympics.\nTechnique - Double Exposure , Echo print , Motion Blur\nDirector - Marius Gonzalez\nDOP - Mathieu Plainfossé\nEditor - Alexis Benot\nColorist - Vincent Amor\nWATER\nPOOL\nSPORTS\nBLUE\nATHLETE\nOLYMPICS\nSWIMMING\nMICHAEL PHELPS",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976682.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T13:34:28.659201",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406989.webp",
+      "alt_text": "The Chronicles of Riddick",
+      "discovered_at": "2025-09-11T13:34:33.374621",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "tags": [
+        "MALE",
+        "FIGHT",
+        "BATTLE",
+        "SOLDIER"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Future"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Echo print , Future\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link\nMALE\nFIGHT\nBATTLE\nSOLDIER",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709534547.webp",
+      "alt_text": "Pas De Deux",
+      "discovered_at": "2025-09-11T13:34:37.555723",
+      "title": "Pas De Deux",
+      "description": "",
+      "tags": [
+        "DANCING",
+        "BALLET"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Void"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pas De Deux\nTechnique - Echo print , Void\nDANCING\nBALLET",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294754.webp",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "discovered_at": "2025-09-11T13:34:41.241971",
+      "title": "Shit Robot \"Take 'Em Up\" (2010)",
+      "description": "The music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.",
+      "tags": [
+        "WOMAN",
+        "WALKING",
+        "EXTERIOR",
+        "LIME GREEN"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print",
+        "Trucking"
+      ],
+      "director": "Eoghan Kidney",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shit Robot \"Take 'Em Up\" (2010)\nThe music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.\nTechnique - Duplication , Echo print , Trucking\nDirector - Eoghan Kidney\nOriginal Source - Link\nWOMAN\nWALKING\nEXTERIOR\nLIME GREEN",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710752932.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:34:44.901348",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Echo print"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Echo print\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545953.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T13:34:48.564338",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "INTERIOR",
+        "OFFICE"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Fast Motion",
+        "High Angle",
+        "Motion Blur"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Echo print , Fast Motion , High Angle , Motion Blur\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nINTERIOR\nOFFICE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916959.webp",
+      "alt_text": "João Borsch - Apaz",
+      "discovered_at": "2025-09-11T13:34:52.210189",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
+      "tags": [
+        "RED",
+        "DOUBLE EXPOSURE",
+        "SURREAL",
+        "PROFILE"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Duplication",
+        "Echo print",
+        "Void"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Double Exposure , Duplication , Echo print , Void\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nRED\nDOUBLE EXPOSURE\nSURREAL\nPROFILE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407048.webp",
+      "alt_text": "The Chronicles of Riddick",
+      "discovered_at": "2025-09-11T13:34:55.745142",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "tags": [
+        "MALE",
+        "FIGHT",
+        "BATTLE",
+        "SOLDIER"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Future",
+        "High Angle"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Echo print , Future , High Angle\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link\nMALE\nFIGHT\nBATTLE\nSOLDIER",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709973445.webp",
+      "alt_text": "Fist of Fury",
+      "discovered_at": "2025-09-11T13:34:59.432822",
+      "title": "Fist of Fury (1972)",
+      "description": "A young man seeks vengence for the death of his teacher.",
+      "tags": [
+        "BRUCE LEE"
+      ],
+      "technique_tags": [
+        "Echo print"
+      ],
+      "director": "Peter Cheung",
+      "dop": "Chen Qingqu",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Fist of Fury (1972)\nA young man seeks vengence for the death of his teacher.\nTechnique - Echo print\nDirector - Wei Lo\nDOP - Chen Qingqu\nEditor - Peter Cheung\nBRUCE LEE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294828.webp",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "discovered_at": "2025-09-11T13:35:03.104259",
+      "title": "Shit Robot \"Take 'Em Up\" (2010)",
+      "description": "The music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.",
+      "tags": [
+        "WOMAN",
+        "WALKING",
+        "EXTERIOR",
+        "LIME GREEN"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print"
+      ],
+      "director": "Eoghan Kidney",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shit Robot \"Take 'Em Up\" (2010)\nThe music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.\nTechnique - Duplication , Echo print\nDirector - Eoghan Kidney\nOriginal Source - Link\nWOMAN\nWALKING\nEXTERIOR\nLIME GREEN",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344945.webp",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "discovered_at": "2025-09-11T13:35:06.744154",
+      "title": "Oddworld x Souly - wzf / maybach (2024)",
+      "description": "The music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.",
+      "tags": [
+        "GRAIN",
+        "THERMAL"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Low Frame-rate",
+        "Thermal"
+      ],
+      "director": "Yannic Nixdorf",
+      "dop": "Patrick Pichler",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oddworld x Souly - wzf / maybach (2024)\nThe music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.\nTechnique - Echo print , Low Frame-rate , Thermal\nDirector - Florian Christopher, Grotesk.Group\nDOP - Patrick Pichler\nEditor - Yannic Nixdorf\nOriginal Source - Link\nGRAIN\nTHERMAL",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976709.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T13:35:10.413972",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406637.webp",
-      "page_url": "https://eyecannndy.com/technique/echo-printing",
-      "discovered_at": "2025-09-05T03:25:23.500301",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "echo-printing",
       "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:35:14.160631",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "MALE",
+        "FIGHT",
+        "BATTLE",
+        "SOLDIER"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Future"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Echo print , Future\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link\nMALE\nFIGHT\nBATTLE\nSOLDIER",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924451.webp",
+      "alt_text": "slowthai - Yum",
+      "discovered_at": "2025-09-11T13:35:18.355459",
+      "title": "slowthai - Yum (2023)",
+      "description": "",
+      "tags": [
+        "RED",
+        "OVERHEAD",
+        "DRUGS"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Echo print",
+        "Quick Cuts",
+        "X-Axis Arc"
+      ],
+      "director": "John Holloway",
+      "dop": "Jack Exton",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "slowthai - Yum (2023)\nShot breakdown: x-axis echo printing\nTechnique - Arc , Echo print , Quick Cuts , X-Axis Arc\nDirector - Crowns & Owls\nDOP - Jack Exton\nEditor - John Holloway\nOriginal Source - Link\nRED\nOVERHEAD\nDRUGS",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708472556.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T13:35:22.017999",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "INTERIOR",
+        "LIL NAS X",
+        "RECORD STUDIO"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Fast Motion",
+        "Motion Blur",
+        "Ultra Wide"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Echo print , Fast Motion , Motion Blur , Ultra Wide\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nINTERIOR\nLIL NAS X\nRECORD STUDIO",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705289556.webp",
+      "alt_text": "Souce unknown",
+      "discovered_at": "2025-09-11T13:35:25.693621",
+      "title": "Souce unknown",
+      "description": "We know this is from Dior, but unsure of what campaign it came from. Know the source? Email jacobi@eycndy.com",
+      "tags": [
+        "WALKING",
+        "STAIRS",
+        "BLACK",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print",
+        "Void"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Souce unknown\nWe know this is from Dior, but unsure of what campaign it came from. Know the source? Email jacobi@eycndy.com\nTechnique - Duplication , Echo print , Void\nWALKING\nSTAIRS\nBLACK\nVOID",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406762.webp",
+      "alt_text": "The Chronicles of Riddick",
+      "discovered_at": "2025-09-11T13:35:29.367828",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "tags": [
+        "MALE",
+        "FIGHT",
+        "BATTLE",
+        "SOLDIER"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Future",
+        "Intensity"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Echo print , Future , Intensity\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link\nMALE\nFIGHT\nBATTLE\nSOLDIER",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705284956.webp",
+      "alt_text": "adidas x DC Look",
+      "discovered_at": "2025-09-11T13:35:33.028009",
+      "title": "adidas x DC Look",
+      "description": "You're seeing an echo-print style duplication that creates a look akin to the game 'snake'.",
+      "tags": [
+        "GREEN",
+        "ADIDAS",
+        "FASHION",
+        "APPAREL",
+        "DC LOOK"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "adidas x DC Look\nYou're seeing an echo-print style duplication that creates a look akin to the game 'snake'.\nTechnique - Duplication , Echo print\nGREEN\nADIDAS\nFASHION\nAPPAREL\nDC LOOK",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710750777.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:35:36.688719",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "SWORD",
+        "SAMURAI"
+      ],
+      "technique_tags": [
+        "Echo print"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Echo print\nSWORD\nSAMURAI",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407599.webp",
+      "alt_text": "The Chronicles of Riddick",
+      "discovered_at": "2025-09-11T13:35:40.328073",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "tags": [],
+      "technique_tags": [
+        "Echo print"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Echo print\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420944.webp",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "discovered_at": "2025-09-11T13:35:43.969239",
+      "title": "AJR - The DJ Is Crying For Help (2022)",
+      "description": "Directed by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.",
+      "tags": [
+        "DAY",
+        "RUNNING",
+        "EXTERIOR",
+        "PARIS",
+        "STEPS"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print",
+        "Pass Through"
+      ],
+      "director": "Austin Roa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJR - The DJ Is Crying For Help (2022)\nDirected by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.\nTechnique - Duplication , Echo print , Pass Through\nDirector - Austin Roa\nOriginal Source - Link\nDAY\nRUNNING\nEXTERIOR\nPARIS\nSTEPS",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576508.webp",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "discovered_at": "2025-09-11T13:35:47.599115",
+      "title": "Ken Carson - Fighting My Demons (2023)",
+      "description": "The music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.",
+      "tags": [
+        "WOMAN",
+        "DISTORTION"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Distortions",
+        "Echo print",
+        "Void"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Ken Carson - Fighting My Demons (2023)\nThe music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.\nTechnique - Altered state , Distortions , Echo print , Void\nDirector - Cole Bennett\nDOP - Franklin Ricart\nEditor - Cole Bennett\nColorist - Loren White\nOriginal Source - Link\nTutorial - Link\nWOMAN\nDISTORTION",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710449402.webp",
+      "alt_text": "Empimic - Bittere Welt",
+      "discovered_at": "2025-09-11T13:35:51.234988",
+      "title": "Empimic - Bittere Welt (2021)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "BLACK AND WHITE",
+        "SUIT"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print"
+      ],
+      "director": "Angelo Kovatchev",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Empimic - Bittere Welt (2021)\nTechnique - Duplication , Echo print\nDirector - Angelo Kovatchev\nOriginal Source - Link\nMALE\nBLACK AND WHITE\nSUIT",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164076.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T13:35:54.866751",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [
+        "DANCING",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur",
+        "Slow Motion",
+        "Speed warp"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Echo print , Motion Blur , Slow Motion , Speed warp\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link\nDANCING\nVOID",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420497.webp",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "discovered_at": "2025-09-11T13:35:58.497872",
+      "title": "AJR - The DJ Is Crying For Help (2022)",
+      "description": "Directed by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "SITTING"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print",
+        "Towards camera",
+        "Tracking"
+      ],
+      "director": "Austin Roa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJR - The DJ Is Crying For Help (2022)\nDirected by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.\nTechnique - Duplication , Echo print , Towards camera , Tracking\nDirector - Austin Roa\nOriginal Source - Link\nDAY\nEXTERIOR\nSITTING",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294548.webp",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "discovered_at": "2025-09-11T13:36:01.648110",
+      "title": "Shit Robot \"Take 'Em Up\" (2010)",
+      "description": "The music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.",
+      "tags": [
+        "WOMAN",
+        "COLORFUL"
+      ],
+      "technique_tags": [
+        "Drug trip",
+        "Echo print",
+        "Glitch"
+      ],
+      "director": "Eoghan Kidney",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shit Robot \"Take 'Em Up\" (2010)\nThe music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.\nTechnique - Drug trip , Echo print , Glitch\nDirector - Eoghan Kidney\nOriginal Source - Link\nWOMAN\nCOLORFUL",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711407122.webp",
+      "alt_text": "The Chronicles of Riddick",
+      "discovered_at": "2025-09-11T13:36:05.309316",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "tags": [
+        "MALE",
+        "FIGHT",
+        "BATTLE",
+        "SOLDIER"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Future"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Echo print , Future\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link\nMALE\nFIGHT\nBATTLE\nSOLDIER",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704030931.webp",
+      "alt_text": "Botis Seva - Santo",
+      "discovered_at": "2025-09-11T13:36:08.972101",
+      "title": "Botis Seva - Santo (2022)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Echo print"
+      ],
+      "director": "Freddie Leyden",
+      "dop": "David Bird",
+      "colorist": "Alex Gregory",
+      "original_source": "",
+      "additional_info": "Botis Seva - Santo (2022)\nBotis Seva, award-winning choreographer, explores the power of storytelling through images and motion.The film is a collaboration between Botis Seva and film director Freddie Leyden. The result, Santo, is an intimate expression of faith inspired by ancient Greek and Roman sculpture and religious scenes in medieval books of hours.\nTechnique - Echo print\nDirector - Freddie Leyden\nDOP - David Bird\nColorist - Alex Gregory\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715294641.webp",
+      "alt_text": "Shit Robot \"Take 'Em Up\"",
+      "discovered_at": "2025-09-11T13:36:12.602399",
+      "title": "Shit Robot \"Take 'Em Up\" (2010)",
+      "description": "The music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.",
+      "tags": [
+        "WOMAN",
+        "COLORFUL"
+      ],
+      "technique_tags": [
+        "Echo print"
+      ],
+      "director": "Eoghan Kidney",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Shit Robot \"Take 'Em Up\" (2010)\nThe music video for \"Take 'Em Up\" by Shit Robot, featuring Nancy Whang, merges retro and modern visuals to create a vibrant, psychedelic effect. Set against an electro-disco track, the video shows characters in colorful 80s outfits moving through surreal cityscapes with playful animations and dynamic edits, enhancing the song's upbeat rhythm. Rotoscoping by Magdelena Turnier, Jairo Neto, Camilo Rosas, Brett Bittner, Atsushi Yamamoto, Eoin Whelehan and Chris Mooney. Contributed by Till Brokhausen.\nTechnique - Echo print\nDirector - Eoghan Kidney\nOriginal Source - Link\nWOMAN\nCOLORFUL",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976637.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T13:36:16.229343",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384475.webp",
+      "alt_text": "Omega - Road to the Olympics",
+      "discovered_at": "2025-09-11T13:36:19.863551",
+      "title": "Omega - Road to the Olympics (2024)",
+      "description": "The \"Omega - Road to the Olympics 2024\" commercial celebrates Omega's role as the Official Timekeeper for the Paris 2024 Olympics, a position they've held since 1932. The commercial features athletes training and competing, emphasizing Omega's precision and innovation in timekeeping technology. It also highlights the launch of a special edition Seamaster watch, designed to commemorate the upcoming Olympics.",
+      "tags": [
+        "WATER",
+        "POOL",
+        "SPORTS",
+        "BLUE",
+        "ATHLETE",
+        "OLYMPICS",
+        "SWIMMING",
+        "MICHAEL PHELPS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Motion Blur"
+      ],
+      "director": "Alexis Benot",
+      "dop": "Mathieu Plainfossé",
+      "colorist": "Vincent Amor",
+      "original_source": "",
+      "additional_info": "Omega - Road to the Olympics (2024)\nThe \"Omega - Road to the Olympics 2024\" commercial celebrates Omega's role as the Official Timekeeper for the Paris 2024 Olympics, a position they've held since 1932. The commercial features athletes training and competing, emphasizing Omega's precision and innovation in timekeeping technology. It also highlights the launch of a special edition Seamaster watch, designed to commemorate the upcoming Olympics.\nTechnique - Echo print , Motion Blur\nDirector - Marius Gonzalez\nDOP - Mathieu Plainfossé\nEditor - Alexis Benot\nColorist - Vincent Amor\nWATER\nPOOL\nSPORTS\nBLUE\nATHLETE\nOLYMPICS\nSWIMMING\nMICHAEL PHELPS",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708420589.webp",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "discovered_at": "2025-09-11T13:36:23.026615",
+      "title": "AJR - The DJ Is Crying For Help (2022)",
+      "description": "Directed by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.",
+      "tags": [
+        "DAY",
+        "RUNNING",
+        "EXTERIOR",
+        "PARIS"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Echo print",
+        "Trucking"
+      ],
+      "director": "Austin Roa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJR - The DJ Is Crying For Help (2022)\nDirected by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.\nTechnique - Duplication , Echo print , Trucking\nDirector - Austin Roa\nOriginal Source - Link\nDAY\nRUNNING\nEXTERIOR\nPARIS",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406828.webp",
+      "alt_text": "The Chronicles of Riddick",
+      "discovered_at": "2025-09-11T13:36:26.705198",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "tags": [
+        "MALE",
+        "FIGHT",
+        "BATTLE",
+        "SOLDIER"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Future"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Echo print , Future\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link\nMALE\nFIGHT\nBATTLE\nSOLDIER",
+      "page_url": "https://eyecannndy.com/technique/echo-printing"
     }
   ]
 }

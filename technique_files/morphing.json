@@ -1,6 +1,841 @@
 {
   "technique": "morphing",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.652656",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_161859",
+    "total_videos": 39,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164291.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T16:16:44.437376",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [
+        "TREADMILL"
+      ],
+      "technique_tags": [
+        "Morphing",
+        "Void"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Morphing , Void\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link\nTREADMILL",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401891.webp",
+      "alt_text": "Art by Matthias Brown",
+      "discovered_at": "2025-09-11T16:16:48.073509",
+      "title": "Art by Matthias Brown (2020)",
+      "description": "",
+      "tags": [
+        "LETTER",
+        "ALPHABET"
+      ],
+      "technique_tags": [
+        "Hand-drawn",
+        "Morphing",
+        "Pencil Sketch"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Matthias Brown (2020)\nTechnique - Hand-drawn , Morphing , Pencil Sketch\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link\nLETTER\nALPHABET",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706402191.webp",
+      "alt_text": "Art by Johannes Stoetter",
+      "discovered_at": "2025-09-11T16:16:51.744568",
+      "title": "Art by Johannes Stoetter",
+      "description": "Created by famed body paint artist Johannes Stoetter.",
+      "tags": [
+        "BUTTERFLY"
+      ],
+      "technique_tags": [
+        "Forced Perspective",
+        "Morphing"
+      ],
+      "director": "Johannes Stoetter",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Johannes Stoetter\nCreated by famed body paint artist Johannes Stoetter.\nTechnique - Forced Perspective , Morphing\nDirector - Johannes Stoetter\nBUTTERFLY",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702963037.webp",
+      "alt_text": "Art Animation GIF by Sofia Qin",
+      "discovered_at": "2025-09-11T16:16:54.898579",
+      "title": "Art Animation GIF by Sofia Qin (2022)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Morphing",
+        "Pencil Sketch"
+      ],
+      "director": "Sofia Qin",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art Animation GIF by Sofia Qin (2022)\nTechnique - Morphing , Pencil Sketch\nDirector - Sofia Qin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716235825.webp",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "discovered_at": "2025-09-11T16:16:58.531148",
+      "title": "Flume feat. MAY-A - Say Nothing (2022)",
+      "description": "The music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.",
+      "tags": [
+        "COLOR SHIFT",
+        "AI",
+        "GENERATIVE",
+        "STABLE DIFFUSION"
+      ],
+      "technique_tags": [
+        "Generative",
+        "Morphing"
+      ],
+      "director": "Ian Wallace",
+      "dop": "Dimitri Zaunders, Kieran Fowler",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Flume feat. MAY-A - Say Nothing (2022)\nThe music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.\nTechnique - Generative , Morphing\nDirector - Michael Hili\nDOP - Dimitri Zaunders, Kieran Fowler\nEditor - Ian Wallace\nColorist - Josh Bohoskey\nOriginal Source - Link\nCOLOR SHIFT\nAI\nGENERATIVE\nSTABLE DIFFUSION",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401460.webp",
+      "alt_text": "Kendrick Lamar - The Heart Part 5",
+      "discovered_at": "2025-09-11T16:17:02.228581",
+      "title": "Kendrick Lamar - The Heart Part 5 (2022)",
+      "description": "",
+      "tags": [
+        "RED",
+        "INTERIOR",
+        "STUDIO",
+        "KENDRICK LAMAR"
+      ],
+      "technique_tags": [
+        "Morphing"
+      ],
+      "director": "Dave Free",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - The Heart Part 5 (2022)\nNow famous music video for Kendrick Lamar from director Dave Free. Features Kendrick's face morphing into other iconic black artists and athletes.\nTechnique - Morphing\nDirector - Dave Free\nRED\nINTERIOR\nSTUDIO\nKENDRICK LAMAR",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702892622.webp",
+      "alt_text": "Bounty Banana - inTENsity",
+      "discovered_at": "2025-09-11T16:17:05.902476",
+      "title": "Bounty Banana - inTENsity (2022)",
+      "description": "Pure adrenaline in the form of a rebrand effort from Bounty Banana. Intense enough?",
+      "tags": [],
+      "technique_tags": [
+        "Morphing"
+      ],
+      "director": "Florian Julia",
+      "dop": "Mahdi Lepart",
+      "colorist": "Nicolas Gautier",
+      "original_source": "",
+      "additional_info": "Bounty Banana - inTENsity (2022)\nPure adrenaline in the form of a rebrand effort from Bounty Banana. Intense enough?\nTechnique - Morphing\nDirector - Julien Jourdain de Muizon, Steven Briand\nDOP - Mahdi Lepart\nEditor - Florian Julia\nColorist - Nicolas Gautier\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401816.webp",
+      "alt_text": "Art by Matthias Brown",
+      "discovered_at": "2025-09-11T16:17:09.060333",
+      "title": "Art by Matthias Brown (2020)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Morphing",
+        "Pencil Sketch"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Matthias Brown (2020)\nTechnique - Morphing , Pencil Sketch\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704921874.webp",
+      "alt_text": "Animation from Dan Norman",
+      "discovered_at": "2025-09-11T16:17:12.737691",
+      "title": "Animation from Dan Norman",
+      "description": "",
+      "tags": [
+        "COLORFUL",
+        "EYEBALL",
+        "CYAN",
+        "SATURATION",
+        "ILLUSTRATION",
+        "SATURED",
+        "BEAK",
+        "MORPHING",
+        "TRANSFORMATION"
+      ],
+      "technique_tags": [
+        "Color Sketch",
+        "Morphing"
+      ],
+      "director": "Dax Norman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation from Dan Norman\nTechnique - Color Sketch , Morphing\nDirector - Dax Norman\nCOLORFUL\nEYEBALL\nCYAN\nSATURATION\nILLUSTRATION\nSATURED\nBEAK\nMORPHING\nTRANSFORMATION",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401542.webp",
+      "alt_text": "Art Morphing GIF By HOLY FIELD",
+      "discovered_at": "2025-09-11T16:17:15.881980",
+      "title": "Art Morphing GIF By HOLY FIELD (2022)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Morphing",
+        "Vector"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art Morphing GIF By HOLY FIELD (2022)\nTechnique - Morphing , Vector\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704922176.webp",
+      "alt_text": "Animation from Dan Norman",
+      "discovered_at": "2025-09-11T16:17:19.551204",
+      "title": "Animation from Dan Norman",
+      "description": "",
+      "tags": [
+        "BLUE",
+        "COLORFUL",
+        "SATURATED",
+        "SATURATION",
+        "ILLUSTRATION",
+        "ILLUSTRATED",
+        "LIME GREEN"
+      ],
+      "technique_tags": [
+        "Color Sketch",
+        "Morphing"
+      ],
+      "director": "Dax Norman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation from Dan Norman\nTechnique - Color Sketch , Morphing\nDirector - Dax Norman\nBLUE\nCOLORFUL\nSATURATED\nSATURATION\nILLUSTRATION\nILLUSTRATED\nLIME GREEN",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706042156.webp",
+      "alt_text": "Sokół – Miłość zawsze jest",
+      "discovered_at": "2025-09-11T16:17:24.792308",
+      "title": "Sokół – Miłość zawsze jest (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "WEDDING",
+        "COUPLE",
+        "1940S",
+        "HAPPY",
+        "SMILES",
+        "MARRIAGE"
+      ],
+      "technique_tags": [
+        "1940s",
+        "Bullet Time",
+        "Color Shift",
+        "Happiness",
+        "Morphing"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Sokół – Miłość zawsze jest (2023)\nPolish director Tadeusz Śliwa utilizes bullet time and seamless transitions to tell a story of love in the midst of WWII and the Warsaw Uprising.\nTechnique - 1940s , Bullet Time , Color Shift , Happiness , Morphing\nOriginal Source - Link\nTutorial - Link\nDAY\nINTERIOR\nWEDDING\nCOUPLE\n1940S\nHAPPY\nSMILES\nMARRIAGE",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707631452.webp",
+      "alt_text": "Valentino Khan - Deep Down Low",
+      "discovered_at": "2025-09-11T16:17:28.485667",
+      "title": "Valentino Khan - Deep Down Low (2016)",
+      "description": "One of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.",
+      "tags": [
+        "WARP",
+        "MORPH",
+        "CHEF"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Morphing"
+      ],
+      "director": "Gaia Borretti",
+      "dop": "Naoki Noda",
+      "colorist": "Luke Morrison",
+      "original_source": "",
+      "additional_info": "Valentino Khan - Deep Down Low (2016)\nOne of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.\nTechnique - Altered state , Drug trip , Morphing\nDirector - Ian Pons Jewell\nDOP - Naoki Noda\nEditor - Gaia Borretti\nColorist - Luke Morrison\nOriginal Source - Link\nWARP\nMORPH\nCHEF",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704921959.webp",
+      "alt_text": "Animation from Dan Norman",
+      "discovered_at": "2025-09-11T16:17:31.639783",
+      "title": "Animation from Dan Norman",
+      "description": "",
+      "tags": [
+        "CAR",
+        "SURREAL",
+        "COLORFUL",
+        "EYEBALL",
+        "SATURATED",
+        "SATURATION",
+        "MOUTH",
+        "TRIP",
+        "TRANSFORMATION"
+      ],
+      "technique_tags": [
+        "Color Sketch",
+        "Morphing"
+      ],
+      "director": "Dax Norman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation from Dan Norman\nTechnique - Color Sketch , Morphing\nDirector - Dax Norman\nCAR\nSURREAL\nCOLORFUL\nEYEBALL\nSATURATED\nSATURATION\nMOUTH\nTRIP\nTRANSFORMATION",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400892.webp",
+      "alt_text": "Whoana Keli - @whoana.keli",
+      "discovered_at": "2025-09-11T16:17:35.301810",
+      "title": "Whoana Keli - @whoana.keli (2023)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "RODENT"
+      ],
+      "technique_tags": [
+        "Animation",
+        "Morphing"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Whoana Keli - @whoana.keli (2023)\nTechnique - Animation , Morphing\nOriginal Source - Link\nWOMAN\nRODENT",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706400990.webp",
+      "alt_text": "Kendrick Lamar - The Heart Part 5",
+      "discovered_at": "2025-09-11T16:17:38.994787",
+      "title": "Kendrick Lamar - The Heart Part 5 (2022)",
+      "description": "",
+      "tags": [
+        "RED",
+        "INTERIOR",
+        "STUDIO",
+        "KENDRICK LAMAR"
+      ],
+      "technique_tags": [
+        "Morphing"
+      ],
+      "director": "Dave Free",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - The Heart Part 5 (2022)\nNow famous music video for Kendrick Lamar from director Dave Free. Features Kendrick's face morphing into other iconic black artists and athletes.\nTechnique - Morphing\nDirector - Dave Free\nRED\nINTERIOR\nSTUDIO\nKENDRICK LAMAR",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706402021.webp",
+      "alt_text": "Art by Aloys Feeney",
+      "discovered_at": "2025-09-11T16:17:42.656365",
+      "title": "Art by Aloys Feeney (2016)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Charcoal",
+        "Morphing"
+      ],
+      "director": "Aloys Feeney",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Aloys Feeney (2016)\nTechnique - Charcoal , Morphing\nDirector - Aloys Feeney\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401840.webp",
+      "alt_text": "Art by Matthias Brown",
+      "discovered_at": "2025-09-11T16:17:46.349657",
+      "title": "Art by Matthias Brown (2020)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Morphing",
+        "Pencil Sketch"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Matthias Brown (2020)\nTechnique - Morphing , Pencil Sketch\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401912.webp",
+      "alt_text": "Art by Matthias Brown",
+      "discovered_at": "2025-09-11T16:17:50.010090",
+      "title": "Art by Matthias Brown (2020)",
+      "description": "",
+      "tags": [
+        "LETTER",
+        "ALPHABET"
+      ],
+      "technique_tags": [
+        "Morphing",
+        "Pencil Sketch"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Matthias Brown (2020)\nTechnique - Morphing , Pencil Sketch\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link\nLETTER\nALPHABET",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401360.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T16:17:53.675399",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "FACE",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Live action pixelation",
+        "Morphing"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Live action pixelation , Morphing\nFACE\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401701.webp",
+      "alt_text": "Art by Matthias Brown",
+      "discovered_at": "2025-09-11T16:17:57.312884",
+      "title": "Art by Matthias Brown (2020)",
+      "description": "",
+      "tags": [
+        "THUMB"
+      ],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Morphing"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Matthias Brown (2020)\nTechnique - Extreme Close-Up , Morphing\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link\nTHUMB",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708338779.webp",
+      "alt_text": "Street Corner",
+      "discovered_at": "2025-09-11T16:18:00.496607",
+      "title": "Street Corner (2024)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "CITY",
+        "TOWN",
+        "SODIUM LIGHTS"
+      ],
+      "technique_tags": [
+        "Generative",
+        "Morphing"
+      ],
+      "director": "hellopersonality",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Street Corner (2024)\nTechnique - Generative , Morphing\nEditor - hellopersonality\nOriginal Source - Link\nNIGHT\nCITY\nTOWN\nSODIUM LIGHTS",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705180916.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T16:18:04.152684",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "FACE",
+        "PORTRAIT"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Morphing"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Duplication , Morphing\nFACE\nPORTRAIT",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401858.webp",
+      "alt_text": "Art by Matthias Brown",
+      "discovered_at": "2025-09-11T16:18:07.826964",
+      "title": "Art by Matthias Brown (2020)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Hand-drawn",
+        "Morphing",
+        "Pencil Sketch"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Matthias Brown (2020)\nTechnique - Hand-drawn , Morphing , Pencil Sketch\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704922447.webp",
+      "alt_text": "Animation by Raman Djafari",
+      "discovered_at": "2025-09-11T16:18:10.977879",
+      "title": "Animation by Raman Djafari",
+      "description": "",
+      "tags": [
+        "RED",
+        "COLORFUL",
+        "SATURATED",
+        "SATURATION"
+      ],
+      "technique_tags": [
+        "Color Sketch",
+        "Morphing"
+      ],
+      "director": "Raman Djafari",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation by Raman Djafari\nTechnique - Color Sketch , Morphing\nDirector - Raman Djafari\nRED\nCOLORFUL\nSATURATED\nSATURATION",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401798.webp",
+      "alt_text": "Art by Matthias Brown",
+      "discovered_at": "2025-09-11T16:18:14.140139",
+      "title": "Art by Matthias Brown (2020)",
+      "description": "",
+      "tags": [
+        "FACE"
+      ],
+      "technique_tags": [
+        "Morphing",
+        "Pencil Sketch"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Matthias Brown (2020)\nTechnique - Morphing , Pencil Sketch\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link\nFACE",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401946.webp",
+      "alt_text": "Art by Matthias Brown",
+      "discovered_at": "2025-09-11T16:18:17.292241",
+      "title": "Art by Matthias Brown (2020)",
+      "description": "",
+      "tags": [
+        "LETTER",
+        "ALPHABET"
+      ],
+      "technique_tags": [
+        "Morphing",
+        "Pencil Sketch"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Matthias Brown (2020)\nTechnique - Morphing , Pencil Sketch\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link\nLETTER\nALPHABET",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704619359.webp",
+      "alt_text": "@aloysfeeney / Giphy",
+      "discovered_at": "2025-09-11T16:18:20.946097",
+      "title": "@aloysfeeney / Giphy",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Morphing",
+        "Pencil Sketch"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@aloysfeeney / Giphy\nTechnique - Morphing , Pencil Sketch",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706402058.webp",
+      "alt_text": "@muerdelagrimas / Giphy",
+      "discovered_at": "2025-09-11T16:18:24.615386",
+      "title": "@muerdelagrimas / Giphy",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Morphing",
+        "Pencil Sketch"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@muerdelagrimas / Giphy\nTechnique - Morphing , Pencil Sketch",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707631404.webp",
+      "alt_text": "Valentino Khan - Deep Down Low",
+      "discovered_at": "2025-09-11T16:18:28.271920",
+      "title": "Valentino Khan - Deep Down Low (2016)",
+      "description": "One of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.",
+      "tags": [
+        "WARP",
+        "MORPH",
+        "CHEF"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Direct address",
+        "Drug trip",
+        "Morphing"
+      ],
+      "director": "Gaia Borretti",
+      "dop": "Naoki Noda",
+      "colorist": "Luke Morrison",
+      "original_source": "",
+      "additional_info": "Valentino Khan - Deep Down Low (2016)\nOne of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.\nTechnique - Altered state , Direct address , Drug trip , Morphing\nDirector - Ian Pons Jewell\nDOP - Naoki Noda\nEditor - Gaia Borretti\nColorist - Luke Morrison\nOriginal Source - Link\nWARP\nMORPH\nCHEF",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707407100.webp",
+      "alt_text": "Source unknown `",
+      "discovered_at": "2025-09-11T16:18:31.945318",
+      "title": "Source unknown ` (2012)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Morphing"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown ` (2012)\nTechnique - Morphing",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401929.webp",
+      "alt_text": "Art by Matthias Brown",
+      "discovered_at": "2025-09-11T16:18:35.083523",
+      "title": "Art by Matthias Brown (2020)",
+      "description": "",
+      "tags": [
+        "LETTER",
+        "ALPHABET"
+      ],
+      "technique_tags": [
+        "Morphing",
+        "Pencil Sketch"
+      ],
+      "director": "Matthias Brown (TraceLoops)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Matthias Brown (2020)\nTechnique - Morphing , Pencil Sketch\nDirector - Matthias Brown (TraceLoops)\nOriginal Source - Link\nLETTER\nALPHABET",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707976508.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T16:18:38.755750",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [],
+      "technique_tags": [
+        "Drug trip",
+        "Morphing",
+        "Rotoscope",
+        "Transformation"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Drug trip , Morphing , Rotoscope , Transformation\nDirector - Daniel Stessen",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707630373.webp",
+      "alt_text": "Animation by Ian Cairncross",
+      "discovered_at": "2025-09-11T16:18:42.405605",
+      "title": "Animation by Ian Cairncross",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Morphing"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation by Ian Cairncross\nTechnique - Morphing",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708337376.webp",
+      "alt_text": "Loxel Li - @Loxel",
+      "discovered_at": "2025-09-11T16:18:45.547839",
+      "title": "Loxel Li - @Loxel",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE",
+        "VINTAGE",
+        "ARCHIVAL",
+        "HISTORIC"
+      ],
+      "technique_tags": [
+        "Generative",
+        "Morphing"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Loxel Li - @Loxel\nTechnique - Generative , Morphing\nBLACK AND WHITE\nVINTAGE\nARCHIVAL\nHISTORIC",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704921926.webp",
+      "alt_text": "Animation from Dan Norman",
+      "discovered_at": "2025-09-11T16:18:49.747040",
+      "title": "Animation from Dan Norman",
+      "description": "",
+      "tags": [
+        "CAR",
+        "COLORFUL",
+        "SATURATED",
+        "SATURATION",
+        "TRANSFORMATION"
+      ],
+      "technique_tags": [
+        "Color Sketch",
+        "Morphing"
+      ],
+      "director": "Dax Norman",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation from Dan Norman\nTechnique - Color Sketch , Morphing\nDirector - Dax Norman\nCAR\nCOLORFUL\nSATURATED\nSATURATION\nTRANSFORMATION",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707631494.webp",
+      "alt_text": "Valentino Khan - Deep Down Low",
+      "discovered_at": "2025-09-11T16:18:53.401566",
+      "title": "Valentino Khan - Deep Down Low (2016)",
+      "description": "One of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.",
+      "tags": [
+        "WARP",
+        "MORPH",
+        "CHEF"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Morphing"
+      ],
+      "director": "Gaia Borretti",
+      "dop": "Naoki Noda",
+      "colorist": "Luke Morrison",
+      "original_source": "",
+      "additional_info": "Valentino Khan - Deep Down Low (2016)\nOne of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.\nTechnique - Altered state , Drug trip , Morphing\nDirector - Ian Pons Jewell\nDOP - Naoki Noda\nEditor - Gaia Borretti\nColorist - Luke Morrison\nOriginal Source - Link\nWARP\nMORPH\nCHEF",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401449.webp",
+      "alt_text": "Kendrick Lamar - The Heart Part 5",
+      "discovered_at": "2025-09-11T16:18:56.553043",
+      "title": "Kendrick Lamar - The Heart Part 5 (2022)",
+      "description": "",
+      "tags": [
+        "RED",
+        "INTERIOR",
+        "STUDIO",
+        "KENDRICK LAMAR"
+      ],
+      "technique_tags": [
+        "Morphing"
+      ],
+      "director": "Dave Free",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - The Heart Part 5 (2022)\nNow famous music video for Kendrick Lamar from director Dave Free. Features Kendrick's face morphing into other iconic black artists and athletes.\nTechnique - Morphing\nDirector - Dave Free\nRED\nINTERIOR\nSTUDIO\nKENDRICK LAMAR",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710833904.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T16:18:59.715851",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "MALE",
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Morphing",
+        "Transformation"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Morphing , Transformation\nMALE\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/morphing"
+    }
+  ]
 }

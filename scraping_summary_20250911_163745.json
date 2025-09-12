@@ -1,0 +1,440 @@
+{
+  "start_time": "2025-09-11T14:40:59.409407",
+  "end_time": "2025-09-11T16:37:45.215575",
+  "total_techniques": 136,
+  "completed_techniques": 136,
+  "failed_techniques": [],
+  "total_videos_scraped": 1389,
+  "techniques_results": {
+    "halation": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T14:42:23.417984"
+    },
+    "shaky-cam": {
+      "videos_count": 92,
+      "status": "completed",
+      "timestamp": "2025-09-11T14:54:45.938233"
+    },
+    "hard-light": {
+      "videos_count": 33,
+      "status": "completed",
+      "timestamp": "2025-09-11T14:57:08.466338"
+    },
+    "haze": {
+      "videos_count": 18,
+      "status": "completed",
+      "timestamp": "2025-09-11T14:58:34.580366"
+    },
+    "high-angle": {
+      "videos_count": 108,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:10:27.727438"
+    },
+    "infinite": {
+      "videos_count": 25,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:12:20.485046"
+    },
+    "interview": {
+      "videos_count": 16,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:13:42.437585"
+    },
+    "jump-cut": {
+      "videos_count": 39,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:18:17.732317"
+    },
+    "kaleidoscope": {
+      "videos_count": 22,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:20:16.008725"
+    },
+    "lazy-susan": {
+      "videos_count": 63,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:25:30.707275"
+    },
+    "floating": {
+      "videos_count": 57,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:29:47.690490"
+    },
+    "light-flash": {
+      "videos_count": 56,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:33:21.257387"
+    },
+    "locked-on": {
+      "videos_count": 55,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:36:50.951203"
+    },
+    "low-angle": {
+      "videos_count": 183,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:50:40.819483"
+    },
+    "surrealism": {
+      "videos_count": 89,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:56:21.723124"
+    },
+    "magnification": {
+      "videos_count": 12,
+      "status": "completed",
+      "timestamp": "2025-09-11T15:57:11.014725"
+    },
+    "masking": {
+      "videos_count": 54,
+      "status": "completed",
+      "timestamp": "2025-09-11T16:00:31.337927"
+    },
+    "match-cut": {
+      "videos_count": 83,
+      "status": "completed",
+      "timestamp": "2025-09-11T16:05:36.690202"
+    },
+    "match-motion": {
+      "videos_count": 43,
+      "status": "completed",
+      "timestamp": "2025-09-11T16:08:11.002890"
+    },
+    "match-split": {
+      "videos_count": 57,
+      "status": "completed",
+      "timestamp": "2025-09-11T16:11:49.358835"
+    },
+    "maximalism": {
+      "videos_count": 17,
+      "status": "completed",
+      "timestamp": "2025-09-11T16:12:51.892593"
+    },
+    "mixed-media": {
+      "videos_count": 60,
+      "status": "completed",
+      "timestamp": "2025-09-11T16:16:34.754144"
+    },
+    "morphing": {
+      "videos_count": 39,
+      "status": "completed",
+      "timestamp": "2025-09-11T16:18:59.827889"
+    },
+    "motion-blur": {
+      "videos_count": 49,
+      "status": "completed",
+      "timestamp": "2025-09-11T16:22:16.624413"
+    },
+    "night-vision": {
+      "videos_count": 9,
+      "status": "completed",
+      "timestamp": "2025-09-11T16:22:53.046697"
+    },
+    "object-portal": {
+      "videos_count": 77,
+      "status": "completed",
+      "timestamp": "2025-09-11T16:28:37.750920"
+    },
+    "omnidirectional": {
+      "videos_count": 33,
+      "status": "completed",
+      "timestamp": "2025-09-11T16:31:48.562518"
+    },
+    "overhead": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:31:54.620708"
+    },
+    "over-the-shoulder": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:32:00.654944"
+    },
+    "pan": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:32:06.705631"
+    },
+    "parallax": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:32:12.756108"
+    },
+    "pass-through": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:32:18.786023"
+    },
+    "pedestal": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:32:24.829944"
+    },
+    "photogrammetry": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:32:30.868848"
+    },
+    "photography": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:32:36.905419"
+    },
+    "pixel-art": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:32:42.955421"
+    },
+    "probe-lens": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:32:49.003904"
+    },
+    "product": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:32:55.044601"
+    },
+    "profile-shot": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:33:01.092953"
+    },
+    "projections": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:33:07.139678"
+    },
+    "quick-cuts": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:33:13.191110"
+    },
+    "reflections": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:33:19.228065"
+    },
+    "scale-shift": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:33:25.279051"
+    },
+    "screen-in-screen": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:33:31.321834"
+    },
+    "set-transition": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:33:37.369765"
+    },
+    "shadow-box": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:33:43.414678"
+    },
+    "focal-focus": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:33:49.456664"
+    },
+    "silhouette": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:33:55.498696"
+    },
+    "slit-scan": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:34:01.551079"
+    },
+    "slow-motion": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:34:07.600820"
+    },
+    "snorricam": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:34:13.644684"
+    },
+    "speed-ramping": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:34:19.684178"
+    },
+    "split-diopter": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:34:25.724786"
+    },
+    "split-screen": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:34:31.765153"
+    },
+    "spotlight": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:34:37.811574"
+    },
+    "step-printing": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:34:43.860736"
+    },
+    "stop-motion": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:34:49.908337"
+    },
+    "stutter": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:34:55.960644"
+    },
+    "stylistic-suck": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:35:02.007701"
+    },
+    "tableau-shots": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:35:08.044758"
+    },
+    "thermal": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:35:14.095326"
+    },
+    "tilt": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:35:20.147034"
+    },
+    "tilt-shift": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:35:26.184932"
+    },
+    "tracking": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:35:32.235477"
+    },
+    "transformation": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:35:38.286309"
+    },
+    "transition": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:35:44.331213"
+    },
+    "trucking": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:35:50.381000"
+    },
+    "two-shot": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:35:56.430490"
+    },
+    "typography": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:36:02.481294"
+    },
+    "ultra-wide-zero-d": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:36:08.524414"
+    },
+    "underwater": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:36:14.571781"
+    },
+    "video-game": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:36:20.616518"
+    },
+    "video-portraits": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:36:26.652196"
+    },
+    "vignette": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:36:32.699348"
+    },
+    "vhs": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:36:38.743658"
+    },
+    "void": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:36:44.792400"
+    },
+    "voyeur": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:36:50.827281"
+    },
+    "wandering": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:36:56.866071"
+    },
+    "wierdcore": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:37:02.900170"
+    },
+    "whip-pan": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:37:08.943079"
+    },
+    "wide-shot": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:37:14.993525"
+    },
+    "wigglegram": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:37:21.035169"
+    },
+    "worms-eye": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:37:27.081708"
+    },
+    "x-ray": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:37:33.128755"
+    },
+    "zoetrope": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:37:39.167821"
+    },
+    "zoom-in": {
+      "videos_count": 0,
+      "status": "no_videos",
+      "timestamp": "2025-09-11T16:37:45.215186"
+    }
+  }
+}

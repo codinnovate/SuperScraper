@@ -1,6 +1,536 @@
 {
   "technique": "over-the-shoulder",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.653389",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250912_002133",
+    "total_videos": 24,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/14/tumblr_f12a842f1e19fd8d44854498f2b013dc_9449a71c_540/92a5308a10e3abc4daedb958133debf5.gif",
+      "alt_text": "Zodiac",
+      "discovered_at": "2025-09-12T00:20:11.136624",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/04/tumblr_e17e93bb5963841eed3772a8ebc75470_9d14b448_540/8b8a08a574222f74a923f211b2aa6846.gif",
+      "alt_text": "Everything Everywhere All at Once",
+      "discovered_at": "2025-09-12T00:20:18.629105",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725946726.webp",
+      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "discovered_at": "2025-09-12T00:20:22.791000",
+      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste (2024)",
+      "description": "In Sabrina Carpenter's music video for \"Taste,\" co-starring Jenna Ortega, the duo engage in a gory, darkly comedic rivalry over a two-timing boyfriend. Directed by Dave Meyers, the video features numerous campy horror and cult film references, including scenes inspired by Death Becomes Her and Kill Bill. Carpenter and Ortega repeatedly murder each other in elaborate ways, including stabbings, voodoo dolls, and falls from great heights, only to make up with a kiss. In collaboration with Jacobi Mehringer, Anna Arnell, and Lizzy Walker.",
+      "tags": [
+        "POOL",
+        "BLOOD",
+        "DEAD",
+        "MURDER",
+        "DROWN"
+      ],
+      "technique_tags": [
+        "Horror",
+        "Over the Shoulder"
+      ],
+      "director": "Emile Doucette",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli, ETHOS",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter Ft. Jenna Ortega - Taste (2024)\nIn Sabrina Carpenter's music video for \"Taste,\" co-starring Jenna Ortega, the duo engage in a gory, darkly comedic rivalry over a two-timing boyfriend. Directed by Dave Meyers, the video features numerous campy horror and cult film references, including scenes inspired by Death Becomes Her and Kill Bill. Carpenter and Ortega repeatedly murder each other in elaborate ways, including stabbings, voodoo dolls, and falls from great heights, only to make up with a kiss. In collaboration with Jacobi Mehringer, Anna Arnell, and Lizzy Walker.\nTechnique - Horror , Over the Shoulder\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Emile Doucette\nColorist - Dante Pasquinelli, ETHOS\nOriginal Source - Link\nPOOL\nBLOOD\nDEAD\nMURDER\nDROWN",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715293278.webp",
+      "alt_text": "Inter Alia (Short Film)",
+      "discovered_at": "2025-09-12T00:20:26.433623",
+      "title": "Inter Alia (Short Film) (2023)",
+      "description": "A musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?",
+      "tags": [
+        "WOMAN",
+        "NIGHT",
+        "INTERIOR",
+        "ROOM"
+      ],
+      "technique_tags": [
+        "Over the Shoulder",
+        "Shallow Focus"
+      ],
+      "director": "Daniel Lawrence Wilson",
+      "dop": "Michael Fenton",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Inter Alia (Short Film) (2023)\nA musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?\nTechnique - Over the Shoulder , Shallow Focus\nDirector - Daniel Lawrence Wilson\nDOP - Michael Fenton\nOriginal Source - Link\nWOMAN\nNIGHT\nINTERIOR\nROOM",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705385969.webp",
+      "alt_text": "Moonlight",
+      "discovered_at": "2025-09-12T00:20:30.061756",
+      "title": "Moonlight (2016)",
+      "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera.",
+      "tags": [
+        "RESTAURANT",
+        "NIGHT",
+        "BACK OF HEAD",
+        "INTERIOR",
+        "ANGENIEUX",
+        "HAWK V-LITE",
+        "ARRI ALEXA XT"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Over the Shoulder",
+        "Shallow Focus"
+      ],
+      "director": "Joi McMillon, Nat Sanders",
+      "dop": "James Laxton",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Moonlight (2016)\nA young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera.\nTechnique - 1980s , Over the Shoulder , Shallow Focus\nDirector - Barry Jenkins\nDOP - James Laxton\nEditor - Joi McMillon, Nat Sanders\nColorist - Alex Bickel\nRESTAURANT\nNIGHT\nBACK OF HEAD\nINTERIOR\nANGENIEUX\nHAWK V-LITE\nARRI ALEXA XT",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102682.webp",
+      "alt_text": "Watchtower of Turkey",
+      "discovered_at": "2025-09-12T00:20:33.669863",
+      "title": "Watchtower of Turkey (2014)",
+      "description": "Described as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "BUILDING",
+        "OLD MAN"
+      ],
+      "technique_tags": [
+        "Match Cut",
+        "Over the Shoulder"
+      ],
+      "director": "Leonardo Dalessandri",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Watchtower of Turkey (2014)\nDescribed as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.\nTechnique - Match Cut , Over the Shoulder\nDirector - Leonardo Dalessandri\nOriginal Source - Link\nDAY\nEXTERIOR\nBUILDING\nOLD MAN",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711004119.webp",
+      "alt_text": "Asics - Making Weight",
+      "discovered_at": "2025-09-12T00:20:37.289386",
+      "title": "Asics - Making Weight (2023)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "COACH",
+        "INTERIOR",
+        "WEIGHT",
+        "SCALE"
+      ],
+      "technique_tags": [
+        "Over the Shoulder",
+        "Shallow Focus"
+      ],
+      "director": "Brian Chambers",
+      "dop": "Gabriel Crawford Connelly",
+      "colorist": "Sam Gilling",
+      "original_source": "",
+      "additional_info": "Asics - Making Weight (2023)\nA short wrestling film\nTechnique - Over the Shoulder , Shallow Focus\nDirector - James Dayton\nDOP - Gabriel Crawford Connelly\nEditor - Brian Chambers\nColorist - Sam Gilling\nOriginal Source - Link\nMALE\nCOACH\nINTERIOR\nWEIGHT\nSCALE",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706482806.webp",
+      "alt_text": "Downsizing",
+      "discovered_at": "2025-09-12T00:20:40.413793",
+      "title": "Downsizing (2017)",
+      "description": "A social satire in which a man realizes he would have a better life if he were to shrink himself to five inches tall, allowing him to live in wealth and splendor.",
+      "tags": [
+        "MATT DAMON",
+        "JASON SUDEIKIS"
+      ],
+      "technique_tags": [
+        "Miniature",
+        "Over the Shoulder",
+        "Scale Shift"
+      ],
+      "director": "Kevin Tent",
+      "dop": "Phedon Papamichael",
+      "colorist": "Skip Kimball",
+      "original_source": "",
+      "additional_info": "Downsizing (2017)\nA social satire in which a man realizes he would have a better life if he were to shrink himself to five inches tall, allowing him to live in wealth and splendor.\nTechnique - Miniature , Over the Shoulder , Scale Shift\nDirector - Alexander Payne\nDOP - Phedon Papamichael\nEditor - Kevin Tent\nColorist - Skip Kimball\nMATT DAMON\nJASON SUDEIKIS",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710311721.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T00:20:43.533166",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Season 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "MALE",
+        "RESTAURANT",
+        "EATING",
+        "LAMP",
+        "DINING",
+        "TABLE",
+        "DESSERT",
+        "CAKE",
+        "SCENE SYMMETRY",
+        "FORK"
+      ],
+      "technique_tags": [
+        "Central Framing",
+        "Dolly",
+        "Over the Shoulder",
+        "Technocrane"
+      ],
+      "director": "Nick Allix",
+      "dop": "Callan Green",
+      "colorist": "Matthieu Toullet",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Central Framing , Dolly , Over the Shoulder , Technocrane\nDirector - Eran Creevy\nDOP - Callan Green\nEditor - Nick Allix\nColorist - Matthieu Toullet\nMALE\nRESTAURANT\nEATING\nLAMP\nDINING\nTABLE\nDESSERT\nCAKE\nSCENE SYMMETRY\nFORK",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716271569.webp",
+      "alt_text": "Dune: Part Two",
+      "discovered_at": "2025-09-12T00:20:47.185039",
+      "title": "Dune: Part Two (2024)",
+      "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+      "tags": [],
+      "technique_tags": [
+        "Over the Shoulder"
+      ],
+      "director": "Joe Walker",
+      "dop": "Greig Fraser",
+      "colorist": "Dave Cole",
+      "original_source": "",
+      "additional_info": "Dune: Part Two (2024)\nPaul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.\nTechnique - Over the Shoulder\nDirector - Denis Villeneuve\nDOP - Greig Fraser\nEditor - Joe Walker\nColorist - Dave Cole",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707687620.webp",
+      "alt_text": "Eternal Sunshine of the Spotless Mind",
+      "discovered_at": "2025-09-12T00:20:50.319716",
+      "title": "Eternal Sunshine of the Spotless Mind (2004)",
+      "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "LIBRARY",
+        "BOOKSHELF"
+      ],
+      "technique_tags": [
+        "Over the Shoulder",
+        "Voyeur"
+      ],
+      "director": "Valdís Óskarsdóttir",
+      "dop": "Ellen Kuras",
+      "colorist": "Kenny Becker",
+      "original_source": "",
+      "additional_info": "Eternal Sunshine of the Spotless Mind (2004)\nWhen their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.\nTechnique - Over the Shoulder , Voyeur\nDirector - Michel Gondry\nDOP - Ellen Kuras\nEditor - Valdís Óskarsdóttir\nColorist - Kenny Becker\nDAY\nINTERIOR\nLIBRARY\nBOOKSHELF",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705386163.webp",
+      "alt_text": "Moonlight",
+      "discovered_at": "2025-09-12T00:20:53.438795",
+      "title": "Moonlight (2016)",
+      "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera.",
+      "tags": [
+        "RESTAURANT",
+        "NIGHT",
+        "BACK OF HEAD",
+        "INTERIOR",
+        "ANGENIEUX",
+        "HAWK V-LITE",
+        "ARRI ALEXA XT"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Over the Shoulder",
+        "Shallow Focus"
+      ],
+      "director": "Joi McMillon, Nat Sanders",
+      "dop": "James Laxton",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Moonlight (2016)\nA young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera.\nTechnique - 1980s , Over the Shoulder , Shallow Focus\nDirector - Barry Jenkins\nDOP - James Laxton\nEditor - Joi McMillon, Nat Sanders\nColorist - Alex Bickel\nRESTAURANT\nNIGHT\nBACK OF HEAD\nINTERIOR\nANGENIEUX\nHAWK V-LITE\nARRI ALEXA XT",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708508484.webp",
+      "alt_text": "Talk To Me",
+      "discovered_at": "2025-09-12T00:20:57.087860",
+      "title": "Talk To Me (2023)",
+      "description": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+      "tags": [
+        "INTERIOR",
+        "PHONE"
+      ],
+      "technique_tags": [
+        "Over the Shoulder",
+        "Screen in Screen",
+        "Shallow Focus"
+      ],
+      "director": "Geoff Lamb",
+      "dop": "Aaron McLisky",
+      "colorist": "Marty Pepper",
+      "original_source": "",
+      "additional_info": "Talk To Me (2023)\nWhen a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.\nTechnique - Over the Shoulder , Screen in Screen , Shallow Focus\nDirector - Danny Philippou, Michael Philippou\nDOP - Aaron McLisky\nEditor - Geoff Lamb\nColorist - Marty Pepper\nINTERIOR\nPHONE",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710453726.webp",
+      "alt_text": "Air Jordan - Rookie Card (Short Film)",
+      "discovered_at": "2025-09-12T00:21:00.705564",
+      "title": "Air Jordan - Rookie Card (Short Film) (2024)",
+      "description": "An homage to the greatest to ever play the game and the card that started it all.",
+      "tags": [
+        "MALE",
+        "SMILE",
+        "SHOP",
+        "HAPPY"
+      ],
+      "technique_tags": [
+        "Happiness",
+        "Over the Shoulder"
+      ],
+      "director": "Masood Ahmed",
+      "dop": "Geoffrey Taylor",
+      "colorist": "Spyros Katsihtis",
+      "original_source": "",
+      "additional_info": "Air Jordan - Rookie Card (Short Film) (2024)\nAn homage to the greatest to ever play the game and the card that started it all.\nTechnique - Happiness , Over the Shoulder\nDirector - Masood Ahmed\nDOP - Geoffrey Taylor\nEditor - Masood Ahmed\nColorist - Spyros Katsihtis\nOriginal Source - Link\nMALE\nSMILE\nSHOP\nHAPPY",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710023995.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T00:21:03.811024",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "MALE",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Over the Shoulder"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Over the Shoulder\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nMALE\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710023963.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T00:21:06.930330",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "WOMAN",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Over the Shoulder"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Over the Shoulder\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nWOMAN\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706174533.webp",
+      "alt_text": "Snowpiercer",
+      "discovered_at": "2025-09-12T00:21:10.044532",
+      "title": "Snowpiercer (2013)",
+      "description": "In a future where a failed climate change experiment has killed all life except for the survivors who boarded the Snowpiercer (a train that travels around the globe), a new class system emerges.",
+      "tags": [
+        "MAP"
+      ],
+      "technique_tags": [
+        "Over the Shoulder"
+      ],
+      "director": "Kim Chang-ju, Steve M. Choe",
+      "dop": "Hong Kyung-pyo",
+      "colorist": "Kevin Kang, Yvan Lucas",
+      "original_source": "",
+      "additional_info": "Snowpiercer (2013)\nIn a future where a failed climate change experiment has killed all life except for the survivors who boarded the Snowpiercer (a train that travels around the globe), a new class system emerges.\nTechnique - Over the Shoulder\nDirector - Bong Joon Ho\nDOP - Hong Kyung-pyo\nEditor - Kim Chang-ju, Steve M. Choe\nColorist - Kevin Kang, Yvan Lucas\nMAP",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710453654.webp",
+      "alt_text": "Air Jordan - Rookie Card (Short Film)",
+      "discovered_at": "2025-09-12T00:21:13.689567",
+      "title": "Air Jordan - Rookie Card (Short Film) (2024)",
+      "description": "An homage to the greatest to ever play the game and the card that started it all.",
+      "tags": [
+        "MALE",
+        "NIKE",
+        "INTERIOR",
+        "SHOES"
+      ],
+      "technique_tags": [
+        "Over the Shoulder",
+        "Product",
+        "Product: Shoes"
+      ],
+      "director": "Masood Ahmed",
+      "dop": "Geoffrey Taylor",
+      "colorist": "Spyros Katsihtis",
+      "original_source": "",
+      "additional_info": "Air Jordan - Rookie Card (Short Film) (2024)\nAn homage to the greatest to ever play the game and the card that started it all.\nTechnique - Over the Shoulder , Product , Product: Shoes\nDirector - Masood Ahmed\nDOP - Geoffrey Taylor\nEditor - Masood Ahmed\nColorist - Spyros Katsihtis\nOriginal Source - Link\nMALE\nNIKE\nINTERIOR\nSHOES",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710453770.webp",
+      "alt_text": "Air Jordan - Rookie Card (Short Film)",
+      "discovered_at": "2025-09-12T00:21:16.796566",
+      "title": "Air Jordan - Rookie Card (Short Film) (2024)",
+      "description": "An homage to the greatest to ever play the game and the card that started it all.",
+      "tags": [
+        "MALE",
+        "STORE"
+      ],
+      "technique_tags": [
+        "Confusion",
+        "Over the Shoulder"
+      ],
+      "director": "Masood Ahmed",
+      "dop": "Geoffrey Taylor",
+      "colorist": "Spyros Katsihtis",
+      "original_source": "",
+      "additional_info": "Air Jordan - Rookie Card (Short Film) (2024)\nAn homage to the greatest to ever play the game and the card that started it all.\nTechnique - Confusion , Over the Shoulder\nDirector - Masood Ahmed\nDOP - Geoffrey Taylor\nEditor - Masood Ahmed\nColorist - Spyros Katsihtis\nOriginal Source - Link\nMALE\nSTORE",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710032234.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T00:21:19.910806",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "DAY",
+        "CAR",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Over the Shoulder"
+      ],
+      "director": "David Webb",
+      "dop": "Bjorn Charpentier, Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Over the Shoulder\nDirector - Guy Ritchie, Nima Nourizadeh\nDOP - Bjorn Charpentier, Ed Wild\nEditor - David Webb\nDAY\nCAR\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710332395.webp",
+      "alt_text": "Our England",
+      "discovered_at": "2025-09-12T00:21:23.540867",
+      "title": "Our England (2022)",
+      "description": "",
+      "tags": [
+        "BLUE",
+        "INTERIOR",
+        "GIRL",
+        "BEDROOM",
+        "ATHLETE",
+        "KID"
+      ],
+      "technique_tags": [
+        "Over the Shoulder"
+      ],
+      "director": "India Harris",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Our England (2022)\nEngland's women's football team, the Lionesses, aims for glory in the UEFA Women’s Euro 2022, and they've recruited a director and illustrator to make it a sticker-filled trip down nostalgia lane. Because, you know, we all fondly remember those panini stickers from our youth.\nTechnique - Over the Shoulder\nDirector - India Harris\nOriginal Source - Link\nBLUE\nINTERIOR\nGIRL\nBEDROOM\nATHLETE\nKID",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709635461.webp",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "discovered_at": "2025-09-12T00:21:27.190144",
+      "title": "Cowboy Bepop (TV Series) (2021)",
+      "description": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.",
+      "tags": [],
+      "technique_tags": [
+        "Over the Shoulder"
+      ],
+      "director": "Bridget Durnford, Elliot Greenberg",
+      "dop": "Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn",
+      "colorist": "Bill Ferwerda, Company 3",
+      "original_source": "",
+      "additional_info": "Cowboy Bepop (TV Series) (2021)\nA ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.\nTechnique - Over the Shoulder\nDirector - Alex Garcia Lopez, Michael Katleman\nDOP - Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn\nEditor - Bridget Durnford, Elliot Greenberg\nColorist - Bill Ferwerda, Company 3\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710025389.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T00:21:30.322927",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "CAR",
+        "INTERIOR",
+        "TWO SHOT"
+      ],
+      "technique_tags": [
+        "Over the Shoulder"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Over the Shoulder\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nCAR\nINTERIOR\nTWO SHOT",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707687585.webp",
+      "alt_text": "Eternal Sunshine of the Spotless Mind",
+      "discovered_at": "2025-09-12T00:21:33.464256",
+      "title": "Eternal Sunshine of the Spotless Mind (2004)",
+      "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "LIBRARY",
+        "BOOKSHELF"
+      ],
+      "technique_tags": [
+        "Over the Shoulder",
+        "Voyeur"
+      ],
+      "director": "Valdís Óskarsdóttir",
+      "dop": "Ellen Kuras",
+      "colorist": "Kenny Becker",
+      "original_source": "",
+      "additional_info": "Eternal Sunshine of the Spotless Mind (2004)\nWhen their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.\nTechnique - Over the Shoulder , Voyeur\nDirector - Michel Gondry\nDOP - Ellen Kuras\nEditor - Valdís Óskarsdóttir\nColorist - Kenny Becker\nDAY\nINTERIOR\nLIBRARY\nBOOKSHELF",
+      "page_url": "https://eyecannndy.com/technique/over-the-shoulder"
+    }
+  ]
 }

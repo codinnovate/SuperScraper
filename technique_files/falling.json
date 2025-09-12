@@ -1,1757 +1,1700 @@
 {
   "technique": "falling",
-  "video_count": 90,
-  "generated_at": "2025-09-05T04:03:29.635642",
+  "scrape_info": {
+    "timestamp": "20250911_134224",
+    "total_videos": 70,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711247140.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.621507",
-      "element_tag": "img",
-      "title": "Audrey Nuna - Cellulite",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Audrey Nuna - Cellulite",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480185.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.621623",
-      "element_tag": "img",
-      "title": "Mula B - Blokke Gepikt",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Mula B - Blokke Gepikt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709976657.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.621692",
-      "element_tag": "img",
-      "title": "eLaLiga Santander - What Can't Can Be",
-      "description": "",
-      "category": "falling",
-      "alt_text": "eLaLiga Santander - What Can't Can Be",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706084251.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.621757",
-      "element_tag": "img",
-      "title": "2001: A Space Odyssey",
-      "description": "",
-      "category": "falling",
-      "alt_text": "2001: A Space Odyssey",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705385660.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.621816",
-      "element_tag": "img",
-      "title": "Vertigo",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Vertigo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480546.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.621873",
-      "element_tag": "img",
-      "title": "Mula B - Blokke Gepikt",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Mula B - Blokke Gepikt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975989.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.621930",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "falling",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707974471.webp",
       "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:38:02.641060",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709971041.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.621989",
-      "element_tag": "img",
-      "title": "Nike - Rise of the kids",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Nike - Rise of the kids",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "WOMAN",
+        "SPACE",
+        "BEDROOM",
+        "DRUGS",
+        "FALLING",
+        "TRIP"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Falling",
+        "Rotoscope"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Altered state , Drug trip , Falling , Rotoscope\nDirector - Daniel Stessen\nWOMAN\nSPACE\nBEDROOM\nDRUGS\nFALLING\nTRIP",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708473346.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622043",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "falling",
       "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:38:06.804854",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703996972.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622099",
-      "element_tag": "img",
-      "title": "Metro Boomin & Future - Superhero (Heroes & Villains)",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710751474.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622155",
-      "element_tag": "img",
-      "title": "Sylo - Fall Into Me",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Sylo - Fall Into Me",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708243597.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622210",
-      "element_tag": "img",
-      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "description": "",
-      "category": "falling",
-      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705106843.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622267",
-      "element_tag": "img",
-      "title": "Get Out",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Get Out",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708243705.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622323",
-      "element_tag": "img",
-      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "description": "",
-      "category": "falling",
-      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705105894.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622465",
-      "element_tag": "img",
-      "title": "Get Out",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Get Out",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480357.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622554",
-      "element_tag": "img",
-      "title": "Mula B - Blokke Gepikt",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Mula B - Blokke Gepikt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129193.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622624",
-      "element_tag": "img",
-      "title": "TID Exploring Time 005 by Builders Club",
-      "description": "",
-      "category": "falling",
-      "alt_text": "TID Exploring Time 005 by Builders Club",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706404986.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622689",
-      "element_tag": "img",
-      "title": "Old Spice - Questions",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Old Spice - Questions",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703285172.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622750",
-      "element_tag": "img",
-      "title": "Limitless (opening titles)",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Limitless (opening titles)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474401.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622809",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711247140.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622868",
-      "element_tag": "img",
-      "title": "Audrey Nuna - Cellulite",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Audrey Nuna - Cellulite",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480185.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622925",
-      "element_tag": "img",
-      "title": "Mula B - Blokke Gepikt",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Mula B - Blokke Gepikt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709976657.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.622979",
-      "element_tag": "img",
-      "title": "eLaLiga Santander - What Can't Can Be",
-      "description": "",
-      "category": "falling",
-      "alt_text": "eLaLiga Santander - What Can't Can Be",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706084251.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623034",
-      "element_tag": "img",
-      "title": "2001: A Space Odyssey",
-      "description": "",
-      "category": "falling",
-      "alt_text": "2001: A Space Odyssey",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705385660.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623091",
-      "element_tag": "img",
-      "title": "Vertigo",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Vertigo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480546.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623144",
-      "element_tag": "img",
-      "title": "Mula B - Blokke Gepikt",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Mula B - Blokke Gepikt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975989.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623196",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709971041.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623247",
-      "element_tag": "img",
-      "title": "Nike - Rise of the kids",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Nike - Rise of the kids",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708473346.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623298",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703996972.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623350",
-      "element_tag": "img",
-      "title": "Metro Boomin & Future - Superhero (Heroes & Villains)",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710751474.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623402",
-      "element_tag": "img",
-      "title": "Sylo - Fall Into Me",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Sylo - Fall Into Me",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708243597.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623454",
-      "element_tag": "img",
-      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "description": "",
-      "category": "falling",
-      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705106843.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623506",
-      "element_tag": "img",
-      "title": "Get Out",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Get Out",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708243705.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623558",
-      "element_tag": "img",
-      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "description": "",
-      "category": "falling",
-      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705105894.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623612",
-      "element_tag": "img",
-      "title": "Get Out",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Get Out",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480357.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623663",
-      "element_tag": "img",
-      "title": "Mula B - Blokke Gepikt",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Mula B - Blokke Gepikt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129193.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623715",
-      "element_tag": "img",
-      "title": "TID Exploring Time 005 by Builders Club",
-      "description": "",
-      "category": "falling",
-      "alt_text": "TID Exploring Time 005 by Builders Club",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706404986.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623767",
-      "element_tag": "img",
-      "title": "Old Spice - Questions",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Old Spice - Questions",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703285172.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623819",
-      "element_tag": "img",
-      "title": "Limitless (opening titles)",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Limitless (opening titles)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474401.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623871",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975162.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623926",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703732964.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.623982",
-      "element_tag": "img",
-      "title": "Jennifer's Body",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Jennifer's Body",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480150.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624040",
-      "element_tag": "img",
-      "title": "Mula B - Blokke Gepikt",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Mula B - Blokke Gepikt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708473248.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624092",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "SKY",
+        "STUDIO",
+        "EXTERIOR",
+        "GREEN SCREEN",
+        "FALLING",
+        "LIL NAS X"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "Falling",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , Falling , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nDAY\nSKY\nSTUDIO\nEXTERIOR\nGREEN SCREEN\nFALLING\nLIL NAS X",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480271.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624144",
-      "element_tag": "img",
-      "title": "Mula B - Blokke Gepikt",
-      "description": "",
-      "category": "falling",
       "alt_text": "Mula B - Blokke Gepikt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:38:11.484096",
+      "title": "Mula B - Blokke Gepikt (2024)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DUSK",
+        "SUNSET",
+        "FIRE",
+        "JUMP",
+        "FALLING",
+        "SKIING",
+        "SKIIER",
+        "MOON"
+      ],
+      "technique_tags": [
+        "Extreme Wide",
+        "Falling",
+        "Slow Motion",
+        "Ultra Slow Motion"
+      ],
+      "director": "Folkert Verdoorn",
+      "dop": "Douwe Hennink",
+      "colorist": "De Grot",
+      "original_source": "",
+      "additional_info": "Mula B - Blokke Gepikt (2024)\n2024 music video for Mula B from director Folkert Verdoorn. Fire, snow, and a thrilling escape dance.\nTechnique - Extreme Wide , Falling , Slow Motion , Ultra Slow Motion\nDirector - Folkert Verdoorn\nDOP - Douwe Hennink\nColorist - De Grot\nOriginal Source - Link\nDUSK\nSUNSET\nFIRE\nJUMP\nFALLING\nSKIING\nSKIIER\nMOON",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705115863.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624195",
-      "element_tag": "img",
-      "title": "Adidas - Hello Tomorrow",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Adidas - Hello Tomorrow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705105894.webp",
+      "alt_text": "Get Out",
+      "discovered_at": "2025-09-11T13:38:15.701186",
+      "title": "Get Out (2017)",
+      "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708243449.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624245",
-      "element_tag": "img",
-      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "description": "",
-      "category": "falling",
-      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704830144.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624297",
-      "element_tag": "img",
-      "title": "DJ Pone (ft. Blasé) - All I Want",
-      "description": "",
-      "category": "falling",
-      "alt_text": "DJ Pone (ft. Blasé) - All I Want",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739191742.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624348",
-      "element_tag": "img",
-      "title": "Static - Federer",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Static - Federer",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710315282.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624399",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "falling",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812472.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624450",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123377.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624501",
-      "element_tag": "img",
-      "title": "Canon - Live for the Story",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Canon - Live for the Story",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707976843.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624552",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707976022.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624601",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DARK",
+        "JORDAN PEELE",
+        "VOID",
+        "SUNKEN PLACE",
+        "GET OUT"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Void"
+      ],
+      "director": "Gregory Plotkin",
+      "dop": "Toby Oliver",
+      "colorist": "Aidan Stanford",
+      "original_source": "",
+      "additional_info": "Get Out (2017)\nA young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.\nTechnique - Falling , Void\nDirector - Jordan Peele\nDOP - Toby Oliver\nEditor - Gregory Plotkin\nColorist - Aidan Stanford\nDARK\nJORDAN PEELE\nVOID\nSUNKEN PLACE\nGET OUT",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707404406.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624652",
-      "element_tag": "img",
-      "title": "Her Morning Elegance",
-      "description": "",
-      "category": "falling",
       "alt_text": "Her Morning Elegance",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:38:21.948919",
+      "title": "Her Morning Elegance (2009)",
+      "description": "A collaborative stop motion film by musician Oren Lavie and Israeli photographer Eyal Landesman. The only stop-motion video to ever earn a grammy nomination, this whimsical video accompanies the song of same name by Lavie. The camera remains stationary while bedroom linens and clothing move across the mattress as personifications of the birds, trains, and fish she dreams of.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "WOMAN",
+        "INTERIOR",
+        "BEDROOM",
+        "OVERHEAD"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Overhead",
+        "Pixilation",
+        "Stop Motion"
+      ],
+      "director": "Oren Lavie, Yuval and Merav Nathan",
+      "dop": "Eyal Landsman",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Her Morning Elegance (2009)\nA collaborative stop motion film by musician Oren Lavie and Israeli photographer Eyal Landesman. The only stop-motion video to ever earn a grammy nomination, this whimsical video accompanies the song of same name by Lavie. The camera remains stationary while bedroom linens and clothing move across the mattress as personifications of the birds, trains, and fish she dreams of.\nTechnique - Falling , Overhead , Pixilation , Stop Motion\nDirector - Oren Lavie, Yuval and Merav Nathan\nDOP - Eyal Landsman\nOriginal Source - Link\nDAY\nWOMAN\nINTERIOR\nBEDROOM\nOVERHEAD",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480671.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624705",
-      "element_tag": "img",
-      "title": "Mula B - Blokke Gepikt",
-      "description": "",
-      "category": "falling",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480546.webp",
       "alt_text": "Mula B - Blokke Gepikt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:38:26.180958",
+      "title": "Mula B - Blokke Gepikt (2024)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DUSK",
+        "SKY",
+        "EXTERIOR",
+        "FIRE",
+        "FALLING",
+        "EVENING"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Slow Motion",
+        "Ultra Slow Motion"
+      ],
+      "director": "Folkert Verdoorn",
+      "dop": "Douwe Hennink",
+      "colorist": "De Grot",
+      "original_source": "",
+      "additional_info": "Mula B - Blokke Gepikt (2024)\n2024 music video for Mula B from director Folkert Verdoorn. Fire, snow, and a thrilling escape dance.\nTechnique - Falling , Slow Motion , Ultra Slow Motion\nDirector - Folkert Verdoorn\nDOP - Douwe Hennink\nColorist - De Grot\nOriginal Source - Link\nDUSK\nSKY\nEXTERIOR\nFIRE\nFALLING\nEVENING",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480759.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624766",
-      "element_tag": "img",
-      "title": "Mula B - Blokke Gepikt",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123377.webp",
+      "alt_text": "Canon - Live for the Story",
+      "discovered_at": "2025-09-11T13:38:29.854556",
+      "title": "Canon - Live for the Story (2017)",
       "description": "",
-      "category": "falling",
-      "alt_text": "Mula B - Blokke Gepikt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WATER",
+        "LIGHT",
+        "POOL",
+        "JUMP"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Slow Motion",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Joe Guest",
+      "dop": "Kasper Tuxen",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Canon - Live for the Story (2017)\nCreative Agency: VCCP ECD: Darren Bailes Creatives: Ben McCarthy / Seb Housden Account Handling: Emma Whitmarsh / Olivia Packshaw Agency Producer: Ed Mueller Director: Megaforce Film Production: Riff Raff Films Production Company Producer: Jane Lloyd Executive Producer: Matthew Fone Producer: Gemma Humphries Music Licensing: Finger Music Sound Mix: Ben Leeves @ Grand Central\nTechnique - Falling , Slow Motion , Spotlight , Void\nDirector - Megaforce\nDOP - Kasper Tuxen\nEditor - Joe Guest\nOriginal Source - Link\nWATER\nLIGHT\nPOOL\nJUMP",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975162.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T13:38:33.522157",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Vector"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Falling , Vector\nDirector - Daniel Stessen\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709534801.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624825",
-      "element_tag": "img",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:38:37.163617",
       "title": "Source unknown",
       "description": "",
-      "category": "falling",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "COLORFUL"
+      ],
+      "technique_tags": [
+        "Animation",
+        "Falling",
+        "Void"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Animation , Falling , Void\nCOLORFUL",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709534031.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624883",
-      "element_tag": "img",
-      "title": "Source unknown",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704830144.webp",
+      "alt_text": "DJ Pone (ft. Blasé) - All I Want",
+      "discovered_at": "2025-09-11T13:38:41.343811",
+      "title": "DJ Pone (ft. Blasé) - All I Want (2023)",
       "description": "",
-      "category": "falling",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "LOW ANGLE",
+        "WORMS-EYE",
+        "EXTERIOR",
+        "BUILDING"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Low Angle",
+        "Slow Motion"
+      ],
+      "director": "Benoît Marzouvanlian",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "DJ Pone (ft. Blasé) - All I Want (2023)\nDirector: Benoît Marzouvanlian Producer: Ludovic De Sousa Production: Mandibule & The Lab Editing: Benoît Marzouvanlian Prod Director: Theo Mariaggi Prod Assistant: Mathis Routier 1st Director Assistant: Ibrahim Doumbia 2nd Assistant Real: Maroussia Monino - Op Head: Bfao Marakouvanlian Electrical Chef: Tom Pezziardi Calibration: Florian Martiny Chef Machino: Ben Aka Rigman Deco Chief: Julie Jarrige Deco: Alice Morand Deco: Gaétan Raggi Paris Stunter: Djamel Benyahia Barcelona Stunter: Nabil Hadim Stunting Lining: Sergio Cavalier\nTechnique - Falling , Low Angle , Slow Motion\nDirector - Benoît Marzouvanlian\nOriginal Source - Link\nDAY\nLOW ANGLE\nWORMS-EYE\nEXTERIOR\nBUILDING",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705115863.webp",
+      "alt_text": "Adidas - Hello Tomorrow",
+      "discovered_at": "2025-09-11T13:38:45.009365",
+      "title": "Adidas - Hello Tomorrow (2004)",
+      "description": "The award-winning 2005 Adidas advertisement \"Hello Tomorrow,\" created by Spike Jonze for the adidas 1 sneakers.",
+      "tags": [
+        "RUNNING",
+        "ADIDAS",
+        "SPOTLIGHT",
+        "JUMP",
+        "LEAP"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Spotlight",
+        "Tracking",
+        "Void"
+      ],
+      "director": "Spike Jonze",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Adidas - Hello Tomorrow (2004)\nThe award-winning 2005 Adidas advertisement \"Hello Tomorrow,\" created by Spike Jonze for the adidas 1 sneakers.\nTechnique - Falling , Spotlight , Tracking , Void\nDirector - Spike Jonze\nOriginal Source - Link\nRUNNING\nADIDAS\nSPOTLIGHT\nJUMP\nLEAP",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703732964.webp",
+      "alt_text": "Jennifer's Body",
+      "discovered_at": "2025-09-11T13:38:48.650624",
+      "title": "Jennifer's Body (2009)",
+      "description": "A newly-possessed high-school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror? Shot breakdown: Overhead slow motion.",
+      "tags": [
+        "NIGHT",
+        "INTERIOR",
+        "DARK",
+        "COOL",
+        "35MM",
+        "SUPER 35",
+        "PANAVISION PRIMO PRIMES",
+        "3 PERF",
+        "PHANTOM HD GOLD",
+        "PANAVISION GOLD / G2"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Overhead",
+        "Slow Motion"
+      ],
+      "director": "Plummy Tucker",
+      "dop": "M. David Mullen",
+      "colorist": "Mitch Paulson",
+      "original_source": "",
+      "additional_info": "Jennifer's Body (2009)\nA newly-possessed high-school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror? Shot breakdown: Overhead slow motion.\nTechnique - Falling , Overhead , Slow Motion\nDirector - Karyn Kusama\nDOP - M. David Mullen\nEditor - Plummy Tucker\nColorist - Mitch Paulson\nOriginal Source - Link\nNIGHT\nINTERIOR\nDARK\nCOOL\n35MM\n1.85\nSUPER 35\nPANAVISION PRIMO PRIMES\n3 PERF\nPHANTOM HD GOLD\nPANAVISION MILLENNIUM / MILLENIUM XL / XL2\nPANAVISION GOLD / G2",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708243705.webp",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "discovered_at": "2025-09-11T13:38:52.321535",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)",
+      "description": "2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.",
+      "tags": [
+        "DAY",
+        "MALE",
+        "EXTERIOR",
+        "TRIP",
+        "DRUG"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Falling",
+        "Overhead",
+        "Single shot"
+      ],
+      "director": "Logan Fields, Yussef Haridy",
+      "dop": "Zayd Ezzeldine",
+      "colorist": "Dylan Hageman",
+      "original_source": "",
+      "additional_info": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)\n2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.\nTechnique - Altered state , Drug trip , Falling , Overhead , Single shot\nDirector - Logan Fields, Yussef Haridy\nDOP - Zayd Ezzeldine\nColorist - Dylan Hageman\nOriginal Source - Link\nDAY\nMALE\nEXTERIOR\nTRIP\nDRUG",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705129193.webp",
+      "alt_text": "TID Exploring Time 005 by Builders Club",
+      "discovered_at": "2025-09-11T13:38:55.960358",
+      "title": "TID Exploring Time 005 by Builders Club (2017)",
+      "description": "",
+      "tags": [
+        "COLORFUL",
+        "APPLE",
+        "FRUIT",
+        "SATURATED",
+        "SATURATION",
+        "BANANA"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Slow Motion"
+      ],
+      "director": "Jonas & Julien",
+      "dop": "Tom Elliott",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "TID Exploring Time 005 by Builders Club (2017)\n'It's an observation of a moment in time and what happens to our mind when we let go and start drifting away. Something ordinary suddenly becomes the impulse for our imagination and we find ourselves wondering where reality ends and imagination starts. Only to wake up realising that it was only relativity playing with us.' Director: Jonas & Julien Production: Builders Club Producer/Editor: Jonas Hegi VFX: Builders Club Prod Coord.: Ester Viana Art Direction: Viviana Fagnani DOP: Tom Elliott AC: Marit de Bruijne Phantom OP: Joe Werry Styling: Coline Bach Hair & Makeup: Lucinda Worth\nTechnique - Falling , Slow Motion\nDirector - Jonas & Julien\nDOP - Tom Elliott\nOriginal Source - Link\nCOLORFUL\nAPPLE\nFRUIT\nSATURATED\nSATURATION\nBANANA",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710315282.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T13:38:59.585200",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Season 1. Episode 6. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. In this episode, Eddie's doubts about Susie continue to grow. But there's 15 million pounds of dirty money to be laundered before she'll consider leaving the estate. Created by Guy Ritchie.",
+      "tags": [
+        "MALE",
+        "FIGHT",
+        "SUNGLASSES",
+        "KNOCKED OUT"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Matt Platts-Mills",
+      "dop": "Callan Green",
+      "colorist": "Matthieu Toullet",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 6. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. In this episode, Eddie's doubts about Susie continue to grow. But there's 15 million pounds of dirty money to be laundered before she'll consider leaving the estate. Created by Guy Ritchie.\nTechnique - Falling , Snorricam , Snorricam > on front\nDirector - Eran Creevy\nDOP - Callan Green\nEditor - Matt Platts-Mills\nColorist - Matthieu Toullet\nMALE\nFIGHT\nSUNGLASSES\nKNOCKED OUT",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706404986.webp",
+      "alt_text": "Old Spice - Questions",
+      "discovered_at": "2025-09-11T13:39:03.206480",
+      "title": "Old Spice - Questions (2010)",
+      "description": "\"Old Spice: The Man Your Man Could Smell Like\" is a famous and humorous marketing campaign by the Old Spice brand, featuring Isaiah Mustafa delivering a confident monologue while showcasing the benefits of their products, with the iconic catchphrase \"I'm on a horse.\" Created by agency Wieden+Kennedy, Portland.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "JUMP",
+        "WATERFALL",
+        "HOT TUB"
+      ],
+      "technique_tags": [
+        "Falling"
+      ],
+      "director": "Rock Paper Scissors",
+      "dop": "Neil Shapiro",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Old Spice - Questions (2010)\n\"Old Spice: The Man Your Man Could Smell Like\" is a famous and humorous marketing campaign by the Old Spice brand, featuring Isaiah Mustafa delivering a confident monologue while showcasing the benefits of their products, with the iconic catchphrase \"I'm on a horse.\" Created by agency Wieden+Kennedy, Portland.\nTechnique - Falling\nDirector - Tom Kuntz\nDOP - Neil Shapiro\nEditor - Rock Paper Scissors\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nJUMP\nWATERFALL\nHOT TUB",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474401.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T13:39:06.864297",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "GREEN SCREEN",
+        "PARACHUTE"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Falling , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nGREEN SCREEN\nPARACHUTE",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480759.webp",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "discovered_at": "2025-09-11T13:39:10.516272",
+      "title": "Mula B - Blokke Gepikt (2024)",
+      "description": "",
+      "tags": [
+        "SLOW MOTION",
+        "FACE",
+        "FIRE",
+        "EYE"
+      ],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Falling"
+      ],
+      "director": "Folkert Verdoorn",
+      "dop": "Douwe Hennink",
+      "colorist": "De Grot",
+      "original_source": "",
+      "additional_info": "Mula B - Blokke Gepikt (2024)\n2024 music video for Mula B from director Folkert Verdoorn. Fire, snow, and a thrilling escape dance.\nTechnique - Extreme Close-Up , Falling\nDirector - Folkert Verdoorn\nDOP - Douwe Hennink\nColorist - De Grot\nOriginal Source - Link\nSLOW MOTION\nFACE\nFIRE\nEYE",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480150.webp",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "discovered_at": "2025-09-11T13:39:14.157290",
+      "title": "Mula B - Blokke Gepikt (2024)",
+      "description": "",
+      "tags": [
+        "JUMP",
+        "FALLING",
+        "SKIING",
+        "SKIIER",
+        "MOON"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Silhouette",
+        "Slow Motion",
+        "Ultra Slow Motion"
+      ],
+      "director": "Folkert Verdoorn",
+      "dop": "Douwe Hennink",
+      "colorist": "De Grot",
+      "original_source": "",
+      "additional_info": "Mula B - Blokke Gepikt (2024)\n2024 music video for Mula B from director Folkert Verdoorn. Fire, snow, and a thrilling escape dance.\nTechnique - Falling , Silhouette , Slow Motion , Ultra Slow Motion\nDirector - Folkert Verdoorn\nDOP - Douwe Hennink\nColorist - De Grot\nOriginal Source - Link\nJUMP\nFALLING\nSKIING\nSKIIER\nMOON",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480357.webp",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "discovered_at": "2025-09-11T13:39:17.793648",
+      "title": "Mula B - Blokke Gepikt (2024)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "GIRL",
+        "FIRE",
+        "FALLING",
+        "DANCE",
+        "ROOM"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Slow Motion"
+      ],
+      "director": "Folkert Verdoorn",
+      "dop": "Douwe Hennink",
+      "colorist": "De Grot",
+      "original_source": "",
+      "additional_info": "Mula B - Blokke Gepikt (2024)\n2024 music video for Mula B from director Folkert Verdoorn. Fire, snow, and a thrilling escape dance.\nTechnique - Falling , Slow Motion\nDirector - Folkert Verdoorn\nDOP - Douwe Hennink\nColorist - De Grot\nOriginal Source - Link\nINTERIOR\nGIRL\nFIRE\nFALLING\nDANCE\nROOM",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708473248.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T13:39:21.424906",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "WINDOW",
+        "EXTERIOR",
+        "FALLING",
+        "PLANE",
+        "AIRPLANE",
+        "FLYING",
+        "JUMPING",
+        "LIL NAS X",
+        "STOCK FOOTAGE"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Falling , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nWINDOW\nEXTERIOR\nFALLING\nPLANE\nAIRPLANE\nFLYING\nJUMPING\nLIL NAS X\nSTOCK FOOTAGE",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708243449.webp",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "discovered_at": "2025-09-11T13:39:25.043934",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)",
+      "description": "2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.",
+      "tags": [
+        "DAY",
+        "MALE",
+        "EXTERIOR",
+        "FALLING"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Slow Motion"
+      ],
+      "director": "Logan Fields, Yussef Haridy",
+      "dop": "Zayd Ezzeldine",
+      "colorist": "Dylan Hageman",
+      "original_source": "",
+      "additional_info": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)\n2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.\nTechnique - Falling , Slow Motion\nDirector - Logan Fields, Yussef Haridy\nDOP - Zayd Ezzeldine\nColorist - Dylan Hageman\nOriginal Source - Link\nDAY\nMALE\nEXTERIOR\nFALLING",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703285172.webp",
+      "alt_text": "Limitless (opening titles)",
+      "discovered_at": "2025-09-11T13:39:28.661750",
+      "title": "Limitless (opening titles) (2011)",
+      "description": "A mysterious pill that enables the user to access 100% of his brain's abilities transforms a struggling writer into a financial wizard, but it also puts him in a new world with many dangers.",
+      "tags": [
+        "NIGHT",
+        "CITY",
+        "NEW YORK CITY"
+      ],
+      "technique_tags": [
+        "Falling",
+        "First-Person"
+      ],
+      "director": "Naomi Geraghty, Tracy Adams",
+      "dop": "Jo Willems",
+      "colorist": "David Orr, Michael Hatzer",
+      "original_source": "",
+      "additional_info": "Limitless (opening titles) (2011)\nA mysterious pill that enables the user to access 100% of his brain's abilities transforms a struggling writer into a financial wizard, but it also puts him in a new world with many dangers.\nTechnique - Falling , First-Person\nDirector - Neil Burger\nDOP - Jo Willems\nEditor - Naomi Geraghty, Tracy Adams\nColorist - David Orr, Michael Hatzer\nOriginal Source - Link\nNIGHT\nCITY\nNEW YORK CITY",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812472.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T13:39:32.294231",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "WATER",
+        "DRIVING",
+        "OCEAN",
+        "BLACK AND WHITE",
+        "LAKE",
+        "FALLING",
+        "BOAT",
+        "STEERING",
+        "ACCIDENT",
+        "SABRINA CARPENTER"
+      ],
+      "technique_tags": [
+        "Falling",
+        "FPV Drone",
+        "Towards camera",
+        "Tracking"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - Falling , FPV Drone , Towards camera , Tracking\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nWATER\nDRIVING\nOCEAN\nBLACK AND WHITE\nLAKE\nFALLING\nBOAT\nSTEERING\nACCIDENT\nSABRINA CARPENTER",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705100422.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624938",
-      "element_tag": "img",
-      "title": "A$AP Rocky - A$AP Forever",
-      "description": "",
-      "category": "falling",
       "alt_text": "A$AP Rocky - A$AP Forever",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:39:35.949645",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "RUNNING",
+        "EXTERIOR",
+        "A$AP ROCKY"
+      ],
+      "technique_tags": [
+        "Falling"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Falling\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nDAY\nRUNNING\nEXTERIOR\nA$AP ROCKY",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707974471.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.624991",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480671.webp",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "discovered_at": "2025-09-11T13:39:40.114662",
+      "title": "Mula B - Blokke Gepikt (2024)",
       "description": "",
-      "category": "falling",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DUSK",
+        "SKY",
+        "EXTERIOR",
+        "FIRE",
+        "FALLING",
+        "EVENING"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Low Angle",
+        "Silhouette",
+        "Ultra Slow Motion"
+      ],
+      "director": "Folkert Verdoorn",
+      "dop": "Douwe Hennink",
+      "colorist": "De Grot",
+      "original_source": "",
+      "additional_info": "Mula B - Blokke Gepikt (2024)\n2024 music video for Mula B from director Folkert Verdoorn. Fire, snow, and a thrilling escape dance.\nTechnique - Falling , Low Angle , Silhouette , Ultra Slow Motion\nDirector - Folkert Verdoorn\nDOP - Douwe Hennink\nColorist - De Grot\nOriginal Source - Link\nDUSK\nSKY\nEXTERIOR\nFIRE\nFALLING\nEVENING",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705385660.webp",
+      "alt_text": "Vertigo",
+      "discovered_at": "2025-09-11T13:39:43.757661",
+      "title": "Vertigo (1958)",
+      "description": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+      "tags": [
+        "1950S",
+        "SATURATED",
+        "SATURATION",
+        "FALLING",
+        "VISTA VISION"
+      ],
+      "technique_tags": [
+        "1950s",
+        "Altered state",
+        "Drug trip",
+        "Falling"
+      ],
+      "director": "George Tomasini",
+      "dop": "Robert Burks",
+      "colorist": "Richard Mueller",
+      "original_source": "",
+      "additional_info": "Vertigo (1958)\nA former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.\nTechnique - 1950s , Altered state , Drug trip , Falling\nDirector - Alfred Hitchcock\nDOP - Robert Burks\nEditor - George Tomasini\nColorist - Richard Mueller\nOriginal Source - Link\nTutorial - Link\n1950S\nSATURATED\nSATURATION\nFALLING\nVISTA VISION\n1958",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710751474.webp",
+      "alt_text": "Sylo - Fall Into Me",
+      "discovered_at": "2025-09-11T13:39:47.394446",
+      "title": "Sylo - Fall Into Me (2024)",
+      "description": "",
+      "tags": [
+        "CLOUDS",
+        "FALLING"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Stylistic Suck"
+      ],
+      "director": "Kevin Lien",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Sylo - Fall Into Me (2024)\nTechnique - Falling , Stylistic Suck\nDirector - Kevin Lien\nOriginal Source - Link\nCLOUDS\nFALLING",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739191742.webp",
+      "alt_text": "Static - Federer",
+      "discovered_at": "2025-09-11T13:39:51.038599",
+      "title": "Static - Federer (2025)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "CITY",
+        "TENNIS",
+        "FALLING",
+        "PLANE",
+        "BALLS"
+      ],
+      "technique_tags": [
+        "Diegetic Typography",
+        "Falling",
+        "Object POV",
+        "Typography"
+      ],
+      "director": "Din Perlis",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Static - Federer (2025)\nDirected, filmed, and edited by Din Perlis, with production led by Hatzub, the video has been highlighted for its exceptional visual storytelling. Directed, Filmed and Edited by @dinperlis Production House : @hatzub Head Producer : @hatzub Executive Producer : @orbarak10 Gaffer : @yanaimoradi 3D & VFX : @dyln.films Coloring : @dinperlis Sound Design : @kai.goodrem Talent Styling : @kimeliyahu Actors Styling : @sarah.elalouf Art Director : @sarah.elalouf PA : @kobefunt PA : @tzur_h BTS : @nnnnoya BTS : @edenush02 Makeup Artist : @makeup.by.roni_ Makeup Assistant : @maayan_ashkenazi_makeup Actors Makeup : @alinshabtay Actors : yardenlasry / @rotem.landesberg Hair Stylist : @oshri.shushan Extras : @sharonann_26 / @hila.atdgi / @sn0rka Artist Management : @gagamanagement Rep : @roms_studios\nTechnique - Diegetic Typography , Falling , Object POV , Typography\nDirector - Din Perlis\nOriginal Source - Link\nDAY\nEXTERIOR\nCITY\nTENNIS\nFALLING\nPLANE\nBALLS",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711247140.webp",
+      "alt_text": "Audrey Nuna - Cellulite",
+      "discovered_at": "2025-09-11T13:39:55.200303",
+      "title": "Audrey Nuna - Cellulite (2023)",
+      "description": "Audrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.",
+      "tags": [
+        "WOMAN",
+        "MUSIC VIDEO",
+        "SINGING",
+        "SKYSCRAPER"
+      ],
+      "technique_tags": [
+        "Falling"
+      ],
+      "director": "Zac Dov Wiesel",
+      "dop": "Gabe Knoos-Newton",
+      "colorist": "Brian Niles",
+      "original_source": "",
+      "additional_info": "Audrey Nuna - Cellulite (2023)\nAudrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.\nTechnique - Falling\nDirector - Zac Dov Wiesel\nDOP - Gabe Knoos-Newton\nColorist - Brian Niles\nOriginal Source - Link\nWOMAN\nMUSIC VIDEO\nSINGING\nSKYSCRAPER",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709976657.webp",
+      "alt_text": "eLaLiga Santander - What Can't Can Be",
+      "discovered_at": "2025-09-11T13:39:58.839107",
+      "title": "eLaLiga Santander - What Can't Can Be (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Animation",
+        "Falling"
+      ],
+      "director": "Keane Pearce Shaw",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "eLaLiga Santander - What Can't Can Be (2023)\nTechnique - Animation , Falling\nDirector - Keane Pearce Shaw",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705106843.webp",
+      "alt_text": "Get Out",
+      "discovered_at": "2025-09-11T13:40:02.472458",
+      "title": "Get Out (2017)",
+      "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+      "tags": [
+        "DARK",
+        "BLACK",
+        "JORDAN PEELE",
+        "VOID",
+        "SUNKEN PLACE",
+        "GET OUT",
+        "HYPNOSIS",
+        "HYPNOTIZE"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Horror",
+        "Void"
+      ],
+      "director": "Gregory Plotkin",
+      "dop": "Toby Oliver",
+      "colorist": "Aidan Stanford",
+      "original_source": "",
+      "additional_info": "Get Out (2017)\nA young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.\nTechnique - Falling , Horror , Void\nDirector - Jordan Peele\nDOP - Toby Oliver\nEditor - Gregory Plotkin\nColorist - Aidan Stanford\nDARK\nBLACK\nJORDAN PEELE\nVOID\nSUNKEN PLACE\nGET OUT\nHYPNOSIS\nHYPNOTIZE",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709534031.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:40:07.139778",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Falling"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Falling\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708243597.webp",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "discovered_at": "2025-09-11T13:40:10.776844",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)",
+      "description": "2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.",
+      "tags": [
+        "DAY",
+        "MALE",
+        "PROFILE",
+        "EXTERIOR",
+        "FALLING"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Falling",
+        "Profile",
+        "Single shot"
+      ],
+      "director": "Logan Fields, Yussef Haridy",
+      "dop": "Zayd Ezzeldine",
+      "colorist": "Dylan Hageman",
+      "original_source": "",
+      "additional_info": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)\n2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.\nTechnique - Altered state , Drug trip , Falling , Profile , Single shot\nDirector - Logan Fields, Yussef Haridy\nDOP - Zayd Ezzeldine\nColorist - Dylan Hageman\nOriginal Source - Link\nDAY\nMALE\nPROFILE\nEXTERIOR\nFALLING",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707976843.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T13:40:14.427093",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [],
+      "technique_tags": [
+        "Falling",
+        "Rotoscope"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Falling , Rotoscope\nDirector - Daniel Stessen",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703996972.webp",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "discovered_at": "2025-09-11T13:40:18.070513",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "description": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "tags": [
+        "SURREALIST",
+        "EXTERIOR",
+        "SILHOUETTE",
+        "FALLING"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Slow Motion"
+      ],
+      "director": "Kenny Shimm (Editor)",
+      "dop": "Chuk Town",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)\nTechnique - Falling , Slow Motion\nDirector - HIDJI WORLD\nDOP - Chuk Town\nEditor - Kenny Shimm (Editor)\nOriginal Source - Link\nSURREALIST\nEXTERIOR\nSILHOUETTE\nFALLING",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707976022.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T13:40:21.197954",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [
+        "BLUE",
+        "SKY",
+        "CLOUDS",
+        "FALLING",
+        "PLANE",
+        "AIR"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Rotoscope"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Falling , Rotoscope\nDirector - Daniel Stessen\nBLUE\nSKY\nCLOUDS\nFALLING\nPLANE\nAIR",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706084251.webp",
+      "alt_text": "2001: A Space Odyssey",
+      "discovered_at": "2025-09-11T13:40:24.839325",
+      "title": "2001: A Space Odyssey (1968)",
+      "description": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins: a spacecraft manned by two men and the supercomputer HAL 9000.",
+      "tags": [
+        "KUBRICK",
+        "SPACESUIT",
+        "OUTER SPACE"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Future"
+      ],
+      "director": "Ray Lovejoy",
+      "dop": "Geoffrey Unsworth, John Alcott",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "2001: A Space Odyssey (1968)\nAfter uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins: a spacecraft manned by two men and the supercomputer HAL 9000.\nTechnique - Falling , Future\nDirector - Stanley Kubrick\nDOP - Geoffrey Unsworth, John Alcott\nEditor - Ray Lovejoy\nTutorial - Link\nKUBRICK\n1968\nSPACESUIT\nOUTER SPACE",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480185.webp",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "discovered_at": "2025-09-11T13:40:28.478847",
+      "title": "Mula B - Blokke Gepikt (2024)",
+      "description": "",
+      "tags": [
+        "FIRE",
+        "JUMP",
+        "FALLING",
+        "SKIING",
+        "SKIIER",
+        "MOON"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Slow Motion",
+        "Ultra Slow Motion"
+      ],
+      "director": "Folkert Verdoorn",
+      "dop": "Douwe Hennink",
+      "colorist": "De Grot",
+      "original_source": "",
+      "additional_info": "Mula B - Blokke Gepikt (2024)\n2024 music video for Mula B from director Folkert Verdoorn. Fire, snow, and a thrilling escape dance.\nTechnique - Falling , Slow Motion , Ultra Slow Motion\nDirector - Folkert Verdoorn\nDOP - Douwe Hennink\nColorist - De Grot\nOriginal Source - Link\nFIRE\nJUMP\nFALLING\nSKIING\nSKIIER\nMOON",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975989.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T13:40:31.612166",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [
+        "BLUE",
+        "SKY",
+        "CLOUDS",
+        "FALLING",
+        "PLANE",
+        "AIR"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Rotoscope",
+        "Towards camera",
+        "Tracking",
+        "Transitions"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Falling , Rotoscope , Towards camera , Tracking , Transitions\nDirector - Daniel Stessen\nBLUE\nSKY\nCLOUDS\nFALLING\nPLANE\nAIR",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709971041.webp",
+      "alt_text": "Nike - Rise of the kids",
+      "discovered_at": "2025-09-11T13:40:35.263723",
+      "title": "Nike - Rise of the kids (2022)",
+      "description": "",
+      "tags": [
+        "POOL",
+        "BOY",
+        "JUMP",
+        "KID",
+        "SWIMMING",
+        "DIVE"
+      ],
+      "technique_tags": [
+        "Falling"
+      ],
+      "director": "ALASKA",
+      "dop": "Todd Martin",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - Rise of the kids (2022)\nTechnique - Falling\nDirector - ALASKA\nDOP - Todd Martin\nOriginal Source - Link\nPOOL\nBOY\nJUMP\nKID\nSWIMMING\nDIVE",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705115794.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625043",
-      "element_tag": "img",
-      "title": "Adidas - Hello Tomorrow",
-      "description": "",
-      "category": "falling",
       "alt_text": "Adidas - Hello Tomorrow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:40:38.922462",
+      "title": "Adidas - Hello Tomorrow (2004)",
+      "description": "The award-winning 2005 Adidas advertisement \"Hello Tomorrow,\" created by Spike Jonze for the adidas 1 sneakers.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "RUNNING",
+        "DOOR",
+        "ADIDAS",
+        "SPOTLIGHT",
+        "JUMP",
+        "LEAP"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Spike Jonze",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Adidas - Hello Tomorrow (2004)\nThe award-winning 2005 Adidas advertisement \"Hello Tomorrow,\" created by Spike Jonze for the adidas 1 sneakers.\nTechnique - Falling , Spotlight , Void\nDirector - Spike Jonze\nOriginal Source - Link\nRUNNING\nDOOR\nADIDAS\nSPOTLIGHT\nJUMP\nLEAP",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708336609.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625095",
-      "element_tag": "img",
-      "title": "AJR - Maybe Man",
-      "description": "",
-      "category": "falling",
-      "alt_text": "AJR - Maybe Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/21/Lil_Nas_X_Youngboy_Never_Broke_Again_-_Late_To_Da_Party_F_CK_BET_Officia_tRUWzP2/339588fdc3ba5bedc165427d106a0db9.gif",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T13:40:42.574716",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426450.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625151",
-      "element_tag": "img",
-      "title": "Burberry - Open Spaces",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Burberry - Open Spaces",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709018309.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625206",
-      "element_tag": "img",
-      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/21/261703203101.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625263",
-      "element_tag": "img",
-      "title": "Samsung - I'm Open to That",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Samsung - I'm Open to That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703996923.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625317",
-      "element_tag": "img",
-      "title": "Metro Boomin & Future - Superhero (Heroes & Villains)",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706503944.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625370",
-      "element_tag": "img",
-      "title": "Harry Potter and the Chamber of Secrets",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Harry Potter and the Chamber of Secrets",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705115924.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625424",
-      "element_tag": "img",
-      "title": "Adidas - Hello Tomorrow",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Adidas - Hello Tomorrow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642422.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625477",
-      "element_tag": "img",
-      "title": "Nu Genea - Marechià (with Célia Kameni)",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704107862.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625528",
-      "element_tag": "img",
-      "title": "Sub Urban - UH OH! (feat. BENEE)",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Sub Urban - UH OH! (feat. BENEE)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538350.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625579",
-      "element_tag": "img",
-      "title": "Miel De Montagne - Le Pigeon",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Miel De Montagne - Le Pigeon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426364.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625635",
-      "element_tag": "img",
-      "title": "Burberry - Open Spaces",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Burberry - Open Spaces",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426408.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625687",
-      "element_tag": "img",
-      "title": "Burberry - Open Spaces",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Burberry - Open Spaces",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538069.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625739",
-      "element_tag": "img",
-      "title": "Miel De Montagne - Le Pigeon",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Miel De Montagne - Le Pigeon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707896271.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625792",
-      "element_tag": "img",
-      "title": "TAKT - Thank You",
-      "description": "",
-      "category": "falling",
-      "alt_text": "TAKT - Thank You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426250.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625844",
-      "element_tag": "img",
-      "title": "Burberry - Open Spaces",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Burberry - Open Spaces",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709018208.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625897",
-      "element_tag": "img",
-      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709099182.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.625951",
-      "element_tag": "img",
-      "title": "Kids In The Hall Pig GIF By CBC",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Kids In The Hall Pig GIF By CBC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633440.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.626004",
-      "element_tag": "img",
-      "title": "IKEA – Show Off Your Savvy",
-      "description": "",
-      "category": "falling",
-      "alt_text": "IKEA – Show Off Your Savvy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708336724.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.626058",
-      "element_tag": "img",
-      "title": "AJR - Maybe Man",
-      "description": "",
-      "category": "falling",
-      "alt_text": "AJR - Maybe Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DANCING",
+        "GREEN SCREEN",
+        "EDITING"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "BTS",
+        "Flying",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , BTS , Flying , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nDANCING\nGREEN SCREEN\nEDITING",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642341.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.626111",
-      "element_tag": "img",
-      "title": "Nu Genea - Marechià (with Célia Kameni)",
-      "description": "",
-      "category": "falling",
       "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:40:46.218731",
+      "title": "Nu Genea - Marechià (with Célia Kameni) (2021)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WATER",
+        "OCEAN",
+        "TWO SHOT"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Overhead",
+        "Stylistic Suck",
+        "Two Shot"
+      ],
+      "director": "Fabio Gargano, Guido Lombardi",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nu Genea - Marechià (with Célia Kameni) (2021)\n2021 short film for Nu Genea from directors Guido Lombardi and Fabio Gargano.\nTechnique - Flying , Overhead , Stylistic Suck , Two Shot\nDirector - Fabio Gargano, Guido Lombardi\nOriginal Source - Link\nWATER\nOCEAN\nTWO SHOT",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426493.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.626164",
-      "element_tag": "img",
-      "title": "Burberry - Open Spaces",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709099182.webp",
+      "alt_text": "Kids In The Hall Pig GIF By CBC",
+      "discovered_at": "2025-09-11T13:40:49.856488",
+      "title": "Kids In The Hall Pig GIF By CBC (2016)",
       "description": "",
-      "category": "falling",
-      "alt_text": "Burberry - Open Spaces",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "FLYING PIG"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Weirdcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kids In The Hall Pig GIF By CBC (2016)\nTechnique - Flying , Weirdcore\nDAY\nEXTERIOR\nFLYING PIG",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996350.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.626214",
-      "element_tag": "img",
-      "title": "Harry Potter and the Prisoner of Azkaban",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Harry Potter and the Prisoner of Azkaban",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705115924.webp",
+      "alt_text": "Adidas - Hello Tomorrow",
+      "discovered_at": "2025-09-11T13:40:54.524959",
+      "title": "Adidas - Hello Tomorrow (2004)",
+      "description": "The award-winning 2005 Adidas advertisement \"Hello Tomorrow,\" created by Spike Jonze for the adidas 1 sneakers.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "RUNNING",
+        "ADIDAS",
+        "SPOTLIGHT",
+        "JUMP",
+        "LEAP"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Spotlight",
+        "Tracking",
+        "Void"
+      ],
+      "director": "Spike Jonze",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Adidas - Hello Tomorrow (2004)\nThe award-winning 2005 Adidas advertisement \"Hello Tomorrow,\" created by Spike Jonze for the adidas 1 sneakers.\nTechnique - Flying , Spotlight , Tracking , Void\nDirector - Spike Jonze\nOriginal Source - Link\nRUNNING\nADIDAS\nSPOTLIGHT\nJUMP\nLEAP",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426323.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.626265",
-      "element_tag": "img",
-      "title": "Burberry - Open Spaces",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Burberry - Open Spaces",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/21/261703203101.webp",
+      "alt_text": "Samsung - I'm Open to That",
+      "discovered_at": "2025-09-11T13:40:58.160409",
+      "title": "Samsung - I'm Open to That (2022)",
+      "description": "An epic, two-minute mini-musical showcasing the transformative capabilities of Samsung's Galaxy phones and celebrating the myriad possibilities they unveil in life.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "SPACE",
+        "EXTERIOR",
+        "DOORS"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Magical realism",
+        "Object Portal"
+      ],
+      "director": "Final Cut, Sam Bould",
+      "dop": "Todd Martin",
+      "colorist": "Osmar Junior",
+      "original_source": "",
+      "additional_info": "Samsung - I'm Open to That (2022)\nAn epic, two-minute mini-musical showcasing the transformative capabilities of Samsung's Galaxy phones and celebrating the myriad possibilities they unveil in life.\nTechnique - Flying , Magical realism , Object Portal\nDirector - ALASKA, Gustavo Moraes, Marco Laver\nDOP - Todd Martin\nEditor - Final Cut, Sam Bould\nColorist - Osmar Junior\nOriginal Source - Link\nSPACE\nEXTERIOR\nDOORS",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708336549.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.626316",
-      "element_tag": "img",
-      "title": "AJR - Maybe Man",
-      "description": "",
-      "category": "falling",
-      "alt_text": "AJR - Maybe Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703996923.webp",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "discovered_at": "2025-09-11T13:41:02.322400",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "description": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "EXPLOSION",
+        "YELLOW",
+        "SLOW MOTION",
+        "SILHOUETTE",
+        "FIRE",
+        "ORANGE",
+        "WIDE",
+        "ACTION"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Silhouette",
+        "Slow Motion"
+      ],
+      "director": "Kenny Shimm (Editor)",
+      "dop": "Chuk Town",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)\nTechnique - Flying , Silhouette , Slow Motion\nDirector - HIDJI WORLD\nDOP - Chuk Town\nEditor - Kenny Shimm (Editor)\nOriginal Source - Link\nEXPLOSION\nYELLOW\nSLOW MOTION\nSILHOUETTE\nFIRE\nORANGE\nWIDE\nACTION",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626497.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.626367",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709018208.webp",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "discovered_at": "2025-09-11T13:41:05.971208",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
+      "description": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474164.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.626417",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426203.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.626470",
-      "element_tag": "img",
-      "title": "Burberry - Open Spaces",
-      "description": "",
-      "category": "falling",
-      "alt_text": "Burberry - Open Spaces",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "RUNNING",
+        "EXTERIOR",
+        "FLYING",
+        "JUMPING",
+        "ALL IS YELLOW"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Magical realism",
+        "Slow Motion"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)\nStunning 2024 music video from director Cole Bennett of Lyrical Lemonade.\nTechnique - Flying , Magical realism , Slow Motion\nDirector - Cole Bennett\nDOP - Franklin Ricart\nColorist - Josh Bohoskey\nOriginal Source - Link\nRUNNING\nEXTERIOR\nFLYING\nJUMPING\nALL IS YELLOW",
+      "page_url": "https://eyecannndy.com/technique/falling"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642380.webp",
-      "page_url": "https://eyecannndy.com/technique/falling",
-      "discovered_at": "2025-09-05T03:25:38.626521",
-      "element_tag": "img",
-      "title": "Nu Genea - Marechià (with Célia Kameni)",
-      "description": "",
-      "category": "falling",
       "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:41:09.606410",
+      "title": "Nu Genea - Marechià (with Célia Kameni) (2021)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WATER",
+        "OCEAN",
+        "TWO SHOT"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Stylistic Suck",
+        "Two Shot"
+      ],
+      "director": "Fabio Gargano, Guido Lombardi",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nu Genea - Marechià (with Célia Kameni) (2021)\n2021 short film for Nu Genea from directors Guido Lombardi and Fabio Gargano.\nTechnique - Flying , Stylistic Suck , Two Shot\nDirector - Fabio Gargano, Guido Lombardi\nOriginal Source - Link\nWATER\nOCEAN\nTWO SHOT",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426323.webp",
+      "alt_text": "Burberry - Open Spaces",
+      "discovered_at": "2025-09-11T13:41:13.249335",
+      "title": "Burberry - Open Spaces (2021)",
+      "description": "Surrealist campaign that takes viewers on a journey through the freedom of imagination.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "GRAIN",
+        "FARM"
+      ],
+      "technique_tags": [
+        "Flying"
+      ],
+      "director": "Final Cut, Joe Guest",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Burberry - Open Spaces (2021)\nSurrealist campaign that takes viewers on a journey through the freedom of imagination.\nTechnique - Flying\nDirector - Megaforce\nEditor - Final Cut, Joe Guest\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nGRAIN\nFARM",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707896271.webp",
+      "alt_text": "TAKT - Thank You",
+      "discovered_at": "2025-09-11T13:41:16.885129",
+      "title": "TAKT - Thank You (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "SKY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Flying"
+      ],
+      "director": "Jasmin Falk-Jensen",
+      "dop": "Jonas Blond",
+      "colorist": "Hannibal Lang",
+      "original_source": "",
+      "additional_info": "TAKT - Thank You (2022)\nTechnique - Flying\nDirector - Bine Bach\nDOP - Jonas Blond\nEditor - Jasmin Falk-Jensen\nColorist - Hannibal Lang\nOriginal Source - Link\nDAY\nWOMAN\nSKY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538350.webp",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "discovered_at": "2025-09-11T13:41:20.520841",
+      "title": "Miel De Montagne - Le Pigeon (2023)",
+      "description": "2023 music video directed and edited by Morgan Jouquand.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "FLYING",
+        "PIGEON"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Flying",
+        "FPV Drone"
+      ],
+      "director": "Morgan Jouquand",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Miel De Montagne - Le Pigeon (2023)\n2023 music video directed and edited by Morgan Jouquand.\nTechnique - Fixed Cam , Flying , FPV Drone\nDirector - Morgan Jouquand\nOriginal Source - Link\nDAY\nEXTERIOR\nFLYING\nPIGEON",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708336724.webp",
+      "alt_text": "AJR - Maybe Man",
+      "discovered_at": "2025-09-11T13:41:24.155879",
+      "title": "AJR - Maybe Man (2024)",
+      "description": "An incredible brush-stroke style animation from Prime Render Studios; inspired by Miyazaki and a staple animation style of artist Bozo Balov. Illustrated in Quill VR. Animated in Blender.",
+      "tags": [
+        "SPACE",
+        "EXTERIOR",
+        "OUTERSPACE"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Oil Paint"
+      ],
+      "director": "Edoardo Ranaboldo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJR - Maybe Man (2024)\nAn incredible brush-stroke style animation from Prime Render Studios; inspired by Miyazaki and a staple animation style of artist Bozo Balov. Illustrated in Quill VR. Animated in Blender.\nTechnique - Flying , Oil Paint\nDirector - Edoardo Ranaboldo\nOriginal Source - Link\nSPACE\nEXTERIOR\nOUTERSPACE",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704107862.webp",
+      "alt_text": "Sub Urban - UH OH! (feat. BENEE)",
+      "discovered_at": "2025-09-11T13:41:27.866024",
+      "title": "Sub Urban - UH OH! (feat. BENEE) (2022)",
+      "description": "",
+      "tags": [
+        "OVERHEAD",
+        "35MM",
+        "KODAK",
+        "FLYING SHOT"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Unsettling"
+      ],
+      "director": "Erin McCaffrey, Rock Paper Scissors, Sebastian Zotoff",
+      "dop": "Kristian Zuniga",
+      "colorist": "Company 3, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Sub Urban - UH OH! (feat. BENEE) (2022)\nIn Andrew Donoho's \"Uh Oh\" video, Sub Urban, portraying an imperfect Jehovah's Witness, disturbs an idyllic suburban neighborhood, blurring the line between who is truly the source of terror. Credits: Story & Creative Direction by Sub Urban Directed by Andrew Donoho Production Company - Obsidian Executive Producer - Doug Klinger Head of Production - Anna Heinrich Producer - Ian Blair Director’s Rep - Doug Klinger at Reprobates Production Manager - Kristen Brancaccio Production Coordinator - John Wayne Leingang Director of Photography - Kristian Zuniga Assistant Director - Michael Estrella 2nd Assistant Director - Mike Roque 1st AC - Jackie Vresics 2nd AC - Aaron Brenner Steadicam - Loren Hamilton Gaffer - Drew Valenti ACLT - Dominic D'astice Hyphenate - David Veerman Key Grip - Ed Barraza Best Grip - Jason Webster Grip - Gaither Narron\nTechnique - Flying , Unsettling\nDirector - Andrew Donoho\nDOP - Kristian Zuniga\nEditor - Erin McCaffrey, Rock Pap",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426250.webp",
+      "alt_text": "Burberry - Open Spaces",
+      "discovered_at": "2025-09-11T13:41:31.496749",
+      "title": "Burberry - Open Spaces (2021)",
+      "description": "Surrealist campaign that takes viewers on a journey through the freedom of imagination.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "GRAIN",
+        "FARM"
+      ],
+      "technique_tags": [
+        "Flying"
+      ],
+      "director": "Final Cut, Joe Guest",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Burberry - Open Spaces (2021)\nSurrealist campaign that takes viewers on a journey through the freedom of imagination.\nTechnique - Flying\nDirector - Megaforce\nEditor - Final Cut, Joe Guest\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nGRAIN\nFARM",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706503944.webp",
+      "alt_text": "Harry Potter and the Chamber of Secrets",
+      "discovered_at": "2025-09-11T13:41:35.135729",
+      "title": "Harry Potter and the Chamber of Secrets (2002)",
+      "description": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed.",
+      "tags": [
+        "DAY",
+        "CAR",
+        "EXTERIOR",
+        "VEHICLE",
+        "MAGIC"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Flying",
+        "Low Angle"
+      ],
+      "director": "Chris Columbus",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Harry Potter and the Chamber of Secrets (2002)\nAn ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed.\nTechnique - 2000s , Flying , Low Angle\nDirector - Chris Columbus\nDAY\nCAR\nEXTERIOR\nVEHICLE\nMAGIC",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642422.webp",
+      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
+      "discovered_at": "2025-09-11T13:41:38.760942",
+      "title": "Nu Genea - Marechià (with Célia Kameni) (2021)",
+      "description": "",
+      "tags": [
+        "WATER",
+        "OCEAN",
+        "TWO SHOT"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Stylistic Suck",
+        "Two Shot"
+      ],
+      "director": "Fabio Gargano, Guido Lombardi",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nu Genea - Marechià (with Célia Kameni) (2021)\n2021 short film for Nu Genea from directors Guido Lombardi and Fabio Gargano.\nTechnique - Flying , Stylistic Suck , Two Shot\nDirector - Fabio Gargano, Guido Lombardi\nOriginal Source - Link\nWATER\nOCEAN\nTWO SHOT",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426493.webp",
+      "alt_text": "Burberry - Open Spaces",
+      "discovered_at": "2025-09-11T13:41:42.409012",
+      "title": "Burberry - Open Spaces (2021)",
+      "description": "Surrealist campaign that takes viewers on a journey through the freedom of imagination.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "GRAIN",
+        "FARM"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Levitation"
+      ],
+      "director": "Final Cut, Joe Guest",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Burberry - Open Spaces (2021)\nSurrealist campaign that takes viewers on a journey through the freedom of imagination.\nTechnique - Flying , Levitation\nDirector - Megaforce\nEditor - Final Cut, Joe Guest\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nGRAIN\nFARM",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426364.webp",
+      "alt_text": "Burberry - Open Spaces",
+      "discovered_at": "2025-09-11T13:41:46.574549",
+      "title": "Burberry - Open Spaces (2021)",
+      "description": "Surrealist campaign that takes viewers on a journey through the freedom of imagination.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "GRAIN",
+        "FARM"
+      ],
+      "technique_tags": [
+        "Flying"
+      ],
+      "director": "Final Cut, Joe Guest",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Burberry - Open Spaces (2021)\nSurrealist campaign that takes viewers on a journey through the freedom of imagination.\nTechnique - Flying\nDirector - Megaforce\nEditor - Final Cut, Joe Guest\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nGRAIN\nFARM",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708336549.webp",
+      "alt_text": "AJR - Maybe Man",
+      "discovered_at": "2025-09-11T13:41:50.241911",
+      "title": "AJR - Maybe Man (2024)",
+      "description": "An incredible brush-stroke style animation from Prime Render Studios; inspired by Miyazaki and a staple animation style of artist Bozo Balov. Illustrated in Quill VR. Animated in Blender.",
+      "tags": [
+        "DAY",
+        "FOREST",
+        "EXTERIOR",
+        "FLYING"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Oil Paint"
+      ],
+      "director": "Edoardo Ranaboldo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJR - Maybe Man (2024)\nAn incredible brush-stroke style animation from Prime Render Studios; inspired by Miyazaki and a staple animation style of artist Bozo Balov. Illustrated in Quill VR. Animated in Blender.\nTechnique - Flying , Oil Paint\nDirector - Edoardo Ranaboldo\nOriginal Source - Link\nDAY\nFOREST\nEXTERIOR\nFLYING",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426408.webp",
+      "alt_text": "Burberry - Open Spaces",
+      "discovered_at": "2025-09-11T13:41:53.887272",
+      "title": "Burberry - Open Spaces (2021)",
+      "description": "Surrealist campaign that takes viewers on a journey through the freedom of imagination.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "GRAIN",
+        "FARM"
+      ],
+      "technique_tags": [
+        "Flying"
+      ],
+      "director": "Final Cut, Joe Guest",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Burberry - Open Spaces (2021)\nSurrealist campaign that takes viewers on a journey through the freedom of imagination.\nTechnique - Flying\nDirector - Megaforce\nEditor - Final Cut, Joe Guest\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nGRAIN\nFARM",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709018309.webp",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "discovered_at": "2025-09-11T13:41:58.031371",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
+      "description": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "ALL IS YELLOW"
+      ],
+      "technique_tags": [
+        "Flying"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)\nStunning 2024 music video from director Cole Bennett of Lyrical Lemonade.\nTechnique - Flying\nDirector - Cole Bennett\nDOP - Franklin Ricart\nColorist - Josh Bohoskey\nOriginal Source - Link\nNIGHT\nEXTERIOR\nALL IS YELLOW",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708336609.webp",
+      "alt_text": "AJR - Maybe Man",
+      "discovered_at": "2025-09-11T13:42:02.195755",
+      "title": "AJR - Maybe Man (2024)",
+      "description": "An incredible brush-stroke style animation from Prime Render Studios; inspired by Miyazaki and a staple animation style of artist Bozo Balov. Illustrated in Quill VR. Animated in Blender.",
+      "tags": [
+        "DAY",
+        "FOREST",
+        "EXTERIOR",
+        "FLYING"
+      ],
+      "technique_tags": [
+        "Flying",
+        "Oil Paint"
+      ],
+      "director": "Edoardo Ranaboldo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJR - Maybe Man (2024)\nAn incredible brush-stroke style animation from Prime Render Studios; inspired by Miyazaki and a staple animation style of artist Bozo Balov. Illustrated in Quill VR. Animated in Blender.\nTechnique - Flying , Oil Paint\nDirector - Edoardo Ranaboldo\nOriginal Source - Link\nDAY\nFOREST\nEXTERIOR\nFLYING",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426203.webp",
+      "alt_text": "Burberry - Open Spaces",
+      "discovered_at": "2025-09-11T13:42:06.353707",
+      "title": "Burberry - Open Spaces (2021)",
+      "description": "Surrealist campaign that takes viewers on a journey through the freedom of imagination.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "GRAIN",
+        "FARM"
+      ],
+      "technique_tags": [
+        "Flying"
+      ],
+      "director": "Final Cut, Joe Guest",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Burberry - Open Spaces (2021)\nSurrealist campaign that takes viewers on a journey through the freedom of imagination.\nTechnique - Flying\nDirector - Megaforce\nEditor - Final Cut, Joe Guest\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nGRAIN\nFARM",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538069.webp",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "discovered_at": "2025-09-11T13:42:09.996701",
+      "title": "Miel De Montagne - Le Pigeon (2023)",
+      "description": "2023 music video directed and edited by Morgan Jouquand.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "FLYING",
+        "PIGEON"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Fixed Cam",
+        "Flying",
+        "FPV Drone"
+      ],
+      "director": "Morgan Jouquand",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Miel De Montagne - Le Pigeon (2023)\n2023 music video directed and edited by Morgan Jouquand.\nTechnique - Aerial , Fixed Cam , Flying , FPV Drone\nDirector - Morgan Jouquand\nOriginal Source - Link\nDAY\nEXTERIOR\nFLYING\nPIGEON",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706426450.webp",
+      "alt_text": "Burberry - Open Spaces",
+      "discovered_at": "2025-09-11T13:42:13.637596",
+      "title": "Burberry - Open Spaces (2021)",
+      "description": "Surrealist campaign that takes viewers on a journey through the freedom of imagination.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "GRAIN",
+        "FARM"
+      ],
+      "technique_tags": [
+        "Flying"
+      ],
+      "director": "Final Cut, Joe Guest",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Burberry - Open Spaces (2021)\nSurrealist campaign that takes viewers on a journey through the freedom of imagination.\nTechnique - Flying\nDirector - Megaforce\nEditor - Final Cut, Joe Guest\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nGRAIN\nFARM",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626497.webp",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-11T13:42:17.285142",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "CITY"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Flying"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - Aerial , Flying\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link\nNIGHT\nEXTERIOR\nCITY",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996350.webp",
+      "alt_text": "Harry Potter and the Prisoner of Azkaban",
+      "discovered_at": "2025-09-11T13:42:20.928891",
+      "title": "Harry Potter and the Prisoner of Azkaban (2004)",
+      "description": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
+      "tags": [
+        "DAY",
+        "HARRY POTTER",
+        "CLOUDS",
+        "EXTERIOR",
+        "GREEN SCREEN",
+        "DANIEL RADCLIFFE",
+        "STORMY",
+        "MAGIC",
+        "FLYING",
+        "BROOM"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Flying",
+        "Freeze Frame",
+        "Happiness"
+      ],
+      "director": "Steven Weisberg",
+      "dop": "Michael Seresin",
+      "colorist": "Mel Kangleon",
+      "original_source": "",
+      "additional_info": "Harry Potter and the Prisoner of Azkaban (2004)\nHarry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.\nTechnique - 2000s , Flying , Freeze Frame , Happiness\nDirector - Alfonso Cuarón\nDOP - Michael Seresin\nEditor - Steven Weisberg\nColorist - Mel Kangleon\nDAY\nHARRY POTTER\nCLOUDS\nEXTERIOR\nGREEN SCREEN\nDANIEL RADCLIFFE\nSTORMY\nMAGIC\nFLYING\nBROOM",
+      "page_url": "https://eyecannndy.com/technique/falling"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633440.webp",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "discovered_at": "2025-09-11T13:42:24.578947",
+      "title": "IKEA – Show Off Your Savvy (2023)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "HOUSE",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Direct",
+        "Flying"
+      ],
+      "director": "Hasani Franke-Harris",
+      "dop": "Benjamin Todd",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "IKEA – Show Off Your Savvy (2023)\n2023 advert for IKEA, directed by Sanjay De Silva.\nTechnique - Direct , Flying\nDirector - Sanjay De Silva\nDOP - Benjamin Todd\nEditor - Hasani Franke-Harris\nColorist - Matt Turner\nOriginal Source - Link\nMALE\nHOUSE\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/falling"
     }
   ]
 }

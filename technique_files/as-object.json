@@ -1,6 +1,1725 @@
 {
   "technique": "as-object",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.653064",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_074913",
+    "total_videos": 72,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705385251.webp",
+      "alt_text": "Moonlight",
+      "discovered_at": "2025-09-11T07:44:58.608588",
+      "title": "Moonlight (2016)",
+      "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera. You're seeing the widely popular 'Mirror Shot', in which the camera takes on the POV of a mirror – often in a bathroom.",
+      "tags": [
+        "GREEN",
+        "MIRROR",
+        "BATHROOM",
+        "BOY",
+        "ANGENIEUX",
+        "KOWA",
+        "HAWK V-LITE",
+        "ARRI ALEXA XT"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Intensity",
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Joi McMillon, Nat Sanders",
+      "dop": "James Laxton",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Moonlight (2016)\nA young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera. You're seeing the widely popular 'Mirror Shot', in which the camera takes on the POV of a mirror – often in a bathroom.\nTechnique - 1980s , Intensity , Mirror Cam , Object POV\nDirector - Barry Jenkins\nDOP - James Laxton\nEditor - Joi McMillon, Nat Sanders\nColorist - Alex Bickel\nGREEN\nMIRROR\nBATHROOM\nBOY\nANGENIEUX\nKOWA\nHAWK V-LITE\nARRI ALEXA XT",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706173318.webp",
+      "alt_text": "Art by GAKU",
+      "discovered_at": "2025-09-11T07:45:01.729912",
+      "title": "Art by GAKU",
+      "description": "",
+      "tags": [
+        "BAG",
+        "ZIPPER"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Worms-Eye"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by GAKU\nPOV of object inside bag\nTechnique - Object POV , Worms-Eye\nBAG\nZIPPER",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710313614.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T07:45:05.356115",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Season 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "BOTTLE",
+        "DRINKING",
+        "PARTY",
+        "DRUNK",
+        "LIQUOR",
+        "WHISKEY"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Object POV"
+      ],
+      "director": "Nick Allix",
+      "dop": "Callan Green",
+      "colorist": "Matthieu Toullet",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Fixed Cam , Object POV\nDirector - Eran Creevy\nDOP - Callan Green\nEditor - Nick Allix\nColorist - Matthieu Toullet\nBOTTLE\nDRINKING\nPARTY\nDRUNK\nLIQUOR\nWHISKEY",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707621103.webp",
+      "alt_text": "Carly Gibert - WILLOW",
+      "discovered_at": "2025-09-11T07:45:08.473225",
+      "title": "Carly Gibert - WILLOW (2024)",
+      "description": "2024 music video performed and directed by artist Carly Gibert.",
+      "tags": [
+        "TRAIN"
+      ],
+      "technique_tags": [
+        "Ground Level",
+        "Lens Play",
+        "Object POV"
+      ],
+      "director": "Carly Gibert",
+      "dop": "Enzo Iriarte",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Carly Gibert - WILLOW (2024)\n2024 music video performed and directed by artist Carly Gibert.\nTechnique - Ground Level , Lens Play , Object POV\nDirector - Carly Gibert\nDOP - Enzo Iriarte\nOriginal Source - Link\nTRAIN",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704940285.webp",
+      "alt_text": "Flybuys - Give a Flybuys",
+      "discovered_at": "2025-09-11T07:45:12.106312",
+      "title": "Flybuys - Give a Flybuys (2021)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "FRIDGE",
+        "GROCERY STORE",
+        "SINGLE SHOT",
+        "SHELF"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Leila Gaabi",
+      "dop": "",
+      "colorist": "Fergus Rotherham",
+      "original_source": "",
+      "additional_info": "Flybuys - Give a Flybuys (2021)\nTechnique - Object POV\nDirector - Sanjay De Silva\nEditor - Leila Gaabi\nColorist - Fergus Rotherham\nINTERIOR\nFRIDGE\nGROCERY STORE\nSINGLE SHOT\nSHELF",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609680.webp",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "discovered_at": "2025-09-11T07:45:15.235839",
+      "title": "Carly Gibert - Dropping Seeds (2023)",
+      "description": "",
+      "tags": [
+        "RED",
+        "FACE",
+        "LIPS",
+        "HEADPHONES"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Christopher A. Medina",
+      "dop": "Sonali Chugani",
+      "colorist": "Ben Cerauli",
+      "original_source": "",
+      "additional_info": "Carly Gibert - Dropping Seeds (2023)\nMusic video from artist Carly Gibert featuring a litany of visual techniques brought to life in a vivid color palette. Shot: POV of pool que.\nTechnique - Object POV\nDirector - Luciana Baldovino\nDOP - Sonali Chugani\nEditor - Christopher A. Medina\nColorist - Ben Cerauli\nOriginal Source - Link\nRED\nFACE\nLIPS\nHEADPHONES",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704914720.webp",
+      "alt_text": "João Borsch - Apaz",
+      "discovered_at": "2025-09-11T07:45:18.884801",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
+      "tags": [
+        "TEETH",
+        "MOUTH"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Object POV\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nTEETH\nMOUTH",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705384371.webp",
+      "alt_text": "The Grand Budapest Hotel",
+      "discovered_at": "2025-09-11T07:45:22.522800",
+      "title": "The Grand Budapest Hotel (2014)",
+      "description": "A visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.",
+      "tags": [
+        "INTERIOR",
+        "MIRROR",
+        "BATHROOM"
+      ],
+      "technique_tags": [
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Jill Bogdanowicz",
+      "original_source": "",
+      "additional_info": "The Grand Budapest Hotel (2014)\nA visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.\nTechnique - Mirror Cam , Object POV\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Jill Bogdanowicz\nTutorial - Link\nINTERIOR\nMIRROR\nBATHROOM",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702688287.webp",
+      "alt_text": "Source Unknown",
+      "discovered_at": "2025-09-11T07:45:26.167246",
+      "title": "Source Unknown",
+      "description": "Close up OBJECT POV (as object). To us it looks like the character is looking at the camera, but from their perspective they are looking at a delicious snack inside a chip bag. We just happen to be seeing the world from the chips perspective. Hence why this is an OBJECT POV instead of a FOURTH WALL-BREAKING shot.",
+      "tags": [
+        "GLASSES",
+        "YOUNG",
+        "BAG",
+        "DORITOS",
+        "RED HEAD"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source Unknown\nClose up OBJECT POV (as object). To us it looks like the character is looking at the camera, but from their perspective they are looking at a delicious snack inside a chip bag. We just happen to be seeing the world from the chips perspective. Hence why this is an OBJECT POV instead of a FOURTH WALL-BREAKING shot.\nTechnique - Object POV\nGLASSES\nYOUNG\nBAG\nDORITOS\nRED HEAD",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704372378.webp",
+      "alt_text": "Breaking Bad (TV Series)",
+      "discovered_at": "2025-09-11T07:45:29.811568",
+      "title": "Breaking Bad (TV Series) (2011)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "UNDERWATER",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Low Angle",
+        "Object POV",
+        "Underwater"
+      ],
+      "director": "Michael Slovis",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Breaking Bad (TV Series) (2011)\nTechnique - Low Angle , Object POV , Underwater\nDirector - Michael Slovis\nOriginal Source - Link\nWOMAN\nUNDERWATER\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710023440.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T07:45:33.463125",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "KEY",
+        "SAFE",
+        "LOCKBOX"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Rack Focus",
+        "Typography"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Object POV , Rack Focus , Typography\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nKEY\nSAFE\nLOCKBOX",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863929.webp",
+      "alt_text": "Chime - Woah",
+      "discovered_at": "2025-09-11T07:45:37.110695",
+      "title": "Chime - Woah (2021)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "MALE",
+        "LOW ANGLE",
+        "CLOSE UP",
+        "INTERIOR",
+        "WORMS-EYE",
+        "UI"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Screen POV"
+      ],
+      "director": "Jojo King",
+      "dop": "Starr Whitesides",
+      "colorist": "Kris Smale",
+      "original_source": "",
+      "additional_info": "Chime - Woah (2021)\nWritten and Directed by Mount Defiance Head of Creative: Thierry Ambraisse Creative Producer: Jane Hong Copywriter: Brent Bamberger Production: Open Range Creative Studio: Mount Defiance Director: Mount Defiance Executive Producers: Nancy Lichtwardt and Noah Lichtwardt Line Producer: Matt Little Director of Photography: Starr Whitesides Production Designer: Luke Carr Art Director: Regina Fernandez-Alonso Wardrobe Stylist: Anastasia Walker Post Production: Cabin Edit Post Producer: Michelle Dorsch Editor: Jojo King Visual Effects: JAMM Visual Visual Effects Producer: Justine Pregler Visual Effects Artist: Toma Bowen Color Company: MPC Colorist: Kris Smale Mix House: Lime Studios Sound Engineer: Dave Wagg Composer: Ryland Blackinton Casting Director: Tyler Adams Voice: Christy Fabbri Starring: Andrew Walke, Alexis Zollicoffer, Keane Lindsey, Briar Strong\nTechnique - Object POV , Screen POV\nDirector - Mount Defiance\nDOP - Starr Whitesides\nEditor - Jojo King\nColorist - ",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704372233.webp",
+      "alt_text": "Breaking Bad (TV Series)",
+      "discovered_at": "2025-09-11T07:45:40.783497",
+      "title": "Breaking Bad (TV Series) (2011)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "LOW ANGLE",
+        "UNDERWATER",
+        "INTERIOR",
+        "BATHROOM",
+        "TOILET",
+        "BRYAN CRANSTON"
+      ],
+      "technique_tags": [
+        "Low Angle",
+        "Object POV",
+        "Underwater"
+      ],
+      "director": "Michael Slovis",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Breaking Bad (TV Series) (2011)\nTechnique - Low Angle , Object POV , Underwater\nDirector - Michael Slovis\nOriginal Source - Link\nDAY\nLOW ANGLE\nUNDERWATER\nINTERIOR\nBATHROOM\nTOILET\nBRYAN CRANSTON",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704613159.webp",
+      "alt_text": "Charlie and the Chocolate Factory",
+      "discovered_at": "2025-09-11T07:45:44.415946",
+      "title": "Charlie and the Chocolate Factory (2005)",
+      "description": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+      "tags": [
+        "FILM",
+        "35MM",
+        "PANAVISION MILLENNIUM",
+        "2000S",
+        "MILLENIUM XL",
+        "XL2",
+        "MOUTH",
+        "SPHERICAL",
+        "DENTIST",
+        "JOHNNY DEPP",
+        "CHRISTOPHER LEE"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Object POV"
+      ],
+      "director": "Chris Lebenzon",
+      "dop": "Philippe Rousselot",
+      "colorist": "Peter Doyle",
+      "original_source": "",
+      "additional_info": "Charlie and the Chocolate Factory (2005)\nA young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.\nTechnique - 2000s , Object POV\nDirector - Tim Burton\nDOP - Philippe Rousselot\nEditor - Chris Lebenzon\nColorist - Peter Doyle\nFILM\n35MM\nPANAVISION MILLENNIUM\n2000S\nMILLENIUM XL\nXL2\n1.78\nMOUTH\nSPHERICAL\nDENTIST\n2005\nJOHNNY DEPP\nCHRISTOPHER LEE",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706157458.webp",
+      "alt_text": "ScHoolboy Q - Dope Dealer (Official Music Video) f",
+      "discovered_at": "2025-09-11T07:45:48.080112",
+      "title": "ScHoolboy Q - Dope Dealer (Official Music Video) f (2016)",
+      "description": "2016 ScHoolboy Q music video directed by Ryan Staake. A masterclass on Object POV and fixed camera shots.",
+      "tags": [
+        "DAY",
+        "RYAN STAAKE",
+        "FIXED CAMERA",
+        "POMP&CLOUT",
+        "SCHOOLBOY Q",
+        "MARK RUBBO",
+        "BOX",
+        "OPEN",
+        "LID"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Object POV",
+        "Worms-Eye"
+      ],
+      "director": "Ryan Staake",
+      "dop": "Kristian Zuniga",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "ScHoolboy Q - Dope Dealer (Official Music Video) f (2016)\n2016 ScHoolboy Q music video directed by Ryan Staake. A masterclass on Object POV and fixed camera shots.\nTechnique - Fixed Cam , Object POV , Worms-Eye\nDirector - Ryan Staake\nDOP - Kristian Zuniga\nOriginal Source - Link\nTutorial - Link\nDAY\nRYAN STAAKE\nFIXED CAMERA\nPOMP&CLOUT\nSCHOOLBOY Q\nMARK RUBBO\nBOX\nOPEN\nLID",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097082.webp",
+      "alt_text": "Beethoven",
+      "discovered_at": "2025-09-11T07:45:51.707878",
+      "title": "Beethoven (1992)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "INTERIOR",
+        "SINGLE SHOT"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Sheldon Kahn, William D. Gordean",
+      "dop": "Victor J. Kemper",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - Object POV\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nMALE\nINTERIOR\nSINGLE SHOT",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705384691.webp",
+      "alt_text": "Insecure",
+      "discovered_at": "2025-09-11T07:45:55.365457",
+      "title": "Insecure",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "BATHROOM",
+        "ARRI ALEXA MINI",
+        "ISSA RAE"
+      ],
+      "technique_tags": [
+        "Happiness",
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Mark Sadlek",
+      "dop": "Matthew J. Lloyd",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Insecure\nTechnique - Happiness , Mirror Cam , Object POV\nDirector - Melina Matsoukas\nDOP - Matthew J. Lloyd\nEditor - Mark Sadlek\nOriginal Source - Link\nINTERIOR\nBATHROOM\nARRI ALEXA MINI\nISSA RAE",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609406.webp",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "discovered_at": "2025-09-11T07:45:58.503279",
+      "title": "Carly Gibert - Dropping Seeds (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "GRASS",
+        "FACE",
+        "GROUND",
+        "EXTERIOR",
+        "HOLE"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Worms-Eye"
+      ],
+      "director": "Christopher A. Medina",
+      "dop": "Sonali Chugani",
+      "colorist": "Ben Cerauli",
+      "original_source": "",
+      "additional_info": "Carly Gibert - Dropping Seeds (2023)\nMusic video from artist Carly Gibert featuring a litany of visual techniques brought to life in a vivid color palette.\nTechnique - Object POV , Worms-Eye\nDirector - Luciana Baldovino\nDOP - Sonali Chugani\nEditor - Christopher A. Medina\nColorist - Ben Cerauli\nOriginal Source - Link\nDAY\nGRASS\nFACE\nGROUND\nEXTERIOR\nHOLE",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708426686.webp",
+      "alt_text": "Monk (TV Series)",
+      "discovered_at": "2025-09-11T07:46:01.635126",
+      "title": "Monk (TV Series) (2005)",
+      "description": "S4 E1 | While Monk is immobilised by the presence of dog excrement at a crime scene, slovenly private eye Marty Eels steps in to solve the murder. Just as Eels is becoming a local celebrity, Monk figures out a way to bring Eels to heel.",
+      "tags": [
+        "DAY",
+        "MALE",
+        "CAR",
+        "INTERIOR",
+        "BUG",
+        "WINDSHIELD"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Close-Up",
+        "Low Angle",
+        "Object POV"
+      ],
+      "director": "Ron Shaw",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Monk (TV Series) (2005)\nS4 E1 | While Monk is immobilised by the presence of dog excrement at a crime scene, slovenly private eye Marty Eels steps in to solve the murder. Just as Eels is becoming a local celebrity, Monk figures out a way to bring Eels to heel.\nTechnique - 2000s , Close-Up , Low Angle , Object POV\nDirector - Eric Laneuville\nEditor - Ron Shaw\nDAY\nMALE\nCAR\nINTERIOR\nBUG\nWINDSHIELD",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710388868.webp",
+      "alt_text": "NIKE x SIZE? - Content De Te Revoir",
+      "discovered_at": "2025-09-11T07:46:05.797645",
+      "title": "NIKE x SIZE? - Content De Te Revoir (2024)",
+      "description": "",
+      "tags": [
+        "BAG"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Two Shot",
+        "Worms-Eye"
+      ],
+      "director": "Jessy Busgeeth",
+      "dop": "Jessy Busgeeth",
+      "colorist": "Jessy Busgeeth",
+      "original_source": "",
+      "additional_info": "NIKE x SIZE? - Content De Te Revoir (2024)\nTechnique - Object POV , Two Shot , Worms-Eye\nDirector - Jessy Busgeeth\nDOP - Jessy Busgeeth\nEditor - Jessy Busgeeth\nColorist - Jessy Busgeeth\nOriginal Source - Link\nBAG",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916666.webp",
+      "alt_text": "João Borsch - Apaz",
+      "discovered_at": "2025-09-11T07:46:09.451307",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
+      "tags": [
+        "RED",
+        "CLOSE UP",
+        "DARK",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Void"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Object POV , Void\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nRED\nCLOSE UP\nDARK\nVOID",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705383000.webp",
+      "alt_text": "La Haine",
+      "discovered_at": "2025-09-11T07:46:13.098289",
+      "title": "La Haine (1995)",
+      "description": "A Mathieu Kassovitz-directed thriller in which we follow the lives of three young men in the French suburbs the day after a violent riot. You're seeing the widely popular 'Mirror Shot', where the camera takes on the POV of the mirror.",
+      "tags": [
+        "INTERIOR",
+        "BLACK AND WHITE",
+        "BATHROOM",
+        "ARRIFLEX"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Anger",
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Scott Stevenson",
+      "dop": "Pierre A",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "La Haine (1995)\nA Mathieu Kassovitz-directed thriller in which we follow the lives of three young men in the French suburbs the day after a violent riot. You're seeing the widely popular 'Mirror Shot', where the camera takes on the POV of the mirror.\nTechnique - 1990s , Anger , Mirror Cam , Object POV\nDirector - Mathieu Kassovitz\nDOP - Pierre A\nEditor - Scott Stevenson\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nBLACK AND WHITE\nBATHROOM\nARRIFLEX",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704372602.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T07:46:16.754098",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "SPORTS",
+        "INTERIOR",
+        "DARK",
+        "BASKETBALL"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Object POV\nWOMAN\nSPORTS\nINTERIOR\nDARK\nBASKETBALL",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702688411.webp",
+      "alt_text": "Nike SB - Don't Make Plans",
+      "discovered_at": "2025-09-11T07:46:20.399249",
+      "title": "Nike SB - Don't Make Plans (2021)",
+      "description": "Worms-eye OBJECT POV (as object). The worms-eye moniker gets its namesake from shots that appear to us how the world might appear to a worm on the ground. We'd consider this an OBJECT POV (as object) instead of a fourth-wall breaking shot because while the character looks into the camera, from his perspective they are looking at a pair of shoes. We just happen to have the perspective of those pair of shoes.",
+      "tags": [
+        "MALE",
+        "POV",
+        "GLASSES",
+        "BOX",
+        "INTERIOR",
+        "NECKLACE",
+        "INSIDE BOX",
+        "WORMS-EYE"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Worms-Eye"
+      ],
+      "director": "Matt Carter, Pierre Lesnip",
+      "dop": "Mikey Van Beuren",
+      "colorist": "Kath Rascih",
+      "original_source": "",
+      "additional_info": "Nike SB - Don't Make Plans (2021)\nWorms-eye OBJECT POV (as object). The worms-eye moniker gets its namesake from shots that appear to us how the world might appear to a worm on the ground. We'd consider this an OBJECT POV (as object) instead of a fourth-wall breaking shot because while the character looks into the camera, from his perspective they are looking at a pair of shoes. We just happen to have the perspective of those pair of shoes.\nTechnique - Object POV , Worms-Eye\nDirector - Bennett Johnson\nDOP - Mikey Van Beuren\nEditor - Matt Carter, Pierre Lesnip\nColorist - Kath Rascih\nOriginal Source - Link\nMALE\nPOV\nGLASSES\nBOX\nINTERIOR\nNECKLACE\nINSIDE BOX\nWORMS-EYE",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704366196.webp",
+      "alt_text": "It's a Wimbledon Thing",
+      "discovered_at": "2025-09-11T07:46:24.049144",
+      "title": "It's a Wimbledon Thing (2021)",
+      "description": "",
+      "tags": [
+        "WARM",
+        "INTERIOR",
+        "GROUP"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Thomas Grove Carter, Trim Editing",
+      "dop": "Ben Magahy, Rina Yang",
+      "colorist": "George K",
+      "original_source": "",
+      "additional_info": "It's a Wimbledon Thing (2021)\nFrom the POV of the phone\nTechnique - Object POV\nDirector - Us.\nDOP - Ben Magahy, Rina Yang\nEditor - Thomas Grove Carter, Trim Editing\nColorist - George K\nOriginal Source - Link\nWARM\nINTERIOR\nGROUP",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709022208.webp",
+      "alt_text": "Festival of Slaps",
+      "discovered_at": "2025-09-11T07:46:27.176703",
+      "title": "Festival of Slaps (2023)",
+      "description": "A new action packed short film straight from the palms of a Nigerian mother who on one fateful night, serves her son a set of slaps so powerful that it changes his life forever. Full of twist and turns this film celebrates the most neglected heroes of today: Black Mums.",
+      "tags": [
+        "INTERIOR",
+        "KITCHEN",
+        "FRIDGE",
+        "REFRIGERATOR"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "André Rodrigues, Marvin Jay Alvarez",
+      "dop": "Anna Macdonald",
+      "colorist": "Jason Wallis",
+      "original_source": "",
+      "additional_info": "Festival of Slaps (2023)\nA new action packed short film straight from the palms of a Nigerian mother who on one fateful night, serves her son a set of slaps so powerful that it changes his life forever. Full of twist and turns this film celebrates the most neglected heroes of today: Black Mums.\nTechnique - Object POV\nDirector - Abdou Cissé\nDOP - Anna Macdonald\nEditor - André Rodrigues, Marvin Jay Alvarez\nColorist - Jason Wallis\nOriginal Source - Link\nINTERIOR\nKITCHEN\nFRIDGE\nREFRIGERATOR",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706507883.webp",
+      "alt_text": "KITKAT - Break Épico",
+      "discovered_at": "2025-09-11T07:46:30.301605",
+      "title": "KITKAT - Break Épico (2023)",
+      "description": "Shot breakdown: Probe lens dolly in + profile two shot in void.",
+      "tags": [],
+      "technique_tags": [
+        "Object POV",
+        "Pass Through"
+      ],
+      "director": "Kill The Buddha",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "KITKAT - Break Épico (2023)\nShot breakdown: Probe lens dolly in + profile two shot in void.\nTechnique - Object POV , Pass Through\nDirector - Kill The Buddha\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704366347.webp",
+      "alt_text": "It's a Wimbledon Thing",
+      "discovered_at": "2025-09-11T07:46:33.431686",
+      "title": "It's a Wimbledon Thing (2021)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "INTERIOR",
+        "DARK",
+        "FRIDGE"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Thomas Grove Carter, Trim Editing",
+      "dop": "Ben Magahy, Rina Yang",
+      "colorist": "George K",
+      "original_source": "",
+      "additional_info": "It's a Wimbledon Thing (2021)\nFrom the POV of the phone\nTechnique - Object POV\nDirector - Us.\nDOP - Ben Magahy, Rina Yang\nEditor - Thomas Grove Carter, Trim Editing\nColorist - George K\nOriginal Source - Link\nNIGHT\nINTERIOR\nDARK\nFRIDGE",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702977064.webp",
+      "alt_text": "We Are Penn State",
+      "discovered_at": "2025-09-11T07:46:37.065391",
+      "title": "We Are Penn State",
+      "description": "Close-up object POV (as object). While the character is looking at camera, from their perspective they are looking at something through a magnifying glass. We just happen to be viewing her from the perspective of that object. If you're ever wondering if its fourth wall or object POV (as object), ask yourself if the character is acknowledging the camera as a camera, or as an object in their world.",
+      "tags": [
+        "WOMAN",
+        "INTERIOR",
+        "DARK",
+        "MAGNIFYING GLASS"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Object POV"
+      ],
+      "director": "Jeremy Snell",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "We Are Penn State\nClose-up object POV (as object). While the character is looking at camera, from their perspective they are looking at something through a magnifying glass. We just happen to be viewing her from the perspective of that object. If you're ever wondering if its fourth wall or object POV (as object), ask yourself if the character is acknowledging the camera as a camera, or as an object in their world.\nTechnique - Close-Up , Object POV\nDirector - Jeremy Snell\nOriginal Source - Link\nWOMAN\nINTERIOR\nDARK\nMAGNIFYING GLASS",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702688849.webp",
+      "alt_text": "Valaire - (She's A) Winner (Ft. Alan Prater)",
+      "discovered_at": "2025-09-11T07:46:40.730691",
+      "title": "Valaire - (She's A) Winner (Ft. Alan Prater) (2023)",
+      "description": "Macro tracking shot inside 'ear canal' as we take on the perspective of the inside of the ear.",
+      "tags": [
+        "POV",
+        "EAR WAX"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Julien Vallée",
+      "dop": "Harley Francis",
+      "colorist": "Charles-Étienne Pascal",
+      "original_source": "",
+      "additional_info": "Valaire - (She's A) Winner (Ft. Alan Prater) (2023)\nMacro tracking shot inside 'ear canal' as we take on the perspective of the inside of the ear.\nTechnique - Object POV\nDirector - Julien Vallée\nDOP - Harley Francis\nColorist - Charles-Étienne Pascal\nOriginal Source - Link\nPOV\nEAR WAX",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119983.webp",
+      "alt_text": "First Hawaiian Bank - Dance Party",
+      "discovered_at": "2025-09-11T07:46:44.382428",
+      "title": "First Hawaiian Bank - Dance Party (2022)",
+      "description": "",
+      "tags": [
+        "POV",
+        "CLOSE UP",
+        "INTERIOR",
+        "SPEAKER"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Ariel Danziger",
+      "dop": "Jeremy Snell",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "First Hawaiian Bank - Dance Party (2022)\nCommercial for First Hawaiian Bank's priority unlimited credit card. Director: Ariel Danziger DP: Jeremy Snell GCD: Kerry Mellor ECD: Adan Romero CCO: Lincoln Bjorkman Producer: Becky Friedman Agency: FKA Client: First Hawaiian Bank\nTechnique - Object POV\nDirector - Ariel Danziger\nDOP - Jeremy Snell\nOriginal Source - Link\nPOV\nCLOSE UP\nINTERIOR\nSPEAKER",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/14/261705213209.webp",
+      "alt_text": "Vaeda Black - Run Fast",
+      "discovered_at": "2025-09-11T07:46:48.011565",
+      "title": "Vaeda Black - Run Fast (2019)",
+      "description": "Shot breakdown: Slit-scan motion blur + double exposure",
+      "tags": [
+        "WOMAN",
+        "MUSIC VIDEO",
+        "BLUE",
+        "INTERIOR",
+        "COOL",
+        "BATHROOM",
+        "JUSTIN LEYBA",
+        "JACOBI MEHRINGER",
+        "VAEDA BLACK",
+        "MIRROR SHOT"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Jacobi Mehringer, Justin Leyba",
+      "dop": "Nat Pinhiero",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vaeda Black - Run Fast (2019)\nShot breakdown: Slit-scan motion blur + double exposure\nTechnique - Double Exposure , Mirror Cam , Object POV\nDirector - Jacobi Mehringer, Justin Leyba\nDOP - Nat Pinhiero\nEditor - Jacobi Mehringer, Justin Leyba\nOriginal Source - Link\nWOMAN\nMUSIC VIDEO\nBLUE\nINTERIOR\nCOOL\nBATHROOM\nJUSTIN LEYBA\nJACOBI MEHRINGER\nVAEDA BLACK\nMIRROR SHOT",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703388611.webp",
+      "alt_text": "Halfprice - Fitting room",
+      "discovered_at": "2025-09-11T07:46:51.661990",
+      "title": "Halfprice - Fitting room (2022)",
+      "description": "",
+      "tags": [
+        "CLOSE UP",
+        "BLUE",
+        "INTERIOR",
+        "FASHION",
+        "CHANGING ROOM"
+      ],
+      "technique_tags": [
+        "Masking",
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Nikodem Chabior",
+      "dop": "Mikołaj Syguda",
+      "colorist": "Florian Martiny",
+      "original_source": "",
+      "additional_info": "Halfprice - Fitting room (2022)\nIn this shot, we see a flash-cut technique combined with masking. Additionally, this fits under Object POV (as object). It appears as though the character is looking at camera, but in their world, they are looking into a mirror. We just happen to have the POV of a mirror.\nTechnique - Masking , Mirror Cam , Object POV\nDirector - Grajper\nDOP - Mikołaj Syguda\nEditor - Nikodem Chabior\nColorist - Florian Martiny\nOriginal Source - Link\nCLOSE UP\nBLUE\nINTERIOR\nFASHION\nCHANGING ROOM",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704372758.webp",
+      "alt_text": "Source Unknown",
+      "discovered_at": "2025-09-11T07:46:55.820243",
+      "title": "Source Unknown",
+      "description": "Know the source? Email jacobi@eycndy.com POV of soccer ball",
+      "tags": [
+        "SPORTS",
+        "FIELD",
+        "SOCCER",
+        "STADIUM"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source Unknown\nKnow the source? Email jacobi@eycndy.com POV of soccer ball\nTechnique - Object POV\nSPORTS\nFIELD\nSOCCER\nSTADIUM",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707620774.webp",
+      "alt_text": "Carly Gibert - WILLOW",
+      "discovered_at": "2025-09-11T07:46:58.924484",
+      "title": "Carly Gibert - WILLOW (2024)",
+      "description": "2024 music video performed and directed by artist Carly Gibert.",
+      "tags": [
+        "TEETH",
+        "MOUTH",
+        "DENTIST"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Object POV"
+      ],
+      "director": "Carly Gibert",
+      "dop": "Enzo Iriarte",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Carly Gibert - WILLOW (2024)\n2024 music video performed and directed by artist Carly Gibert.\nTechnique - Close-Up , Object POV\nDirector - Carly Gibert\nDOP - Enzo Iriarte\nOriginal Source - Link\nTEETH\nMOUTH\nDENTIST",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710832179.webp",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "discovered_at": "2025-09-11T07:47:02.043385",
+      "title": "Oppo - Make Every Shot Stand Out (2024)",
+      "description": "",
+      "tags": [
+        "WOMAN"
+      ],
+      "technique_tags": [
+        "Floating UI",
+        "Object POV",
+        "Screen POV"
+      ],
+      "director": "Gramatova Katarina",
+      "dop": "Filip Marek",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Oppo - Make Every Shot Stand Out (2024)\nTechnique - Floating UI , Object POV , Screen POV\nDirector - Jara Moravec\nDOP - Filip Marek\nEditor - Gramatova Katarina\nColorist - Arthur Paux\nOriginal Source - Link\nWOMAN",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703454356.webp",
+      "alt_text": "Severance",
+      "discovered_at": "2025-09-11T07:47:05.675696",
+      "title": "Severance (2022)",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "tags": [
+        "INTERIOR",
+        "CHRISTOPHER WALKEN",
+        "MAGNIFYING GLASS",
+        "EYE",
+        "COOL WHITE"
+      ],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Object POV"
+      ],
+      "director": "Erica Freed Marker, Geoffrey Richman, Gershon Hinkson",
+      "dop": "Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "Severance (2022)\nMark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.\nTechnique - Extreme Close-Up , Object POV\nDirector - Ben Stiller\nDOP - Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle\nEditor - Erica Freed Marker, Geoffrey Richman, Gershon Hinkson\nColorist - Company 3, Tom Poole\nTutorial - Link\nINTERIOR\nCHRISTOPHER WALKEN\nMAGNIFYING GLASS\nEYE\nCOOL WHITE",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725946074.webp",
+      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "discovered_at": "2025-09-11T07:47:08.792507",
+      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste (2024)",
+      "description": "In Sabrina Carpenter's music video for \"Taste,\" co-starring Jenna Ortega, the duo engage in a gory, darkly comedic rivalry over a two-timing boyfriend. Directed by Dave Meyers, the video features numerous campy horror and cult film references, including scenes inspired by Death Becomes Her and Kill Bill. Carpenter and Ortega repeatedly murder each other in elaborate ways, including stabbings, voodoo dolls, and falls from great heights, only to make up with a kiss. In collaboration with Jacobi Mehringer, Anna Arnell, and Lizzy Walker.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "DANCING",
+        "SMILE",
+        "SINGING",
+        "SHOTGUN",
+        "SABRINA CARPENTER"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Object POV"
+      ],
+      "director": "Emile Doucette",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli, ETHOS",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter Ft. Jenna Ortega - Taste (2024)\nIn Sabrina Carpenter's music video for \"Taste,\" co-starring Jenna Ortega, the duo engage in a gory, darkly comedic rivalry over a two-timing boyfriend. Directed by Dave Meyers, the video features numerous campy horror and cult film references, including scenes inspired by Death Becomes Her and Kill Bill. Carpenter and Ortega repeatedly murder each other in elaborate ways, including stabbings, voodoo dolls, and falls from great heights, only to make up with a kiss. In collaboration with Jacobi Mehringer, Anna Arnell, and Lizzy Walker.\nTechnique - Fixed Cam , Object POV\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Emile Doucette\nColorist - Dante Pasquinelli, ETHOS\nOriginal Source - Link\nDAY\nINTERIOR\nDANCING\nSMILE\nSINGING\nSHOTGUN\nSABRINA CARPENTER",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709341977.webp",
+      "alt_text": "AJ Tracey - Wifey Riddim 4",
+      "discovered_at": "2025-09-11T07:47:12.428526",
+      "title": "AJ Tracey - Wifey Riddim 4 (2024)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Floating UI",
+        "Low Angle",
+        "Object POV",
+        "Screen POV"
+      ],
+      "director": "Late Milk",
+      "dop": "Mike Koziel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJ Tracey - Wifey Riddim 4 (2024)\nTechnique - Floating UI , Low Angle , Object POV , Screen POV\nDirector - Late Milk\nDOP - Mike Koziel\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704940863.webp",
+      "alt_text": "Flybuys - Give a Flybuys",
+      "discovered_at": "2025-09-11T07:47:16.081018",
+      "title": "Flybuys - Give a Flybuys (2021)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "UNDERWATER",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Underwater",
+        "Worms-Eye"
+      ],
+      "director": "Leila Gaabi",
+      "dop": "",
+      "colorist": "Fergus Rotherham",
+      "original_source": "",
+      "additional_info": "Flybuys - Give a Flybuys (2021)\nTechnique - Object POV , Underwater , Worms-Eye\nDirector - Sanjay De Silva\nEditor - Leila Gaabi\nColorist - Fergus Rotherham\nWOMAN\nUNDERWATER\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704374050.webp",
+      "alt_text": "Facebook Groups - Self Care with Becky G",
+      "discovered_at": "2025-09-11T07:47:19.732784",
+      "title": "Facebook Groups - Self Care with Becky G (2021)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "CAR",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Object POV"
+      ],
+      "director": "Cabin Edit",
+      "dop": "Gus Bendinelli",
+      "colorist": "Jacob Mckee",
+      "original_source": "",
+      "additional_info": "Facebook Groups - Self Care with Becky G (2021)\ndir cliqua dp gus bendinelli color jacob mckee sound christian stropko production somesuch finishing + vfx mpc edit cabin producer hope duhaime assistan editor chris kelley + ryan khoury agency facebook producer josephine harmon cd garrett jones + jan jaworski copywriter jessy cole\nTechnique - Camera Roll , Object POV\nDirector - Cliqua\nDOP - Gus Bendinelli\nEditor - Cabin Edit\nColorist - Jacob Mckee\nOriginal Source - Link\nDAY\nCAR\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703454091.webp",
+      "alt_text": "Severance",
+      "discovered_at": "2025-09-11T07:47:23.399039",
+      "title": "Severance (2022)",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "tags": [
+        "BLUE",
+        "INTERIOR",
+        "COOL",
+        "ADAM SCOTT",
+        "ELEVATOR"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Object POV",
+        "Screen POV"
+      ],
+      "director": "Erica Freed Marker, Geoffrey Richman, Gershon Hinkson",
+      "dop": "Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "Severance (2022)\nMark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.\nTechnique - Close-Up , Object POV , Screen POV\nDirector - Ben Stiller\nDOP - Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle\nEditor - Erica Freed Marker, Geoffrey Richman, Gershon Hinkson\nColorist - Company 3, Tom Poole\nTutorial - Link\nBLUE\nINTERIOR\nCOOL\nADAM SCOTT\nELEVATOR",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707973425.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T07:47:27.061914",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [
+        "INTERIOR",
+        "TUBE"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Object POV\nDirector - Daniel Stessen\nINTERIOR\nTUBE",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710023352.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T07:47:30.712558",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "KEY",
+        "SAFE",
+        "LOCKBOX"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Object POV\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nKEY\nSAFE\nLOCKBOX",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707633373.webp",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "discovered_at": "2025-09-11T07:47:34.877851",
+      "title": "IKEA – Show Off Your Savvy (2023)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "HOUSE",
+        "INTERIOR",
+        "KITCHEN",
+        "FRIDGE",
+        "REFRIGERATOR"
+      ],
+      "technique_tags": [
+        "Direct",
+        "Fourth Wall",
+        "Object POV"
+      ],
+      "director": "Hasani Franke-Harris",
+      "dop": "Benjamin Todd",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "IKEA – Show Off Your Savvy (2023)\n2023 advert for IKEA, directed by Sanjay De Silva.\nTechnique - Direct , Fourth Wall , Object POV\nDirector - Sanjay De Silva\nDOP - Benjamin Todd\nEditor - Hasani Franke-Harris\nColorist - Matt Turner\nOriginal Source - Link\nMALE\nHOUSE\nINTERIOR\nKITCHEN\nFRIDGE\nREFRIGERATOR",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704372408.webp",
+      "alt_text": "Breaking Bad (TV Series)",
+      "discovered_at": "2025-09-11T07:47:37.998713",
+      "title": "Breaking Bad (TV Series) (2011)",
+      "description": "",
+      "tags": [
+        "POV",
+        "WASHING MACHINE"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Michael Slovis",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Breaking Bad (TV Series) (2011)\nTechnique - Object POV\nDirector - Michael Slovis\nOriginal Source - Link\nPOV\nWASHING MACHINE",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703454828.webp",
+      "alt_text": "Severance",
+      "discovered_at": "2025-09-11T07:47:42.158192",
+      "title": "Severance (2022)",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "tags": [
+        "INTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Intensity",
+        "Object POV",
+        "Screen POV",
+        "Split Screen"
+      ],
+      "director": "Erica Freed Marker, Geoffrey Richman, Gershon Hinkson",
+      "dop": "Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "Severance (2022)\nMark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.\nTechnique - Intensity , Object POV , Screen POV , Split Screen\nDirector - Ben Stiller\nDOP - Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle\nEditor - Erica Freed Marker, Geoffrey Richman, Gershon Hinkson\nColorist - Company 3, Tom Poole\nINTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706507660.webp",
+      "alt_text": "Elliot James Mulhern - How's It Gonna Stop?",
+      "discovered_at": "2025-09-11T07:47:45.799525",
+      "title": "Elliot James Mulhern - How's It Gonna Stop? (2020)",
+      "description": "",
+      "tags": [
+        "KEYHOLE"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Pass Through"
+      ],
+      "director": "Elliot James Mulhern, Joseph Mercado",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Elliot James Mulhern - How's It Gonna Stop? (2020)\nTechnique - Object POV , Pass Through\nDirector - Elliot James Mulhern, Joseph Mercado\nKEYHOLE",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385948.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-11T07:47:49.461618",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever. Shot: High angle fixed camera",
+      "tags": [
+        "WES ANDERSON",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "ARRICAM LT",
+        "ARRICAM ST"
+      ],
+      "technique_tags": [
+        "1950s",
+        "Object POV",
+        "Two Shot",
+        "Worms-Eye"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever. Shot: High angle fixed camera\nTechnique - 1950s , Object POV , Two Shot , Worms-Eye\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nWES ANDERSON\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nARRICAM LT\nARRICAM ST",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825525.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T07:47:53.230079",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "MIRROR",
+        "TEETH",
+        "MOUTH",
+        "SEX",
+        "PEANUTS"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Object POV\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nMIRROR\nTEETH\nMOUTH\nSEX\nPEANUTS",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704372991.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T07:47:56.879231",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "CD"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Worms-Eye"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Object POV , Worms-Eye\nCD",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861324.webp",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "discovered_at": "2025-09-11T07:48:00.546221",
+      "title": "A$AP Rocky - D.M.B. (2022)",
+      "description": "",
+      "tags": [
+        "UNDERWATER",
+        "HAND",
+        "TOILET"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Underwater",
+        "Worms-Eye"
+      ],
+      "director": "A$AP Rocky",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - D.M.B. (2022)\nDirected and produced by him for AWGE, this music video depicts a devoted relationship in challenging circumstances, filmed in New York. This specific clip features a flash cut photography technique inside a vintage film border that duplicates.\nTechnique - Object POV , Underwater , Worms-Eye\nDirector - A$AP Rocky\nOriginal Source - Link\nUNDERWATER\nHAND\nTOILET",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710315607.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T07:48:04.193187",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Season 1. Episode 6. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. In this episode, Eddie's doubts about Susie continue to grow. But there's 15 million pounds of dirty money to be laundered before she'll consider leaving the estate. Created by Guy Ritchie.",
+      "tags": [
+        "DIGITAL",
+        "LIVE STREAM",
+        "SOCIAL MEDIA"
+      ],
+      "technique_tags": [
+        "Floating UI",
+        "Full frame",
+        "Object POV",
+        "Screen POV"
+      ],
+      "director": "Matt Platts-Mills",
+      "dop": "Callan Green",
+      "colorist": "Matthieu Toullet",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 6. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. In this episode, Eddie's doubts about Susie continue to grow. But there's 15 million pounds of dirty money to be laundered before she'll consider leaving the estate. Created by Guy Ritchie.\nTechnique - Floating UI , Full frame , Object POV , Screen POV\nDirector - Eran Creevy\nDOP - Callan Green\nEditor - Matt Platts-Mills\nColorist - Matthieu Toullet\nDIGITAL\nLIVE STREAM\nSOCIAL MEDIA",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705384868.webp",
+      "alt_text": "The Truman Show",
+      "discovered_at": "2025-09-11T07:48:07.832401",
+      "title": "The Truman Show (1998)",
+      "description": "An insurance salesman discovers his whole life is actually a reality TV show. In this scene, actor JJim Carrey isn't breaking the fourth wall when he looks into camera. Instead, in his world he is looking into his mirror. We just happen to be be seeing from the POV of the mirror.",
+      "tags": [
+        "INTERIOR",
+        "MIRROR",
+        "DARK",
+        "FILM",
+        "35MM",
+        "PANAVISION PRIMO PRIMES",
+        "PETER WEIR",
+        "FOURTH WALL",
+        "PANAVISION PLATINUM",
+        "MICHAEL HEALEY",
+        "WILLIAM M. ANDERSON",
+        "LEE SMITH"
+      ],
+      "technique_tags": [
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Lee Smith, William M. Anderson",
+      "dop": "Peter Biziou",
+      "colorist": "Michael Healey",
+      "original_source": "",
+      "additional_info": "The Truman Show (1998)\nAn insurance salesman discovers his whole life is actually a reality TV show. In this scene, actor JJim Carrey isn't breaking the fourth wall when he looks into camera. Instead, in his world he is looking into his mirror. We just happen to be be seeing from the POV of the mirror.\nTechnique - Mirror Cam , Object POV\nDirector - Peter Weir\nDOP - Peter Biziou\nEditor - Lee Smith, William M. Anderson\nColorist - Michael Healey\nOriginal Source - Link\nINTERIOR\nMIRROR\nDARK\nFILM\n35MM\nPANAVISION PRIMO PRIMES\n1.78\nPETER WEIR\nFOURTH WALL\nPANAVISION PLATINUM\nMICHAEL HEALEY\nWILLIAM M. ANDERSON\nLEE SMITH",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704372292.webp",
+      "alt_text": "Breaking Bad (TV Series)",
+      "discovered_at": "2025-09-11T07:48:11.481147",
+      "title": "Breaking Bad (TV Series) (2011)",
+      "description": "",
+      "tags": [
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Michael Slovis",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Breaking Bad (TV Series) (2011)\nTechnique - Object POV\nDirector - Michael Slovis\nOriginal Source - Link\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706688614.webp",
+      "alt_text": "Honey, I Shrunk the Kids",
+      "discovered_at": "2025-09-11T07:48:15.129901",
+      "title": "Honey, I Shrunk the Kids (1989)",
+      "description": "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.",
+      "tags": [
+        "80S",
+        "MAGNIFYING GLASS",
+        "KID"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Magnification",
+        "Object POV"
+      ],
+      "director": "Michael A. Stevenson",
+      "dop": "Hiro Narita",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Honey, I Shrunk the Kids (1989)\nThe scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.\nTechnique - 1980s , Magnification , Object POV\nDirector - Joe Johnston\nDOP - Hiro Narita\nEditor - Michael A. Stevenson\n80S\nMAGNIFYING GLASS\n1989\nKID",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703049770.webp",
+      "alt_text": "The Truman Show",
+      "discovered_at": "2025-09-11T07:48:18.249270",
+      "title": "The Truman Show (1998)",
+      "description": "An insurance salesman discovers his whole life is actually a reality TV show. In this scene, actor JJim Carrey isn't breaking the fourth wall when he looks into camera. Instead, in his world he is looking into his mirror. We just happen to be be seeing from the POV of the mirror.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "FILM",
+        "35MM",
+        "PANAVISION PRIMO PRIMES",
+        "PETER WEIR",
+        "FOURTH WALL",
+        "PANAVISION PLATINUM",
+        "MICHAEL HEALEY",
+        "WILLIAM M. ANDERSON",
+        "LEE SMITH"
+      ],
+      "technique_tags": [
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Lee Smith, William M. Anderson",
+      "dop": "Peter Biziou",
+      "colorist": "Michael Healey",
+      "original_source": "",
+      "additional_info": "The Truman Show (1998)\nAn insurance salesman discovers his whole life is actually a reality TV show. In this scene, actor JJim Carrey isn't breaking the fourth wall when he looks into camera. Instead, in his world he is looking into his mirror. We just happen to be be seeing from the POV of the mirror.\nTechnique - Mirror Cam , Object POV\nDirector - Peter Weir\nDOP - Peter Biziou\nEditor - Lee Smith, William M. Anderson\nColorist - Michael Healey\nINTERIOR\nDARK\nFILM\n35MM\nPANAVISION PRIMO PRIMES\n1.78\nPETER WEIR\nFOURTH WALL\nPANAVISION PLATINUM\nMICHAEL HEALEY\nWILLIAM M. ANDERSON\nLEE SMITH",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703735636.webp",
+      "alt_text": "Close Encounters of the Third Kind",
+      "discovered_at": "2025-09-11T07:48:22.414153",
+      "title": "Close Encounters of the Third Kind (1977)",
+      "description": "Roy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.",
+      "tags": [
+        "DARK",
+        "1970S",
+        "FILM",
+        "35MM",
+        "PANAVISION PANAFLEX",
+        "ANAMORPHIC",
+        "PANAVISION 65 HR",
+        "PANAVISION R-200",
+        "PANAVISION C SERIES"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Screen POV"
+      ],
+      "director": "Michael Kahn",
+      "dop": "Vilmos Zsigmond",
+      "colorist": "Sheri Eisenberg",
+      "original_source": "",
+      "additional_info": "Close Encounters of the Third Kind (1977)\nRoy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.\nTechnique - Object POV , Screen POV\nDOP - Vilmos Zsigmond\nEditor - Michael Kahn\nColorist - Sheri Eisenberg\nOriginal Source - Link\nTutorial - Link\nDARK\n1970S\nFILM\n35MM\n2.35\nPANAVISION PANAFLEX\nANAMORPHIC\nPANAVISION 65 HR\nPANAVISION R-200\nPANAVISION C SERIES",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706156971.webp",
+      "alt_text": "ScHoolboy Q - Dope Dealer (Official Music Video) f",
+      "discovered_at": "2025-09-11T07:48:26.065382",
+      "title": "ScHoolboy Q - Dope Dealer (Official Music Video) f (2016)",
+      "description": "2016 ScHoolboy Q music video directed by Ryan Staake. A masterclass on Object POV and fixed camera shots.",
+      "tags": [
+        "RYAN STAAKE",
+        "FIXED CAMERA",
+        "POMP&CLOUT",
+        "SCHOOLBOY Q",
+        "BLUNT",
+        "WEED",
+        "MARK RUBBO",
+        "YELLOW",
+        "WOMAN",
+        "INTERIOR",
+        "SEED"
+      ],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Fixed Cam",
+        "Object POV"
+      ],
+      "director": "Ryan Staake",
+      "dop": "Kristian Zuniga",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "ScHoolboy Q - Dope Dealer (Official Music Video) f (2016)\n2016 ScHoolboy Q music video directed by Ryan Staake. A masterclass on Object POV and fixed camera shots.\nTechnique - Extreme Close-Up , Fixed Cam , Object POV\nDirector - Ryan Staake\nDOP - Kristian Zuniga\nOriginal Source - Link\nTutorial - Link\nRYAN STAAKE\nFIXED CAMERA\nPOMP&CLOUT\nSCHOOLBOY Q\nBLUNT\nWEED\nMARK RUBBO\nYELLOW\nWOMAN\nINTERIOR\nSEED",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739191742.webp",
+      "alt_text": "Static - Federer",
+      "discovered_at": "2025-09-11T07:48:30.228845",
+      "title": "Static - Federer (2025)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "CITY",
+        "TENNIS",
+        "FALLING",
+        "PLANE",
+        "BALLS"
+      ],
+      "technique_tags": [
+        "Diegetic Typography",
+        "Falling",
+        "Object POV",
+        "Typography"
+      ],
+      "director": "Din Perlis",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Static - Federer (2025)\nDirected, filmed, and edited by Din Perlis, with production led by Hatzub, the video has been highlighted for its exceptional visual storytelling. Directed, Filmed and Edited by @dinperlis Production House : @hatzub Head Producer : @hatzub Executive Producer : @orbarak10 Gaffer : @yanaimoradi 3D & VFX : @dyln.films Coloring : @dinperlis Sound Design : @kai.goodrem Talent Styling : @kimeliyahu Actors Styling : @sarah.elalouf Art Director : @sarah.elalouf PA : @kobefunt PA : @tzur_h BTS : @nnnnoya BTS : @edenush02 Makeup Artist : @makeup.by.roni_ Makeup Assistant : @maayan_ashkenazi_makeup Actors Makeup : @alinshabtay Actors : yardenlasry / @rotem.landesberg Hair Stylist : @oshri.shushan Extras : @sharonann_26 / @hila.atdgi / @sn0rka Artist Management : @gagamanagement Rep : @roms_studios\nTechnique - Diegetic Typography , Falling , Object POV , Typography\nDirector - Din Perlis\nOriginal Source - Link\nDAY\nEXTERIOR\nCITY\nTENNIS\nFALLING\nPLANE\nBALLS",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703203817.webp",
+      "alt_text": "IKEA - Make Space for What You Love",
+      "discovered_at": "2025-09-11T07:48:33.875446",
+      "title": "IKEA - Make Space for What You Love (2022)",
+      "description": "",
+      "tags": [
+        "WARM",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Magical realism",
+        "Object Portal",
+        "Object POV"
+      ],
+      "director": "Mackenzie Sheppard",
+      "dop": "Mikul Villaluna Eriksson",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "IKEA - Make Space for What You Love (2022)\nCharming technique driven short films created by award-winning director Mackenzie Sheppard in partnership with Wieden + Kennedy Tokyo.\nTechnique - Magical realism , Object Portal , Object POV\nDirector - Mackenzie Sheppard\nDOP - Mikul Villaluna Eriksson\nOriginal Source - Link\nWARM\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709970759.webp",
+      "alt_text": "Nike - Rise of the kids",
+      "discovered_at": "2025-09-11T07:48:37.512233",
+      "title": "Nike - Rise of the kids (2022)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "EXTERIOR",
+        "MOM",
+        "YELL"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Subtitles"
+      ],
+      "director": "ALASKA",
+      "dop": "Todd Martin",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - Rise of the kids (2022)\nTechnique - Object POV , Subtitles\nDirector - ALASKA\nDOP - Todd Martin\nOriginal Source - Link\nWOMAN\nEXTERIOR\nMOM\nYELL",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710030776.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T07:48:41.187131",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "WEED",
+        "INTERIOR",
+        "MARIJUANA",
+        "SHRINK WRAP"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Worms-Eye"
+      ],
+      "director": "David Webb",
+      "dop": "Bjorn Charpentier, Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Object POV , Worms-Eye\nDirector - Guy Ritchie, Nima Nourizadeh\nDOP - Bjorn Charpentier, Ed Wild\nEditor - David Webb\nWEED\nINTERIOR\nMARIJUANA\nSHRINK WRAP",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705124097.webp",
+      "alt_text": "Dell XPS - Get Into Your Youniverse",
+      "discovered_at": "2025-09-11T07:48:44.827757",
+      "title": "Dell XPS - Get Into Your Youniverse (2021)",
+      "description": "A spellbinding visualization of what’s virtually possible.",
+      "tags": [
+        "WOMAN",
+        "FACE",
+        "SCREEN",
+        "CLOSE-UP",
+        "LAPTOP",
+        "COMPUTER"
+      ],
+      "technique_tags": [
+        "Magical realism",
+        "Object POV"
+      ],
+      "director": "Alex Liu, Rock Paper Scissors",
+      "dop": "Mauro Chiarello",
+      "colorist": "Ricky Gausis",
+      "original_source": "",
+      "additional_info": "Dell XPS - Get Into Your Youniverse (2021)\nA spellbinding visualization of what’s virtually possible.\nTechnique - Magical realism , Object POV\nDirector - Marco Prestini\nDOP - Mauro Chiarello\nEditor - Alex Liu, Rock Paper Scissors\nColorist - Ricky Gausis\nOriginal Source - Link\nWOMAN\nFACE\nSCREEN\nCLOSE-UP\nLAPTOP\nCOMPUTER",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711142744.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T07:48:48.503204",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "ARM"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Object POV"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Fixed Cam , Object POV\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nARM",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826453.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T07:48:52.132898",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "NIGHT",
+        "BLUE",
+        "DUSK",
+        "EXTERIOR",
+        "TEETH",
+        "MOUTH",
+        "EVENING"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Object POV\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nNIGHT\nBLUE\nDUSK\nEXTERIOR\nTEETH\nMOUTH\nEVENING",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710364881.webp",
+      "alt_text": "Fortuna - Fortuna Favors You",
+      "discovered_at": "2025-09-11T07:48:55.783263",
+      "title": "Fortuna - Fortuna Favors You (2024)",
+      "description": "To be lucky is not lucky. We have to push our luck. Whether it’s a favorite ritual, hard preparation or careful analysis and study… These are all things that tilt fortune in our favor. Fortuna favors you. New TVC for year 2023.",
+      "tags": [
+        "POV",
+        "PHONE",
+        "DIGITAL",
+        "SCREEN"
+      ],
+      "technique_tags": [
+        "Floating UI",
+        "Full frame",
+        "Object POV",
+        "Screen POV"
+      ],
+      "director": "Petr Dvořák",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Fortuna - Fortuna Favors You (2024)\nTo be lucky is not lucky. We have to push our luck. Whether it’s a favorite ritual, hard preparation or careful analysis and study… These are all things that tilt fortune in our favor. Fortuna favors you. New TVC for year 2023.\nTechnique - Floating UI , Full frame , Object POV , Screen POV\nDirector - Petr Dvořák\nOriginal Source - Link\nPOV\nPHONE\nDIGITAL\nSCREEN",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710031361.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T07:48:59.445594",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "VAN",
+        "BARRELS"
+      ],
+      "technique_tags": [
+        "Object POV"
+      ],
+      "director": "David Webb",
+      "dop": "Bjorn Charpentier, Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Object POV\nDirector - Guy Ritchie, Nima Nourizadeh\nDOP - Bjorn Charpentier, Ed Wild\nEditor - David Webb\nDAY\nEXTERIOR\nVAN\nBARRELS",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725946248.webp",
+      "alt_text": "Sabrina Carpenter Ft. Jenna Ortega - Taste",
+      "discovered_at": "2025-09-11T07:49:03.083203",
+      "title": "Sabrina Carpenter Ft. Jenna Ortega - Taste (2024)",
+      "description": "In Sabrina Carpenter's music video for \"Taste,\" co-starring Jenna Ortega, the duo engage in a gory, darkly comedic rivalry over a two-timing boyfriend. Directed by Dave Meyers, the video features numerous campy horror and cult film references, including scenes inspired by Death Becomes Her and Kill Bill. Carpenter and Ortega repeatedly murder each other in elaborate ways, including stabbings, voodoo dolls, and falls from great heights, only to make up with a kiss. In collaboration with Jacobi Mehringer, Anna Arnell, and Lizzy Walker.",
+      "tags": [
+        "BLOOD",
+        "HORROR",
+        "GORE",
+        "SABRINA CARPENTER",
+        "SLASHER",
+        "IMPALED"
+      ],
+      "technique_tags": [
+        "Horror",
+        "Object POV"
+      ],
+      "director": "Emile Doucette",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli, ETHOS",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter Ft. Jenna Ortega - Taste (2024)\nIn Sabrina Carpenter's music video for \"Taste,\" co-starring Jenna Ortega, the duo engage in a gory, darkly comedic rivalry over a two-timing boyfriend. Directed by Dave Meyers, the video features numerous campy horror and cult film references, including scenes inspired by Death Becomes Her and Kill Bill. Carpenter and Ortega repeatedly murder each other in elaborate ways, including stabbings, voodoo dolls, and falls from great heights, only to make up with a kiss. In collaboration with Jacobi Mehringer, Anna Arnell, and Lizzy Walker.\nTechnique - Horror , Object POV\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Emile Doucette\nColorist - Dante Pasquinelli, ETHOS\nOriginal Source - Link\nBLOOD\nHORROR\nGORE\nSABRINA CARPENTER\nSLASHER\nIMPALED",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/16/Mar-26-202315-23-29/3d1740ab24ab4b0c6ced5fbe52ad5856.gif",
+      "alt_text": "The Grand Budapest Hotel",
+      "discovered_at": "2025-09-11T07:49:06.784612",
+      "title": "The Grand Budapest Hotel (2014)",
+      "description": "A visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.",
+      "tags": [
+        "INTERIOR",
+        "MIRROR",
+        "BATHROOM"
+      ],
+      "technique_tags": [
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Jill Bogdanowicz",
+      "original_source": "",
+      "additional_info": "The Grand Budapest Hotel (2014)\nA visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.\nTechnique - Mirror Cam , Object POV\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Jill Bogdanowicz\nTutorial - Link\nINTERIOR\nMIRROR\nBATHROOM",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705385251.webp",
+      "alt_text": "Moonlight",
+      "discovered_at": "2025-09-11T07:49:10.434419",
+      "title": "Moonlight (2016)",
+      "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera. You're seeing the widely popular 'Mirror Shot', in which the camera takes on the POV of a mirror – often in a bathroom.",
+      "tags": [
+        "GREEN",
+        "MIRROR",
+        "BATHROOM",
+        "BOY",
+        "ANGENIEUX",
+        "KOWA",
+        "HAWK V-LITE",
+        "ARRI ALEXA XT"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Intensity",
+        "Mirror Cam",
+        "Object POV"
+      ],
+      "director": "Joi McMillon, Nat Sanders",
+      "dop": "James Laxton",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Moonlight (2016)\nA young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. Directed by Barry Jenkins and shot on an Arri Alexa XT camera. You're seeing the widely popular 'Mirror Shot', in which the camera takes on the POV of a mirror – often in a bathroom.\nTechnique - 1980s , Intensity , Mirror Cam , Object POV\nDirector - Barry Jenkins\nDOP - James Laxton\nEditor - Joi McMillon, Nat Sanders\nColorist - Alex Bickel\nGREEN\nMIRROR\nBATHROOM\nBOY\nANGENIEUX\nKOWA\nHAWK V-LITE\nARRI ALEXA XT",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/10/Chime____Whoa____You_Deserve_Some_Credit___30s_TVC_fY34ScU/d867f9421b7f47540f6482ce2aaa14c4.gif",
+      "alt_text": "Chime - Woah",
+      "discovered_at": "2025-09-11T07:49:13.586160",
+      "title": "Chime - Woah (2021)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "MALE",
+        "LOW ANGLE",
+        "CLOSE UP",
+        "INTERIOR",
+        "WORMS-EYE",
+        "UI"
+      ],
+      "technique_tags": [
+        "Object POV",
+        "Screen POV"
+      ],
+      "director": "Jojo King",
+      "dop": "Starr Whitesides",
+      "colorist": "Kris Smale",
+      "original_source": "",
+      "additional_info": "Chime - Woah (2021)\nWritten and Directed by Mount Defiance Head of Creative: Thierry Ambraisse Creative Producer: Jane Hong Copywriter: Brent Bamberger Production: Open Range Creative Studio: Mount Defiance Director: Mount Defiance Executive Producers: Nancy Lichtwardt and Noah Lichtwardt Line Producer: Matt Little Director of Photography: Starr Whitesides Production Designer: Luke Carr Art Director: Regina Fernandez-Alonso Wardrobe Stylist: Anastasia Walker Post Production: Cabin Edit Post Producer: Michelle Dorsch Editor: Jojo King Visual Effects: JAMM Visual Visual Effects Producer: Justine Pregler Visual Effects Artist: Toma Bowen Color Company: MPC Colorist: Kris Smale Mix House: Lime Studios Sound Engineer: Dave Wagg Composer: Ryland Blackinton Casting Director: Tyler Adams Voice: Christy Fabbri Starring: Andrew Walke, Alexis Zollicoffer, Keane Lindsey, Briar Strong\nTechnique - Object POV , Screen POV\nDirector - Mount Defiance\nDOP - Starr Whitesides\nEditor - Jojo King\nColorist - ",
+      "page_url": "https://eyecannndy.com/technique/as-object"
+    }
+  ]
 }

@@ -1,6 +1,1026 @@
 {
   "technique": "slit-scan",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.655423",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250912_022101",
+    "total_videos": 46,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/StanleyKubrick-2001ASpaceOdyssey1968-SlitScanEffect/0fcb3c3ba6f1bd7e7009471c954b26f8.gif",
+      "alt_text": "2001: A Space Odyssey",
+      "discovered_at": "2025-09-12T02:18:00.141444",
+      "title": "2001: A Space Odyssey (1968)",
+      "description": "",
+      "tags": [
+        "SLIT SCAN",
+        "STANLEY",
+        "KUBRICK",
+        "SPACE",
+        "SLIT-SCAN",
+        "SPACE ODYSSEY"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Ray Lovejoy",
+      "dop": "Geoffrey Unsworth, John Alcott",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "2001: A Space Odyssey (1968)\nTechnique - Slit-scan\nDirector - Stanley Kubrick\nDOP - Geoffrey Unsworth, John Alcott\nEditor - Ray Lovejoy\nOriginal Source - Link\nTutorial - Link\nSLIT SCAN\nSTANLEY\nKUBRICK\n1968\nSPACE\n2001\nSLIT-SCAN\nSPACE ODYSSEY",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/21/tumblr_o5oyifiY6p1qav3uso1_540/16d728404a50aa9c07075847c1594f52.gif",
+      "alt_text": "The Others (Short)",
+      "discovered_at": "2025-09-12T02:18:03.747067",
+      "title": "The Others (Short) (2016)",
+      "description": "Great example of slitscanning in this trippy short by Japanese filmmaker Hiroshi Kondo. From Kondo, \"When you are in the crowd, it's absorbed by the energy of the big city, the noise of the city disappears, and you feel like you are alone in this city.\"",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Hiroshi Kondo",
+      "dop": "Daisuke Kumagai, Yosuke Sato",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Others (Short) (2016)\nGreat example of slitscanning in this trippy short by Japanese filmmaker Hiroshi Kondo. From Kondo, \"When you are in the crowd, it's absorbed by the energy of the big city, the noise of the city disappears, and you feel like you are alone in this city.\"\nTechnique - Slit-scan\nDirector - Hiroshi Kondo\nDOP - Daisuke Kumagai, Yosuke Sato",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/31/17/9a0d6938d16710af2f03229b46cf6410.gif",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "discovered_at": "2025-09-12T02:18:07.202598",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "description": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "tags": [
+        "DARK",
+        "COOL"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Kenny Shimm (Editor)",
+      "dop": "Chuk Town",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)\nTechnique - Slit-scan\nDirector - HIDJI WORLD\nDOP - Chuk Town\nEditor - Kenny Shimm (Editor)\nOriginal Source - Link\nDARK\nCOOL",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/13/Snapinsta.app_video_323846723_1129222988520460_490456974540953107_n/29ef44c3f215a238577823843bccfe85.gif",
+      "alt_text": "Self-portrait on green mosaic background",
+      "discovered_at": "2025-09-12T02:18:10.748494",
+      "title": "Self-portrait on green mosaic background (2024)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "GREEN",
+        "FACE",
+        "SELF PORTRAIT"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Slit-scan"
+      ],
+      "director": "Francois Vogel",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Self-portrait on green mosaic background (2024)\nTechnique - Collage , Slit-scan\nDirector - Francois Vogel\nOriginal Source - Link\nMALE\nGREEN\nFACE\nSELF PORTRAIT",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/4violet_sands__no_matter_what1080p/83c27e65f093fc54dcc69527d88bd8b8.gif",
+      "alt_text": "Violet Sands - No Matter What",
+      "discovered_at": "2025-09-12T02:18:14.310020",
+      "title": "Violet Sands - No Matter What (2017)",
+      "description": "",
+      "tags": [
+        "DANCING",
+        "ANDRE ANDREEV",
+        "SLIT SCAN",
+        "SLIT-SCAN",
+        "DRESS",
+        "SLIT",
+        "SURREALIST",
+        "STUDIO",
+        "VIOLET SANDS",
+        "ABSTRACT",
+        "SURREAL",
+        "FORMAL WEAR",
+        "ANDREEV"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Andre Andreev",
+      "dop": "Claudio Rietti",
+      "colorist": "Andre Andreev",
+      "original_source": "",
+      "additional_info": "Violet Sands - No Matter What (2017)\nTechnique - Slit-scan\nDirector - Andre Andreev\nDOP - Claudio Rietti\nEditor - Andre Andreev\nColorist - Andre Andreev\nOriginal Source - Link\nDANCING\nANDRE ANDREEV\nSLIT SCAN\nSLIT-SCAN\nDRESS\nSLIT\nSURREALIST\nSTUDIO\nVIOLET SANDS\nABSTRACT\n2017\nSURREAL\nFORMAL WEAR\nANDREEV",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/21/tumblr_mgkwcpYlL31qcuxfvo1_500/b408136bfb7263c144f0deeaaf2a430a.gif",
+      "alt_text": "Soulful Sock / Tumblr",
+      "discovered_at": "2025-09-12T02:18:17.959075",
+      "title": "Soulful Sock / Tumblr",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "CHEETAH"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Soulful Sock / Tumblr\nTechnique - Slit-scan\nDAY\nEXTERIOR\nCHEETAH",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/12/Unknown_T_-_Hocus_Pocus_Feat._Loyle_Carner_Official_Video_XrxKguP/b62e2e44770e96a1b52699cece20fb8f.gif",
+      "alt_text": "Unknown T - Hocus Pocus Feat. Loyle Carner",
+      "discovered_at": "2025-09-12T02:18:21.480362",
+      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "PINK",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Fouad Gaber",
+      "dop": "Anna Smoroňová",
+      "colorist": "Marina Starke",
+      "original_source": "",
+      "additional_info": "Unknown T - Hocus Pocus Feat. Loyle Carner (2023)\nDive into Felix Brady's latest music video masterpiece—a surreal space adorned with captivating visual techniques and a vibrant color palette. Experience artistic brilliance in a compact creation.\nTechnique - Slit-scan\nDirector - Felix Brady\nDOP - Anna Smoroňová\nEditor - Fouad Gaber\nColorist - Marina Starke\nOriginal Source - Link\nDAY\nPINK\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/21/tumblr_o5oyifiY6p1qav3uso2_r1_540/f463156955f3b9d0d166a66f38d5c601.gif",
+      "alt_text": "The Others (Short)",
+      "discovered_at": "2025-09-12T02:18:24.979629",
+      "title": "The Others (Short) (2016)",
+      "description": "Great example of slitscanning in this trippy short by Japanese filmmaker Hiroshi Kondo. From Kondo, \"When you are in the crowd, it's absorbed by the energy of the big city, the noise of the city disappears, and you feel like you are alone in this city.\"",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Hiroshi Kondo",
+      "dop": "Daisuke Kumagai, Yosuke Sato",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Others (Short) (2016)\nGreat example of slitscanning in this trippy short by Japanese filmmaker Hiroshi Kondo. From Kondo, \"When you are in the crowd, it's absorbed by the energy of the big city, the noise of the city disappears, and you feel like you are alone in this city.\"\nTechnique - Slit-scan\nDirector - Hiroshi Kondo\nDOP - Daisuke Kumagai, Yosuke Sato",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/violet_sands__no_matter_what1080p/96125ec2e1c97c012c3806ea324c9fd1.gif",
+      "alt_text": "Violet Sands - No Matter What",
+      "discovered_at": "2025-09-12T02:18:28.449118",
+      "title": "Violet Sands - No Matter What (2017)",
+      "description": "",
+      "tags": [
+        "DANCING",
+        "ANDRE ANDREEV",
+        "SLIT SCAN",
+        "SLIT-SCAN",
+        "DRESS",
+        "SLIT",
+        "SURREALIST",
+        "STUDIO",
+        "VIOLET SANDS",
+        "ABSTRACT",
+        "SURREAL",
+        "FORMAL WEAR",
+        "ANDREEV"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Andre Andreev",
+      "dop": "Claudio Rietti",
+      "colorist": "Andre Andreev",
+      "original_source": "",
+      "additional_info": "Violet Sands - No Matter What (2017)\nTechnique - Slit-scan\nDirector - Andre Andreev\nDOP - Claudio Rietti\nEditor - Andre Andreev\nColorist - Andre Andreev\nOriginal Source - Link\nDANCING\nANDRE ANDREEV\nSLIT SCAN\nSLIT-SCAN\nDRESS\nSLIT\nSURREALIST\nSTUDIO\nVIOLET SANDS\nABSTRACT\n2017\nSURREAL\nFORMAL WEAR\nANDREEV",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/22/Jun-08-202307-52-41_1/bb0c68eb8abfd5dcf574e75256642d41.gif",
+      "alt_text": "Balenciaga SS23 dir. Jonas Ersland",
+      "discovered_at": "2025-09-12T02:18:32.029293",
+      "title": "Balenciaga SS23 dir. Jonas Ersland (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Jonas Ersland",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Balenciaga SS23 dir. Jonas Ersland (2023)\nTechnique - Slit-scan\nDirector - Jonas Ersland",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/10/giphy-2023-03-29T214115.634/d38fe9110453d1400a13b40a2734fb38.gif",
+      "alt_text": "Lolo Zouaï - Moi + Look at Us (2020)",
+      "discovered_at": "2025-09-12T02:18:35.605588",
+      "title": "Lolo Zouaï - Moi + Look at Us (2020) (2020)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "16MM"
+      ],
+      "technique_tags": [
+        "Fisheye",
+        "Slit-scan"
+      ],
+      "director": "Piotr Lebryk",
+      "dop": "Maxime Berger",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lolo Zouaï - Moi + Look at Us (2020) (2020)\nProduced by OMAR Directed & Edited by Piotr Lebryk Executive Production Manager: Raphael Muckensturm DOP 16mm: Maxime Berger MGMT & Video Commissioner: Doug Gleicher\nTechnique - Fisheye , Slit-scan\nDirector - Piotr Lebryk\nDOP - Maxime Berger\nOriginal Source - Link\nINTERIOR\n16MM",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/22/Deb_Never_-_Momentary_Sweetheart_Official_Video_WiQSuYR/cf1e2fa6b048853893f25b5112e227ec.gif",
+      "alt_text": "Deb Never - Momentary Sweetheart",
+      "discovered_at": "2025-09-12T02:18:38.992878",
+      "title": "Deb Never - Momentary Sweetheart (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "UNCANNY",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Deb Never - Momentary Sweetheart (2023)\nDirector: UNCANNY Stylist: Clara Mary Joy Wardrobe: Bentley Graham Wardrobe Asst: James Holloway Make Up: Echo Seireeni Gaffer: Ian Blackburn Spark: Declan Duffy\nTechnique - Slit-scan\nDirector - UNCANNY\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/21/new4/353254fc6fda5215dbb750d3d8e2f5f1.gif",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T02:18:42.445911",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Slit-scan",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/07/giphy_12/8dbb96e8f1d2755acc9a3958a7cf7664.gif",
+      "alt_text": "Live Action Spinning GIF By Dyan Jong",
+      "discovered_at": "2025-09-12T02:18:45.869198",
+      "title": "Live Action Spinning GIF By Dyan Jong (2019)",
+      "description": "",
+      "tags": [
+        "YELLOW"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Dylan Jong",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Live Action Spinning GIF By Dyan Jong (2019)\nTechnique - Slit-scan\nDirector - Dylan Jong\nOriginal Source - Link\nYELLOW",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/750_mph_278997313_334571655330143_3871626900921504584_n/a908327c0d7932f295c864be25cca0f2.gif",
+      "alt_text": "Ikea - Infinite Play",
+      "discovered_at": "2025-09-12T02:18:49.623086",
+      "title": "Ikea - Infinite Play (2022)",
+      "description": "",
+      "tags": [
+        "WARP",
+        "SLOW MOTION",
+        "SLIT SCAN"
+      ],
+      "technique_tags": [
+        "Slit-scan",
+        "Slow Motion"
+      ],
+      "director": "Paul Hardcastle",
+      "dop": "Pierre De Kerchove",
+      "colorist": "Fernando Lui",
+      "original_source": "",
+      "additional_info": "Ikea - Infinite Play (2022)\nTechnique - Slit-scan , Slow Motion\nDirector - ALASKA\nDOP - Pierre De Kerchove\nEditor - Paul Hardcastle\nColorist - Fernando Lui\nOriginal Source - Link\nWARP\nSLOW MOTION\nSLIT SCAN",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/18/Snapinsta.app_video_423034921_971862797992198_7928744839371669751_n_1/4a9f0da578b4698c185a41d47f508820.gif",
+      "alt_text": "bambous Merci",
+      "discovered_at": "2025-09-12T02:18:53.162404",
+      "title": "bambous Merci",
+      "description": "",
+      "tags": [
+        "HANDS",
+        "BAMBOO"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Francois Vogel",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "bambous Merci\nTechnique - Slit-scan\nDirector - Francois Vogel\nOriginal Source - Link\nHANDS\nBAMBOO",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/21/tumblr_o5oyifiY6p1qav3uso4_r1_540/a7a8d90a936edb9175229978955445af.gif",
+      "alt_text": "The Others (Short)",
+      "discovered_at": "2025-09-12T02:18:56.564238",
+      "title": "The Others (Short) (2016)",
+      "description": "Great example of slitscanning in this trippy short by Japanese filmmaker Hiroshi Kondo. From Kondo, \"When you are in the crowd, it's absorbed by the energy of the big city, the noise of the city disappears, and you feel like you are alone in this city.\"",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Hiroshi Kondo",
+      "dop": "Daisuke Kumagai, Yosuke Sato",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Others (Short) (2016)\nGreat example of slitscanning in this trippy short by Japanese filmmaker Hiroshi Kondo. From Kondo, \"When you are in the crowd, it's absorbed by the energy of the big city, the noise of the city disappears, and you feel like you are alone in this city.\"\nTechnique - Slit-scan\nDirector - Hiroshi Kondo\nDOP - Daisuke Kumagai, Yosuke Sato",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/8violet_sands__no_matter_what1080p/26bdaaee7420e9f106081812c0ca0e39.gif",
+      "alt_text": "Violet Sands - No Matter What",
+      "discovered_at": "2025-09-12T02:19:00.106591",
+      "title": "Violet Sands - No Matter What (2017)",
+      "description": "",
+      "tags": [
+        "DANCING",
+        "ANDRE ANDREEV",
+        "SLIT SCAN",
+        "SLIT-SCAN",
+        "DRESS",
+        "SLIT",
+        "SURREALIST",
+        "STUDIO",
+        "VIOLET SANDS",
+        "ABSTRACT",
+        "SURREAL",
+        "FORMAL WEAR",
+        "ANDREEV"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Andre Andreev",
+      "dop": "Claudio Rietti",
+      "colorist": "Andre Andreev",
+      "original_source": "",
+      "additional_info": "Violet Sands - No Matter What (2017)\nTechnique - Slit-scan\nDirector - Andre Andreev\nDOP - Claudio Rietti\nEditor - Andre Andreev\nColorist - Andre Andreev\nOriginal Source - Link\nDANCING\nANDRE ANDREEV\nSLIT SCAN\nSLIT-SCAN\nDRESS\nSLIT\nSURREALIST\nSTUDIO\nVIOLET SANDS\nABSTRACT\n2017\nSURREAL\nFORMAL WEAR\nANDREEV",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/24/tumblr_360a5686430ee9b30226021d1751d172_5a2b4218_540/724a02f12d0ff325ad980705eaa54a33.gif",
+      "alt_text": "2001: A Space Odyssey",
+      "discovered_at": "2025-09-12T02:19:03.454790",
+      "title": "2001: A Space Odyssey (1968)",
+      "description": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins: a spacecraft manned by two men and the supercomputer HAL 9000.",
+      "tags": [
+        "COLORFUL",
+        "TRIPPY",
+        "SATURATION",
+        "PSYCHEDELIC"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Future",
+        "Slit-scan"
+      ],
+      "director": "Ray Lovejoy",
+      "dop": "Geoffrey Unsworth, John Alcott",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "2001: A Space Odyssey (1968)\nAfter uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins: a spacecraft manned by two men and the supercomputer HAL 9000.\nTechnique - Altered state , Future , Slit-scan\nDirector - Stanley Kubrick\nDOP - Geoffrey Unsworth, John Alcott\nEditor - Ray Lovejoy\nTutorial - Link\nCOLORFUL\nTRIPPY\nSATURATION\nPSYCHEDELIC",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/25/original_0b0976cd819df69056ef79ab15ea017d1/da6c6e7e596bd446eb1af67f8ab71068.gif",
+      "alt_text": "Animation by Marion Sila",
+      "discovered_at": "2025-09-12T02:19:06.979732",
+      "title": "Animation by Marion Sila",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "COOL WHITE",
+        "GRAFFITI"
+      ],
+      "technique_tags": [
+        "Dolly Zoom",
+        "Slit-scan"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation by Marion Sila\nSlit-scan dolly zoom effect.\nTechnique - Dolly Zoom , Slit-scan\nINTERIOR\nCOOL WHITE\nGRAFFITI",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/21/rMAgWt5/ff7b59b90badb8d4e3deda1962f4469f.gif",
+      "alt_text": "Micaël Reynaud (Short)",
+      "discovered_at": "2025-09-12T02:19:10.351147",
+      "title": "Micaël Reynaud (Short) (2014)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "BEACH",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Micaël Reynaud (Short) (2014)\nTechnique - Slit-scan\nDAY\nBEACH\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/13/5violet_sands__no_matter_what1080p/4478a3d1a04a03a4feb47bc54ea9660d.gif",
+      "alt_text": "Violet Sands - No Matter What",
+      "discovered_at": "2025-09-12T02:19:13.909413",
+      "title": "Violet Sands - No Matter What (2017)",
+      "description": "",
+      "tags": [
+        "NO MATTER WHAT",
+        "ANDRE ANDREEV"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Andre Andreev",
+      "dop": "Claudio Rietti",
+      "colorist": "Andre Andreev",
+      "original_source": "",
+      "additional_info": "Violet Sands - No Matter What (2017)\nTechnique - Slit-scan\nDirector - Andre Andreev\nDOP - Claudio Rietti\nEditor - Andre Andreev\nColorist - Andre Andreev\nOriginal Source - Link\nNO MATTER WHAT\nANDRE ANDREEV",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/22/1JimPressingStubenhacker-WasAnderesprod.byRoutingvonSends/cd8c71e5ed19a014ad6bacca3f82a5da.gif",
+      "alt_text": "Jim Pressing & Stubenhacker - Was Anderes",
+      "discovered_at": "2025-09-12T02:19:17.420588",
+      "title": "Jim Pressing & Stubenhacker - Was Anderes (2014)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Susanne Nevermann",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Jim Pressing & Stubenhacker - Was Anderes (2014)\nTechnique - Slit-scan\nDirector - Susanne Nevermann\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/7violet_sands__no_matter_what1080p/18f0bae46bc518b8acb06a6ef336be00.gif",
+      "alt_text": "Violet Sands - No Matter What",
+      "discovered_at": "2025-09-12T02:19:20.865691",
+      "title": "Violet Sands - No Matter What (2017)",
+      "description": "",
+      "tags": [
+        "DANCING",
+        "ANDRE ANDREEV",
+        "SLIT SCAN",
+        "SLIT-SCAN",
+        "DRESS",
+        "SLIT",
+        "SURREALIST",
+        "STUDIO",
+        "VIOLET SANDS",
+        "ABSTRACT",
+        "SURREAL",
+        "FORMAL WEAR",
+        "ANDREEV"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Andre Andreev",
+      "dop": "Claudio Rietti",
+      "colorist": "Andre Andreev",
+      "original_source": "",
+      "additional_info": "Violet Sands - No Matter What (2017)\nTechnique - Slit-scan\nDirector - Andre Andreev\nDOP - Claudio Rietti\nEditor - Andre Andreev\nColorist - Andre Andreev\nOriginal Source - Link\nDANCING\nANDRE ANDREEV\nSLIT SCAN\nSLIT-SCAN\nDRESS\nSLIT\nSURREALIST\nSTUDIO\nVIOLET SANDS\nABSTRACT\n2017\nSURREAL\nFORMAL WEAR\nANDREEV",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/22/Deb_Never_-_Momentary_Sweetheart_Official_Video_5K0wynr/935520a4d0464be8392e2e143c4499cd.gif",
+      "alt_text": "Deb Never - Momentary Sweetheart",
+      "discovered_at": "2025-09-12T02:19:24.530711",
+      "title": "Deb Never - Momentary Sweetheart (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "UNCANNY",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Deb Never - Momentary Sweetheart (2023)\nDirector: UNCANNY Stylist: Clara Mary Joy Wardrobe: Bentley Graham Wardrobe Asst: James Holloway Make Up: Echo Seireeni Gaffer: Ian Blackburn Spark: Declan Duffy\nTechnique - Slit-scan\nDirector - UNCANNY\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/25/750_mph_278997313_334571655330143_3871626900921504584_n/b605fe53f8891427dd2fc9af4087b017.gif",
+      "alt_text": "Ikea - Infinite Play",
+      "discovered_at": "2025-09-12T02:19:28.172701",
+      "title": "Ikea - Infinite Play (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "WARP",
+        "WARM WHITE"
+      ],
+      "technique_tags": [
+        "Dolly Zoom",
+        "Slit-scan"
+      ],
+      "director": "Paul Hardcastle",
+      "dop": "Pierre De Kerchove",
+      "colorist": "Fernando Lui",
+      "original_source": "",
+      "additional_info": "Ikea - Infinite Play (2022)\nPost production slit-scan dolly zoom effect.\nTechnique - Dolly Zoom , Slit-scan\nDirector - ALASKA\nDOP - Pierre De Kerchove\nEditor - Paul Hardcastle\nColorist - Fernando Lui\nOriginal Source - Link\nDAY\nINTERIOR\nWARP\nWARM WHITE",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/06/drone_360_cam-2/648032b14a219ffbb3bd0e383a5d1bb0.gif",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-12T02:19:31.714361",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "tags": [
+        "RUNNING",
+        "INTERIOR",
+        "DARK",
+        "COOL",
+        "TRAIN",
+        "SUBWAY"
+      ],
+      "technique_tags": [
+        "FPV Drone",
+        "Omnidirectional",
+        "Slit-scan"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nShot: 360 mounted FPV drone + slit-scan\nTechnique - FPV Drone , Omnidirectional , Slit-scan\nDirector - Mikhail Parkhomenko (parh0)\nRUNNING\nINTERIOR\nDARK\nCOOL\nTRAIN\nSUBWAY",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/22/Jun-08-202307-54-25_1/2c42e83a82d426b4ad186497eb7ad2a9.gif",
+      "alt_text": "Balenciaga SS23 dir. Jonas Ersland",
+      "discovered_at": "2025-09-12T02:19:35.170099",
+      "title": "Balenciaga SS23 dir. Jonas Ersland (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Jonas Ersland",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Balenciaga SS23 dir. Jonas Ersland (2023)\nTechnique - Slit-scan\nDirector - Jonas Ersland",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/9violet_sands__no_matter_what1080p/b86da0396ae97d3212f467ce37f40f0d.gif",
+      "alt_text": "Violet Sands - No Matter What",
+      "discovered_at": "2025-09-12T02:19:38.804054",
+      "title": "Violet Sands - No Matter What (2017)",
+      "description": "",
+      "tags": [
+        "DANCING",
+        "ANDRE ANDREEV",
+        "SLIT SCAN",
+        "SLIT-SCAN",
+        "DRESS",
+        "SLIT",
+        "SURREALIST",
+        "STUDIO",
+        "VIOLET SANDS",
+        "ABSTRACT",
+        "SURREAL",
+        "FORMAL WEAR",
+        "ANDREEV"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Andre Andreev",
+      "dop": "Claudio Rietti",
+      "colorist": "Andre Andreev",
+      "original_source": "",
+      "additional_info": "Violet Sands - No Matter What (2017)\nTechnique - Slit-scan\nDirector - Andre Andreev\nDOP - Claudio Rietti\nEditor - Andre Andreev\nColorist - Andre Andreev\nOriginal Source - Link\nDANCING\nANDRE ANDREEV\nSLIT SCAN\nSLIT-SCAN\nDRESS\nSLIT\nSURREALIST\nSTUDIO\nVIOLET SANDS\nABSTRACT\n2017\nSURREAL\nFORMAL WEAR\nANDREEV",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/3violet_sands__no_matter_what1080p/754becd2321b25e27bb119c41cb119e3.gif",
+      "alt_text": "Violet Sands - No Matter What",
+      "discovered_at": "2025-09-12T02:19:42.428929",
+      "title": "Violet Sands - No Matter What",
+      "description": "",
+      "tags": [
+        "DANCING",
+        "ANDRE ANDREEV",
+        "SLIT SCAN",
+        "SLIT-SCAN",
+        "DRESS",
+        "SLIT",
+        "SURREALIST",
+        "STUDIO",
+        "VIOLET SANDS",
+        "ABSTRACT",
+        "SURREAL",
+        "FORMAL WEAR",
+        "ANDREEV"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Andre Andreev",
+      "dop": "Claudio Rietti",
+      "colorist": "Andre Andreev",
+      "original_source": "",
+      "additional_info": "Violet Sands - No Matter What\nTechnique - Slit-scan\nDirector - Andre Andreev\nDOP - Claudio Rietti\nEditor - Andre Andreev\nColorist - Andre Andreev\nOriginal Source - Link\nDANCING\nANDRE ANDREEV\nSLIT SCAN\nSLIT-SCAN\nDRESS\nSLIT\nSURREALIST\nSTUDIO\nVIOLET SANDS\nABSTRACT\n2017\nSURREAL\nFORMAL WEAR\nANDREEV",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/14/f9_mQjy6Rp/87f3e16308a69c6466fe3c474daa7ddb.gif",
+      "alt_text": "Vaeda Black - Run Fast",
+      "discovered_at": "2025-09-12T02:19:46.007351",
+      "title": "Vaeda Black - Run Fast (2019)",
+      "description": "Shot breakdown: Slit-scan motion blur + double exposure",
+      "tags": [
+        "MOTION BLUR",
+        "BLUR",
+        "MUSIC VIDEO",
+        "INTERIOR",
+        "JUSTIN LEYBA",
+        "JACOBI MEHRINGER",
+        "VAEDA BLACK"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Motion Blur",
+        "Slit-scan"
+      ],
+      "director": "Jacobi Mehringer, Justin Leyba",
+      "dop": "Nat Pinhiero",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vaeda Black - Run Fast (2019)\nShot breakdown: Slit-scan motion blur + double exposure\nTechnique - Double Exposure , Motion Blur , Slit-scan\nDirector - Jacobi Mehringer, Justin Leyba\nDOP - Nat Pinhiero\nEditor - Jacobi Mehringer, Justin Leyba\nOriginal Source - Link\nMOTION BLUR\nBLUR\nMUSIC VIDEO\nINTERIOR\nJUSTIN LEYBA\nJACOBI MEHRINGER\nVAEDA BLACK",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/22/Deb_Never_-_Momentary_Sweetheart_Official_Video_Td9tAzA/4f3fe2852581514bcb11e9ecd8a19ea4.gif",
+      "alt_text": "Deb Never - Momentary Sweetheart",
+      "discovered_at": "2025-09-12T02:20:00.961470",
+      "title": "Deb Never - Momentary Sweetheart (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "UNCANNY",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Deb Never - Momentary Sweetheart (2023)\nDirector: UNCANNY Stylist: Clara Mary Joy Wardrobe: Bentley Graham Wardrobe Asst: James Holloway Make Up: Echo Seireeni Gaffer: Ian Blackburn Spark: Declan Duffy\nTechnique - Slit-scan\nDirector - UNCANNY\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/06/slit_scan/a2c5f478061b7499d6516ae87d5abe38.gif",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-12T02:20:04.479184",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "tags": [
+        "GREEN",
+        "RUNNING",
+        "SLOW MOTION",
+        "SLIT SCAN",
+        "PATTERN",
+        "LINES",
+        "SKI MASK"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nShot: Slow motion slit scan\nTechnique - Slit-scan\nDirector - Mikhail Parkhomenko (parh0)\nGREEN\nRUNNING\nSLOW MOTION\nSLIT SCAN\nPATTERN\nLINES\nSKI MASK",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/TheIrrationalFearofNothing_10/d9c0eb7736f446d4bbff114d543bf776.gif",
+      "alt_text": "The Irrational Fear of Nothing",
+      "discovered_at": "2025-09-12T02:20:08.025687",
+      "title": "The Irrational Fear of Nothing (2016)",
+      "description": "Follows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.",
+      "tags": [
+        "SLIT SCAN",
+        "SLIT-SCAN",
+        "PAUL TRILLO",
+        "SLITSCAN",
+        "SNORRICAM"
+      ],
+      "technique_tags": [
+        "Slit-scan",
+        "Snorricam"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Ed David",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Irrational Fear of Nothing (2016)\nFollows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.\nTechnique - Slit-scan , Snorricam\nDirector - Paul Trillo\nDOP - Ed David\nEditor - Paul Trillo\nOriginal Source - Link\nTutorial - Link\nSLIT SCAN\nSLIT-SCAN\nPAUL TRILLO\nSLITSCAN\nSNORRICAM",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/6violet_sands__no_matter_what1080p/f31bea2f129d290a44c2737c83ebf59a.gif",
+      "alt_text": "Violet Sands - No Matter What",
+      "discovered_at": "2025-09-12T02:20:11.490290",
+      "title": "Violet Sands - No Matter What (2017)",
+      "description": "",
+      "tags": [
+        "DANCING",
+        "ANDRE ANDREEV",
+        "SLIT SCAN",
+        "SLIT-SCAN",
+        "DRESS",
+        "SLIT",
+        "SURREALIST",
+        "STUDIO",
+        "VIOLET SANDS",
+        "ABSTRACT",
+        "SURREAL",
+        "FORMAL WEAR",
+        "ANDREEV"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Andre Andreev",
+      "dop": "Claudio Rietti",
+      "colorist": "Andre Andreev",
+      "original_source": "",
+      "additional_info": "Violet Sands - No Matter What (2017)\nTechnique - Slit-scan\nDirector - Andre Andreev\nDOP - Claudio Rietti\nEditor - Andre Andreev\nColorist - Andre Andreev\nOriginal Source - Link\nDANCING\nANDRE ANDREEV\nSLIT SCAN\nSLIT-SCAN\nDRESS\nSLIT\nSURREALIST\nSTUDIO\nVIOLET SANDS\nABSTRACT\n2017\nSURREAL\nFORMAL WEAR\nANDREEV",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/22/Deb_Never_-_Momentary_Sweetheart_Official_Video_FpumTAZ/144ddb90b72a2f47fb74ae3a9e9ef3e6.gif",
+      "alt_text": "Deb Never - Momentary Sweetheart",
+      "discovered_at": "2025-09-12T02:20:15.081428",
+      "title": "Deb Never - Momentary Sweetheart (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "UNCANNY",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Deb Never - Momentary Sweetheart (2023)\nDirector: UNCANNY Stylist: Clara Mary Joy Wardrobe: Bentley Graham Wardrobe Asst: James Holloway Make Up: Echo Seireeni Gaffer: Ian Blackburn Spark: Declan Duffy\nTechnique - Slit-scan\nDirector - UNCANNY\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/21/tumblr_o5oyifiY6p1qav3uso3_r1_540/d04e82da7483537af23f246eab5a3bca.gif",
+      "alt_text": "The Others (Short)",
+      "discovered_at": "2025-09-12T02:20:18.596612",
+      "title": "The Others (Short) (2016)",
+      "description": "Great example of slitscanning in this trippy short by Japanese filmmaker Hiroshi Kondo. From Kondo, \"When you are in the crowd, it's absorbed by the energy of the big city, the noise of the city disappears, and you feel like you are alone in this city.\"",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Hiroshi Kondo",
+      "dop": "Daisuke Kumagai, Yosuke Sato",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Others (Short) (2016)\nGreat example of slitscanning in this trippy short by Japanese filmmaker Hiroshi Kondo. From Kondo, \"When you are in the crowd, it's absorbed by the energy of the big city, the noise of the city disappears, and you feel like you are alone in this city.\"\nTechnique - Slit-scan\nDirector - Hiroshi Kondo\nDOP - Daisuke Kumagai, Yosuke Sato",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/22/Deb_Never_-_Momentary_Sweetheart_Official_Video_YtwyOag/db872fef4b2a45e2b09c02f7b5ae903e.gif",
+      "alt_text": "Deb Never - Momentary Sweetheart",
+      "discovered_at": "2025-09-12T02:20:22.106052",
+      "title": "Deb Never - Momentary Sweetheart (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "UNCANNY",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Deb Never - Momentary Sweetheart (2023)\nDirector: UNCANNY Stylist: Clara Mary Joy Wardrobe: Bentley Graham Wardrobe Asst: James Holloway Make Up: Echo Seireeni Gaffer: Ian Blackburn Spark: Declan Duffy\nTechnique - Slit-scan\nDirector - UNCANNY\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/2violet_sands__no_matter_what1080p/a50f1a87a2f7658c16a278059a47a635.gif",
+      "alt_text": "Violet Sands - No Matter What",
+      "discovered_at": "2025-09-12T02:20:25.466643",
+      "title": "Violet Sands - No Matter What (2017)",
+      "description": "",
+      "tags": [
+        "DANCING",
+        "ANDRE ANDREEV",
+        "SLIT SCAN",
+        "SLIT-SCAN",
+        "DRESS",
+        "SLIT",
+        "SURREALIST",
+        "STUDIO",
+        "VIOLET SANDS",
+        "ABSTRACT",
+        "SURREAL",
+        "FORMAL WEAR",
+        "ANDREEV"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Andre Andreev",
+      "dop": "Claudio Rietti",
+      "colorist": "Andre Andreev",
+      "original_source": "",
+      "additional_info": "Violet Sands - No Matter What (2017)\nTechnique - Slit-scan\nDirector - Andre Andreev\nDOP - Claudio Rietti\nEditor - Andre Andreev\nColorist - Andre Andreev\nOriginal Source - Link\nDANCING\nANDRE ANDREEV\nSLIT SCAN\nSLIT-SCAN\nDRESS\nSLIT\nSURREALIST\nSTUDIO\nVIOLET SANDS\nABSTRACT\n2017\nSURREAL\nFORMAL WEAR\nANDREEV",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/21/new5/436504d6d0381a6dbccde9a5f7b1b3db.gif",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T02:20:29.081307",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Slit-scan",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/06/slit_scan-2/fc1393b2f6987f74bbf9a698dafff772.gif",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-12T02:20:43.996923",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "tags": [
+        "TEAL",
+        "ONE SHOT"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nShot: Circular slit-scan\nTechnique - Slit-scan\nDirector - Mikhail Parkhomenko (parh0)\nTEAL\nONE SHOT",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/22/2JimPressingStubenhacker-WasAnderesprod.byRoutingvonSends/f270a4b33f5e17e7f952544bdfc6c12b.gif",
+      "alt_text": "Jim Pressing & Stubenhacker - Was Anderes",
+      "discovered_at": "2025-09-12T02:20:47.702262",
+      "title": "Jim Pressing & Stubenhacker - Was Anderes (2014)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Susanne Nevermann",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Jim Pressing & Stubenhacker - Was Anderes (2014)\nTechnique - Slit-scan\nDirector - Susanne Nevermann\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/10violet_sands__no_matter_what1080p/7c0fe65dfac24f6014bc5ff4835d38c1.gif",
+      "alt_text": "Violet Sands - No Matter What",
+      "discovered_at": "2025-09-12T02:20:51.240526",
+      "title": "Violet Sands - No Matter What (2017)",
+      "description": "",
+      "tags": [
+        "DANCING",
+        "ANDRE ANDREEV",
+        "SLIT SCAN",
+        "SLIT-SCAN",
+        "DRESS",
+        "SLIT",
+        "SURREALIST",
+        "STUDIO",
+        "VIOLET SANDS",
+        "ABSTRACT",
+        "SURREAL",
+        "FORMAL WEAR",
+        "ANDREEV"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Andre Andreev",
+      "dop": "Claudio Rietti",
+      "colorist": "Andre Andreev",
+      "original_source": "",
+      "additional_info": "Violet Sands - No Matter What (2017)\nTechnique - Slit-scan\nDirector - Andre Andreev\nDOP - Claudio Rietti\nEditor - Andre Andreev\nColorist - Andre Andreev\nOriginal Source - Link\nDANCING\nANDRE ANDREEV\nSLIT SCAN\nSLIT-SCAN\nDRESS\nSLIT\nSURREALIST\nSTUDIO\nVIOLET SANDS\nABSTRACT\n2017\nSURREAL\nFORMAL WEAR\nANDREEV",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/22/Deb_Never_-_Momentary_Sweetheart_Official_Video_Ej417ly/4822babd01c6afba39efee86c4e9d2f4.gif",
+      "alt_text": "Deb Never - Momentary Sweetheart",
+      "discovered_at": "2025-09-12T02:20:54.660579",
+      "title": "Deb Never - Momentary Sweetheart (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "UNCANNY",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Deb Never - Momentary Sweetheart (2023)\nDirector: UNCANNY Stylist: Clara Mary Joy Wardrobe: Bentley Graham Wardrobe Asst: James Holloway Make Up: Echo Seireeni Gaffer: Ian Blackburn Spark: Declan Duffy\nTechnique - Slit-scan\nDirector - UNCANNY\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/06/slit_scan-3/07f1e3c3d9644ac4b1485c2b1a107c91.gif",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-12T02:20:58.168436",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "DANCING",
+        "SLOW MOTION",
+        "CHOREOGRAPHY"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nShot: Slow motion slit scan\nTechnique - Slit-scan\nDirector - Mikhail Parkhomenko (parh0)\nINTERIOR\nDANCING\nSLOW MOTION\nCHOREOGRAPHY",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/31/20/fe88ba50ff546f750dba07cfa009c692.gif",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "discovered_at": "2025-09-12T02:21:01.826972",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "description": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "tags": [
+        "DARK",
+        "COOL"
+      ],
+      "technique_tags": [
+        "Slit-scan"
+      ],
+      "director": "Kenny Shimm (Editor)",
+      "dop": "Chuk Town",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)\nTechnique - Slit-scan\nDirector - HIDJI WORLD\nDOP - Chuk Town\nEditor - Kenny Shimm (Editor)\nOriginal Source - Link\nDARK\nCOOL",
+      "page_url": "https://eyecannndy.com/technique/slit-scan"
+    }
+  ]
 }

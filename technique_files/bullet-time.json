@@ -1,982 +1,1182 @@
 {
   "technique": "bullet-time",
-  "video_count": 51,
-  "generated_at": "2025-09-05T04:03:29.613822",
+  "scrape_info": {
+    "timestamp": "20250911_075651",
+    "total_videos": 48,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703235582.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.027962",
-      "element_tag": "img",
-      "title": "© Easten Diamond Sports, LLC.",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "© Easten Diamond Sports, LLC.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041508.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028071",
-      "element_tag": "img",
-      "title": "Sokół – Miłość zawsze jest",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Sokół – Miłość zawsze jest",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041567.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028131",
-      "element_tag": "img",
-      "title": "Sokół – Miłość zawsze jest",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Sokół – Miłość zawsze jest",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703235582.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028181",
-      "element_tag": "img",
-      "title": "© Easten Diamond Sports, LLC.",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "© Easten Diamond Sports, LLC.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041508.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028228",
-      "element_tag": "img",
-      "title": "Sokół – Miłość zawsze jest",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Sokół – Miłość zawsze jest",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041567.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028271",
-      "element_tag": "img",
-      "title": "Sokół – Miłość zawsze jest",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Sokół – Miłość zawsze jest",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313531.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028318",
-      "element_tag": "img",
-      "title": "Lucy",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Lucy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285896.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028367",
-      "element_tag": "img",
-      "title": "The Matrix Resurrections",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "The Matrix Resurrections",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703233678.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028416",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Kids Turned Out Fine",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "A$AP Rocky - Kids Turned Out Fine",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705823867.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028467",
-      "element_tag": "img",
-      "title": "Ziak - Akimbo",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Ziak - Akimbo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313366.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028515",
-      "element_tag": "img",
-      "title": "Botis Seva - Santo",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Botis Seva - Santo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313952.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028559",
-      "element_tag": "img",
-      "title": "Phillips - Carousel",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Phillips - Carousel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706570442.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028605",
-      "element_tag": "img",
-      "title": "Phillips - Carousel",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Phillips - Carousel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314638.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028651",
-      "element_tag": "img",
-      "title": "The Other Guys",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "The Other Guys",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313982.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028695",
-      "element_tag": "img",
-      "title": "Phillips - Carousel",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Phillips - Carousel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705823826.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028740",
-      "element_tag": "img",
-      "title": "Ziak - Akimbo",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Ziak - Akimbo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705823771.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028785",
-      "element_tag": "img",
-      "title": "Ziak - Akimbo",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Ziak - Akimbo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705286004.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028830",
-      "element_tag": "img",
-      "title": "The Matrix",
-      "description": "",
-      "category": "bullet-time",
       "alt_text": "The Matrix",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:54:04.349780",
+      "title": "The Matrix (1999)",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314101.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028876",
-      "element_tag": "img",
-      "title": "A$AP Ferg - Floor Seats",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "A$AP Ferg - Floor Seats",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041948.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028922",
-      "element_tag": "img",
-      "title": "Sokół – Miłość zawsze jest",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Sokół – Miłość zawsze jest",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314154.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.028968",
-      "element_tag": "img",
-      "title": "Duda Beat feat. Trevo - Nem Um Pouquinho",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Duda Beat feat. Trevo - Nem Um Pouquinho",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041615.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029013",
-      "element_tag": "img",
-      "title": "Sokół – Miłość zawsze jest",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Sokół – Miłość zawsze jest",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314297.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029061",
-      "element_tag": "img",
-      "title": "Tim MacMillan - Ferment",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Tim MacMillan - Ferment",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314859.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029111",
-      "element_tag": "img",
-      "title": "Nomis Football - Boots Damn Boots",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Nomis Football - Boots Damn Boots",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285309.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029158",
-      "element_tag": "img",
-      "title": "The Matrix",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "The Matrix",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706042054.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029207",
-      "element_tag": "img",
-      "title": "Sokół – Miłość zawsze jest",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Sokół – Miłość zawsze jest",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041814.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029257",
-      "element_tag": "img",
-      "title": "Sokół – Miłość zawsze jest",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Sokół – Miłość zawsze jest",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313911.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029301",
-      "element_tag": "img",
-      "title": "Phillips - Carousel",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Phillips - Carousel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389675.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029345",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285580.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029389",
-      "element_tag": "img",
-      "title": "The Matrix",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "The Matrix",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285172.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029436",
-      "element_tag": "img",
-      "title": "The Matrix",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "The Matrix",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703410978.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029482",
-      "element_tag": "img",
-      "title": "Art by Paul Trillo",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Art by Paul Trillo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711256689.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029527",
-      "element_tag": "img",
-      "title": "Rema - Trouble Maker",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Rema - Trouble Maker",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041750.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029571",
-      "element_tag": "img",
-      "title": "Sokół – Miłość zawsze jest",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Sokół – Miłość zawsze jest",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389606.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029619",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313290.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029664",
-      "element_tag": "img",
-      "title": "The French Dispatch",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "The French Dispatch",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703233225.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029710",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Kids Turned Out Fine",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "A$AP Rocky - Kids Turned Out Fine",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703233432.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029754",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Kids Turned Out Fine",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "A$AP Rocky - Kids Turned Out Fine",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285981.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029799",
-      "element_tag": "img",
-      "title": "The Matrix",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "The Matrix",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709971282.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029844",
-      "element_tag": "img",
-      "title": "Nike - Rise of the kids",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Nike - Rise of the kids",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710331874.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029888",
-      "element_tag": "img",
-      "title": "Nike - Mad Ready (DC)",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Nike - Mad Ready (DC)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705112165.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029934",
-      "element_tag": "img",
-      "title": "Instagram - Yours to Make",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Instagram - Yours to Make",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476600.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.029977",
-      "element_tag": "img",
-      "title": ":aexattack - Next Year",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": ":aexattack - Next Year",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313228.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.030022",
-      "element_tag": "img",
-      "title": "The French Dispatch",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "The French Dispatch",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313348.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.030065",
-      "element_tag": "img",
-      "title": "Botis Seva - Santo",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Botis Seva - Santo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706042156.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.030110",
-      "element_tag": "img",
-      "title": "Sokół – Miłość zawsze jest",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Sokół – Miłość zawsze jest",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711254274.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.030154",
-      "element_tag": "img",
-      "title": "Coach - Life Has Different Paths",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Coach - Life Has Different Paths",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702865935.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.030197",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Kids Turned Out Fine",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "A$AP Rocky - Kids Turned Out Fine",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/21/261703199986.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.030243",
-      "element_tag": "img",
-      "title": "Nike - Never Settle. Never Done",
-      "description": "",
-      "category": "bullet-time",
-      "alt_text": "Nike - Never Settle. Never Done",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "INTERIOR",
+        "KEANU REEVES",
+        "FIGHT",
+        "GUN",
+        "BULLETS"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Action",
+        "Arc",
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "Zach Staenberg",
+      "dop": "Bill Pope",
+      "colorist": "David Orr",
+      "original_source": "",
+      "additional_info": "The Matrix (1999)\nWhen a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.\nTechnique - 1990s , Action , Arc , Bullet Time , X-Axis Arc\nDirector - The Wachowskis\nDOP - Bill Pope\nEditor - Zach Staenberg\nColorist - David Orr\nINTERIOR\nKEANU REEVES\nFIGHT\nGUN\nBULLETS",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706572851.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.030287",
-      "element_tag": "img",
-      "title": "Westworld (TV Series) S4E4",
-      "description": "",
-      "category": "bullet-time",
       "alt_text": "Westworld (TV Series) S4E4",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:54:08.491537",
+      "title": "Westworld (TV Series) S4E4 (2022)",
+      "description": "Maeve and Caleb attempt to escape Temperance with their lives. Bernard and the resistance search for a weapon in the desert.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "GROUP",
+        "EXTERIOR",
+        "FROZEN",
+        "GOLDEN HOUR"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Wide shot"
+      ],
+      "director": "Paul Cameron",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Westworld (TV Series) S4E4 (2022)\nMaeve and Caleb attempt to escape Temperance with their lives. Bernard and the resistance search for a weapon in the desert.\nTechnique - Bullet Time , Wide shot\nDirector - Paul Cameron\nDAY\nGROUP\nEXTERIOR\nFROZEN\nGOLDEN HOUR",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313911.webp",
+      "alt_text": "Phillips - Carousel",
+      "discovered_at": "2025-09-11T07:54:12.128532",
+      "title": "Phillips - Carousel (2009)",
+      "description": "A chaotic sequence unfolds starting with a police officer on a parked car amidst explosions and a hospital firefight involving clowns. The suspense builds as the camera navigates through the chaos, eventually exposing a deceptive officer who is part of the criminal activity, bringing the narrative full circle in a perpetual loop.",
+      "tags": [
+        "EXPLOSION",
+        "INTERIOR",
+        "HALLWAY",
+        "DOLLY"
+      ],
+      "technique_tags": [
+        "Bullet Time"
+      ],
+      "director": "Paul Hardcastle, Trim Editing",
+      "dop": "Fredrik Bäckar",
+      "colorist": "Company 3, Jean-Clement Soret",
+      "original_source": "",
+      "additional_info": "Phillips - Carousel (2009)\nA chaotic sequence unfolds starting with a police officer on a parked car amidst explosions and a hospital firefight involving clowns. The suspense builds as the camera navigates through the chaos, eventually exposing a deceptive officer who is part of the criminal activity, bringing the narrative full circle in a perpetual loop.\nTechnique - Bullet Time\nDirector - Adam Berg\nDOP - Fredrik Bäckar\nEditor - Paul Hardcastle, Trim Editing\nColorist - Company 3, Jean-Clement Soret\nOriginal Source - Link\nEXPLOSION\nINTERIOR\nHALLWAY\nDOLLY",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703233225.webp",
+      "alt_text": "A$AP Rocky - Kids Turned Out Fine",
+      "discovered_at": "2025-09-11T07:54:15.255496",
+      "title": "A$AP Rocky - Kids Turned Out Fine (2019)",
+      "description": "Directed by Dexter Navy, A$AP Rocky's \"Kids Turned Out Fine\" music video explores the transition from childhood to parenthood through surreal and dreamlike scenes, accompanied by a blissed-out vibe. Despite a dark twist related to the album title \"TESTING,\" the video maintains a whimsical feel and highlights Rocky's psychedelic wardrobe.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "ASAP ROCKY",
+        "A$AP"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "Will Town",
+      "dop": "Chris Ripley",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Kids Turned Out Fine (2019)\nDirected by Dexter Navy, A$AP Rocky's \"Kids Turned Out Fine\" music video explores the transition from childhood to parenthood through surreal and dreamlike scenes, accompanied by a blissed-out vibe. Despite a dark twist related to the album title \"TESTING,\" the video maintains a whimsical feel and highlights Rocky's psychedelic wardrobe.\nTechnique - Bullet Time , X-Axis Arc\nDirector - Dexter Navy\nDOP - Chris Ripley\nEditor - Will Town\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nASAP ROCKY\nA$AP",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313952.webp",
+      "alt_text": "Phillips - Carousel",
+      "discovered_at": "2025-09-11T07:54:18.897651",
+      "title": "Phillips - Carousel (2009)",
+      "description": "A chaotic sequence unfolds starting with a police officer on a parked car amidst explosions and a hospital firefight involving clowns. The suspense builds as the camera navigates through the chaos, eventually exposing a deceptive officer who is part of the criminal activity, bringing the narrative full circle in a perpetual loop.",
+      "tags": [
+        "EXPLOSION",
+        "INTERIOR",
+        "HALLWAY"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "Paul Hardcastle, Trim Editing",
+      "dop": "Fredrik Bäckar",
+      "colorist": "Company 3, Jean-Clement Soret",
+      "original_source": "",
+      "additional_info": "Phillips - Carousel (2009)\nA chaotic sequence unfolds starting with a police officer on a parked car amidst explosions and a hospital firefight involving clowns. The suspense builds as the camera navigates through the chaos, eventually exposing a deceptive officer who is part of the criminal activity, bringing the narrative full circle in a perpetual loop.\nTechnique - Arc , Bullet Time , X-Axis Arc\nDirector - Adam Berg\nDOP - Fredrik Bäckar\nEditor - Paul Hardcastle, Trim Editing\nColorist - Company 3, Jean-Clement Soret\nOriginal Source - Link\nEXPLOSION\nINTERIOR\nHALLWAY",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313366.webp",
+      "alt_text": "Botis Seva - Santo",
+      "discovered_at": "2025-09-11T07:54:22.535379",
+      "title": "Botis Seva - Santo (2022)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Duplication",
+        "Magical realism"
+      ],
+      "director": "Freddie Leyden",
+      "dop": "David Bird",
+      "colorist": "Alex Gregory",
+      "original_source": "",
+      "additional_info": "Botis Seva - Santo (2022)\nBotis Seva, award-winning choreographer, explores the power of storytelling through images and motion.The film is a collaboration between Botis Seva and film director Freddie Leyden. The result, Santo, is an intimate expression of faith inspired by ancient Greek and Roman sculpture and religious scenes in medieval books of hours.\nTechnique - Bullet Time , Duplication , Magical realism\nDirector - Freddie Leyden\nDOP - David Bird\nColorist - Alex Gregory\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314859.webp",
+      "alt_text": "Nomis Football - Boots Damn Boots",
+      "discovered_at": "2025-09-11T07:54:26.176640",
+      "title": "Nomis Football - Boots Damn Boots (2009)",
+      "description": "",
+      "tags": [
+        "SURREALIST",
+        "SURREALISM",
+        "VOID"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Arc",
+        "Bullet Time",
+        "Tilt",
+        "Void",
+        "X-Axis Arc"
+      ],
+      "director": "Woof Wan-Bau",
+      "dop": "Philipp Blaubach",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nomis Football - Boots Damn Boots (2009)\nTechnique - 2000s , Arc , Bullet Time , Tilt , Void , X-Axis Arc\nDirector - Woof Wan-Bau\nDOP - Philipp Blaubach\nOriginal Source - Link\nSURREALIST\nSURREALISM\nVOID",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041750.webp",
+      "alt_text": "Sokół – Miłość zawsze jest",
+      "discovered_at": "2025-09-11T07:54:29.825585",
+      "title": "Sokół – Miłość zawsze jest (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "FLOWERS",
+        "1940S"
+      ],
+      "technique_tags": [
+        "1940s",
+        "Arc",
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Sokół – Miłość zawsze jest (2023)\nPolish director Tadeusz Śliwa utilizes bullet time and seamless transitions to tell a story of love in the midst of WWII and the Warsaw Uprising.\nTechnique - 1940s , Arc , Bullet Time , X-Axis Arc\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nFLOWERS\n1940S",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314101.webp",
+      "alt_text": "A$AP Ferg - Floor Seats",
+      "discovered_at": "2025-09-11T07:54:33.487358",
+      "title": "A$AP Ferg - Floor Seats (2019)",
+      "description": "In the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?",
+      "tags": [
+        "DAY",
+        "BIKE",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Camera Roll"
+      ],
+      "director": "Maxime Caro",
+      "dop": "Hunter Daly",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "A$AP Ferg - Floor Seats (2019)\nIn the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?\nTechnique - Bullet Time , Camera Roll\nDirector - Valentin Petit\nDOP - Hunter Daly\nEditor - Maxime Caro\nColorist - Arthur Paux\nOriginal Source - Link\nTutorial - Link\nDAY\nBIKE\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711256689.webp",
+      "alt_text": "Rema - Trouble Maker",
+      "discovered_at": "2025-09-11T07:54:37.127768",
+      "title": "Rema - Trouble Maker (2023)",
+      "description": "The \"Trouble Maker\" music video by Rema, directed by Meji Alabi, features vibrant visuals and dynamic choreography that emphasize themes of triumph and resilience. Enhanced by Blaisebeatz's production, it provides a cinematic experience that complements the track's infectious beats. The video showcases Rema's unique style and artistic versatility.",
+      "tags": [
+        "RED",
+        "MALE"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "High Angle"
+      ],
+      "director": "Matt Newmann, Trim Editing",
+      "dop": "Stefan Yap",
+      "colorist": "Ana Escorse",
+      "original_source": "",
+      "additional_info": "Rema - Trouble Maker (2023)\nThe \"Trouble Maker\" music video by Rema, directed by Meji Alabi, features vibrant visuals and dynamic choreography that emphasize themes of triumph and resilience. Enhanced by Blaisebeatz's production, it provides a cinematic experience that complements the track's infectious beats. The video showcases Rema's unique style and artistic versatility.\nTechnique - Bullet Time , High Angle\nDirector - Meji Alabi\nDOP - Stefan Yap\nEditor - Matt Newmann, Trim Editing\nColorist - Ana Escorse\nOriginal Source - Link\nRED\nMALE",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313290.webp",
+      "alt_text": "The French Dispatch",
+      "discovered_at": "2025-09-11T07:54:40.810158",
+      "title": "The French Dispatch (2021)",
+      "description": "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".",
+      "tags": [
+        "BLACK AND WHITE",
+        "35MM",
+        "COOKE S4/ I",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "ARRIFLEX 235"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Bullet Time",
+        "Conveyor",
+        "Tableau"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "The French Dispatch (2021)\nA love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".\nTechnique - 1960s , Bullet Time , Conveyor , Tableau\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Gareth Spensley\nBLACK AND WHITE\n35MM\nCOOKE S4/ I\nARRICAM LT\nARRICAM ST\nARRIFLEX 235\n1.37",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703233678.webp",
+      "alt_text": "A$AP Rocky - Kids Turned Out Fine",
+      "discovered_at": "2025-09-11T07:54:43.954527",
+      "title": "A$AP Rocky - Kids Turned Out Fine (2019)",
+      "description": "Directed by Dexter Navy, A$AP Rocky's \"Kids Turned Out Fine\" music video explores the transition from childhood to parenthood through surreal and dreamlike scenes, accompanied by a blissed-out vibe. Despite a dark twist related to the album title \"TESTING,\" the video maintains a whimsical feel and highlights Rocky's psychedelic wardrobe.",
+      "tags": [
+        "RED",
+        "WARM",
+        "NIGHT",
+        "DARK",
+        "BULLET TIME"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "Will Town",
+      "dop": "Chris Ripley",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Kids Turned Out Fine (2019)\nDirected by Dexter Navy, A$AP Rocky's \"Kids Turned Out Fine\" music video explores the transition from childhood to parenthood through surreal and dreamlike scenes, accompanied by a blissed-out vibe. Despite a dark twist related to the album title \"TESTING,\" the video maintains a whimsical feel and highlights Rocky's psychedelic wardrobe.\nTechnique - Arc , Bullet Time , X-Axis Arc\nDirector - Dexter Navy\nDOP - Chris Ripley\nEditor - Will Town\nOriginal Source - Link\nTutorial - Link\nRED\nWARM\nNIGHT\nDARK\nBULLET TIME",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313348.webp",
+      "alt_text": "Botis Seva - Santo",
+      "discovered_at": "2025-09-11T07:54:47.073133",
+      "title": "Botis Seva - Santo (2022)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Duplication",
+        "Magical realism"
+      ],
+      "director": "Freddie Leyden",
+      "dop": "David Bird",
+      "colorist": "Alex Gregory",
+      "original_source": "",
+      "additional_info": "Botis Seva - Santo (2022)\nBotis Seva, award-winning choreographer, explores the power of storytelling through images and motion.The film is a collaboration between Botis Seva and film director Freddie Leyden. The result, Santo, is an intimate expression of faith inspired by ancient Greek and Roman sculpture and religious scenes in medieval books of hours.\nTechnique - Bullet Time , Duplication , Magical realism\nDirector - Freddie Leyden\nDOP - David Bird\nColorist - Alex Gregory\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314297.webp",
+      "alt_text": "Tim MacMillan - Ferment",
+      "discovered_at": "2025-09-11T07:54:50.711424",
+      "title": "Tim MacMillan - Ferment (1999)",
+      "description": "In a quiet city square an old man clutches his chest and falls to the ground, and time stands still. We travel from the square, down streets, through buildings – the human condition unfolds in glimpses of frozen moments.",
+      "tags": [
+        "INTERIOR",
+        "OVERHEAD",
+        "CYAN"
+      ],
+      "technique_tags": [
+        "2010s",
+        "Arc",
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "Malcolm MacMillan",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Tim MacMillan - Ferment (1999)\nIn a quiet city square an old man clutches his chest and falls to the ground, and time stands still. We travel from the square, down streets, through buildings – the human condition unfolds in glimpses of frozen moments.\nTechnique - 2010s , Arc , Bullet Time , X-Axis Arc\nDirector - Tim Macmillan\nEditor - Malcolm MacMillan\nOriginal Source - Link\nINTERIOR\nOVERHEAD\nCYAN",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041508.webp",
+      "alt_text": "Sokół – Miłość zawsze jest",
+      "discovered_at": "2025-09-11T07:54:54.351802",
+      "title": "Sokół – Miłość zawsze jest (2023)",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "1940S",
+        "FROZEN"
+      ],
+      "technique_tags": [
+        "1940s",
+        "Arc",
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Sokół – Miłość zawsze jest (2023)\nPolish director Tadeusz Śliwa utilizes bullet time and seamless transitions to tell a story of love in the midst of WWII and the Warsaw Uprising.\nTechnique - 1940s , Arc , Bullet Time , X-Axis Arc\nOriginal Source - Link\nTutorial - Link\nEXTERIOR\n1940S\nFROZEN",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041814.webp",
+      "alt_text": "Sokół – Miłość zawsze jest",
+      "discovered_at": "2025-09-11T07:54:57.490329",
+      "title": "Sokół – Miłość zawsze jest (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "1940S"
+      ],
+      "technique_tags": [
+        "1940s",
+        "Bullet Time",
+        "Fear"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Sokół – Miłość zawsze jest (2023)\nPolish director Tadeusz Śliwa utilizes bullet time and seamless transitions to tell a story of love in the midst of WWII and the Warsaw Uprising.\nTechnique - 1940s , Bullet Time , Fear\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\n1940S",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314154.webp",
+      "alt_text": "Duda Beat feat. Trevo - Nem Um Pouquinho",
+      "discovered_at": "2025-09-11T07:55:00.643126",
+      "title": "Duda Beat feat. Trevo - Nem Um Pouquinho (2021)",
+      "description": "Duda Beat's single \"Nem Um Pouquinho\" featuring Trevo presents a cyberpunk and dystopian universe where she plays a metamorphic creature seeking revenge in a bitter heartbreak narrative. The video complements this theme with a fantastic approach, featuring urban arts, signage, and vehicles developed by the production design team, while the barbed rose symbolizes fatal charm throughout the project.",
+      "tags": [
+        "CLOSE UP",
+        "BLUE",
+        "DARK",
+        "EYES",
+        "HARD LIGHT"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Spotlight",
+        "X-Axis Arc"
+      ],
+      "director": "Marcelo Vogelaar",
+      "dop": "Fabio Politi",
+      "colorist": "Osmar Junior",
+      "original_source": "",
+      "additional_info": "Duda Beat feat. Trevo - Nem Um Pouquinho (2021)\nDuda Beat's single \"Nem Um Pouquinho\" featuring Trevo presents a cyberpunk and dystopian universe where she plays a metamorphic creature seeking revenge in a bitter heartbreak narrative. The video complements this theme with a fantastic approach, featuring urban arts, signage, and vehicles developed by the production design team, while the barbed rose symbolizes fatal charm throughout the project.\nTechnique - Bullet Time , Spotlight , X-Axis Arc\nDirector - ALASKA\nDOP - Fabio Politi\nEditor - Marcelo Vogelaar\nColorist - Osmar Junior\nOriginal Source - Link\nCLOSE UP\nBLUE\nDARK\nEYES\nHARD LIGHT",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041615.webp",
+      "alt_text": "Sokół – Miłość zawsze jest",
+      "discovered_at": "2025-09-11T07:55:03.757772",
+      "title": "Sokół – Miłość zawsze jest (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "BENCH",
+        "EXTERIOR",
+        "OLD",
+        "1940S",
+        "FROZEN",
+        "SITTING"
+      ],
+      "technique_tags": [
+        "1940s",
+        "Bullet Time",
+        "Tilt"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Sokół – Miłość zawsze jest (2023)\nPolish director Tadeusz Śliwa utilizes bullet time and seamless transitions to tell a story of love in the midst of WWII and the Warsaw Uprising.\nTechnique - 1940s , Bullet Time , Tilt\nOriginal Source - Link\nTutorial - Link\nDAY\nWOMAN\nBENCH\nEXTERIOR\nOLD\n1940S\nFROZEN\nSITTING",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285896.webp",
+      "alt_text": "The Matrix Resurrections",
+      "discovered_at": "2025-09-11T07:55:07.396953",
+      "title": "The Matrix Resurrections (2021)",
+      "description": "Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more.",
+      "tags": [
+        "PANAVISION",
+        "PANAVISION PRIMO PRIMES",
+        "RED KOMODO",
+        "PANAVISION PRIMO 70S",
+        "RED MONSTRO",
+        "PANAVISION PANASPEED LENSES",
+        "RED RANGER MONSTRO"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Slow Motion"
+      ],
+      "director": "Joseph Jett Sally",
+      "dop": "Daniele Massaccesi, John Toll",
+      "colorist": "Jeff Yaworski, Traudl Nicholson",
+      "original_source": "",
+      "additional_info": "The Matrix Resurrections (2021)\nReturn to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more.\nTechnique - Bullet Time , Slow Motion\nDirector - Lana Wachowski\nDOP - Daniele Massaccesi, John Toll\nEditor - Joseph Jett Sally\nColorist - Jeff Yaworski, Traudl Nicholson\nPANAVISION\nPANAVISION PRIMO PRIMES\nRED KOMODO\nPANAVISION PRIMO 70S\nRED MONSTRO\nPANAVISION PANASPEED LENSES\nRED RANGER MONSTRO",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285981.webp",
+      "alt_text": "The Matrix",
+      "discovered_at": "2025-09-11T07:55:11.050533",
+      "title": "The Matrix (1999)",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "tags": [
+        "INTERIOR",
+        "KEANU REEVES",
+        "FIGHT"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Action",
+        "Arc",
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "Zach Staenberg",
+      "dop": "Bill Pope",
+      "colorist": "David Orr",
+      "original_source": "",
+      "additional_info": "The Matrix (1999)\nWhen a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.\nTechnique - 1990s , Action , Arc , Bullet Time , X-Axis Arc\nDirector - The Wachowskis\nDOP - Bill Pope\nEditor - Zach Staenberg\nColorist - David Orr\nINTERIOR\nKEANU REEVES\nFIGHT",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703233432.webp",
+      "alt_text": "A$AP Rocky - Kids Turned Out Fine",
+      "discovered_at": "2025-09-11T07:55:14.705486",
+      "title": "A$AP Rocky - Kids Turned Out Fine (2019)",
+      "description": "Directed by Dexter Navy, A$AP Rocky's \"Kids Turned Out Fine\" music video explores the transition from childhood to parenthood through surreal and dreamlike scenes, accompanied by a blissed-out vibe. Despite a dark twist related to the album title \"TESTING,\" the video maintains a whimsical feel and highlights Rocky's psychedelic wardrobe.",
+      "tags": [
+        "NIGHT",
+        "INTERIOR",
+        "EATING",
+        "BULLET TIME",
+        "WARM DARK"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "Will Town",
+      "dop": "Chris Ripley",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Kids Turned Out Fine (2019)\nDirected by Dexter Navy, A$AP Rocky's \"Kids Turned Out Fine\" music video explores the transition from childhood to parenthood through surreal and dreamlike scenes, accompanied by a blissed-out vibe. Despite a dark twist related to the album title \"TESTING,\" the video maintains a whimsical feel and highlights Rocky's psychedelic wardrobe.\nTechnique - Arc , Bullet Time , X-Axis Arc\nDirector - Dexter Navy\nDOP - Chris Ripley\nEditor - Will Town\nOriginal Source - Link\nTutorial - Link\nNIGHT\nINTERIOR\nEATING\nBULLET TIME\nWARM DARK",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314638.webp",
+      "alt_text": "The Other Guys",
+      "discovered_at": "2025-09-11T07:55:18.359150",
+      "title": "The Other Guys (2010)",
+      "description": "Two mismatched New York City detectives seize an opportunity to step up like the city's top cops, whom they idolize, only things don't quite go as planned.",
+      "tags": [
+        "INTERIOR",
+        "BAR",
+        "35MM",
+        "SUPER 35",
+        "3 PERF",
+        "ARRIFLEX 235",
+        "PANAVISION PRIMO LENSES",
+        "PANAVISION PANAFLEX MILLENNIUM XL2"
+      ],
+      "technique_tags": [
+        "Bullet Time"
+      ],
+      "director": "Brent White",
+      "dop": "Oliver Wood",
+      "colorist": "John Persichetti",
+      "original_source": "",
+      "additional_info": "The Other Guys (2010)\nTwo mismatched New York City detectives seize an opportunity to step up like the city's top cops, whom they idolize, only things don't quite go as planned.\nTechnique - Bullet Time\nDirector - Adam McKay\nDOP - Oliver Wood\nEditor - Brent White\nColorist - John Persichetti\nOriginal Source - Link\nINTERIOR\nBAR\n35MM\n2.35\nSUPER 35\n3 PERF\nARRIFLEX 235\nPANAVISION PRIMO LENSES\nPANAVISION PANAFLEX MILLENNIUM XL2",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313982.webp",
+      "alt_text": "Phillips - Carousel",
+      "discovered_at": "2025-09-11T07:55:22.013395",
+      "title": "Phillips - Carousel (2009)",
+      "description": "A chaotic sequence unfolds starting with a police officer on a parked car amidst explosions and a hospital firefight involving clowns. The suspense builds as the camera navigates through the chaos, eventually exposing a deceptive officer who is part of the criminal activity, bringing the narrative full circle in a perpetual loop.",
+      "tags": [
+        "EXPLOSION",
+        "NIGHT",
+        "EXTERIOR",
+        "PUSH"
+      ],
+      "technique_tags": [
+        "Bullet Time"
+      ],
+      "director": "Paul Hardcastle, Trim Editing",
+      "dop": "Fredrik Bäckar",
+      "colorist": "Company 3, Jean-Clement Soret",
+      "original_source": "",
+      "additional_info": "Phillips - Carousel (2009)\nA chaotic sequence unfolds starting with a police officer on a parked car amidst explosions and a hospital firefight involving clowns. The suspense builds as the camera navigates through the chaos, eventually exposing a deceptive officer who is part of the criminal activity, bringing the narrative full circle in a perpetual loop.\nTechnique - Bullet Time\nDirector - Adam Berg\nDOP - Fredrik Bäckar\nEditor - Paul Hardcastle, Trim Editing\nColorist - Company 3, Jean-Clement Soret\nOriginal Source - Link\nEXPLOSION\nNIGHT\nEXTERIOR\nPUSH",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314009.webp",
-      "page_url": "https://eyecannndy.com/technique/bullet-time",
-      "discovered_at": "2025-09-05T03:22:46.030330",
-      "element_tag": "img",
-      "title": "Phillips - Carousel",
-      "description": "",
-      "category": "bullet-time",
       "alt_text": "Phillips - Carousel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:55:25.669917",
+      "title": "Phillips - Carousel (2009)",
+      "description": "A chaotic sequence unfolds starting with a police officer on a parked car amidst explosions and a hospital firefight involving clowns. The suspense builds as the camera navigates through the chaos, eventually exposing a deceptive officer who is part of the criminal activity, bringing the narrative full circle in a perpetual loop.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "EXPLOSION",
+        "NIGHT",
+        "EXTERIOR",
+        "PUSH"
+      ],
+      "technique_tags": [
+        "Bullet Time"
+      ],
+      "director": "Paul Hardcastle, Trim Editing",
+      "dop": "Fredrik Bäckar",
+      "colorist": "Company 3, Jean-Clement Soret",
+      "original_source": "",
+      "additional_info": "Phillips - Carousel (2009)\nA chaotic sequence unfolds starting with a police officer on a parked car amidst explosions and a hospital firefight involving clowns. The suspense builds as the camera navigates through the chaos, eventually exposing a deceptive officer who is part of the criminal activity, bringing the narrative full circle in a perpetual loop.\nTechnique - Bullet Time\nDirector - Adam Berg\nDOP - Fredrik Bäckar\nEditor - Paul Hardcastle, Trim Editing\nColorist - Company 3, Jean-Clement Soret\nOriginal Source - Link\nEXPLOSION\nNIGHT\nEXTERIOR\nPUSH",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705823771.webp",
+      "alt_text": "Ziak - Akimbo",
+      "discovered_at": "2025-09-11T07:55:29.313058",
+      "title": "Ziak - Akimbo (2022)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "SINGLE SHOT",
+        "KNIVES"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Single shot"
+      ],
+      "director": "Bleu Désert",
+      "dop": "Antoine Cormier",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ziak - Akimbo (2022)\nDirected by Bleu Désert Produced by Obvious DOP: Antoine Cormier Executive Production: She Films 3D / VFX (Visual Effects): Dust VFX: Antoine Hache, Katlas Sound Design: Benzene\nTechnique - Bullet Time , Single shot\nDirector - Bleu Désert\nDOP - Antoine Cormier\nOriginal Source - Link\nINTERIOR\nSINGLE SHOT\nKNIVES",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389675.webp",
+      "alt_text": "Halfprice - Fitting room",
+      "discovered_at": "2025-09-11T07:55:32.448374",
+      "title": "Halfprice - Fitting room (2022)",
+      "description": "Masking flash cuts on BOLT arm. Various angles. Bullet time.",
+      "tags": [
+        "BLUE",
+        "INTERIOR",
+        "COOL",
+        "SELFIE",
+        "FASHION",
+        "CHANGING ROOM"
+      ],
+      "technique_tags": [
+        "Bolt Cam",
+        "Bullet Time",
+        "Flash Cut"
+      ],
+      "director": "Nikodem Chabior",
+      "dop": "Mikołaj Syguda",
+      "colorist": "Florian Martiny",
+      "original_source": "",
+      "additional_info": "Halfprice - Fitting room (2022)\nMasking flash cuts on BOLT arm. Various angles. Bullet time.\nTechnique - Bolt Cam , Bullet Time , Flash Cut\nDirector - Grajper\nDOP - Mikołaj Syguda\nEditor - Nikodem Chabior\nColorist - Florian Martiny\nOriginal Source - Link\nBLUE\nINTERIOR\nCOOL\nSELFIE\nFASHION\nCHANGING ROOM",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476600.webp",
+      "alt_text": ":aexattack - Next Year",
+      "discovered_at": "2025-09-11T07:55:36.136372",
+      "title": ":aexattack - Next Year (2021)",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "DRUMMER",
+        "DRUM SET"
+      ],
+      "technique_tags": [
+        "Bullet Time"
+      ],
+      "director": "Jetski",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": ":aexattack - Next Year (2021)\nTechnique - Bullet Time\nDirector - Jetski\nOriginal Source - Link\nEXTERIOR\nDRUMMER\nDRUM SET",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041567.webp",
+      "alt_text": "Sokół – Miłość zawsze jest",
+      "discovered_at": "2025-09-11T07:55:39.237760",
+      "title": "Sokół – Miłość zawsze jest (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "BENCH",
+        "EXTERIOR",
+        "BIRDS",
+        "1940S",
+        "SITTING",
+        "PIGEON",
+        "FEEDING BIRDS"
+      ],
+      "technique_tags": [
+        "1940s",
+        "Bullet Time"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Sokół – Miłość zawsze jest (2023)\nPolish director Tadeusz Śliwa utilizes bullet time and seamless transitions to tell a story of love in the midst of WWII and the Warsaw Uprising.\nTechnique - 1940s , Bullet Time\nOriginal Source - Link\nTutorial - Link\nDAY\nWOMAN\nBENCH\nEXTERIOR\nBIRDS\n1940S\nSITTING\nPIGEON\nFEEDING BIRDS",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710331874.webp",
+      "alt_text": "Nike - Mad Ready (DC)",
+      "discovered_at": "2025-09-11T07:55:43.387661",
+      "title": "Nike - Mad Ready (DC) (2024)",
+      "description": "",
+      "tags": [
+        "FEET",
+        "NIKE",
+        "SOCCER",
+        "SHOE",
+        "FOOT"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "Lorna Searl, Trim Editing",
+      "dop": "Konrad Losch",
+      "colorist": "Tim Smith",
+      "original_source": "",
+      "additional_info": "Nike - Mad Ready (DC) (2024)\nTechnique - Arc , Bullet Time , X-Axis Arc\nDirector - India Harris\nDOP - Konrad Losch\nEditor - Lorna Searl, Trim Editing\nColorist - Tim Smith\nOriginal Source - Link\nFEET\nNIKE\nSOCCER\nSHOE\nFOOT",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702865935.webp",
+      "alt_text": "A$AP Rocky - Kids Turned Out Fine",
+      "discovered_at": "2025-09-11T07:55:47.034564",
+      "title": "A$AP Rocky - Kids Turned Out Fine (2019)",
+      "description": "Directed by Dexter Navy, A$AP Rocky's \"Kids Turned Out Fine\" music video explores the transition from childhood to parenthood through surreal and dreamlike scenes, accompanied by a blissed-out vibe. Despite a dark twist related to the album title \"TESTING,\" the video maintains a whimsical feel and highlights Rocky's psychedelic wardrobe.",
+      "tags": [
+        "DAY",
+        "TRUCKING",
+        "EXTERIOR",
+        "SKATING"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Conveyor",
+        "Infinite Transition",
+        "Set Transition",
+        "Transitions",
+        "Wipe Transition"
+      ],
+      "director": "Will Town",
+      "dop": "Chris Ripley",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Kids Turned Out Fine (2019)\nDirected by Dexter Navy, A$AP Rocky's \"Kids Turned Out Fine\" music video explores the transition from childhood to parenthood through surreal and dreamlike scenes, accompanied by a blissed-out vibe. Despite a dark twist related to the album title \"TESTING,\" the video maintains a whimsical feel and highlights Rocky's psychedelic wardrobe.\nTechnique - Bullet Time , Conveyor , Infinite Transition , Set Transition , Transitions , Wipe Transition\nDirector - Dexter Navy\nDOP - Chris Ripley\nEditor - Will Town\nOriginal Source - Link\nDAY\nTRUCKING\nEXTERIOR\nSKATING",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285309.webp",
+      "alt_text": "The Matrix",
+      "discovered_at": "2025-09-11T07:55:51.184458",
+      "title": "The Matrix (1999)",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "tags": [
+        "WATER",
+        "NIGHT",
+        "INTERIOR",
+        "RAIN",
+        "TUNNEL",
+        "STORM"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Action",
+        "Bullet Time"
+      ],
+      "director": "Zach Staenberg",
+      "dop": "Bill Pope",
+      "colorist": "David Orr",
+      "original_source": "",
+      "additional_info": "The Matrix (1999)\nWhen a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.\nTechnique - 1990s , Action , Bullet Time\nDirector - The Wachowskis\nDOP - Bill Pope\nEditor - Zach Staenberg\nColorist - David Orr\nWATER\nNIGHT\nINTERIOR\nRAIN\nTUNNEL\nSTORM",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706570442.webp",
+      "alt_text": "Phillips - Carousel",
+      "discovered_at": "2025-09-11T07:55:54.317593",
+      "title": "Phillips - Carousel (2009)",
+      "description": "A chaotic sequence unfolds starting with a police officer on a parked car amidst explosions and a hospital firefight involving clowns. The suspense builds as the camera navigates through the chaos, eventually exposing a deceptive officer who is part of the criminal activity, bringing the narrative full circle in a perpetual loop.",
+      "tags": [
+        "INTERIOR",
+        "POLICE"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Conveyor"
+      ],
+      "director": "Paul Hardcastle, Trim Editing",
+      "dop": "Fredrik Bäckar",
+      "colorist": "Company 3, Jean-Clement Soret",
+      "original_source": "",
+      "additional_info": "Phillips - Carousel (2009)\nA chaotic sequence unfolds starting with a police officer on a parked car amidst explosions and a hospital firefight involving clowns. The suspense builds as the camera navigates through the chaos, eventually exposing a deceptive officer who is part of the criminal activity, bringing the narrative full circle in a perpetual loop.\nTechnique - Bullet Time , Conveyor\nDirector - Adam Berg\nDOP - Fredrik Bäckar\nEditor - Paul Hardcastle, Trim Editing\nColorist - Company 3, Jean-Clement Soret\nOriginal Source - Link\nINTERIOR\nPOLICE",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285580.webp",
+      "alt_text": "The Matrix",
+      "discovered_at": "2025-09-11T07:55:57.968530",
+      "title": "The Matrix (1999)",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "tags": [
+        "DAY",
+        "GREEN",
+        "EXTERIOR",
+        "KEANU REEVES"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Action",
+        "Arc",
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "Zach Staenberg",
+      "dop": "Bill Pope",
+      "colorist": "David Orr",
+      "original_source": "",
+      "additional_info": "The Matrix (1999)\nWhen a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.\nTechnique - 1990s , Action , Arc , Bullet Time , X-Axis Arc\nDirector - The Wachowskis\nDOP - Bill Pope\nEditor - Zach Staenberg\nColorist - David Orr\nDAY\nGREEN\nEXTERIOR\nKEANU REEVES",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709971282.webp",
+      "alt_text": "Nike - Rise of the kids",
+      "discovered_at": "2025-09-11T07:56:01.110616",
+      "title": "Nike - Rise of the kids (2022)",
+      "description": "",
+      "tags": [
+        "SKATING",
+        "BOY"
+      ],
+      "technique_tags": [
+        "Aside",
+        "Bullet Time"
+      ],
+      "director": "ALASKA",
+      "dop": "Todd Martin",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - Rise of the kids (2022)\nTechnique - Aside , Bullet Time\nDirector - ALASKA\nDOP - Todd Martin\nOriginal Source - Link\nSKATING\nBOY",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313228.webp",
+      "alt_text": "The French Dispatch",
+      "discovered_at": "2025-09-11T07:56:04.756547",
+      "title": "The French Dispatch (2021)",
+      "description": "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".",
+      "tags": [
+        "TRUCKING",
+        "BLACK AND WHITE",
+        "35MM",
+        "COOKE S4/ I",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "ARRIFLEX 235"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Conveyor"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "The French Dispatch (2021)\nA love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".\nTechnique - Bullet Time , Conveyor\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Gareth Spensley\nTRUCKING\nBLACK AND WHITE\n35MM\nCOOKE S4/ I\nARRICAM LT\nARRICAM ST\nARRIFLEX 235\n1.37",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703235582.webp",
+      "alt_text": "© Easten Diamond Sports, LLC.",
+      "discovered_at": "2025-09-11T07:56:08.404944",
+      "title": "© Easten Diamond Sports, LLC. (2022)",
+      "description": "",
+      "tags": [
+        "DARK",
+        "BULLET",
+        "BASEBALL",
+        "VOID",
+        "UNIFORMS"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Bullet Time",
+        "X-Axis Arc"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "© Easten Diamond Sports, LLC. (2022)\nTechnique - Arc , Bullet Time , X-Axis Arc\nDARK\nBULLET\nBASEBALL\nVOID\nUNIFORMS",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705823867.webp",
+      "alt_text": "Ziak - Akimbo",
+      "discovered_at": "2025-09-11T07:56:12.055140",
+      "title": "Ziak - Akimbo (2022)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "SINGLE SHOT",
+        "KNIVES"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "High Angle",
+        "Rack Focus",
+        "Single shot"
+      ],
+      "director": "Bleu Désert",
+      "dop": "Antoine Cormier",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ziak - Akimbo (2022)\nDirected by Bleu Désert Produced by Obvious DOP: Antoine Cormier Executive Production: She Films 3D / VFX (Visual Effects): Dust VFX: Antoine Hache, Katlas Sound Design: Benzene\nTechnique - Bullet Time , High Angle , Rack Focus , Single shot\nDirector - Bleu Désert\nDOP - Antoine Cormier\nOriginal Source - Link\nINTERIOR\nSINGLE SHOT\nKNIVES",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703313531.webp",
+      "alt_text": "Lucy",
+      "discovered_at": "2025-09-11T07:56:15.720467",
+      "title": "Lucy (2014)",
+      "description": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+      "tags": [
+        "DAY",
+        "CLOSE UP",
+        "EXTERIOR",
+        "NEW YORK CITY",
+        "BRIGHT",
+        "TIMES SQUARE"
+      ],
+      "technique_tags": [
+        "Bullet Time"
+      ],
+      "director": "Julien Rey, Luc Besson",
+      "dop": "Thierry Arbogast",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lucy (2014)\nA woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.\nTechnique - Bullet Time\nDirector - Luc Besson\nDOP - Thierry Arbogast\nEditor - Julien Rey, Luc Besson\nDAY\nCLOSE UP\nEXTERIOR\nNEW YORK CITY\nBRIGHT\nTIMES SQUARE",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706042156.webp",
+      "alt_text": "Sokół – Miłość zawsze jest",
+      "discovered_at": "2025-09-11T07:56:19.380314",
+      "title": "Sokół – Miłość zawsze jest (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "WEDDING",
+        "COUPLE",
+        "1940S",
+        "HAPPY",
+        "SMILES",
+        "MARRIAGE"
+      ],
+      "technique_tags": [
+        "1940s",
+        "Bullet Time",
+        "Color Shift",
+        "Happiness",
+        "Morphing"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Sokół – Miłość zawsze jest (2023)\nPolish director Tadeusz Śliwa utilizes bullet time and seamless transitions to tell a story of love in the midst of WWII and the Warsaw Uprising.\nTechnique - 1940s , Bullet Time , Color Shift , Happiness , Morphing\nOriginal Source - Link\nTutorial - Link\nDAY\nINTERIOR\nWEDDING\nCOUPLE\n1940S\nHAPPY\nSMILES\nMARRIAGE",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711254274.webp",
+      "alt_text": "Coach - Life Has Different Paths",
+      "discovered_at": "2025-09-11T07:56:23.020764",
+      "title": "Coach - Life Has Different Paths (2024)",
+      "description": "",
+      "tags": [
+        "WALKING",
+        "NIGHT",
+        "NEON"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Trucking"
+      ],
+      "director": "Nik Valentin",
+      "dop": "Pat Aldinger",
+      "colorist": "Marina Starke",
+      "original_source": "",
+      "additional_info": "Coach - Life Has Different Paths (2024)\nTechnique - Bullet Time , Trucking\nDirector - Henry Scholfield\nDOP - Pat Aldinger\nEditor - Nik Valentin\nColorist - Marina Starke\nOriginal Source - Link\nWALKING\nNIGHT\nNEON",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389606.webp",
+      "alt_text": "Halfprice - Fitting room",
+      "discovered_at": "2025-09-11T07:56:26.652145",
+      "title": "Halfprice - Fitting room (2022)",
+      "description": "Overhead post production set transition to bullet time arc shot.",
+      "tags": [
+        "BLUE",
+        "INTERIOR",
+        "COOL",
+        "SELFIE",
+        "FASHION",
+        "CHANGING ROOM"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Set Transition"
+      ],
+      "director": "Nikodem Chabior",
+      "dop": "Mikołaj Syguda",
+      "colorist": "Florian Martiny",
+      "original_source": "",
+      "additional_info": "Halfprice - Fitting room (2022)\nOverhead post production set transition to bullet time arc shot.\nTechnique - Bullet Time , Set Transition\nDirector - Grajper\nDOP - Mikołaj Syguda\nEditor - Nikodem Chabior\nColorist - Florian Martiny\nOriginal Source - Link\nBLUE\nINTERIOR\nCOOL\nSELFIE\nFASHION\nCHANGING ROOM",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705823826.webp",
+      "alt_text": "Ziak - Akimbo",
+      "discovered_at": "2025-09-11T07:56:30.332056",
+      "title": "Ziak - Akimbo (2022)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "SINGLE SHOT",
+        "KNIVES"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Single shot"
+      ],
+      "director": "Bleu Désert",
+      "dop": "Antoine Cormier",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ziak - Akimbo (2022)\nDirected by Bleu Désert Produced by Obvious DOP: Antoine Cormier Executive Production: She Films 3D / VFX (Visual Effects): Dust VFX: Antoine Hache, Katlas Sound Design: Benzene\nTechnique - Bullet Time , Single shot\nDirector - Bleu Désert\nDOP - Antoine Cormier\nOriginal Source - Link\nINTERIOR\nSINGLE SHOT\nKNIVES",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705112165.webp",
+      "alt_text": "Instagram - Yours to Make",
+      "discovered_at": "2025-09-11T07:56:33.995843",
+      "title": "Instagram - Yours to Make (2021)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "TRAIN"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Conveyor",
+        "Void"
+      ],
+      "director": "Cabin Edit, Robert Lopuski",
+      "dop": "Oliver Millar",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Instagram - Yours to Make (2021)\nDirector: rubberband Production Company: SMUGGLER Executive Producers: Patrick John Milling-Smith, Brian Carmody, Sue Yeon Ahn COO: Andrew Colon Head of Production: Alex Hughes Producer: Carmen Bosley Director of Photography: Oliver Millar Production Designer: Miranda Lorenz Stylist: Eric Mcneal Hair Stylist: Jayson Medina Makeup Artist: Jenn Hanching\nTechnique - Bullet Time , Conveyor , Void\nDirector - rubberband\nDOP - Oliver Millar\nEditor - Cabin Edit, Robert Lopuski\nOriginal Source - Link\nINTERIOR\nDARK\nTRAIN",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/15/261705285172.webp",
+      "alt_text": "The Matrix",
+      "discovered_at": "2025-09-11T07:56:38.151723",
+      "title": "The Matrix (1999)",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "tags": [
+        "INTERIOR",
+        "KEANU REEVES",
+        "BULLETS"
+      ],
+      "technique_tags": [
+        "Bullet Time"
+      ],
+      "director": "Zach Staenberg",
+      "dop": "Bill Pope",
+      "colorist": "David Orr",
+      "original_source": "",
+      "additional_info": "The Matrix (1999)\nWhen a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.\nTechnique - Bullet Time\nDirector - The Wachowskis\nDOP - Bill Pope\nEditor - Zach Staenberg\nColorist - David Orr\nINTERIOR\nKEANU REEVES\nBULLETS",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703410978.webp",
+      "alt_text": "Art by Paul Trillo",
+      "discovered_at": "2025-09-11T07:56:41.834355",
+      "title": "Art by Paul Trillo",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Roll Transition",
+        "Transitions"
+      ],
+      "director": "Paul Trillo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Paul Trillo\nTechnique - Bullet Time , Roll Transition , Transitions\nDirector - Paul Trillo\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706042054.webp",
+      "alt_text": "Sokół – Miłość zawsze jest",
+      "discovered_at": "2025-09-11T07:56:45.485869",
+      "title": "Sokół – Miłość zawsze jest (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "WEDDING",
+        "COUPLE",
+        "1940S",
+        "HAPPY",
+        "SMILES",
+        "MARRIAGE"
+      ],
+      "technique_tags": [
+        "1940s",
+        "Bullet Time",
+        "Happiness"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Sokół – Miłość zawsze jest (2023)\nPolish director Tadeusz Śliwa utilizes bullet time and seamless transitions to tell a story of love in the midst of WWII and the Warsaw Uprising.\nTechnique - 1940s , Bullet Time , Happiness\nOriginal Source - Link\nTutorial - Link\nDAY\nINTERIOR\nWEDDING\nCOUPLE\n1940S\nHAPPY\nSMILES\nMARRIAGE",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706041948.webp",
+      "alt_text": "Sokół – Miłość zawsze jest",
+      "discovered_at": "2025-09-11T07:56:48.627093",
+      "title": "Sokół – Miłość zawsze jest (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "HALLWAY",
+        "1940S",
+        "RELIGION",
+        "HOLY",
+        "PRAYER",
+        "WAR",
+        "GROUP OF PEOPLE",
+        "REVEREND"
+      ],
+      "technique_tags": [
+        "1940s",
+        "Bullet Time",
+        "Dolly",
+        "Technocrane"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Sokół – Miłość zawsze jest (2023)\nPolish director Tadeusz Śliwa utilizes bullet time and seamless transitions to tell a story of love in the midst of WWII and the Warsaw Uprising.\nTechnique - 1940s , Bullet Time , Dolly , Technocrane\nOriginal Source - Link\nTutorial - Link\nDAY\nINTERIOR\nHALLWAY\n1940S\nRELIGION\nHOLY\nPRAYER\nWAR\nGROUP OF PEOPLE\nREVEREND",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/21/261703199986.webp",
+      "alt_text": "Nike - Never Settle. Never Done",
+      "discovered_at": "2025-09-11T07:56:51.754245",
+      "title": "Nike - Never Settle. Never Done (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "RED",
+        "SPORTS",
+        "INTERIOR",
+        "BULLET TIME",
+        "SOCCER",
+        "STADIUM",
+        "FRAME"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Bullet Time",
+        "Object Portal",
+        "X-Axis Arc"
+      ],
+      "director": "Alexandre Sellem, Hugo Beron, Lola Margrain",
+      "dop": "Maeva Von Dinh, Paul Guilhaume",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Nike - Never Settle. Never Done (2022)\nValentin Petit, the visionary director of Nike's women's football campaign, skillfully captures the essence of the game by featuring a dynamic cast of all-stars and grassroots players in the Women's Euros anthem. His directorial prowess unveils the unparalleled speed, technical finesse, and undeniable quality that define the current landscape of women's football, setting a new standard for equality in the sport.\nTechnique - Arc , Bullet Time , Object Portal , X-Axis Arc\nDirector - Valentin Petit\nDOP - Maeva Von Dinh, Paul Guilhaume\nEditor - Alexandre Sellem, Hugo Beron, Lola Margrain\nColorist - Arthur Paux\nOriginal Source - Link\nDAY\nRED\nSPORTS\nINTERIOR\nBULLET TIME\nSOCCER\nSTADIUM\nFRAME",
+      "page_url": "https://eyecannndy.com/technique/bullet-time"
     }
   ]
 }

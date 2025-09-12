@@ -1,6 +1,867 @@
 {
   "technique": "jump-cut",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.651109",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_151817",
+    "total_videos": 39,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/01/8_q5AsOic/e5a7a3ccc847d6bdec83ce8d376d223d.gif",
+      "alt_text": "First Hawaiian Bank - Dance Party",
+      "discovered_at": "2025-09-11T15:13:56.021160",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703918850.webp",
+      "alt_text": "Quavo x Takeoff - Hotel Lobby",
+      "discovered_at": "2025-09-11T15:13:59.712945",
+      "title": "Quavo x Takeoff - Hotel Lobby (2022)",
+      "description": "Quavo and Takeoff go on a drug-fueled trip through the desert of Nevada and the streets of Las Vegas.",
+      "tags": [
+        "DAY",
+        "CAR",
+        "DRIVING",
+        "PROFILE",
+        "EXTERIOR",
+        "MEDIUM SHOT",
+        "K35S",
+        "QUAVO",
+        "NEVADA",
+        "ALEXA MINI LF"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Jump cut"
+      ],
+      "director": "Keemotion., Quavo",
+      "dop": "Marcelo Pancote",
+      "colorist": "Arianna Shining Star",
+      "original_source": "",
+      "additional_info": "Quavo x Takeoff - Hotel Lobby (2022)\nQuavo and Takeoff go on a drug-fueled trip through the desert of Nevada and the streets of Las Vegas.\nTechnique - Fixed Cam , Jump cut\nDirector - Keemotion., Quavo\nDOP - Marcelo Pancote\nColorist - Arianna Shining Star\nOriginal Source - Link\nTutorial - Link\nDAY\nCAR\nDRIVING\nPROFILE\nEXTERIOR\nMEDIUM SHOT\nK35S\nQUAVO\nNEVADA\nALEXA MINI LF",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710024860.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T15:14:04.419366",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "INTERIOR",
+        "BATHROOM",
+        "CHICKEN"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Quick Cuts"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Jump cut , Quick Cuts\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nINTERIOR\nBATHROOM\nCHICKEN",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725943841.webp",
+      "alt_text": "ScHoolboy Q - Floating",
+      "discovered_at": "2025-09-11T15:14:09.145824",
+      "title": "ScHoolboy Q - Floating (2019)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "MONEY",
+        "RAPPER",
+        "ROOM"
+      ],
+      "technique_tags": [
+        "Glitch",
+        "Jump cut"
+      ],
+      "director": "Neal Farmer",
+      "dop": "Chris Ripley",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "ScHoolboy Q - Floating (2019)\nSchoolboy Q's music video for \"Floating\" features a dizzying, dreamlike journey through the streets of Los Angeles, with distorted visuals and rapid camera movements capturing a surreal sense of disconnection. The video mirrors the song's hazy, laid-back vibe, immersing viewers in a trippy, out-of-body experience. Directors: @jackbegert @davefree Prod Co: @ajrfilms / @topdawgent Producer: @ajrfilms @davefree @autumn_hymes @dangerookipawaa Label: @topdawgent Reps: @retone @keemtde @bigbtde @moosatde DOP: @christopher.c.ripley 1st AC: @themeganjohnsondp 2nd AC: @angelogentileiii Camera Utility: Brent Johnson B Camera: @silva_screen AD Team : @haitianev Production Design @fusinadesigns Production Assistant @marcodinero @justjream Editor : @neal_farmstrong @jackbegert Vfx: @thermonuclear.tv @neal_farmstrong Stylist: @dianne Casting: @millticketceo Co Star: @mackwop @smactheboss @Im.t.f @misterctoon @iamhwood\nTechnique - Glitch , Jump cut\nDirector - Dave Free, ",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/10/261725943277.webp",
+      "alt_text": "ScHoolboy Q - Floating",
+      "discovered_at": "2025-09-11T15:14:14.425160",
+      "title": "ScHoolboy Q - Floating (2019)",
+      "description": "",
+      "tags": [
+        "BAR",
+        "RAPPER",
+        "STRIP CLUB",
+        "STRIPPERS",
+        "NIGHTLIFE",
+        "CLUBBING"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Wandering"
+      ],
+      "director": "Neal Farmer",
+      "dop": "Chris Ripley",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "ScHoolboy Q - Floating (2019)\nSchoolboy Q's music video for \"Floating\" features a dizzying, dreamlike journey through the streets of Los Angeles, with distorted visuals and rapid camera movements capturing a surreal sense of disconnection. The video mirrors the song's hazy, laid-back vibe, immersing viewers in a trippy, out-of-body experience. Directors: @jackbegert @davefree Prod Co: @ajrfilms / @topdawgent Producer: @ajrfilms @davefree @autumn_hymes @dangerookipawaa Label: @topdawgent Reps: @retone @keemtde @bigbtde @moosatde DOP: @christopher.c.ripley 1st AC: @themeganjohnsondp 2nd AC: @angelogentileiii Camera Utility: Brent Johnson B Camera: @silva_screen AD Team : @haitianev Production Design @fusinadesigns Production Assistant @marcodinero @justjream Editor : @neal_farmstrong @jackbegert Vfx: @thermonuclear.tv @neal_farmstrong Stylist: @dianne Casting: @millticketceo Co Star: @mackwop @smactheboss @Im.t.f @misterctoon @iamhwood\nTechnique - Jump cut , Wandering\nDirector - Dave Fre",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711343876.webp",
+      "alt_text": "Fantastic Mr. Fox",
+      "discovered_at": "2025-09-11T15:14:19.643749",
+      "title": "Fantastic Mr. Fox (2009)",
+      "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+      "tags": [
+        "EXTERIOR",
+        "TREE",
+        "DIGGING",
+        "EXCAVATOR"
+      ],
+      "technique_tags": [
+        "Diorama",
+        "Jump cut",
+        "Stop Motion"
+      ],
+      "director": "Ralph Foster, Stephen Perkins",
+      "dop": "Tristan Oliver",
+      "colorist": "Max Horton",
+      "original_source": "",
+      "additional_info": "Fantastic Mr. Fox (2009)\nAn urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.\nTechnique - Diorama , Jump cut , Stop Motion\nDirector - Wes Anderson\nDOP - Tristan Oliver\nEditor - Ralph Foster, Stephen Perkins\nColorist - Max Horton\nEXTERIOR\nTREE\nDIGGING\nEXCAVATOR",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656634.webp",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-11T15:14:24.923567",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "MALE",
+        "GLASS",
+        "BAR",
+        "DRINKING",
+        "DRINK",
+        "WINE",
+        "OLDER",
+        "WINE GLASS"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Jump cut"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Fixed Cam , Jump cut\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nMALE\nGLASS\nBAR\nDRINKING\nDRINK\nWINE\nOLDER\nWINE GLASS",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705997981.webp",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "discovered_at": "2025-09-11T15:14:39.107808",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706258549.webp",
+      "alt_text": "Scott Pilgrim vs. the World",
+      "discovered_at": "2025-09-11T15:14:53.257825",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861608.webp",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "discovered_at": "2025-09-11T15:15:07.906467",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703489510.webp",
+      "alt_text": "Lil Yachty - TESLA",
+      "discovered_at": "2025-09-11T15:15:22.099663",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711436140.webp",
+      "alt_text": "Killdummies - Keine War Großartig//Fukk U",
+      "discovered_at": "2025-09-11T15:15:31.047044",
+      "title": "Killdummies - Keine War Großartig//Fukk U (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "MUSIC VIDEO",
+        "GRASS",
+        "EXTERIOR",
+        "FIELD",
+        "SWORD"
+      ],
+      "technique_tags": [
+        "Jump cut"
+      ],
+      "director": "Tom Klimek",
+      "dop": "Simon Klostermaier",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Killdummies - Keine War Großartig//Fukk U (2023)\n2023 music video directed by Tom Klimek.\nTechnique - Jump cut\nDirector - Tom Klimek\nDOP - Simon Klostermaier\nOriginal Source - Link\nDAY\nMUSIC VIDEO\nGRASS\nEXTERIOR\nFIELD\nSWORD",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119549.webp",
+      "alt_text": "First Hawaiian Bank - Dance Party",
+      "discovered_at": "2025-09-11T15:15:45.690847",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703919210.webp",
+      "alt_text": "Quavo x Takeoff - Hotel Lobby",
+      "discovered_at": "2025-09-11T15:15:51.475428",
+      "title": "Quavo x Takeoff - Hotel Lobby (2022)",
+      "description": "Quavo and Takeoff go on a drug-fueled trip through the desert of Nevada and the streets of Las Vegas. Shot breakdown: Fixed camera jump cuts",
+      "tags": [
+        "CAR",
+        "DRIVING",
+        "NIGHT",
+        "BLUE",
+        "DUSK",
+        "DARK",
+        "2020S",
+        "COOL WHITE",
+        "K35S",
+        "ALEXA MINI LF"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Jump cut"
+      ],
+      "director": "Keemotion., Quavo",
+      "dop": "Marcelo Pancote",
+      "colorist": "Arianna Shining Star",
+      "original_source": "",
+      "additional_info": "Quavo x Takeoff - Hotel Lobby (2022)\nQuavo and Takeoff go on a drug-fueled trip through the desert of Nevada and the streets of Las Vegas. Shot breakdown: Fixed camera jump cuts\nTechnique - Fixed Cam , Jump cut\nDirector - Keemotion., Quavo\nDOP - Marcelo Pancote\nColorist - Arianna Shining Star\nOriginal Source - Link\nTutorial - Link\n2022\nCAR\nDRIVING\nNIGHT\nBLUE\nDUSK\nDARK\n2020S\nCOOL WHITE\nK35S\nALEXA MINI LF",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704610342.webp",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "discovered_at": "2025-09-11T15:16:01.454400",
+      "title": "Carly Gibert - Dropping Seeds (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "GREEN",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Stop Motion"
+      ],
+      "director": "Christopher A. Medina",
+      "dop": "Sonali Chugani",
+      "colorist": "Ben Cerauli",
+      "original_source": "",
+      "additional_info": "Carly Gibert - Dropping Seeds (2023)\nMusic video from artist Carly Gibert featuring a litany of visual techniques brought to life in a vivid color palette.\nTechnique - Jump cut , Stop Motion\nDirector - Luciana Baldovino\nDOP - Sonali Chugani\nEditor - Christopher A. Medina\nColorist - Ben Cerauli\nOriginal Source - Link\nDAY\nWOMAN\nGREEN\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703919112.webp",
+      "alt_text": "Quavo x Takeoff - Hotel Lobby",
+      "discovered_at": "2025-09-11T15:16:06.156227",
+      "title": "Quavo x Takeoff - Hotel Lobby (2022)",
+      "description": "Quavo and Takeoff go on a drug-fueled trip through the desert of Nevada and the streets of Las Vegas. Shot breakdown: fixed camera jump cuts",
+      "tags": [
+        "DAY",
+        "CAR",
+        "DRIVING",
+        "HOTEL",
+        "DUSK",
+        "EXTERIOR",
+        "WARM WHITE",
+        "K35S",
+        "NEVADA",
+        "ALEXA MINI LF"
+      ],
+      "technique_tags": [
+        "Jump cut"
+      ],
+      "director": "Keemotion., Quavo",
+      "dop": "Marcelo Pancote",
+      "colorist": "Arianna Shining Star",
+      "original_source": "",
+      "additional_info": "Quavo x Takeoff - Hotel Lobby (2022)\nQuavo and Takeoff go on a drug-fueled trip through the desert of Nevada and the streets of Las Vegas. Shot breakdown: fixed camera jump cuts\nTechnique - Jump cut\nDirector - Keemotion., Quavo\nDOP - Marcelo Pancote\nColorist - Arianna Shining Star\nOriginal Source - Link\nTutorial - Link\nDAY\nCAR\nDRIVING\nHOTEL\nDUSK\nEXTERIOR\nWARM WHITE\nK35S\nNEVADA\nALEXA MINI LF",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742331.webp",
+      "alt_text": "ONHA - KODAK",
+      "discovered_at": "2025-09-11T15:16:10.310519",
+      "title": "ONHA - KODAK (2024)",
+      "description": "The music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.",
+      "tags": [
+        "ONHA - KODAK (2024)",
+        "MALE",
+        "SPIN"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Locked-on Lazy Susan",
+        "Motion Blur"
+      ],
+      "director": "M. Tikal",
+      "dop": "Virgil Leclercq",
+      "colorist": "Francois Dubois",
+      "original_source": "",
+      "additional_info": "ONHA - KODAK (2024)\nThe music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.\nTechnique - Jump cut , Locked-on Lazy Susan , Motion Blur\nDirector - Nitram\nDOP - Virgil Leclercq\nEditor - M. Tikal\nColorist - Francois Dubois\nOriginal Source - Link\nMALE\nSPIN",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538002.webp",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "discovered_at": "2025-09-11T15:16:15.555656",
+      "title": "Miel De Montagne - Le Pigeon (2023)",
+      "description": "2023 music video directed and edited by Morgan Jouquand.",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Wide shot"
+      ],
+      "director": "Morgan Jouquand",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Miel De Montagne - Le Pigeon (2023)\n2023 music video directed and edited by Morgan Jouquand.\nTechnique - Jump cut , Wide shot\nDirector - Morgan Jouquand\nOriginal Source - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165812.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T15:16:20.227405",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "VICTORIA MONET"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Jump cut"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo , Jump cut\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nVICTORIA MONET",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703997944.webp",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "discovered_at": "2025-09-11T15:16:24.405186",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "description": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "tags": [
+        "WHITE",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Light Void"
+      ],
+      "director": "Kenny Shimm (Editor)",
+      "dop": "Chuk Town",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)\nShot breakdown: Two shot jump cuts in void.\nTechnique - Jump cut , Light Void\nDirector - HIDJI WORLD\nDOP - Chuk Town\nEditor - Kenny Shimm (Editor)\nOriginal Source - Link\nWHITE\nVOID",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706255500.webp",
+      "alt_text": "Pirates of the Caribbean",
+      "discovered_at": "2025-09-11T15:16:28.646696",
+      "title": "Pirates of the Caribbean (2003)",
+      "description": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+      "tags": [
+        "EYES",
+        "KEIRA KNIGHTLEY"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Extreme Close-Up",
+        "Jump cut"
+      ],
+      "director": "Arthur Schmidt, Craig Wood, Stephen E. Rivkin",
+      "dop": "Dariusz Wolski",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pirates of the Caribbean (2003)\nBlacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.\nTechnique - Color Shift , Extreme Close-Up , Jump cut\nDirector - Gore Verbinski\nDOP - Dariusz Wolski\nEditor - Arthur Schmidt, Craig Wood, Stephen E. Rivkin\nEYES\nKEIRA KNIGHTLEY",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809047.webp",
+      "alt_text": "Majimbo - Aiza",
+      "discovered_at": "2025-09-11T15:16:33.342759",
+      "title": "Majimbo - Aiza (2023)",
+      "description": "The music video for Aiza’s \"Majimbo\" showcases vibrant, energetic scenes that match the feel-good thumpy pop bassline and braggadocious flow of the song. Aiza, full of confidence, is seen walking down colorful city streets that transform into impromptu fashion runways, exuding an infectious joy and inner strength. K.O.G’s electric vocals elevate the video’s energy, capturing the pride and inspiration drawn from Elsa Majimbo’s rise to fame. The video blends Afropop, Afrobeat, and soulful R&B elements, celebrating Aiza’s journey and the empowerment of loving boldly.",
+      "tags": [
+        "CLOSE UP",
+        "INTERIOR",
+        "COLORFUL",
+        "SATURATED",
+        "FLOOR",
+        "SUNGLASSES"
+      ],
+      "technique_tags": [
+        "Jump cut"
+      ],
+      "director": "Daniyal Shah",
+      "dop": "Daniel Attoh",
+      "colorist": "Tricia Hagoriles",
+      "original_source": "",
+      "additional_info": "Majimbo - Aiza (2023)\nThe music video for Aiza’s \"Majimbo\" showcases vibrant, energetic scenes that match the feel-good thumpy pop bassline and braggadocious flow of the song. Aiza, full of confidence, is seen walking down colorful city streets that transform into impromptu fashion runways, exuding an infectious joy and inner strength. K.O.G’s electric vocals elevate the video’s energy, capturing the pride and inspiration drawn from Elsa Majimbo’s rise to fame. The video blends Afropop, Afrobeat, and soulful R&B elements, celebrating Aiza’s journey and the empowerment of loving boldly.\nTechnique - Jump cut\nDirector - Will Niava\nDOP - Daniel Attoh\nEditor - Daniyal Shah\nColorist - Tricia Hagoriles\nOriginal Source - Link\nCLOSE UP\nINTERIOR\nCOLORFUL\nSATURATED\nFLOOR\nSUNGLASSES",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715641715.webp",
+      "alt_text": "Vince Staples - Norf Norf",
+      "discovered_at": "2025-09-11T15:16:38.574595",
+      "title": "Vince Staples - Norf Norf (2015)",
+      "description": "The music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.",
+      "tags": [
+        "INTERIOR",
+        "BLACK AND WHITE",
+        "POLICE",
+        "COPS",
+        "JAIL",
+        "ARRESTED",
+        "PRISON",
+        "VINCE STAPLES",
+        "INTERROGATION",
+        "POLICE OFFICERS"
+      ],
+      "technique_tags": [
+        "Jump cut"
+      ],
+      "director": "Spike Jordan, Vince Staples",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vince Staples - Norf Norf (2015)\nThe music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.\nTechnique - Jump cut\nDirector - Spike Jordan, Vince Staples\nOriginal Source - Link\nINTERIOR\nBLACK AND WHITE\nPOLICE\nCOPS\nJAIL\nARRESTED\nPRISON\nVINCE STAPLES\nINTERROGATION\nPOLICE OFFICERS",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704610471.webp",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "discovered_at": "2025-09-11T15:16:42.719372",
+      "title": "Carly Gibert - Dropping Seeds (2023)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "INTERIOR",
+        "TEETH",
+        "CARLY GIBERT",
+        "GEMS"
+      ],
+      "technique_tags": [
+        "High Angle",
+        "Jump cut"
+      ],
+      "director": "Christopher A. Medina",
+      "dop": "Sonali Chugani",
+      "colorist": "Ben Cerauli",
+      "original_source": "",
+      "additional_info": "Carly Gibert - Dropping Seeds (2023)\nMusic video from artist Carly Gibert featuring a litany of visual techniques brought to life in a vivid color palette.\nTechnique - High Angle , Jump cut\nDirector - Luciana Baldovino\nDOP - Sonali Chugani\nEditor - Christopher A. Medina\nColorist - Ben Cerauli\nOriginal Source - Link\nWOMAN\nINTERIOR\nTEETH\nCARLY GIBERT\nGEMS",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703389791.webp",
+      "alt_text": "Halfprice - Fitting room",
+      "discovered_at": "2025-09-11T15:16:46.905009",
+      "title": "Halfprice - Fitting room (2022)",
+      "description": "",
+      "tags": [
+        "RED",
+        "GLITCH",
+        "CHANGING ROOM",
+        "JUMP CUT"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Jump cut"
+      ],
+      "director": "Nikodem Chabior",
+      "dop": "Mikołaj Syguda",
+      "colorist": "Florian Martiny",
+      "original_source": "",
+      "additional_info": "Halfprice - Fitting room (2022)\nJump cut medium to close up. Color shift.\nTechnique - Color Shift , Jump cut\nDirector - Grajper\nDOP - Mikołaj Syguda\nEditor - Nikodem Chabior\nColorist - Florian Martiny\nOriginal Source - Link\nRED\nGLITCH\nCHANGING ROOM\nJUMP CUT",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710389160.webp",
+      "alt_text": "NIKE x SIZE? - Content De Te Revoir",
+      "discovered_at": "2025-09-11T15:16:51.079135",
+      "title": "NIKE x SIZE? - Content De Te Revoir (2024)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "HIGH ANGLE",
+        "LIVING ROOM"
+      ],
+      "technique_tags": [
+        "Fisheye",
+        "Jump cut",
+        "Security footage"
+      ],
+      "director": "Jessy Busgeeth",
+      "dop": "Jessy Busgeeth",
+      "colorist": "Jessy Busgeeth",
+      "original_source": "",
+      "additional_info": "NIKE x SIZE? - Content De Te Revoir (2024)\nTechnique - Fisheye , Jump cut , Security footage\nDirector - Jessy Busgeeth\nDOP - Jessy Busgeeth\nEditor - Jessy Busgeeth\nColorist - Jessy Busgeeth\nOriginal Source - Link\nINTERIOR\nHIGH ANGLE\nLIVING ROOM",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704529812.webp",
+      "alt_text": "Morgan x Orlebar Brown feat. Karl Shakur",
+      "discovered_at": "2025-09-11T15:16:58.462175",
+      "title": "Morgan x Orlebar Brown feat. Karl Shakur (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "CAR",
+        "DRIVING",
+        "SUPER 3"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Jump cut"
+      ],
+      "director": "Karl Shakur",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Morgan x Orlebar Brown feat. Karl Shakur (2022)\nTechnique - Fixed Cam , Jump cut\nDirector - Karl Shakur\nOriginal Source - Link\nDAY\nCAR\nDRIVING\nSUPER 3",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489266.webp",
+      "alt_text": "21 Savage - redrum",
+      "discovered_at": "2025-09-11T15:17:02.664374",
+      "title": "21 Savage - redrum (2024)",
+      "description": "The music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.",
+      "tags": [
+        "WEED",
+        "INTERIOR",
+        "SMOKING",
+        "MARIJUANA"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Jump cut",
+        "Speed Ramp"
+      ],
+      "director": "Anders Mills, Trim Editing",
+      "dop": "Chewy Lodge, JAWMIDNIGHT, Thomas Marchese",
+      "colorist": "Vlad Barin",
+      "original_source": "",
+      "additional_info": "21 Savage - redrum (2024)\nThe music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.\nTechnique - Dutch Angle , Jump cut , Speed Ramp\nDirector - Danny Seth\nDOP - Chewy Lodge, JAWMIDNIGHT, Thomas Marchese\nEditor - Anders Mills, Trim Editing\nColorist - Vlad Barin\nOriginal Source - Link\nTutorial - Link\nWEED\nINTERIOR\nSMOKING\nMARIJUANA",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710025747.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T15:17:08.441391",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Jump cut"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Jump cut\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163694.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T15:17:14.226329",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [],
+      "technique_tags": [
+        "Datamosh",
+        "Glitch",
+        "Jump cut"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Datamosh , Glitch , Jump cut\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705107826.webp",
+      "alt_text": "Doechii - Crazy",
+      "discovered_at": "2025-09-11T15:17:22.645014",
+      "title": "Doechii - Crazy (2023)",
+      "description": "",
+      "tags": [
+        "RED",
+        "WOMAN",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Jump cut"
+      ],
+      "director": "Armen Harootun",
+      "dop": "Mika Altskan",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Doechii - Crazy (2023)\nShot: Dutch angle jump cuts\nTechnique - Dutch Angle , Jump cut\nDirector - C Prinz\nDOP - Mika Altskan\nEditor - Armen Harootun\nOriginal Source - Link\nRED\nWOMAN\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709342350.webp",
+      "alt_text": "AJ Tracey - Wifey Riddim 4",
+      "discovered_at": "2025-09-11T15:17:26.305486",
+      "title": "AJ Tracey - Wifey Riddim 4 (2024)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "TAXI",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Overhead"
+      ],
+      "director": "Late Milk",
+      "dop": "Mike Koziel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJ Tracey - Wifey Riddim 4 (2024)\nTechnique - Jump cut , Overhead\nDirector - Late Milk\nDOP - Mike Koziel\nOriginal Source - Link\nNIGHT\nTAXI\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706253657.webp",
+      "alt_text": "Bullet Train",
+      "discovered_at": "2025-09-11T15:17:30.508317",
+      "title": "Bullet Train (2022)",
+      "description": "",
+      "tags": [
+        "FIJI",
+        "WATER BOTTLE"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Jump cut"
+      ],
+      "director": "Elísabet Ronaldsdóttir",
+      "dop": "Jonathan Sela",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Bullet Train (2022)\nWe see the fixed camera being applied to a smaller object in this scene from 'Bullet Train'. This technique is often used to give viewers the perspective of the object. You're seeing a fixed camera jump cut sequence.\nTechnique - Fixed Cam , Jump cut\nDirector - David Leitch\nDOP - Jonathan Sela\nEditor - Elísabet Ronaldsdóttir\n2022\nFIJI\nWATER BOTTLE",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489509.webp",
+      "alt_text": "21 Savage - redrum",
+      "discovered_at": "2025-09-11T15:17:34.721500",
+      "title": "21 Savage - redrum (2024)",
+      "description": "The music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.",
+      "tags": [
+        "HAND",
+        "ARM"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Jump cut"
+      ],
+      "director": "Anders Mills, Trim Editing",
+      "dop": "Chewy Lodge, JAWMIDNIGHT, Thomas Marchese",
+      "colorist": "Vlad Barin",
+      "original_source": "",
+      "additional_info": "21 Savage - redrum (2024)\nThe music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.\nTechnique - Fixed Cam , Jump cut\nDirector - Danny Seth\nDOP - Chewy Lodge, JAWMIDNIGHT, Thomas Marchese\nEditor - Anders Mills, Trim Editing\nColorist - Vlad Barin\nOriginal Source - Link\nTutorial - Link\nHAND\nARM",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711142597.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T15:17:43.128660",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "PROFILE",
+        "SINGING"
+      ],
+      "technique_tags": [
+        "Jump cut"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Jump cut\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nMALE\nPROFILE\nSINGING",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703367160.webp",
+      "alt_text": "Husky - Never-ever",
+      "discovered_at": "2025-09-11T15:17:51.498206",
+      "title": "Husky - Never-ever (2020)",
+      "description": "A guy works as a janitor and cleans up gang fight scenes.",
+      "tags": [
+        "YELLOW",
+        "WARM",
+        "INTERIOR",
+        "DARK",
+        "ORANGE",
+        "OVERHEAD"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Overhead"
+      ],
+      "director": "Kirill Khandurin",
+      "dop": "Kirill Groshev",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Husky - Never-ever (2020)\nA guy works as a janitor and cleans up gang fight scenes.\nTechnique - Jump cut , Overhead\nDirector - Evgenii Bakirov\nDOP - Kirill Groshev\nEditor - Kirill Khandurin\nOriginal Source - Link\nYELLOW\nWARM\nINTERIOR\nDARK\nORANGE\nOVERHEAD",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704528626.webp",
+      "alt_text": "Conswank - Holes In My Denim",
+      "discovered_at": "2025-09-11T15:17:57.240440",
+      "title": "Conswank - Holes In My Denim",
+      "description": "Produced by Will Keeper Mixed/Mastered by John Wehmeyer Directed and Edited by Pat & Seamus Brennan Production Designer: Kayla Payette Production Assistant: Bastien Gliech Presented by Holy Smokes Entertainment",
+      "tags": [
+        "WARM",
+        "INTERIOR",
+        "LAMP",
+        "ORANGE",
+        "ROOM",
+        "COUCH"
+      ],
+      "technique_tags": [
+        "Jump cut"
+      ],
+      "director": "Pat & Seamus Brennan",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Conswank - Holes In My Denim\nProduced by Will Keeper Mixed/Mastered by John Wehmeyer Directed and Edited by Pat & Seamus Brennan Production Designer: Kayla Payette Production Assistant: Bastien Gliech Presented by Holy Smokes Entertainment\nTechnique - Jump cut\nDirector - Pat & Seamus Brennan\nOriginal Source - Link\nWARM\nINTERIOR\nLAMP\nORANGE\nROOM\nCOUCH",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706253544.webp",
+      "alt_text": "H&M - Hotel Hennes",
+      "discovered_at": "2025-09-11T15:18:11.860790",
+      "title": "H&M - Hotel Hennes (2022)",
+      "description": "Hôtel Hennes: Imaginary fashion haven, blending iconic art hotel vibes. A realm of exaggerated aesthetics, experimental tales, and rule-free fashion dreams.",
+      "tags": [
+        "HOTEL",
+        "INTERIOR",
+        "INSIDE"
+      ],
+      "technique_tags": [
+        "Jump cut"
+      ],
+      "director": "William Town",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "H&M - Hotel Hennes (2022)\nHôtel Hennes: Imaginary fashion haven, blending iconic art hotel vibes. A realm of exaggerated aesthetics, experimental tales, and rule-free fashion dreams.\nTechnique - Jump cut\nDirector - Bardia Zeinali\nEditor - William Town\nOriginal Source - Link\nHOTEL\nINTERIOR\nINSIDE",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703998428.webp",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "discovered_at": "2025-09-11T15:18:17.624721",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "description": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Motion Blur",
+        "Speed Ramp"
+      ],
+      "director": "Kenny Shimm (Editor)",
+      "dop": "Chuk Town",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)\nShot breakdown: Wide shot speed ramp jump cut w/ motion blur\nTechnique - Jump cut , Motion Blur , Speed Ramp\nDirector - HIDJI WORLD\nDOP - Chuk Town\nEditor - Kenny Shimm (Editor)\nOriginal Source - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/jump-cut"
+    }
+  ]
 }

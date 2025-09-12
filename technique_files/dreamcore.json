@@ -1,1109 +1,816 @@
 {
   "technique": "dreamcore",
-  "video_count": 56,
-  "generated_at": "2025-09-05T04:03:29.631274",
+  "scrape_info": {
+    "timestamp": "20250911_131630",
+    "total_videos": 37,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707007887.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.889251",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296210.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.889424",
-      "element_tag": "img",
-      "title": "Volkswagen - Diamonds",
-      "description": "",
-      "category": "dreamcore",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296383.webp",
       "alt_text": "Volkswagen - Diamonds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:14:10.312749",
+      "title": "Volkswagen - Diamonds (2022)",
+      "description": "The 2022 Volkswagen commercial \"Diamonds\" features a series of touching life moments involving various individuals and families with their Volkswagen cars, metaphorically highlighted by visuals of diamonds to represent the preciousness of these times. The commercial combines a warm, cinematic aesthetic with an emotional soundtrack, emphasizing the car as a key companion in life’s special journeys, celebrating and enhancing these valuable experiences.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "MALE",
+        "INTERIOR",
+        "TRANSITION",
+        "ROOM",
+        "CLOSET",
+        "WARDROBE"
+      ],
+      "technique_tags": [
+        "Dreamcore",
+        "Set Transition"
+      ],
+      "director": "Jacob Schulsinger",
+      "dop": "Eigil Bryld",
+      "colorist": "Mikey Pehanich",
+      "original_source": "",
+      "additional_info": "Volkswagen - Diamonds (2022)\nThe 2022 Volkswagen commercial \"Diamonds\" features a series of touching life moments involving various individuals and families with their Volkswagen cars, metaphorically highlighted by visuals of diamonds to represent the preciousness of these times. The commercial combines a warm, cinematic aesthetic with an emotional soundtrack, emphasizing the car as a key companion in life’s special journeys, celebrating and enhancing these valuable experiences.\nTechnique - Dreamcore , Set Transition\nDirector - Adam Hashemi\nDOP - Eigil Bryld\nEditor - Jacob Schulsinger\nColorist - Mikey Pehanich\nOriginal Source - Link\nMALE\nINTERIOR\nTRANSITION\nROOM\nCLOSET\nWARDROBE",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008295.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.889506",
-      "element_tag": "img",
-      "title": "Source unknown",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707006456.webp",
+      "alt_text": "Animation by Kidd Gorgeous",
+      "discovered_at": "2025-09-11T13:14:16.059467",
+      "title": "Animation by Kidd Gorgeous",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008086.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.889573",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008133.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.889642",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "WATER",
+        "POOL. INTERIOR",
+        "MUSHROOMS"
+      ],
+      "technique_tags": [
+        "Dreamcore",
+        "Liminal"
+      ],
+      "director": "Kidd Gorgeous",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation by Kidd Gorgeous\nTechnique - Dreamcore , Liminal\nEditor - Kidd Gorgeous\nWATER\nPOOL. INTERIOR\nMUSHROOMS",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008316.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.889708",
-      "element_tag": "img",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:14:19.725731",
       "title": "Source unknown",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401974.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.889770",
-      "element_tag": "img",
-      "title": "Tierra Whack - SHOWER SONG",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Tierra Whack - SHOWER SONG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975899.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.889832",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008109.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.889893",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008073.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.889954",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008287.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890014",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008275.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890074",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296125.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890137",
-      "element_tag": "img",
-      "title": "Volkswagen - Diamonds",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Volkswagen - Diamonds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707006676.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890198",
-      "element_tag": "img",
-      "title": "Liminal Pool",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Liminal Pool",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008121.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890260",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008357.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890321",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008099.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890383",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296383.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890443",
-      "element_tag": "img",
-      "title": "Volkswagen - Diamonds",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Volkswagen - Diamonds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975845.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890504",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707007887.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890565",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296210.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890625",
-      "element_tag": "img",
-      "title": "Volkswagen - Diamonds",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Volkswagen - Diamonds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008295.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890683",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008086.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890741",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008133.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890798",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008316.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890855",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401974.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890911",
-      "element_tag": "img",
-      "title": "Tierra Whack - SHOWER SONG",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Tierra Whack - SHOWER SONG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975899.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.890967",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008109.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891023",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008073.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891078",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008287.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891141",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008275.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891197",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296125.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891240",
-      "element_tag": "img",
-      "title": "Volkswagen - Diamonds",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Volkswagen - Diamonds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707006676.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891277",
-      "element_tag": "img",
-      "title": "Liminal Pool",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Liminal Pool",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008121.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891314",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008357.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891356",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008099.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891401",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296383.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891446",
-      "element_tag": "img",
-      "title": "Volkswagen - Diamonds",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Volkswagen - Diamonds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "DUSK",
+        "SUNSET",
+        "EVENING"
+      ],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore\nDUSK\nSUNSET\nEVENING",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008307.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891495",
-      "element_tag": "img",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:14:23.396862",
       "title": "Source unknown",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DUSK",
+        "SUNSET",
+        "EVENING"
+      ],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore\nDUSK\nSUNSET\nEVENING",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008073.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:14:27.061058",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "DAY",
+        "HOUSE",
+        "NEIGHBORHOOD"
+      ],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore\nDAY\nHOUSE\nNEIGHBORHOOD",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008133.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:14:30.734539",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "DAY",
+        "HOUSE"
+      ],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore\nDAY\nHOUSE",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008099.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:14:34.403264",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "DAY",
+        "HOUSE"
+      ],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore\nDAY\nHOUSE",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707007887.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:14:38.551809",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "DAY",
+        "HOUSE"
+      ],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore\nDAY\nHOUSE",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975845.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891541",
-      "element_tag": "img",
-      "title": "Dream Corp LLC",
-      "description": "",
-      "category": "dreamcore",
       "alt_text": "Dream Corp LLC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "discovered_at": "2025-09-11T13:14:42.757931",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Dreamcore",
+        "Drug trip",
+        "Rotoscope"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Altered state , Dreamcore , Drug trip , Rotoscope\nDirector - Daniel Stessen",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707006456.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891580",
-      "element_tag": "img",
-      "title": "Animation by Kidd Gorgeous",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Animation by Kidd Gorgeous",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296125.webp",
+      "alt_text": "Volkswagen - Diamonds",
+      "discovered_at": "2025-09-11T13:14:46.946085",
+      "title": "Volkswagen - Diamonds (2022)",
+      "description": "The 2022 Volkswagen commercial \"Diamonds\" features a series of touching life moments involving various individuals and families with their Volkswagen cars, metaphorically highlighted by visuals of diamonds to represent the preciousness of these times. The commercial combines a warm, cinematic aesthetic with an emotional soundtrack, emphasizing the car as a key companion in life’s special journeys, celebrating and enhancing these valuable experiences.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "MALE",
+        "SPORTS",
+        "SOCCER",
+        "STADIUM"
+      ],
+      "technique_tags": [
+        "Dreamcore",
+        "Spotlight"
+      ],
+      "director": "Jacob Schulsinger",
+      "dop": "Eigil Bryld",
+      "colorist": "Mikey Pehanich",
+      "original_source": "",
+      "additional_info": "Volkswagen - Diamonds (2022)\nThe 2022 Volkswagen commercial \"Diamonds\" features a series of touching life moments involving various individuals and families with their Volkswagen cars, metaphorically highlighted by visuals of diamonds to represent the preciousness of these times. The commercial combines a warm, cinematic aesthetic with an emotional soundtrack, emphasizing the car as a key companion in life’s special journeys, celebrating and enhancing these valuable experiences.\nTechnique - Dreamcore , Spotlight\nDirector - Adam Hashemi\nDOP - Eigil Bryld\nEditor - Jacob Schulsinger\nColorist - Mikey Pehanich\nOriginal Source - Link\nMALE\nSPORTS\nSOCCER\nSTADIUM",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715296210.webp",
+      "alt_text": "Volkswagen - Diamonds",
+      "discovered_at": "2025-09-11T13:14:51.647773",
+      "title": "Volkswagen - Diamonds (2022)",
+      "description": "The 2022 Volkswagen commercial \"Diamonds\" features a series of touching life moments involving various individuals and families with their Volkswagen cars, metaphorically highlighted by visuals of diamonds to represent the preciousness of these times. The commercial combines a warm, cinematic aesthetic with an emotional soundtrack, emphasizing the car as a key companion in life’s special journeys, celebrating and enhancing these valuable experiences.",
+      "tags": [
+        "SPORTS",
+        "BARBERSHOP",
+        "ANCHORS",
+        "HOSTS"
+      ],
+      "technique_tags": [
+        "Dreamcore",
+        "Set Transition"
+      ],
+      "director": "Jacob Schulsinger",
+      "dop": "Eigil Bryld",
+      "colorist": "Mikey Pehanich",
+      "original_source": "",
+      "additional_info": "Volkswagen - Diamonds (2022)\nThe 2022 Volkswagen commercial \"Diamonds\" features a series of touching life moments involving various individuals and families with their Volkswagen cars, metaphorically highlighted by visuals of diamonds to represent the preciousness of these times. The commercial combines a warm, cinematic aesthetic with an emotional soundtrack, emphasizing the car as a key companion in life’s special journeys, celebrating and enhancing these valuable experiences.\nTechnique - Dreamcore , Set Transition\nDirector - Adam Hashemi\nDOP - Eigil Bryld\nEditor - Jacob Schulsinger\nColorist - Mikey Pehanich\nOriginal Source - Link\nSPORTS\nBARBERSHOP\nANCHORS\nHOSTS",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008295.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:14:55.838879",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008109.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:15:00.012629",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "DAY",
+        "HOUSE"
+      ],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore\nDAY\nHOUSE",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707006676.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891621",
-      "element_tag": "img",
+      "alt_text": "Liminal Pool",
+      "discovered_at": "2025-09-11T13:15:04.183706",
       "title": "Liminal Pool",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Liminal Pool",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "LIGHT",
+        "POOL",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Dreamcore",
+        "Liminal"
+      ],
+      "director": "Ryan Onions",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Liminal Pool\nTechnique - Dreamcore , Liminal\nEditor - Ryan Onions\nDAY\nLIGHT\nPOOL\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005672.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891662",
-      "element_tag": "img",
-      "title": "Submerged hallway",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008357.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:15:07.837756",
+      "title": "Source unknown",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Submerged hallway",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DUSK",
+        "EVENING",
+        "MUSHROOM"
+      ],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore\nDUSK\nEVENING\nMUSHROOM",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005796.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891701",
-      "element_tag": "img",
-      "title": "Neon Pool",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707401974.webp",
+      "alt_text": "Tierra Whack - SHOWER SONG",
+      "discovered_at": "2025-09-11T13:15:11.515719",
+      "title": "Tierra Whack - SHOWER SONG (2024)",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Neon Pool",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "RED",
+        "SURREALIST",
+        "COLORFUL",
+        "SATURATED",
+        "SATURATION",
+        "PLAYFUL"
+      ],
+      "technique_tags": [
+        "Dreamcore",
+        "Tableau"
+      ],
+      "director": "Harvey Benschoter",
+      "dop": "Drew Saracco",
+      "colorist": "Ryan Berger",
+      "original_source": "",
+      "additional_info": "Tierra Whack - SHOWER SONG (2024)\n2024 music video for artist Tierra Whack, from conceptual artist and director, Alex Da Corte. Features a wonderful mixture of stop motion and mixed-media collages. Title design by Amy DiLorenzo.\nTechnique - Dreamcore , Tableau\nDirector - Alex Da Corte\nDOP - Drew Saracco\nEditor - Harvey Benschoter\nColorist - Ryan Berger\nOriginal Source - Link\nRED\nSURREALIST\nCOLORFUL\nSATURATED\nSATURATION\nPLAYFUL",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005906.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891742",
-      "element_tag": "img",
-      "title": "Venice Balconies",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008086.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:15:15.195220",
+      "title": "Source unknown",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Venice Balconies",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "HOUSE"
+      ],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore\nDAY\nHOUSE",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005853.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891782",
-      "element_tag": "img",
-      "title": "Infinite Turn",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008121.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:15:18.341447",
+      "title": "Source unknown",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Infinite Turn",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "HOUSE"
+      ],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore\nDAY\nHOUSE",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005962.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891821",
-      "element_tag": "img",
-      "title": "Morphing Tile",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008287.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:15:22.003063",
+      "title": "Source unknown",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Morphing Tile",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707006528.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891861",
-      "element_tag": "img",
-      "title": "Infinite Stairs",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008275.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:15:25.658153",
+      "title": "Source unknown",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Infinite Stairs",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "CHURCH",
+        "FENCE"
+      ],
+      "technique_tags": [
+        "Dreamcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Dreamcore\nDAY\nEXTERIOR\nCHURCH\nFENCE",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975899.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-11T13:15:29.301337",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Dreamcore",
+        "Drug trip",
+        "Object Portal",
+        "Rotoscope",
+        "Transitions"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Altered state , Dreamcore , Drug trip , Object Portal , Rotoscope , Transitions\nDirector - Daniel Stessen",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/04/giphy-2023-04-06T224514.858_1/d0c60f093be9b7cc57b7542763ea2070.gif",
+      "alt_text": "Animation by Fuzzy Ghost",
+      "discovered_at": "2025-09-11T13:15:33.440432",
+      "title": "Animation by Fuzzy Ghost",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "PURPLE",
+        "SURREALIST",
+        "OFFICE"
+      ],
+      "technique_tags": [
+        "Liminal"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation by Fuzzy Ghost\nTechnique - Liminal\nINTERIOR\nPURPLE\nSURREALIST\nOFFICE",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005766.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891901",
-      "element_tag": "img",
+      "alt_text": "Infinite Stairs",
+      "discovered_at": "2025-09-11T13:15:37.067085",
       "title": "Infinite Stairs",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Infinite Stairs",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005744.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891946",
-      "element_tag": "img",
-      "title": "Infinite Office",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Infinite Office",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005883.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.891991",
-      "element_tag": "img",
-      "title": "Infinite Arches",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Infinite Arches",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005929.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.892034",
-      "element_tag": "img",
-      "title": "Ancient Pillars",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Ancient Pillars",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "INTERIOR",
+        "STAIRS",
+        "HALLWAY",
+        "TILE",
+        "OFFICE",
+        "OVERHEAD LIGHTS"
+      ],
+      "technique_tags": [
+        "Liminal"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite Stairs\n3D motion animation from GIF artist, Pi-Slices.\nTechnique - Liminal\nDirector - Pi-Slices\nINTERIOR\nSTAIRS\nHALLWAY\nTILE\nOFFICE\nOVERHEAD LIGHTS",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707006719.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.892077",
-      "element_tag": "img",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:15:41.220379",
       "title": "Source unknown",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "LIGHT",
+        "INTERIOR",
+        "HALLWAY"
+      ],
+      "technique_tags": [
+        "Infinite Dolly",
+        "Liminal"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Infinite Dolly , Liminal\nDAY\nLIGHT\nINTERIOR\nHALLWAY",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707006676.webp",
+      "alt_text": "Liminal Pool",
+      "discovered_at": "2025-09-11T13:15:44.832901",
+      "title": "Liminal Pool",
+      "description": "",
+      "tags": [
+        "DAY",
+        "LIGHT",
+        "POOL",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Dreamcore",
+        "Liminal"
+      ],
+      "director": "Ryan Onions",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Liminal Pool\nTechnique - Dreamcore , Liminal\nEditor - Ryan Onions\nDAY\nLIGHT\nPOOL\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005853.webp",
+      "alt_text": "Infinite Turn",
+      "discovered_at": "2025-09-11T13:15:48.459400",
+      "title": "Infinite Turn",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "HALLWAY",
+        "OFFICE",
+        "OVERHEAD LIGHT"
+      ],
+      "technique_tags": [
+        "Liminal"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite Turn\n3D motion animation from GIF artist, Pi-Slices.\nTechnique - Liminal\nDirector - Pi-Slices\nINTERIOR\nHALLWAY\nOFFICE\nOVERHEAD LIGHT",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707006456.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.892116",
-      "element_tag": "img",
+      "alt_text": "Animation by Kidd Gorgeous",
+      "discovered_at": "2025-09-11T13:15:52.615652",
       "title": "Animation by Kidd Gorgeous",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Animation by Kidd Gorgeous",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WATER",
+        "POOL. INTERIOR",
+        "MUSHROOMS"
+      ],
+      "technique_tags": [
+        "Dreamcore",
+        "Liminal"
+      ],
+      "director": "Kidd Gorgeous",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Animation by Kidd Gorgeous\nTechnique - Dreamcore , Liminal\nEditor - Kidd Gorgeous\nWATER\nPOOL. INTERIOR\nMUSHROOMS",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005824.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.892156",
-      "element_tag": "img",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005672.webp",
+      "alt_text": "Submerged hallway",
+      "discovered_at": "2025-09-11T13:15:57.807484",
+      "title": "Submerged hallway",
+      "description": "",
+      "tags": [
+        "WATER",
+        "INTERIOR",
+        "SUNSET",
+        "HALLWAY",
+        "GOLDEN HOUR"
+      ],
+      "technique_tags": [
+        "Liminal"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Submerged hallway\n3D motion animation from GIF artist, Pi-Slices.\nTechnique - Liminal\nDirector - Pi-Slices\nWATER\nINTERIOR\nSUNSET\nHALLWAY\nGOLDEN HOUR",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005906.webp",
+      "alt_text": "Venice Balconies",
+      "discovered_at": "2025-09-11T13:16:02.481680",
+      "title": "Venice Balconies",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "HALLWAY",
+        "STONE",
+        "ARCHITECTURE",
+        "RAILING",
+        "ARCHES"
+      ],
+      "technique_tags": [
+        "Infinite Dolly",
+        "Liminal"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Venice Balconies\n3D motion animation from GIF artist, Pi-Slices.\nTechnique - Infinite Dolly , Liminal\nDirector - Pi-Slices\nEXTERIOR\nHALLWAY\nSTONE\nARCHITECTURE\nRAILING\nARCHES",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005929.webp",
+      "alt_text": "Ancient Pillars",
+      "discovered_at": "2025-09-11T13:16:06.115585",
+      "title": "Ancient Pillars",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "HALLWAY",
+        "STONE",
+        "ARCHITECTURE",
+        "PILLARS"
+      ],
+      "technique_tags": [
+        "Infinite Dolly",
+        "Liminal"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ancient Pillars\n3D motion animation from GIF artist, Pi-Slices.\nTechnique - Infinite Dolly , Liminal\nDirector - Pi-Slices\nEXTERIOR\nHALLWAY\nSTONE\nARCHITECTURE\nPILLARS",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005883.webp",
+      "alt_text": "Infinite Arches",
+      "discovered_at": "2025-09-11T13:16:09.737770",
+      "title": "Infinite Arches",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "HALLWAY",
+        "ARCHES"
+      ],
+      "technique_tags": [
+        "Infinite Dolly",
+        "Liminal"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite Arches\n3D motion animation from GIF artist, Pi-Slices.\nTechnique - Infinite Dolly , Liminal\nDirector - Pi-Slices\nINTERIOR\nHALLWAY\nARCHES",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707006528.webp",
+      "alt_text": "Infinite Stairs",
+      "discovered_at": "2025-09-11T13:16:13.365065",
       "title": "Infinite Stairs",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Infinite Stairs",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707006222.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.892196",
-      "element_tag": "img",
-      "title": "Animation by Fuzzy Ghost",
-      "description": "",
-      "category": "dreamcore",
-      "alt_text": "Animation by Fuzzy Ghost",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Liminal"
+      ],
+      "director": "Blobby Barack",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite Stairs\nTechnique - Liminal\nEditor - Blobby Barack",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005988.webp",
-      "page_url": "https://eyecannndy.com/technique/dreamcore",
-      "discovered_at": "2025-09-05T03:24:58.892244",
-      "element_tag": "img",
+      "alt_text": "Infinite Doorway",
+      "discovered_at": "2025-09-11T13:16:16.987379",
       "title": "Infinite Doorway",
       "description": "",
-      "category": "dreamcore",
-      "alt_text": "Infinite Doorway",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "INTERIOR",
+        "HALLWAY",
+        "ARCH",
+        "DOORWAY"
+      ],
+      "technique_tags": [
+        "Infinite Dolly",
+        "Liminal"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite Doorway\n3D motion animation from GIF artist, Pi-Slices.\nTechnique - Infinite Dolly , Liminal\nDirector - Pi-Slices\nINTERIOR\nHALLWAY\nARCH\nDOORWAY",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005962.webp",
+      "alt_text": "Morphing Tile",
+      "discovered_at": "2025-09-11T13:16:20.134090",
+      "title": "Morphing Tile",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "ARCHITEXTURE",
+        "COOL",
+        "TILES"
+      ],
+      "technique_tags": [
+        "Liminal"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Morphing Tile\n3D motion animation from GIF artist, Pi-Slices.\nTechnique - Liminal\nDirector - Pi-Slices\nINTERIOR\nARCHITEXTURE\nCOOL\nTILES",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005744.webp",
+      "alt_text": "Infinite Office",
+      "discovered_at": "2025-09-11T13:16:23.253922",
+      "title": "Infinite Office",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "HALLWAY",
+        "OFFICE",
+        "OVERHEAD LIGHTS"
+      ],
+      "technique_tags": [
+        "Liminal"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite Office\n3D motion animation from GIF artist, Pi-Slices.\nTechnique - Liminal\nDirector - Pi-Slices\nINTERIOR\nHALLWAY\nOFFICE\nOVERHEAD LIGHTS",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005796.webp",
+      "alt_text": "Neon Pool",
+      "discovered_at": "2025-09-11T13:16:26.917575",
+      "title": "Neon Pool",
+      "description": "",
+      "tags": [
+        "RED",
+        "WATER",
+        "NIGHT",
+        "REFLECTION",
+        "NEON",
+        "STARS",
+        "MOON"
+      ],
+      "technique_tags": [
+        "Liminal"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Neon Pool\n3D motion animation from GIF artist, Pi-Slices.\nTechnique - Liminal\nDirector - Pi-Slices\nRED\nWATER\nNIGHT\nREFLECTION\nNEON\nSTARS\nMOON",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707005824.webp",
+      "alt_text": "Infinite Stairs",
+      "discovered_at": "2025-09-11T13:16:30.064362",
+      "title": "Infinite Stairs",
+      "description": "",
+      "tags": [
+        "RED",
+        "INTERIOR",
+        "STAIRS",
+        "OVERHEAD",
+        "HAZY",
+        "FADED"
+      ],
+      "technique_tags": [
+        "Liminal"
+      ],
+      "director": "Pi-Slices",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Infinite Stairs\n3D motion animation from GIF artist, Pi-Slices.\nTechnique - Liminal\nDirector - Pi-Slices\nRED\nINTERIOR\nSTAIRS\nOVERHEAD\nHAZY\nFADED",
+      "page_url": "https://eyecannndy.com/technique/dreamcore"
     }
   ]
 }

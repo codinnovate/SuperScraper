@@ -1,6 +1,788 @@
 {
   "technique": "split-diopter",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.655888",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250912_024749",
+    "total_videos": 29,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_d8f1c739da7afe3b31912fc78c3b97c3_d80464c2_500/60ded00e5e7a07acba1bf676468c12c6.gif",
+      "alt_text": "Carrie",
+      "discovered_at": "2025-09-12T02:46:19.957226",
+      "title": "Carrie (1976)",
+      "description": "Carrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.",
+      "tags": [
+        "DAY",
+        "CLOSE UP",
+        "INTERIOR",
+        "COLORFUL",
+        "1970S",
+        "FILM",
+        "35MM",
+        "SATURATED",
+        "PANAVISION PANAFLEX",
+        "SCHOOL",
+        "CARRIE"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Paul Hirsch",
+      "dop": "Mario Tosi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Carrie (1976)\nCarrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.\nTechnique - Split Diopter\nDirector - Brian De Palma\nDOP - Mario Tosi\nEditor - Paul Hirsch\nOriginal Source - Link\nTutorial - Link\nDAY\nCLOSE UP\nINTERIOR\nCOLORFUL\n1970S\nFILM\n35MM\n1.85\nSATURATED\nPANAVISION PANAFLEX\n1976\nSCHOOL\nCARRIE",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/25/tumblr_49e6dffab1a3fe4e00713626a82b660f_82eba7c8_540/f12e9ccea6450295cac23a920c8efa4f.gif",
+      "alt_text": "Us",
+      "discovered_at": "2025-09-12T02:46:23.183754",
+      "title": "Us (2019)",
+      "description": "",
+      "tags": [
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Horror",
+        "Split Diopter"
+      ],
+      "director": "Nicholas Monsour",
+      "dop": "Mike Gioulakis",
+      "colorist": "Michael Hatzer",
+      "original_source": "",
+      "additional_info": "Us (2019)\nA family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them. Scene recipe: Close up split diopter.\nTechnique - Horror , Split Diopter\nDirector - Jordan Peele\nDOP - Mike Gioulakis\nEditor - Nicholas Monsour\nColorist - Michael Hatzer\nOriginal Source - Link\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/30/tumblr_cb30979e11e4671639dd19c25448202f_99d46eaa_540/954cc203787ad16cc103fd46c28eccc4.gif",
+      "alt_text": "The Umbrella Academy (TV Series)",
+      "discovered_at": "2025-09-12T02:46:26.381327",
+      "title": "The Umbrella Academy (TV Series) (2019)",
+      "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+      "tags": [
+        "WHITE",
+        "BLACK",
+        "AND"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Umbrella Academy (TV Series) (2019)\nA family of former child heroes, now grown apart, must reunite to continue to protect the world.\nTechnique - Split Diopter\nWHITE\nBLACK\nAND",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_6c59ea097bcf9b4ed66ef6966fce282b_a18a12fe_540/b8cdcd01cc90699429be495650cd69e8.gif",
+      "alt_text": "Jaws",
+      "discovered_at": "2025-09-12T02:46:29.627850",
+      "title": "Jaws (1975)",
+      "description": "When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+      "tags": [
+        "DAY",
+        "DOLLY ZOOM",
+        "OCEAN",
+        "TWO SHOT",
+        "EXTERIOR",
+        "1970S",
+        "FILM",
+        "35MM",
+        "ANAMORPHIC",
+        "PANAVISION C SERIES"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Verna Fields",
+      "dop": "Bill Butler",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Jaws (1975)\nWhen a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.\nTechnique - Split Diopter\nDirector - Steven Spielberg\nDOP - Bill Butler\nEditor - Verna Fields\nOriginal Source - Link\nTutorial - Link\nDAY\nDOLLY ZOOM\n1975\nOCEAN\nTWO SHOT\nEXTERIOR\n1970S\nFILM\n35MM\n2.35\nANAMORPHIC\nPANAVISION C SERIES",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/16/tumblr_6600200583f6a805f3b515e717aab75f_02bbbd7e_540/27c6c521fe5d009b0da16b20b667d655.gif",
+      "alt_text": "La Haine",
+      "discovered_at": "2025-09-12T02:46:32.836742",
+      "title": "La Haine (1995)",
+      "description": "A Mathieu Kassovitz-directed thriller where we follow the lives of three young men in the French suburbs the day after a violent riot. Kassovitz uses handheld cameras and fixed cameras on tripods to create a realistic feeling for the audience. The film was originally shot in color, but Kassovitz changed it to black and white in post-production, giving La Haine its timeless look.",
+      "tags": [
+        "NIGHT",
+        "BLACK AND WHITE",
+        "EIFFEL TOWER",
+        "CLOSE-UP",
+        "RING"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Shallow Focus",
+        "Split Diopter"
+      ],
+      "director": "Scott Stevenson",
+      "dop": "Pierre A",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "La Haine (1995)\nA Mathieu Kassovitz-directed thriller where we follow the lives of three young men in the French suburbs the day after a violent riot. Kassovitz uses handheld cameras and fixed cameras on tripods to create a realistic feeling for the audience. The film was originally shot in color, but Kassovitz changed it to black and white in post-production, giving La Haine its timeless look.\nTechnique - 1990s , Shallow Focus , Split Diopter\nDirector - Mathieu Kassovitz\nDOP - Pierre A\nEditor - Scott Stevenson\nTutorial - Link\nNIGHT\nBLACK AND WHITE\nEIFFEL TOWER\nCLOSE-UP\nRING",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/28/tumblr_f9a49a9fc8c7c111472586a62d809821_f84a26a9_540/930b19ba9e6695aa16404f4c9c551d33.gif",
+      "alt_text": "Evil Dead Rise",
+      "discovered_at": "2025-09-12T02:46:36.070942",
+      "title": "Evil Dead Rise (2023)",
+      "description": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film. Shot breakdown: Dutch angle ground shot + split diopter lens + close up.",
+      "tags": [
+        "INTERIOR",
+        "ANAMORPHIC",
+        "2020S",
+        "ARRI ALEXA MINI LF",
+        "PANAVISION LENSES",
+        "PANAVISION ULTRA SPEED MKII",
+        "PANAVISION ULTRA PANATAR LENSES",
+        "PANAVISION G SERIES"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Dutch Angle",
+        "Ground Level",
+        "Split Diopter"
+      ],
+      "director": "Bryan Shaw",
+      "dop": "Dave Garbett",
+      "colorist": "Gary Curran",
+      "original_source": "",
+      "additional_info": "Evil Dead Rise (2023)\nA twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film. Shot breakdown: Dutch angle ground shot + split diopter lens + close up.\nTechnique - Close-Up , Dutch Angle , Ground Level , Split Diopter\nDirector - Lee Cronin\nDOP - Dave Garbett\nEditor - Bryan Shaw\nColorist - Gary Curran\nOriginal Source - Link\nTutorial - Link\nINTERIOR\n2.39\nANAMORPHIC\n2020S\nARRI ALEXA MINI LF\nPANAVISION LENSES\nPANAVISION ULTRA SPEED MKII\nPANAVISION ULTRA PANATAR LENSES\nPANAVISION G SERIES",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/28/tumblr_e591d09f0e2214375d87c31559fdc573_85b25f9a_540/6d73e807f9dde2a44d2d24dd82aafa26.gif",
+      "alt_text": "Evil Dead Rise",
+      "discovered_at": "2025-09-12T02:46:39.232708",
+      "title": "Evil Dead Rise (2023)",
+      "description": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "RACK FOCUS",
+        "ANAMORPHIC",
+        "2020S",
+        "ARRI ALEXA MINI LF",
+        "PANAVISION LENSES",
+        "PANAVISION ULTRA SPEED MKII",
+        "PANAVISION ULTRA PANATAR LENSES",
+        "PANAVISION G SERIES"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Bryan Shaw",
+      "dop": "Dave Garbett",
+      "colorist": "Gary Curran",
+      "original_source": "",
+      "additional_info": "Evil Dead Rise (2023)\nA twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film.\nTechnique - Split Diopter\nDirector - Lee Cronin\nDOP - Dave Garbett\nEditor - Bryan Shaw\nColorist - Gary Curran\nOriginal Source - Link\nTutorial - Link\nDAY\nINTERIOR\nRACK FOCUS\n2.39\nANAMORPHIC\n2020S\nARRI ALEXA MINI LF\nPANAVISION LENSES\nPANAVISION ULTRA SPEED MKII\nPANAVISION ULTRA PANATAR LENSES\nPANAVISION G SERIES",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_44127d48b497fdf6f7dcdd0df2b445e3_a28fd260_500/997dc2eda1a817f464d98b30fbb5b37a.gif",
+      "alt_text": "Carrie",
+      "discovered_at": "2025-09-12T02:46:42.405267",
+      "title": "Carrie (1976)",
+      "description": "Carrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.",
+      "tags": [
+        "NIGHT",
+        "INTERIOR",
+        "DARK",
+        "1970S",
+        "FILM",
+        "35MM",
+        "PANAVISION PANAFLEX",
+        "CARRIE"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Paul Hirsch",
+      "dop": "Mario Tosi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Carrie (1976)\nCarrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.\nTechnique - Split Diopter\nDirector - Brian De Palma\nDOP - Mario Tosi\nEditor - Paul Hirsch\nOriginal Source - Link\nTutorial - Link\nNIGHT\nINTERIOR\nDARK\n1970S\nFILM\n35MM\n1.85\nPANAVISION PANAFLEX\n1976\nCARRIE",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_246622ca4f9e96accf6d8ce13eef959c_b6b921df_1280/de758cd8a3658b4ddfb95cc6863e6dbc.gif",
+      "alt_text": "Ma",
+      "discovered_at": "2025-09-12T02:46:45.573556",
+      "title": "Ma (2019)",
+      "description": "A lonely woman befriends a group of teenagers and decides to let them party at her house. Just when the kids think their luck couldn't get any better, things start happening that make them question the intention of their host.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "PANAVISION",
+        "COOL WHITE",
+        "ARRIRAW",
+        "BLUMHOUSE PRODUCTIONS",
+        "DENTSU",
+        "FUJI TELEVISION NETWORK"
+      ],
+      "technique_tags": [
+        "Split Diopter",
+        "Unsettling"
+      ],
+      "director": "Jitte Hoekstra",
+      "dop": "Christina A. Voros",
+      "colorist": "Andrea Chlebak",
+      "original_source": "",
+      "additional_info": "Ma (2019)\nA lonely woman befriends a group of teenagers and decides to let them party at her house. Just when the kids think their luck couldn't get any better, things start happening that make them question the intention of their host.\nTechnique - Split Diopter , Unsettling\nDirector - Tate Taylor\nDOP - Christina A. Voros\nEditor - Jitte Hoekstra\nColorist - Andrea Chlebak\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\nPANAVISION\n2.39\nCOOL WHITE\nARRIRAW\nBLUMHOUSE PRODUCTIONS\nDENTSU\nFUJI TELEVISION NETWORK",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_5028c5d0c92af5f63ab3fe2b22941795_5d8fd5a7_540/5174146bcdfb87f5a8453a730c8757c9.gif",
+      "alt_text": "The Thing",
+      "discovered_at": "2025-09-12T02:46:48.736399",
+      "title": "The Thing (1982)",
+      "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+      "tags": [
+        "INTERIOR",
+        "TWO SHOT",
+        "DARK",
+        "FILM",
+        "1980S",
+        "35MM",
+        "ANAMORPHIC",
+        "HARD LIGHT",
+        "PANAVISION GOLD / G2",
+        "PANAVISION C SERIES",
+        "PANAVISION E SERIES"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Todd C. Ramsay",
+      "dop": "Dean Cundey",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Thing (1982)\nA research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.\nTechnique - Split Diopter\nDirector - John Carpenter\nDOP - Dean Cundey\nEditor - Todd C. Ramsay\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nTWO SHOT\nDARK\nFILM\n1980S\n35MM\n2.35\nANAMORPHIC\nHARD LIGHT\n1982\nPANAVISION GOLD / G2\nPANAVISION C SERIES\nPANAVISION E SERIES",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_d29300ba31145233c508edb8d008fc51_89e9c1df_540_1/54ffd9b86772ea544a95232c8c298841.gif",
+      "alt_text": "Ouija: Origin of Evil",
+      "discovered_at": "2025-09-12T02:46:51.884740",
+      "title": "Ouija: Origin of Evil (2016)",
+      "description": "In 1967 Los Angeles, a widowed mother and her daughters add a new stunt to bolster their seance scam business by inviting an evil presence into their home, not realizing how dangerous it is.",
+      "tags": [
+        "DAY",
+        "LIGHT",
+        "INTERIOR",
+        "TWO SHOT"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Mike Flanagan",
+      "dop": "Michael Fimognari",
+      "colorist": "Cody Baker, Company 3",
+      "original_source": "",
+      "additional_info": "Ouija: Origin of Evil (2016)\nIn 1967 Los Angeles, a widowed mother and her daughters add a new stunt to bolster their seance scam business by inviting an evil presence into their home, not realizing how dangerous it is.\nTechnique - Split Diopter\nDirector - Mike Flanagan\nDOP - Michael Fimognari\nColorist - Cody Baker, Company 3\nOriginal Source - Link\nTutorial - Link\nDAY\nLIGHT\nINTERIOR\nTWO SHOT",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_8bdd3060e83d4fa8f6cf25ce223cf33b_a98c1b0a_500/6a224ad3953696a382fb04ba0f5afe21.gif",
+      "alt_text": "Carrie",
+      "discovered_at": "2025-09-12T02:46:55.026408",
+      "title": "Carrie (1976)",
+      "description": "Carrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.",
+      "tags": [
+        "DAY",
+        "GRASS",
+        "EXTERIOR",
+        "1970S",
+        "FILM",
+        "35MM",
+        "SATURATED",
+        "PANAVISION PANAFLEX",
+        "SATURATION",
+        "CARRIE"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Paul Hirsch",
+      "dop": "Mario Tosi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Carrie (1976)\nCarrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.\nTechnique - Split Diopter\nDirector - Brian De Palma\nDOP - Mario Tosi\nEditor - Paul Hirsch\nOriginal Source - Link\nTutorial - Link\nDAY\nGRASS\nEXTERIOR\n1970S\nFILM\n35MM\n1.85\nSATURATED\nPANAVISION PANAFLEX\n1976\nSATURATION\nCARRIE",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/05/14/Offset_-_CODE_ft._Moneybagg_Yo_Official_Video_RqY0aFI/46374bbf2b349854c5e4d7fa771af1d6.gif",
+      "alt_text": "Offset - CODE ft. Moneybagg Yo",
+      "discovered_at": "2025-09-12T02:46:58.203166",
+      "title": "Offset - CODE ft. Moneybagg Yo (2022)",
+      "description": "The music video for \"CODE\" by Offset featuring Moneybagg Yo is visually striking and matches the energy and themes of the song. In the video, both artists perform in various gritty, urban settings, enhancing the tough and assertive lyrics of the track. The video features scenes with luxury cars, dynamic group performances, and visually engaging effects that emphasize the rhythm and mood of the music. The overall aesthetic is dark and stylish, with a focus on street fashion and a portrayal of a lavish lifestyle, which is common in hip hop videos. The video complements the song's themes of success, power, and street credibility.",
+      "tags": [
+        "SPOTLIGHT"
+      ],
+      "technique_tags": [
+        "Profile",
+        "Split Diopter"
+      ],
+      "director": "Anthony Miralles",
+      "dop": "Taylor McIntosh",
+      "colorist": "Megan Lee",
+      "original_source": "",
+      "additional_info": "Offset - CODE ft. Moneybagg Yo (2022)\nThe music video for \"CODE\" by Offset featuring Moneybagg Yo is visually striking and matches the energy and themes of the song. In the video, both artists perform in various gritty, urban settings, enhancing the tough and assertive lyrics of the track. The video features scenes with luxury cars, dynamic group performances, and visually engaging effects that emphasize the rhythm and mood of the music. The overall aesthetic is dark and stylish, with a focus on street fashion and a portrayal of a lavish lifestyle, which is common in hip hop videos. The video complements the song's themes of success, power, and street credibility.\nTechnique - Profile , Split Diopter\nDirector - Claire Arnold\nDOP - Taylor McIntosh\nEditor - Anthony Miralles\nColorist - Megan Lee\nOriginal Source - Link\nSPOTLIGHT",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/28/CloseEncounters/d9614bb1f50ec68cbe690c30d4e8e3d0.gif",
+      "alt_text": "Close Encounters of the Third Kind",
+      "discovered_at": "2025-09-12T02:47:01.387290",
+      "title": "Close Encounters of the Third Kind (1977)",
+      "description": "Roy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.",
+      "tags": [
+        "CLOSE UP",
+        "INTERIOR",
+        "DINNER",
+        "PROFILE",
+        "TWO SHOT",
+        "1970S",
+        "FILM",
+        "35MM",
+        "PANAVISION PANAFLEX",
+        "ANAMORPHIC",
+        "PANAVISION 65 HR",
+        "PANAVISION R-200",
+        "PANAVISION C SERIES"
+      ],
+      "technique_tags": [
+        "Split Diopter",
+        "Two Shot"
+      ],
+      "director": "Michael Kahn",
+      "dop": "Vilmos Zsigmond",
+      "colorist": "Sheri Eisenberg",
+      "original_source": "",
+      "additional_info": "Close Encounters of the Third Kind (1977)\nRoy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.\nTechnique - Split Diopter , Two Shot\nDOP - Vilmos Zsigmond\nEditor - Michael Kahn\nColorist - Sheri Eisenberg\nOriginal Source - Link\nTutorial - Link\nCLOSE UP\nINTERIOR\nDINNER\nPROFILE\nTWO SHOT\n1970S\nFILM\n35MM\n2.35\nPANAVISION PANAFLEX\nANAMORPHIC\nPANAVISION 65 HR\nPANAVISION R-200\nPANAVISION C SERIES",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/25/SNL_Split/2b8f22c3f98f01fc794f29aae335a85f.gif",
+      "alt_text": "SNL - S42 Premiere",
+      "discovered_at": "2025-09-12T02:47:04.532173",
+      "title": "SNL - S42 Premiere (2016)",
+      "description": "SNL, or Saturday Night Live, is a long-running American sketch comedy and variety show that premiered on October 11, 1975. It features a mix of live sketches, musical performances, and celebrity hosts, and has become a cultural institution known for its satirical take on current events and pop culture.",
+      "tags": [
+        "MARGOT ROBBIE",
+        "INTERIOR",
+        "BRIGHT",
+        "LIBRARY"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Matt & Oz",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "SNL - S42 Premiere (2016)\nSNL, or Saturday Night Live, is a long-running American sketch comedy and variety show that premiered on October 11, 1975. It features a mix of live sketches, musical performances, and celebrity hosts, and has become a cultural institution known for its satirical take on current events and pop culture.\nTechnique - Split Diopter\nDirector - Matt & Oz\nMARGOT ROBBIE\nINTERIOR\nBRIGHT\nLIBRARY",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_dcef56ed0704149dbe2e7251c4722a1b_8d5bcf74_540_1/7f0092fbca5971635655abf5c8cfe0ae.gif",
+      "alt_text": "Saint Maud",
+      "discovered_at": "2025-09-12T02:47:07.702252",
+      "title": "Saint Maud (2019)",
+      "description": "A pious nurse becomes dangerously obsessed with saving the soul of her dying patient.",
+      "tags": [
+        "WARM",
+        "NIGHT",
+        "INTERIOR",
+        "2010S",
+        "ORANGE",
+        "BEDROOM",
+        "HORROR",
+        "ARRI ALEXA MINI",
+        "THRILLER",
+        "SPHERICAL",
+        "CANON K35 MK3"
+      ],
+      "technique_tags": [
+        "Fear",
+        "Split Diopter",
+        "Surprise"
+      ],
+      "director": "Mark Towns",
+      "dop": "Ben Fordesman",
+      "colorist": "Rob Pizzey",
+      "original_source": "",
+      "additional_info": "Saint Maud (2019)\nA pious nurse becomes dangerously obsessed with saving the soul of her dying patient.\nTechnique - Fear , Split Diopter , Surprise\nDirector - Rose Glass\nDOP - Ben Fordesman\nEditor - Mark Towns\nColorist - Rob Pizzey\nOriginal Source - Link\nTutorial - Link\nWARM\nNIGHT\nINTERIOR\n2010S\nORANGE\nBEDROOM\nHORROR\nARRI ALEXA MINI\n2.39\n2019\nTHRILLER\nSPHERICAL\nCANON K35 MK3",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_1f65b33ac6ba0efc7c5785d90cec31fe_b620a089_540/e9690becdfbfb46c7d0b0376a1055236.gif",
+      "alt_text": "House of 1,000 Corpses",
+      "discovered_at": "2025-09-12T02:47:10.905158",
+      "title": "House of 1,000 Corpses (2003)",
+      "description": "Two young couples traveling across the backwoods of Texas searching for urban legends of murder end up as prisoners of a bizarre and sadistic backwater family of serial killers.",
+      "tags": [
+        "NIGHT",
+        "BLUE",
+        "EXTERIOR",
+        "DARK",
+        "HORROR",
+        "THRILLER"
+      ],
+      "technique_tags": [
+        "Fear",
+        "Split Diopter"
+      ],
+      "director": "Kathryn Himoff, Robert K. Lambert, Sean K. Lambert",
+      "dop": "Alex Poppas, Tom Richmond",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "House of 1,000 Corpses (2003)\nTwo young couples traveling across the backwoods of Texas searching for urban legends of murder end up as prisoners of a bizarre and sadistic backwater family of serial killers.\nTechnique - Fear , Split Diopter\nDirector - Rob Zombie\nDOP - Alex Poppas, Tom Richmond\nEditor - Kathryn Himoff, Robert K. Lambert, Sean K. Lambert\nOriginal Source - Link\nTutorial - Link\nNIGHT\nBLUE\nEXTERIOR\nDARK\nHORROR\nTHRILLER",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_8ac605280f7d29561f9c2e072ded22a3_d2f23cef_540/54e9a265aa1f02ae6f483a2107a360ad.gif",
+      "alt_text": "Bride of Chucky",
+      "discovered_at": "2025-09-12T02:47:14.070833",
+      "title": "Bride of Chucky (1998)",
+      "description": "Chucky, the doll possessed by a serial killer, discovers the perfect mate to kill and revive into the body of another doll.",
+      "tags": [
+        "NIGHT",
+        "BLUE",
+        "INTERIOR",
+        "TWO SHOT",
+        "1990S",
+        "HORROR",
+        "MOVIECAM COMPACT",
+        "THRILLER"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Ronny Yu",
+      "dop": "Peter Pau",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Bride of Chucky (1998)\nChucky, the doll possessed by a serial killer, discovers the perfect mate to kill and revive into the body of another doll.\nTechnique - Split Diopter\nDirector - Ronny Yu\nDOP - Peter Pau\nOriginal Source - Link\nTutorial - Link\nNIGHT\nBLUE\nINTERIOR\nTWO SHOT\n1990S\nHORROR\nMOVIECAM COMPACT\nTHRILLER\n1998",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/30/tumblr_0110a590c078afffb978b68c59a6639f_7fcc7444_2048/5b701934b5043f82e2c8c1e343332066.jpg",
+      "alt_text": "The Andromeda Strain",
+      "discovered_at": "2025-09-12T02:47:17.232321",
+      "title": "The Andromeda Strain (1971)",
+      "description": "Top scientists work feverishly in a secret, state-of-the-art laboratory to discover what killed the citizens of a small town and how the deadly contagion can be stopped.",
+      "tags": [
+        "NIGHT",
+        "MEN",
+        "EXTERIOR",
+        "POLICE",
+        "COP"
+      ],
+      "technique_tags": [
+        "1970s",
+        "Central Framing",
+        "Split Diopter"
+      ],
+      "director": "John W. Holmes, Stuart Gilmore",
+      "dop": "Richard H. Kline",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Andromeda Strain (1971)\nTop scientists work feverishly in a secret, state-of-the-art laboratory to discover what killed the citizens of a small town and how the deadly contagion can be stopped.\nTechnique - 1970s , Central Framing , Split Diopter\nDirector - Robert Wise\nDOP - Richard H. Kline\nEditor - John W. Holmes, Stuart Gilmore\nNIGHT\nMEN\nEXTERIOR\nPOLICE\nCOP",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/05/14/Offset_-_CODE_ft._Moneybagg_Yo_Official_Video_g6RYG8a/9d4972a005339099798574792c807f0b.gif",
+      "alt_text": "Offset - CODE ft. Moneybagg Yo",
+      "discovered_at": "2025-09-12T02:47:20.410200",
+      "title": "Offset - CODE ft. Moneybagg Yo (2022)",
+      "description": "The music video for \"CODE\" by Offset featuring Moneybagg Yo is visually striking and matches the energy and themes of the song. In the video, both artists perform in various gritty, urban settings, enhancing the tough and assertive lyrics of the track. The video features scenes with luxury cars, dynamic group performances, and visually engaging effects that emphasize the rhythm and mood of the music. The overall aesthetic is dark and stylish, with a focus on street fashion and a portrayal of a lavish lifestyle, which is common in hip hop videos. The video complements the song's themes of success, power, and street credibility.",
+      "tags": [
+        "SPOTLIGHT"
+      ],
+      "technique_tags": [
+        "Profile",
+        "Split Diopter"
+      ],
+      "director": "Anthony Miralles",
+      "dop": "Taylor McIntosh",
+      "colorist": "Megan Lee",
+      "original_source": "",
+      "additional_info": "Offset - CODE ft. Moneybagg Yo (2022)\nThe music video for \"CODE\" by Offset featuring Moneybagg Yo is visually striking and matches the energy and themes of the song. In the video, both artists perform in various gritty, urban settings, enhancing the tough and assertive lyrics of the track. The video features scenes with luxury cars, dynamic group performances, and visually engaging effects that emphasize the rhythm and mood of the music. The overall aesthetic is dark and stylish, with a focus on street fashion and a portrayal of a lavish lifestyle, which is common in hip hop videos. The video complements the song's themes of success, power, and street credibility.\nTechnique - Profile , Split Diopter\nDirector - Claire Arnold\nDOP - Taylor McIntosh\nEditor - Anthony Miralles\nColorist - Megan Lee\nOriginal Source - Link\nSPOTLIGHT",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_5ebe1a32b53d5b6bf09fd61500533d7c_7dd94bcc_540/9a3096f61a268ad464cb9381233cc417.gif",
+      "alt_text": "The Birds",
+      "discovered_at": "2025-09-12T02:47:23.671458",
+      "title": "The Birds (1963)",
+      "description": "A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.",
+      "tags": [
+        "DAY",
+        "LIGHT",
+        "WHITE",
+        "EXTERIOR",
+        "FILM",
+        "HORROR",
+        "35MM",
+        "1960S",
+        "THRILLER",
+        "MITCHELL BNC",
+        "DRAMA"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Concern",
+        "Split Diopter"
+      ],
+      "director": "George Tomasini",
+      "dop": "Robert Burks",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Birds (1963)\nA wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.\nTechnique - 1960s , Concern , Split Diopter\nDirector - Alfred Hitchcock\nDOP - Robert Burks\nEditor - George Tomasini\nOriginal Source - Link\nTutorial - Link\nDAY\nLIGHT\nWHITE\n1963\nEXTERIOR\nFILM\nHORROR\n35MM\n1.85\n1960S\nTHRILLER\nMITCHELL BNC\nDRAMA\nBAUSCH AND LOMB - SUPER BALTAR",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/28/tumblr_6e46f361a61da8dac379bdf7bd8e14a7_f1a1bf8e_540/13b40fda9674a3dc7ca4a6cc20db56a8.gif",
+      "alt_text": "Evil Dead Rise",
+      "discovered_at": "2025-09-12T02:47:26.991870",
+      "title": "Evil Dead Rise (2023)",
+      "description": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film. Shot breakdown: Split diopter two shot.",
+      "tags": [
+        "DAY",
+        "BLOOD",
+        "INTERIOR",
+        "TWO SHOT",
+        "DARK",
+        "HAND",
+        "FINGER",
+        "ANAMORPHIC",
+        "2020S",
+        "CYAN",
+        "ARRI ALEXA MINI LF",
+        "PANAVISION LENSES",
+        "PANAVISION ULTRA SPEED MKII",
+        "PANAVISION ULTRA PANATAR LENSES",
+        "PANAVISION G SERIES"
+      ],
+      "technique_tags": [
+        "Split Diopter",
+        "Two Shot"
+      ],
+      "director": "Bryan Shaw",
+      "dop": "Dave Garbett",
+      "colorist": "Gary Curran",
+      "original_source": "",
+      "additional_info": "Evil Dead Rise (2023)\nA twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film. Shot breakdown: Split diopter two shot.\nTechnique - Split Diopter , Two Shot\nDirector - Lee Cronin\nDOP - Dave Garbett\nEditor - Bryan Shaw\nColorist - Gary Curran\nOriginal Source - Link\nTutorial - Link\nDAY\nBLOOD\nINTERIOR\nTWO SHOT\nDARK\nHAND\nFINGER\n2.39\nANAMORPHIC\n2020S\nCYAN\nARRI ALEXA MINI LF\nPANAVISION LENSES\nPANAVISION ULTRA SPEED MKII\nPANAVISION ULTRA PANATAR LENSES\nPANAVISION G SERIES",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_f6e4841bb89f9cdbeed6480005f81ad5_195511bf_540/1f9796c81919f6f169c2db2de5baf432.gif",
+      "alt_text": "Suspiria",
+      "discovered_at": "2025-09-12T02:47:30.234151",
+      "title": "Suspiria (2018)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "INTERIOR",
+        "TWO SHOT",
+        "FILM",
+        "2010S",
+        "35MM",
+        "SUPER 35",
+        "ZEISS SUPER SPEED",
+        "ARRICAM LT",
+        "COOKE VAROTEL ZOOM LENSES",
+        "ANGENIEUX OPTIMO ZOOMS",
+        "SPHERICAL",
+        "COOKE SPEED PANCHRO",
+        "ARRIFLEX 35 IIA"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Walter Fasano",
+      "dop": "Sayombhu Mukdeeprom",
+      "colorist": "Alessandro Pelliccia",
+      "original_source": "",
+      "additional_info": "Suspiria (2018)\nA darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up.\nTechnique - Split Diopter\nDirector - Luca Guadagnino\nDOP - Sayombhu Mukdeeprom\nEditor - Walter Fasano\nColorist - Alessandro Pelliccia\nOriginal Source - Link\nTutorial - Link\nNIGHT\nINTERIOR\nTWO SHOT\nFILM\n2010S\n35MM\n1.85\nSUPER 35\nZEISS SUPER SPEED\nARRICAM LT\nCOOKE VAROTEL ZOOM LENSES\nANGENIEUX OPTIMO ZOOMS\n2018\nSPHERICAL\nCOOKE SPEED PANCHRO\nARRIFLEX 35 IIA",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/28/tumblr_e735c918d86233d0323989ef95e6ad92_27b081c8_540/225d1a414da2317cf1c2970446e15318.gif",
+      "alt_text": "Evil Dead Rise",
+      "discovered_at": "2025-09-12T02:47:33.614593",
+      "title": "Evil Dead Rise (2023)",
+      "description": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film. Shot breakdown: Dutch angle split diopter ground shot.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "CHILD",
+        "ANAMORPHIC",
+        "2020S",
+        "ARRI ALEXA MINI LF",
+        "PANAVISION LENSES",
+        "FLOOR",
+        "PANAVISION ULTRA SPEED MKII",
+        "PANAVISION ULTRA PANATAR LENSES",
+        "PANAVISION G SERIES",
+        "KEYS",
+        "CRAWL"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Ground Level",
+        "Split Diopter"
+      ],
+      "director": "Bryan Shaw",
+      "dop": "Dave Garbett",
+      "colorist": "Gary Curran",
+      "original_source": "",
+      "additional_info": "Evil Dead Rise (2023)\nA twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film. Shot breakdown: Dutch angle split diopter ground shot.\nTechnique - Dutch Angle , Ground Level , Split Diopter\nDirector - Lee Cronin\nDOP - Dave Garbett\nEditor - Bryan Shaw\nColorist - Gary Curran\nOriginal Source - Link\nTutorial - Link\nDAY\nINTERIOR\nCHILD\n2.39\nANAMORPHIC\n2020S\nARRI ALEXA MINI LF\nPANAVISION LENSES\nFLOOR\nPANAVISION ULTRA SPEED MKII\nPANAVISION ULTRA PANATAR LENSES\nPANAVISION G SERIES\nKEYS\nCRAWL",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/28/tumblr_5d0bf89eec8629fb20534f91f0a159ed_3b6f3ac9_540/6899026541161a573793c79906136e82.gif",
+      "alt_text": "Evil Dead Rise",
+      "discovered_at": "2025-09-12T02:47:36.763910",
+      "title": "Evil Dead Rise (2023)",
+      "description": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film.",
+      "tags": [
+        "INTERIOR",
+        "ANAMORPHIC",
+        "2020S",
+        "ARRI ALEXA MINI LF",
+        "PANAVISION LENSES",
+        "PANAVISION ULTRA SPEED MKII",
+        "PANAVISION ULTRA PANATAR LENSES",
+        "PANAVISION G SERIES"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Split Diopter"
+      ],
+      "director": "Bryan Shaw",
+      "dop": "Dave Garbett",
+      "colorist": "Gary Curran",
+      "original_source": "",
+      "additional_info": "Evil Dead Rise (2023)\nA twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film.\nTechnique - Dutch Angle , Split Diopter\nDirector - Lee Cronin\nDOP - Dave Garbett\nEditor - Bryan Shaw\nColorist - Gary Curran\nOriginal Source - Link\nTutorial - Link\nINTERIOR\n2.39\nANAMORPHIC\n2020S\nARRI ALEXA MINI LF\nPANAVISION LENSES\nPANAVISION ULTRA SPEED MKII\nPANAVISION ULTRA PANATAR LENSES\nPANAVISION G SERIES",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/28/tumblr_b1cec757a1848a438d7ebce4bf9b637f_b0be022b_540/fc821c5b4ef2eff6954860ad5a30ee4b.gif",
+      "alt_text": "Midnight Mass (TV Series)",
+      "discovered_at": "2025-09-12T02:47:40.017893",
+      "title": "Midnight Mass (TV Series) (2021)",
+      "description": "An isolated island community experiences miraculous events - and frightening omens - after the arrival of a charismatic, mysterious young priest.",
+      "tags": [
+        "DAY",
+        "WHITE",
+        "INTERIOR",
+        "ANAMORPHIC",
+        "ARRI ALEXA MINI LF",
+        "ATLAS ORION SERIES"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Mike Flanagan",
+      "dop": "Michael Fimognari",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Midnight Mass (TV Series) (2021)\nAn isolated island community experiences miraculous events - and frightening omens - after the arrival of a charismatic, mysterious young priest.\nTechnique - Split Diopter\nDirector - Mike Flanagan\nDOP - Michael Fimognari\nDAY\nWHITE\nINTERIOR\nANAMORPHIC\nARRI ALEXA MINI LF\n2.00\nATLAS ORION SERIES",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/28/tumblr_2dfc20668ea13f6a8577f1e560faee6f_58e325b8_540/2e5bf748ee049764fe5af3fc748aae6a.gif",
+      "alt_text": "Jennifer's Body",
+      "discovered_at": "2025-09-12T02:47:43.273344",
+      "title": "Jennifer's Body (2009)",
+      "description": "A newly-possessed high-school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror?",
+      "tags": [
+        "YELLOW",
+        "CLOSE UP",
+        "GLASSES",
+        "NIGHT",
+        "INTERIOR",
+        "FILM",
+        "35MM",
+        "SUPER 35",
+        "PANAVISION PRIMO PRIMES",
+        "SATURATED",
+        "3 PERF",
+        "SATURATION",
+        "PHANTOM HD GOLD",
+        "PANAVISION GOLD / G2"
+      ],
+      "technique_tags": [
+        "Concern",
+        "Split Diopter"
+      ],
+      "director": "Plummy Tucker",
+      "dop": "M. David Mullen",
+      "colorist": "Mitch Paulson",
+      "original_source": "",
+      "additional_info": "Jennifer's Body (2009)\nA newly-possessed high-school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror?\nTechnique - Concern , Split Diopter\nDirector - Karyn Kusama\nDOP - M. David Mullen\nEditor - Plummy Tucker\nColorist - Mitch Paulson\nOriginal Source - Link\nYELLOW\nCLOSE UP\nGLASSES\nNIGHT\nINTERIOR\nFILM\n35MM\n1.85\nSUPER 35\nPANAVISION PRIMO PRIMES\nSATURATED\n3 PERF\nSATURATION\nPHANTOM HD GOLD\nPANAVISION MILLENNIUM / MILLENIUM XL / XL2\nPANAVISION GOLD / G2",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/29/tumblr_9f77f32533457ac742fc8bccaf348a45_f4aff03a_1280/5053744180e8c7f40b399451384d7ced.gif",
+      "alt_text": "Death Proof",
+      "discovered_at": "2025-09-12T02:47:46.450447",
+      "title": "Death Proof (2007)",
+      "description": "Two separate sets of voluptuous women are stalked at different times by a scarred stuntman who uses his \"death proof\" cars to execute his murderous plans.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "35MM",
+        "2000S",
+        "ARRIFLEX 435",
+        "3 PERF",
+        "PANAVISION PANAFLEX",
+        "ANAMORPHIC",
+        "PANAVISION PRIMO"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Split Diopter"
+      ],
+      "director": "Sally Menke",
+      "dop": "",
+      "colorist": "Steve Sheridan",
+      "original_source": "",
+      "additional_info": "Death Proof (2007)\nTwo separate sets of voluptuous women are stalked at different times by a scarred stuntman who uses his \"death proof\" cars to execute his murderous plans.\nTechnique - 2000s , Split Diopter\nDirector - Quentin Tarantino\nEditor - Sally Menke\nColorist - Steve Sheridan\nOriginal Source - Link\nTutorial - Link\nDAY\nEXTERIOR\n35MM\n2.35\n2000S\nARRIFLEX 435\n3 PERF\nPANAVISION PANAFLEX\nANAMORPHIC\n2007\nPANAVISION PRIMO",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/28/HaltSplit/57bebee5ce933286b9812abe4d95709d.gif",
+      "alt_text": "Halt and Catch Fire S3E7 (TV Series)",
+      "discovered_at": "2025-09-12T02:47:49.632045",
+      "title": "Halt and Catch Fire S3E7 (TV Series) (2016)",
+      "description": "Cameron welcomes her husband Tom to their new home in California. Gordon hears from Macmillan Utilites about his software code, and Cameron may be on the brink of wireless data communications.",
+      "tags": [
+        "INTERIOR",
+        "PROFILE",
+        "COOL",
+        "ARRI ALEXA",
+        "FOTOKEM"
+      ],
+      "technique_tags": [
+        "Split Diopter"
+      ],
+      "director": "Shannon Weiss",
+      "dop": "Evans Brown",
+      "colorist": "Scott Klein",
+      "original_source": "",
+      "additional_info": "Halt and Catch Fire S3E7 (TV Series) (2016)\nCameron welcomes her husband Tom to their new home in California. Gordon hears from Macmillan Utilites about his software code, and Cameron may be on the brink of wireless data communications.\nTechnique - Split Diopter\nDirector - Karyn Kusama\nDOP - Evans Brown\nEditor - Shannon Weiss\nColorist - Scott Klein\nOriginal Source - Link\nINTERIOR\nPROFILE\nCOOL\nARRI ALEXA\nFOTOKEM",
+      "page_url": "https://eyecannndy.com/technique/split-diopter"
+    }
+  ]
 }

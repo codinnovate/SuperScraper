@@ -1,1110 +1,1124 @@
 {
   "technique": "choreo",
-  "video_count": 57,
-  "generated_at": "2025-09-05T04:03:29.616517",
+  "scrape_info": {
+    "timestamp": "20250911_081008",
+    "total_videos": 47,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165328.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.557509",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813522.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.557683",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813424.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.557815",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809598.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.557975",
-      "element_tag": "img",
-      "title": "Majimbo - Aiza",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Majimbo - Aiza",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720850991.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558030",
-      "element_tag": "img",
-      "title": "Jhula - Manish Khushalani",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Jhula - Manish Khushalani",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165812.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558078",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813878.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558121",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165642.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558161",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860788.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558202",
-      "element_tag": "img",
-      "title": "Nike - A Feel For Every You",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Nike - A Feel For Every You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809397.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558242",
-      "element_tag": "img",
-      "title": "Majimbo - Aiza",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Majimbo - Aiza",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165328.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558291",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813522.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558330",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813424.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558366",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809598.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558401",
-      "element_tag": "img",
-      "title": "Majimbo - Aiza",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Majimbo - Aiza",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720850991.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558436",
-      "element_tag": "img",
-      "title": "Jhula - Manish Khushalani",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Jhula - Manish Khushalani",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165812.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558470",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813878.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558505",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165642.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558541",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860788.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558577",
-      "element_tag": "img",
-      "title": "Nike - A Feel For Every You",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Nike - A Feel For Every You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809397.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558611",
-      "element_tag": "img",
-      "title": "Majimbo - Aiza",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Majimbo - Aiza",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711142676.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558656",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141912.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558699",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "choreo",
       "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165278.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558741",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:07:21.862404",
+      "title": "Downtown Kayoto - Came Thru (2024)",
       "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163825.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558782",
-      "element_tag": "img",
-      "title": "Bree Runway - Just Like That",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165149.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558824",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720850874.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.558928",
-      "element_tag": "img",
-      "title": "Jhula - Manish Khushalani",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Jhula - Manish Khushalani",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165546.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559024",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720851055.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559072",
-      "element_tag": "img",
-      "title": "Jhula - Manish Khushalani",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Jhula - Manish Khushalani",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860739.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559117",
-      "element_tag": "img",
-      "title": "Nike - A Feel For Every You",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Nike - A Feel For Every You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141694.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559159",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813370.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559201",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141071.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559244",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814240.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559284",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165749.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559328",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860984.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559373",
-      "element_tag": "img",
-      "title": "Nike - A Feel For Every You",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Nike - A Feel For Every You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165001.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559415",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165679.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559456",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814201.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559494",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163190.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559533",
-      "element_tag": "img",
-      "title": "Bree Runway - Just Like That",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140969.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559571",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141165.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559609",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860709.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559647",
-      "element_tag": "img",
-      "title": "Nike - A Feel For Every You",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Nike - A Feel For Every You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813613.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559684",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "VOID",
+        "DANCE"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Crash Zoom",
+        "Handheld"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Crash Zoom , Handheld\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nVOID\nDANCE",
+      "page_url": "https://eyecannndy.com/technique/choreo"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165486.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559722",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
       "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:07:25.496360",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLUE",
+        "EYE",
+        "PUPIL",
+        "VICTORIA MONET"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Projections"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo , Projections\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nEYE\nPUPIL\nVICTORIA MONET",
+      "page_url": "https://eyecannndy.com/technique/choreo"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165387.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559761",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813804.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559800",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141114.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559837",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165188.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559875",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860667.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559918",
-      "element_tag": "img",
-      "title": "Nike - A Feel For Every You",
-      "description": "",
-      "category": "choreo",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860709.webp",
       "alt_text": "Nike - A Feel For Every You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:07:28.644618",
+      "title": "Nike - A Feel For Every You (2023)",
+      "description": "The 2023 Nike commercial, \"A Feel For Every You,\" presents fitness as a diverse and personalized experience, likened to a \"mega-mix symphony of sensations\" that ranges from high-energy activities to more relaxed, chill moments. It emphasizes that fitness is a personal choice, unique to each individual.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165420.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559956",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WOMAN",
+        "GROUP",
+        "EXTERIOR",
+        "CITY",
+        "ATHLETE",
+        "STREETS"
+      ],
+      "technique_tags": [
+        "Choreo"
+      ],
+      "director": "Ben Cowan, Paul Watts",
+      "dop": "Oliver Millar",
+      "colorist": "Mikey Rossiter",
+      "original_source": "",
+      "additional_info": "Nike - A Feel For Every You (2023)\nThe 2023 Nike commercial, \"A Feel For Every You,\" presents fitness as a diverse and personalized experience, likened to a \"mega-mix symphony of sensations\" that ranges from high-energy activities to more relaxed, chill moments. It emphasizes that fitness is a personal choice, unique to each individual.\nTechnique - Choreo\nDirector - C Prinz\nDOP - Oliver Millar\nEditor - Ben Cowan, Paul Watts\nColorist - Mikey Rossiter\nOriginal Source - Link\nWOMAN\nGROUP\nEXTERIOR\nCITY\nATHLETE\nSTREETS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165232.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.559995",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
       "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:07:31.805918",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLUE",
+        "VICTORIA MONET",
+        "GLITTER"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Seamless Transition",
+        "Transitions"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo , Seamless Transition , Transitions\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET\nGLITTER",
+      "page_url": "https://eyecannndy.com/technique/choreo"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165706.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.560041",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165857.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.560085",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163864.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.560122",
-      "element_tag": "img",
-      "title": "Bree Runway - Just Like That",
-      "description": "",
-      "category": "choreo",
-      "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813931.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.560161",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "choreo",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813424.webp",
       "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:07:34.980318",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BEACH",
+        "SAND",
+        "FRIENDS",
+        "GROUP",
+        "VACATION",
+        "RELAXING",
+        "LEGS",
+        "SENSUAL",
+        "SABRINA CARPENTER",
+        "SULTRY"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Choreo"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBEACH\nSAND\nFRIENDS\nGROUP\nVACATION\nRELAXING\nLEGS\nSENSUAL\nSABRINA CARPENTER\nSULTRY",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141165.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T08:07:38.161518",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "DANCERS"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Locked-On",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Locked-On , Spotlight , Void\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nGROUP\nDANCERS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174458.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.560198",
-      "element_tag": "img",
-      "title": "M.I.A. 'Bad Girls'",
-      "description": "",
-      "category": "choreo",
       "alt_text": "M.I.A. 'Bad Girls'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:07:41.844547",
+      "title": "M.I.A. 'Bad Girls' (2012)",
+      "description": "M.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "CAR",
+        "EXTERIOR",
+        "DESERT",
+        "MOROCCO"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Direct"
+      ],
+      "director": "Walter Mauriot",
+      "dop": "André Chemetoff",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "M.I.A. 'Bad Girls' (2012)\nM.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.\nTechnique - Choreo , Direct\nDirector - Romain Gavras\nDOP - André Chemetoff\nEditor - Walter Mauriot\nOriginal Source - Link\nTutorial - Link\nDAY\nCAR\nEXTERIOR\nDESERT\nMOROCCO",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813878.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T08:07:45.529256",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "BEACH",
+        "GROUP",
+        "MEN",
+        "SURFING",
+        "SUNGLASSES",
+        "SUMMER",
+        "SURFBOARD",
+        "SURFERS"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Choreo"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBEACH\nGROUP\nMEN\nSURFING\nSUNGLASSES\nSUMMER\nSURFBOARD\nSURFERS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860788.webp",
+      "alt_text": "Nike - A Feel For Every You",
+      "discovered_at": "2025-09-11T08:07:49.193009",
+      "title": "Nike - A Feel For Every You (2023)",
+      "description": "The 2023 Nike commercial, \"A Feel For Every You,\" presents fitness as a diverse and personalized experience, likened to a \"mega-mix symphony of sensations\" that ranges from high-energy activities to more relaxed, chill moments. It emphasizes that fitness is a personal choice, unique to each individual.",
+      "tags": [
+        "WOMAN",
+        "GROUP",
+        "EXTERIOR",
+        "CITY",
+        "ATHLETE",
+        "STREETS"
+      ],
+      "technique_tags": [
+        "Choreo"
+      ],
+      "director": "Ben Cowan, Paul Watts",
+      "dop": "Oliver Millar",
+      "colorist": "Mikey Rossiter",
+      "original_source": "",
+      "additional_info": "Nike - A Feel For Every You (2023)\nThe 2023 Nike commercial, \"A Feel For Every You,\" presents fitness as a diverse and personalized experience, likened to a \"mega-mix symphony of sensations\" that ranges from high-energy activities to more relaxed, chill moments. It emphasizes that fitness is a personal choice, unique to each individual.\nTechnique - Choreo\nDirector - C Prinz\nDOP - Oliver Millar\nEditor - Ben Cowan, Paul Watts\nColorist - Mikey Rossiter\nOriginal Source - Link\nWOMAN\nGROUP\nEXTERIOR\nCITY\nATHLETE\nSTREETS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720851055.webp",
+      "alt_text": "Jhula - Manish Khushalani",
+      "discovered_at": "2025-09-11T08:07:52.896369",
+      "title": "Jhula - Manish Khushalani (2024)",
+      "description": "The music video for \"Jhula\" by Manish Khushalani, released in 2024, explores themes of vulnerability, trust, and the delicate nature of relationships. The video combines Indian classical elements with contemporary electronic music, creating a unique visual and auditory experience. The narrative is driven by a series of intimate and evocative scenes that reflect the song's emotional depth, showcasing a blend of traditional and modern aesthetics that highlight the fusion of cultural influences. The visuals are crafted to complement the haunting melody and poignant lyrics, making for a captivating and immersive experience.",
+      "tags": [
+        "DAY",
+        "PINK",
+        "TWO SHOT",
+        "EXTERIOR",
+        "FLOATING",
+        "RAINBOW"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Halation",
+        "Levitation"
+      ],
+      "director": "Manish Khushalani",
+      "dop": "",
+      "colorist": "Vineesh Vijayan",
+      "original_source": "",
+      "additional_info": "Jhula - Manish Khushalani (2024)\nThe music video for \"Jhula\" by Manish Khushalani, released in 2024, explores themes of vulnerability, trust, and the delicate nature of relationships. The video combines Indian classical elements with contemporary electronic music, creating a unique visual and auditory experience. The narrative is driven by a series of intimate and evocative scenes that reflect the song's emotional depth, showcasing a blend of traditional and modern aesthetics that highlight the fusion of cultural influences. The visuals are crafted to complement the haunting melody and poignant lyrics, making for a captivating and immersive experience.\nTechnique - Choreo , Halation , Levitation\nDirector - Manish Khushalani\nEditor - Manish Khushalani\nColorist - Vineesh Vijayan\nOriginal Source - Link\nDAY\nPINK\nTWO SHOT\nEXTERIOR\nFLOATING\nRAINBOW",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809397.webp",
+      "alt_text": "Majimbo - Aiza",
+      "discovered_at": "2025-09-11T08:07:56.072879",
+      "title": "Majimbo - Aiza (2023)",
+      "description": "The music video for Aiza’s \"Majimbo\" showcases vibrant, energetic scenes that match the feel-good thumpy pop bassline and braggadocious flow of the song. Aiza, full of confidence, is seen walking down colorful city streets that transform into impromptu fashion runways, exuding an infectious joy and inner strength. K.O.G’s electric vocals elevate the video’s energy, capturing the pride and inspiration drawn from Elsa Majimbo’s rise to fame. The video blends Afropop, Afrobeat, and soulful R&B elements, celebrating Aiza’s journey and the empowerment of loving boldly.",
+      "tags": [
+        "DAY",
+        "MALE",
+        "DANCING",
+        "EXTERIOR",
+        "DANCE"
+      ],
+      "technique_tags": [
+        "Central Framing",
+        "Choreo"
+      ],
+      "director": "Daniyal Shah",
+      "dop": "Daniel Attoh",
+      "colorist": "Tricia Hagoriles",
+      "original_source": "",
+      "additional_info": "Majimbo - Aiza (2023)\nThe music video for Aiza’s \"Majimbo\" showcases vibrant, energetic scenes that match the feel-good thumpy pop bassline and braggadocious flow of the song. Aiza, full of confidence, is seen walking down colorful city streets that transform into impromptu fashion runways, exuding an infectious joy and inner strength. K.O.G’s electric vocals elevate the video’s energy, capturing the pride and inspiration drawn from Elsa Majimbo’s rise to fame. The video blends Afropop, Afrobeat, and soulful R&B elements, celebrating Aiza’s journey and the empowerment of loving boldly.\nTechnique - Central Framing , Choreo\nDirector - Will Niava\nDOP - Daniel Attoh\nEditor - Daniyal Shah\nColorist - Tricia Hagoriles\nOriginal Source - Link\nDAY\nMALE\nDANCING\nEXTERIOR\nDANCE",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141071.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T08:07:59.720631",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "SPOTLIGHT",
+        "VOID",
+        "DANCERS"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Spotlight , Void\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nSPOTLIGHT\nVOID\nDANCERS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165420.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:08:03.383829",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "VICTORIA MONET"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Light Flash"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo , Light Flash\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165546.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:08:06.549783",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "EYE",
+        "PUPIL",
+        "VICTORIA MONET"
+      ],
+      "technique_tags": [
+        "Bolt Cam",
+        "Choreo",
+        "Projections"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Bolt Cam , Choreo , Projections\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nEYE\nPUPIL\nVICTORIA MONET",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165328.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:08:10.213461",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "VICTORIA MONET",
+        "GLITTER"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Haze"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo , Haze\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET\nGLITTER",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141694.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T08:08:13.883671",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "DANCING",
+        "BREAKDANCE"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Locked-On"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Locked-On\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nWOMAN\nDANCING\nBREAKDANCE",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163825.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T08:08:18.071844",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [
+        "DANCING",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Kaleidoscope",
+        "Void"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Choreo , Kaleidoscope , Void\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link\nDANCING\nVOID",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165001.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:08:21.195596",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "VICTORIA MONET",
+        "GLITTER"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Silhouette",
+        "Spotlight"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo , Silhouette , Spotlight\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET\nGLITTER",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813522.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T08:08:25.362682",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "DAY",
+        "BEACH",
+        "SAND",
+        "EXTERIOR",
+        "VACATION",
+        "TANNING",
+        "SUN TAN"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Choreo",
+        "High Angle"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Choreo , High Angle\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nDAY\nBEACH\nSAND\nEXTERIOR\nVACATION\nTANNING\nSUN TAN",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814240.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T08:08:29.050220",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "DAY",
+        "DANCING",
+        "EXTERIOR",
+        "SUMMER",
+        "SABRINA CARPENTER",
+        "SURFBOARD"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Central Framing",
+        "Choreo",
+        "Zoom out"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Central Framing , Choreo , Zoom out\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nDAY\nDANCING\nEXTERIOR\nSUMMER\nSABRINA CARPENTER\nSURFBOARD",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813613.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T08:08:33.199188",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "MALE",
+        "WATER",
+        "BEACH",
+        "OCEAN",
+        "SURFING",
+        "TRUCK",
+        "POSE",
+        "SENSUAL",
+        "MODELS"
+      ],
+      "technique_tags": [
+        "Choreo"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nMALE\nWATER\nBEACH\nOCEAN\nSURFING\nTRUCK\nPOSE\nSENSUAL\nMODELS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860984.webp",
+      "alt_text": "Nike - A Feel For Every You",
+      "discovered_at": "2025-09-11T08:08:37.392040",
+      "title": "Nike - A Feel For Every You (2023)",
+      "description": "The 2023 Nike commercial, \"A Feel For Every You,\" presents fitness as a diverse and personalized experience, likened to a \"mega-mix symphony of sensations\" that ranges from high-energy activities to more relaxed, chill moments. It emphasizes that fitness is a personal choice, unique to each individual.",
+      "tags": [
+        "WOMAN",
+        "RUNNING",
+        "NIKE"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Maximalism",
+        "Ultra Slow Motion"
+      ],
+      "director": "Ben Cowan, Paul Watts",
+      "dop": "Oliver Millar",
+      "colorist": "Mikey Rossiter",
+      "original_source": "",
+      "additional_info": "Nike - A Feel For Every You (2023)\nThe 2023 Nike commercial, \"A Feel For Every You,\" presents fitness as a diverse and personalized experience, likened to a \"mega-mix symphony of sensations\" that ranges from high-energy activities to more relaxed, chill moments. It emphasizes that fitness is a personal choice, unique to each individual.\nTechnique - Choreo , Maximalism , Ultra Slow Motion\nDirector - C Prinz\nDOP - Oliver Millar\nEditor - Ben Cowan, Paul Watts\nColorist - Mikey Rossiter\nOriginal Source - Link\nWOMAN\nRUNNING\nNIKE",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814201.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T08:08:40.523457",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "DAY",
+        "BEACH",
+        "WOMEN",
+        "GROUP",
+        "SUNNY",
+        "TAN",
+        "SUN",
+        "SUMMER",
+        "TANNING",
+        "SURFBOARDS"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Central Framing",
+        "Choreo",
+        "Cut-ins",
+        "Overhead"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Central Framing , Choreo , Cut-ins , Overhead\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nDAY\nBEACH\nWOMEN\nGROUP\nSUNNY\nTAN\nSUN\nSUMMER\nTANNING\nSURFBOARDS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720850874.webp",
+      "alt_text": "Jhula - Manish Khushalani",
+      "discovered_at": "2025-09-11T08:08:44.195596",
+      "title": "Jhula - Manish Khushalani (2024)",
+      "description": "The music video for \"Jhula\" by Manish Khushalani, released in 2024, explores themes of vulnerability, trust, and the delicate nature of relationships. The video combines Indian classical elements with contemporary electronic music, creating a unique visual and auditory experience. The narrative is driven by a series of intimate and evocative scenes that reflect the song's emotional depth, showcasing a blend of traditional and modern aesthetics that highlight the fusion of cultural influences. The visuals are crafted to complement the haunting melody and poignant lyrics, making for a captivating and immersive experience.",
+      "tags": [
+        "RED",
+        "WOMAN",
+        "INTERIOR",
+        "DANCING",
+        "HALLWAY",
+        "CHOREO"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Dolly Zoom"
+      ],
+      "director": "Manish Khushalani",
+      "dop": "",
+      "colorist": "Vineesh Vijayan",
+      "original_source": "",
+      "additional_info": "Jhula - Manish Khushalani (2024)\nThe music video for \"Jhula\" by Manish Khushalani, released in 2024, explores themes of vulnerability, trust, and the delicate nature of relationships. The video combines Indian classical elements with contemporary electronic music, creating a unique visual and auditory experience. The narrative is driven by a series of intimate and evocative scenes that reflect the song's emotional depth, showcasing a blend of traditional and modern aesthetics that highlight the fusion of cultural influences. The visuals are crafted to complement the haunting melody and poignant lyrics, making for a captivating and immersive experience.\nTechnique - Choreo , Dolly Zoom\nDirector - Manish Khushalani\nEditor - Manish Khushalani\nColorist - Vineesh Vijayan\nOriginal Source - Link\nRED\nWOMAN\nINTERIOR\nDANCING\nHALLWAY\nCHOREO",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720850991.webp",
+      "alt_text": "Jhula - Manish Khushalani",
+      "discovered_at": "2025-09-11T08:08:48.414391",
+      "title": "Jhula - Manish Khushalani (2024)",
+      "description": "The music video for \"Jhula\" by Manish Khushalani, released in 2024, explores themes of vulnerability, trust, and the delicate nature of relationships. The video combines Indian classical elements with contemporary electronic music, creating a unique visual and auditory experience. The narrative is driven by a series of intimate and evocative scenes that reflect the song's emotional depth, showcasing a blend of traditional and modern aesthetics that highlight the fusion of cultural influences. The visuals are crafted to complement the haunting melody and poignant lyrics, making for a captivating and immersive experience.",
+      "tags": [
+        "WOMAN",
+        "INTERIOR",
+        "DANCING",
+        "TWO SHOT",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Choreo",
+        "Two Shot",
+        "X-Axis Arc"
+      ],
+      "director": "Manish Khushalani",
+      "dop": "",
+      "colorist": "Vineesh Vijayan",
+      "original_source": "",
+      "additional_info": "Jhula - Manish Khushalani (2024)\nThe music video for \"Jhula\" by Manish Khushalani, released in 2024, explores themes of vulnerability, trust, and the delicate nature of relationships. The video combines Indian classical elements with contemporary electronic music, creating a unique visual and auditory experience. The narrative is driven by a series of intimate and evocative scenes that reflect the song's emotional depth, showcasing a blend of traditional and modern aesthetics that highlight the fusion of cultural influences. The visuals are crafted to complement the haunting melody and poignant lyrics, making for a captivating and immersive experience.\nTechnique - Arc , Choreo , Two Shot , X-Axis Arc\nDirector - Manish Khushalani\nEditor - Manish Khushalani\nColorist - Vineesh Vijayan\nOriginal Source - Link\nWOMAN\nINTERIOR\nDANCING\nTWO SHOT\nDARK",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163864.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T08:08:52.094996",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [
+        "DANCING",
+        "VOID"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Datamosh",
+        "Glitch",
+        "Kaleidoscope",
+        "Void"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Choreo , Datamosh , Glitch , Kaleidoscope , Void\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link\nDANCING\nVOID",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165387.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:08:55.735898",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "VICTORIA MONET",
+        "GLITTER"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Match Cut"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo , Match Cut\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET\nGLITTER",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165679.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:08:59.392912",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "VICTORIA MONET"
+      ],
+      "technique_tags": [
+        "Boomerang",
+        "Choreo"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Boomerang , Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nVICTORIA MONET",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163190.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T08:09:02.534571",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [
+        "WOMAN",
+        "DANCING",
+        "SHADOW"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Shadows"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Choreo , Shadows\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link\nWOMAN\nDANCING\nSHADOW",
+      "page_url": "https://eyecannndy.com/technique/choreo"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809258.webp",
-      "page_url": "https://eyecannndy.com/technique/choreo",
-      "discovered_at": "2025-09-05T03:23:04.560236",
-      "element_tag": "img",
-      "title": "Majimbo - Aiza",
-      "description": "",
-      "category": "choreo",
       "alt_text": "Majimbo - Aiza",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:09:06.186608",
+      "title": "Majimbo - Aiza (2023)",
+      "description": "The music video for Aiza’s \"Majimbo\" showcases vibrant, energetic scenes that match the feel-good thumpy pop bassline and braggadocious flow of the song. Aiza, full of confidence, is seen walking down colorful city streets that transform into impromptu fashion runways, exuding an infectious joy and inner strength. K.O.G’s electric vocals elevate the video’s energy, capturing the pride and inspiration drawn from Elsa Majimbo’s rise to fame. The video blends Afropop, Afrobeat, and soulful R&B elements, celebrating Aiza’s journey and the empowerment of loving boldly.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "WOMAN",
+        "DANCING",
+        "EXTERIOR",
+        "DANCE"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Two Shot"
+      ],
+      "director": "Daniyal Shah",
+      "dop": "Daniel Attoh",
+      "colorist": "Tricia Hagoriles",
+      "original_source": "",
+      "additional_info": "Majimbo - Aiza (2023)\nThe music video for Aiza’s \"Majimbo\" showcases vibrant, energetic scenes that match the feel-good thumpy pop bassline and braggadocious flow of the song. Aiza, full of confidence, is seen walking down colorful city streets that transform into impromptu fashion runways, exuding an infectious joy and inner strength. K.O.G’s electric vocals elevate the video’s energy, capturing the pride and inspiration drawn from Elsa Majimbo’s rise to fame. The video blends Afropop, Afrobeat, and soulful R&B elements, celebrating Aiza’s journey and the empowerment of loving boldly.\nTechnique - Choreo , Two Shot\nDirector - Will Niava\nDOP - Daniel Attoh\nEditor - Daniyal Shah\nColorist - Tricia Hagoriles\nOriginal Source - Link\nDAY\nWOMAN\nDANCING\nEXTERIOR\nDANCE",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813931.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T08:09:09.864806",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "BEACH",
+        "GROUP",
+        "MEN",
+        "SURFING",
+        "SUNGLASSES",
+        "SUMMER",
+        "SURFBOARD",
+        "SURFERS"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Central Framing",
+        "Choreo",
+        "Tableau"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Central Framing , Choreo , Tableau\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBEACH\nGROUP\nMEN\nSURFING\nSUNGLASSES\nSUMMER\nSURFBOARD\nSURFERS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140969.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T08:09:13.557684",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "SPOTLIGHT",
+        "VOID",
+        "DANCERS"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Yo-Yo Zoom"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Yo-Yo Zoom\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nSPOTLIGHT\nVOID\nDANCERS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165749.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:09:17.250099",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "VICTORIA MONET"
+      ],
+      "technique_tags": [
+        "Boomerang",
+        "Choreo"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Boomerang , Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nVICTORIA MONET",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165812.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:09:20.904116",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "VICTORIA MONET"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Jump cut"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo , Jump cut\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nVICTORIA MONET",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165857.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:09:24.594695",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "VICTORIA MONET",
+        "LASERS"
+      ],
+      "technique_tags": [
+        "Choreo"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nVICTORIA MONET\nLASERS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165149.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:09:27.752446",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "VICTORIA MONET",
+        "GLITTER"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Echo print"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo , Echo print\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET\nGLITTER",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813804.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T08:09:31.941245",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "DAY",
+        "BEACH",
+        "WOMEN",
+        "EXTERIOR",
+        "ICE CREAM",
+        "SWIMSUIT",
+        "BIKINI",
+        "SENSUAL",
+        "LIFEGUARD",
+        "SUMMER",
+        "TOWER"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Choreo"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nDAY\nBEACH\nWOMEN\nEXTERIOR\nICE CREAM\nSWIMSUIT\nBIKINI\nSENSUAL\nLIFEGUARD\nSUMMER\nTOWER",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141114.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T08:09:35.583300",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "SPOTLIGHT",
+        "VOID",
+        "DANCERS"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Handheld",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Handheld , Spotlight , Void\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nSPOTLIGHT\nVOID\nDANCERS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165642.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:09:39.793536",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "VICTORIA MONET"
+      ],
+      "technique_tags": [
+        "Boomerang",
+        "Choreo"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Boomerang , Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nVICTORIA MONET",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860667.webp",
+      "alt_text": "Nike - A Feel For Every You",
+      "discovered_at": "2025-09-11T08:09:43.460947",
+      "title": "Nike - A Feel For Every You (2023)",
+      "description": "The 2023 Nike commercial, \"A Feel For Every You,\" presents fitness as a diverse and personalized experience, likened to a \"mega-mix symphony of sensations\" that ranges from high-energy activities to more relaxed, chill moments. It emphasizes that fitness is a personal choice, unique to each individual.",
+      "tags": [
+        "WOMAN",
+        "GROUP",
+        "EXTERIOR",
+        "CITY",
+        "ATHLETE",
+        "STREETS"
+      ],
+      "technique_tags": [
+        "Choreo"
+      ],
+      "director": "Ben Cowan, Paul Watts",
+      "dop": "Oliver Millar",
+      "colorist": "Mikey Rossiter",
+      "original_source": "",
+      "additional_info": "Nike - A Feel For Every You (2023)\nThe 2023 Nike commercial, \"A Feel For Every You,\" presents fitness as a diverse and personalized experience, likened to a \"mega-mix symphony of sensations\" that ranges from high-energy activities to more relaxed, chill moments. It emphasizes that fitness is a personal choice, unique to each individual.\nTechnique - Choreo\nDirector - C Prinz\nDOP - Oliver Millar\nEditor - Ben Cowan, Paul Watts\nColorist - Mikey Rossiter\nOriginal Source - Link\nWOMAN\nGROUP\nEXTERIOR\nCITY\nATHLETE\nSTREETS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165706.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:09:46.617352",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "VICTORIA MONET"
+      ],
+      "technique_tags": [
+        "Boomerang",
+        "Choreo"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Boomerang , Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nVICTORIA MONET",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715813370.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T08:09:50.796809",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "BEACH",
+        "SAND",
+        "FRIENDS",
+        "GROUP",
+        "VACATION",
+        "RELAXING",
+        "SABRINA CARPENTER"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Choreo"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBEACH\nSAND\nFRIENDS\nGROUP\nVACATION\nRELAXING\nSABRINA CARPENTER",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165278.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:09:54.452845",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "VICTORIA MONET",
+        "GLITTER"
+      ],
+      "technique_tags": [
+        "Central Framing",
+        "Choreo",
+        "Cut-ins"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Central Framing , Choreo , Cut-ins\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET\nGLITTER",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/31/261711860739.webp",
+      "alt_text": "Nike - A Feel For Every You",
+      "discovered_at": "2025-09-11T08:09:58.097215",
+      "title": "Nike - A Feel For Every You (2023)",
+      "description": "The 2023 Nike commercial, \"A Feel For Every You,\" presents fitness as a diverse and personalized experience, likened to a \"mega-mix symphony of sensations\" that ranges from high-energy activities to more relaxed, chill moments. It emphasizes that fitness is a personal choice, unique to each individual.",
+      "tags": [
+        "WOMAN",
+        "GROUP",
+        "EXTERIOR",
+        "CITY",
+        "ATHLETE",
+        "STREETS"
+      ],
+      "technique_tags": [
+        "Choreo"
+      ],
+      "director": "Ben Cowan, Paul Watts",
+      "dop": "Oliver Millar",
+      "colorist": "Mikey Rossiter",
+      "original_source": "",
+      "additional_info": "Nike - A Feel For Every You (2023)\nThe 2023 Nike commercial, \"A Feel For Every You,\" presents fitness as a diverse and personalized experience, likened to a \"mega-mix symphony of sensations\" that ranges from high-energy activities to more relaxed, chill moments. It emphasizes that fitness is a personal choice, unique to each individual.\nTechnique - Choreo\nDirector - C Prinz\nDOP - Oliver Millar\nEditor - Ben Cowan, Paul Watts\nColorist - Mikey Rossiter\nOriginal Source - Link\nWOMAN\nGROUP\nEXTERIOR\nCITY\nATHLETE\nSTREETS",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715809598.webp",
+      "alt_text": "Majimbo - Aiza",
+      "discovered_at": "2025-09-11T08:10:01.234891",
+      "title": "Majimbo - Aiza (2023)",
+      "description": "The music video for Aiza’s \"Majimbo\" showcases vibrant, energetic scenes that match the feel-good thumpy pop bassline and braggadocious flow of the song. Aiza, full of confidence, is seen walking down colorful city streets that transform into impromptu fashion runways, exuding an infectious joy and inner strength. K.O.G’s electric vocals elevate the video’s energy, capturing the pride and inspiration drawn from Elsa Majimbo’s rise to fame. The video blends Afropop, Afrobeat, and soulful R&B elements, celebrating Aiza’s journey and the empowerment of loving boldly.",
+      "tags": [
+        "DAY",
+        "MALE",
+        "SWEAT"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Split Screen"
+      ],
+      "director": "Daniyal Shah",
+      "dop": "Daniel Attoh",
+      "colorist": "Tricia Hagoriles",
+      "original_source": "",
+      "additional_info": "Majimbo - Aiza (2023)\nThe music video for Aiza’s \"Majimbo\" showcases vibrant, energetic scenes that match the feel-good thumpy pop bassline and braggadocious flow of the song. Aiza, full of confidence, is seen walking down colorful city streets that transform into impromptu fashion runways, exuding an infectious joy and inner strength. K.O.G’s electric vocals elevate the video’s energy, capturing the pride and inspiration drawn from Elsa Majimbo’s rise to fame. The video blends Afropop, Afrobeat, and soulful R&B elements, celebrating Aiza’s journey and the empowerment of loving boldly.\nTechnique - Choreo , Split Screen\nDirector - Will Niava\nDOP - Daniel Attoh\nEditor - Daniyal Shah\nColorist - Tricia Hagoriles\nOriginal Source - Link\nDAY\nMALE\nSWEAT",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711142676.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T08:10:04.913380",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "DANCE"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Locked-On",
+        "Match motion"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Locked-On , Match motion\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nDANCE",
+      "page_url": "https://eyecannndy.com/technique/choreo"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165188.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:10:08.612935",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "VICTORIA MONET",
+        "GLITTER"
+      ],
+      "technique_tags": [
+        "Bolt Cam",
+        "Choreo"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Bolt Cam , Choreo\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET\nGLITTER",
+      "page_url": "https://eyecannndy.com/technique/choreo"
     }
   ]
 }

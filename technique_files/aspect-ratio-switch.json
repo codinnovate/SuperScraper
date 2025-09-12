@@ -1,6 +1,363 @@
 {
   "technique": "aspect-ratio-switch",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.654658",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_075005",
+    "total_videos": 13,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715642262.webp",
+      "alt_text": "Vince Staples - Norf Norf",
+      "discovered_at": "2025-09-11T07:49:23.322842",
+      "title": "Vince Staples - Norf Norf (2015)",
+      "description": "The music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.",
+      "tags": [
+        "INTERIOR",
+        "BLACK AND WHITE",
+        "POLICE",
+        "COPS",
+        "JAIL",
+        "ARRESTED",
+        "PRISON",
+        "VINCE STAPLES",
+        "INTERROGATION",
+        "POLICE OFFICERS"
+      ],
+      "technique_tags": [
+        "Ratio Switch"
+      ],
+      "director": "Spike Jordan, Vince Staples",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vince Staples - Norf Norf (2015)\nThe music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.\nTechnique - Ratio Switch\nDirector - Spike Jordan, Vince Staples\nOriginal Source - Link\nINTERIOR\nBLACK AND WHITE\nPOLICE\nCOPS\nJAIL\nARRESTED\nPRISON\nVINCE STAPLES\nINTERROGATION\nPOLICE OFFICERS",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715643438.webp",
+      "alt_text": "Oblé Reed - WESTON.",
+      "discovered_at": "2025-09-11T07:49:27.010532",
+      "title": "Oblé Reed - WESTON. (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Ratio Switch"
+      ],
+      "director": "Nash Pearson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oblé Reed - WESTON. (2023)\nMusic video\nTechnique - Ratio Switch\nDirector - Nash Pearson\nEditor - Nash Pearson\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700309.webp",
+      "alt_text": "Hunger Games: Catching Fire",
+      "discovered_at": "2025-09-11T07:49:30.134314",
+      "title": "Hunger Games: Catching Fire (2013)",
+      "description": "",
+      "tags": [
+        "WATER",
+        "WOMAN",
+        "GREEN",
+        "NATURE",
+        "ARC SHOT",
+        "EXTERIOR",
+        "TREES",
+        "HUNGER GAMES",
+        "OUTSIDE",
+        "JENNIFER LAWRENCE"
+      ],
+      "technique_tags": [
+        "Action",
+        "Ratio Switch"
+      ],
+      "director": "Alan Edward Bell",
+      "dop": "Jo Willems",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Hunger Games: Catching Fire (2013)\nTechnique - Action , Ratio Switch\nDirector - Francis Lawrence\nDOP - Jo Willems\nEditor - Alan Edward Bell\nWATER\nWOMAN\nGREEN\nNATURE\nARC SHOT\nEXTERIOR\nTREES\nHUNGER GAMES\nOUTSIDE\nJENNIFER LAWRENCE",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700412.webp",
+      "alt_text": "Deliveroo - The Arrival",
+      "discovered_at": "2025-09-11T07:49:34.373850",
+      "title": "Deliveroo - The Arrival (2022)",
+      "description": "A woman receives a Deliveroo order, prepares her table with royal china, and savors a burger, culminating with the tagline \"Food. We get it.\"",
+      "tags": [
+        "INTERIOR",
+        "NATURAL LIGHT",
+        "DOLLY IN",
+        "HOME",
+        "THE ARRIVAL",
+        "TAKE OUT",
+        "ARRIVAL",
+        "TABLE",
+        "DOLLY",
+        "BURGER"
+      ],
+      "technique_tags": [
+        "Probe",
+        "Ratio Switch"
+      ],
+      "director": "Trim Editing",
+      "dop": "Patrick Meller",
+      "colorist": "Tom Mangham",
+      "original_source": "",
+      "additional_info": "Deliveroo - The Arrival (2022)\nA woman receives a Deliveroo order, prepares her table with royal china, and savors a burger, culminating with the tagline \"Food. We get it.\"\nTechnique - Probe , Ratio Switch\nDirector - Us\nDOP - Patrick Meller\nEditor - Trim Editing\nColorist - Tom Mangham\nOriginal Source - Link\nINTERIOR\nNATURAL LIGHT\nDOLLY IN\nHOME\nTHE ARRIVAL\nTAKE OUT\nARRIVAL\nTABLE\nDOLLY\nBURGER",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700133.webp",
+      "alt_text": "Instagram - Coeur Sur Toi",
+      "discovered_at": "2025-09-11T07:49:38.035484",
+      "title": "Instagram - Coeur Sur Toi (2019)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "RED",
+        "WALKING",
+        "OUTDOORS",
+        "SKY",
+        "EXTERIOR",
+        "SHOES",
+        "HEADPHONES",
+        "SHIRT",
+        "SUNNY",
+        "CITY",
+        "DAY TIME",
+        "DAYTIME",
+        "CONCRETE",
+        "INSTAGRAM",
+        "SOCKS",
+        "WALK"
+      ],
+      "technique_tags": [
+        "Ratio Switch"
+      ],
+      "director": "CANADA, Nicolás Méndez",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Instagram - Coeur Sur Toi (2019)\nTechnique - Ratio Switch\nDirector - CANADA, Nicolás Méndez\nOriginal Source - Link\nDAY\nRED\nWALKING\nOUTDOORS\nSKY\nEXTERIOR\nSHOES\nHEADPHONES\nSHIRT\nSUNNY\nCITY\nDAY TIME\nDAYTIME\nCONCRETE\nINSTAGRAM\nSOCKS\nWALK",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700390.webp",
+      "alt_text": "Unknown Source",
+      "discovered_at": "2025-09-11T07:49:41.169237",
+      "title": "Unknown Source",
+      "description": "",
+      "tags": [
+        "RED",
+        "WHITE",
+        "WOMAN",
+        "DRIVING",
+        "NIGHT",
+        "NIGHTTIME",
+        "NIGHT TIME",
+        "WHITE PANTS",
+        "HANDHELD",
+        "UPSIDE DOWN",
+        "RAIN",
+        "CAMERA ROTATE",
+        "PAVEMENT",
+        "HANDS"
+      ],
+      "technique_tags": [
+        "Ratio Switch"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Unknown Source\nKnow the source? Please email jacobi@eycndy.com\nTechnique - Ratio Switch\nRED\nWHITE\nWOMAN\nDRIVING\nNIGHT\nNIGHTTIME\nNIGHT TIME\nWHITE PANTS\nHANDHELD\nUPSIDE DOWN\nRAIN\nCAMERA ROTATE\nPAVEMENT\nHANDS",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704107201.webp",
+      "alt_text": "Sub Urban - UH OH! (feat. BENEE)",
+      "discovered_at": "2025-09-11T07:49:44.860743",
+      "title": "Sub Urban - UH OH! (feat. BENEE) (2022)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "35MM",
+        "PHONE",
+        "KODAK",
+        "POLICE OFFICER",
+        "CALL"
+      ],
+      "technique_tags": [
+        "Ratio Switch",
+        "Split Screen"
+      ],
+      "director": "Erin McCaffrey, Rock Paper Scissors, Sebastian Zotoff",
+      "dop": "Kristian Zuniga",
+      "colorist": "Company 3, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Sub Urban - UH OH! (feat. BENEE) (2022)\nIn Andrew Donoho's \"Uh Oh\" video, Sub Urban, portraying an imperfect Jehovah's Witness, disturbs an idyllic suburban neighborhood, blurring the line between who is truly the source of terror. Credits: Story & Creative Direction by Sub Urban Directed by Andrew Donoho Production Company - Obsidian Executive Producer - Doug Klinger Head of Production - Anna Heinrich Producer - Ian Blair Director’s Rep - Doug Klinger at Reprobates Production Manager - Kristen Brancaccio Production Coordinator - John Wayne Leingang Director of Photography - Kristian Zuniga Assistant Director - Michael Estrella 2nd Assistant Director - Mike Roque 1st AC - Jackie Vresics 2nd AC - Aaron Brenner Steadicam - Loren Hamilton Gaffer - Drew Valenti ACLT - Dominic D'astice Hyphenate - David Veerman Key Grip - Ed Barraza Best Grip - Jason Webster Grip - Gaither Narron\nTechnique - Ratio Switch , Split Screen\nDirector - Andrew Donoho\nDOP - Kristian Zuniga\nEditor - Erin McCaffrey, ",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539891.webp",
+      "alt_text": "Saint Levant - Nails",
+      "discovered_at": "2025-09-11T07:49:48.015756",
+      "title": "Saint Levant - Nails (2023)",
+      "description": "2024 music video by Saint Levant performing Nails starring Mia Khalifa.",
+      "tags": [],
+      "technique_tags": [
+        "Fast Motion",
+        "Ratio Switch"
+      ],
+      "director": "Mattias Russo-Larsson",
+      "dop": "Melisse Riahi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Saint Levant - Nails (2023)\n2024 music video by Saint Levant performing Nails starring Mia Khalifa.\nTechnique - Fast Motion , Ratio Switch\nDirector - Mattias Russo-Larsson\nDOP - Melisse Riahi\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700344.webp",
+      "alt_text": "Source Unknown",
+      "discovered_at": "2025-09-11T07:49:51.699807",
+      "title": "Source Unknown",
+      "description": "",
+      "tags": [
+        "WHITE",
+        "WOMAN",
+        "RESTAURANT",
+        "BAR",
+        "COUPLE",
+        "BEERS",
+        "3 SHOT",
+        "DRINKING",
+        "MARTINI",
+        "ASPECT RATIO"
+      ],
+      "technique_tags": [
+        "Ratio Switch"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source Unknown\nKnow the source? Please email jacobi@eycndy.com\nTechnique - Ratio Switch\nWHITE\nWOMAN\nRESTAURANT\nBAR\nCOUPLE\nBEERS\n3 SHOT\nDRINKING\nMARTINI\nASPECT RATIO",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715641301.webp",
+      "alt_text": "Vince Staples - Norf Norf",
+      "discovered_at": "2025-09-11T07:49:54.860338",
+      "title": "Vince Staples - Norf Norf (2015)",
+      "description": "The music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.",
+      "tags": [
+        "DAY",
+        "CAR",
+        "BLACK AND WHITE",
+        "EXTERIOR",
+        "POLICE",
+        "ARRESTED",
+        "SERIOUS",
+        "VINCE STAPLES"
+      ],
+      "technique_tags": [
+        "Intensity",
+        "Ratio Switch"
+      ],
+      "director": "Spike Jordan, Vince Staples",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vince Staples - Norf Norf (2015)\nThe music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.\nTechnique - Intensity , Ratio Switch\nDirector - Spike Jordan, Vince Staples\nOriginal Source - Link\nDAY\nCAR\nBLACK AND WHITE\nEXTERIOR\nPOLICE\nARRESTED\nSERIOUS\nVINCE STAPLES",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700218.webp",
+      "alt_text": "Mommy",
+      "discovered_at": "2025-09-11T07:49:58.025176",
+      "title": "Mommy (2014)",
+      "description": "In this shot, the character breaks the fourth wall by pushing the aspect ratio wider.",
+      "tags": [
+        "MALE",
+        "WHITE",
+        "BLONDE",
+        "HEADPHONES",
+        "ASPECT RATIO",
+        "PILON",
+        "ANTOINE OLIVIER PILON",
+        "GRIMACE",
+        "STEVE DESPRÉS",
+        "OLIVIER PILON",
+        "WINCE"
+      ],
+      "technique_tags": [
+        "Fourth Wall",
+        "Frame play",
+        "Ratio Switch"
+      ],
+      "director": "Xavier Dolan",
+      "dop": "André Turpin",
+      "colorist": "Michael Haeley",
+      "original_source": "",
+      "additional_info": "Mommy (2014)\nIn this shot, the character breaks the fourth wall by pushing the aspect ratio wider.\nTechnique - Fourth Wall , Frame play , Ratio Switch\nDirector - Xavier Dolan\nDOP - André Turpin\nEditor - Xavier Dolan\nColorist - Michael Haeley\nMALE\nWHITE\nBLONDE\nHEADPHONES\nASPECT RATIO\nPILON\nANTOINE OLIVIER PILON\nGRIMACE\nSTEVE DESPRÉS\nOLIVIER PILON\nWINCE",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704107162.webp",
+      "alt_text": "Sub Urban - UH OH! (feat. BENEE)",
+      "discovered_at": "2025-09-11T07:50:01.192515",
+      "title": "Sub Urban - UH OH! (feat. BENEE) (2022)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "35MM",
+        "PHONE",
+        "KODAK",
+        "POLICE OFFICER",
+        "CALL"
+      ],
+      "technique_tags": [
+        "Ratio Switch",
+        "Split Screen"
+      ],
+      "director": "Erin McCaffrey, Rock Paper Scissors, Sebastian Zotoff",
+      "dop": "Kristian Zuniga",
+      "colorist": "Company 3, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Sub Urban - UH OH! (feat. BENEE) (2022)\nIn Andrew Donoho's \"Uh Oh\" video, Sub Urban, portraying an imperfect Jehovah's Witness, disturbs an idyllic suburban neighborhood, blurring the line between who is truly the source of terror. Credits: Story & Creative Direction by Sub Urban Directed by Andrew Donoho Production Company - Obsidian Executive Producer - Doug Klinger Head of Production - Anna Heinrich Producer - Ian Blair Director’s Rep - Doug Klinger at Reprobates Production Manager - Kristen Brancaccio Production Coordinator - John Wayne Leingang Director of Photography - Kristian Zuniga Assistant Director - Michael Estrella 2nd Assistant Director - Mike Roque 1st AC - Jackie Vresics 2nd AC - Aaron Brenner Steadicam - Loren Hamilton Gaffer - Drew Valenti ACLT - Dominic D'astice Hyphenate - David Veerman Key Grip - Ed Barraza Best Grip - Jason Webster Grip - Gaither Narron\nTechnique - Ratio Switch , Split Screen\nDirector - Andrew Donoho\nDOP - Kristian Zuniga\nEditor - Erin McCaffrey, ",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700440.webp",
+      "alt_text": "Unknown Source",
+      "discovered_at": "2025-09-11T07:50:04.890032",
+      "title": "Unknown Source",
+      "description": "",
+      "tags": [
+        "WHITE",
+        "JACKET",
+        "RESTAURANT",
+        "NIGHT",
+        "NIGHTTIME",
+        "NIGHT TIME",
+        "PANTS",
+        "ASPECT RATIO SWITCH",
+        "NEON",
+        "SKATING",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "Ratio Switch"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Unknown Source\nKnow the source? Please email jacobi@eycndy.com\nTechnique - Ratio Switch\nWHITE\nJACKET\nRESTAURANT\nNIGHT\nNIGHTTIME\nNIGHT TIME\nPANTS\nASPECT RATIO SWITCH\nNEON\nSKATING\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/aspect-ratio-switch"
+    }
+  ]
 }

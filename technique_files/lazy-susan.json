@@ -1,6 +1,1482 @@
 {
   "technique": "lazy-susan",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.651299",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_152530",
+    "total_videos": 63,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976709.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T15:20:26.285901",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985728.webp",
+      "alt_text": "Travis Scott - FE!N",
+      "discovered_at": "2025-09-11T15:20:29.928555",
+      "title": "Travis Scott - FE!N (2024)",
+      "description": "The music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.",
+      "tags": [
+        "CAR",
+        "INTERIOR",
+        "FRIENDS",
+        "GROUP",
+        "VEHICLE"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Void"
+      ],
+      "director": "Joseph Taylor, Trim Editing",
+      "dop": "Xiaolong Liu",
+      "colorist": "John Lowe",
+      "original_source": "",
+      "additional_info": "Travis Scott - FE!N (2024)\nThe music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.\nTechnique - Lazy Susan , Void\nDirector - Gabriel Moses\nDOP - Xiaolong Liu\nEditor - Joseph Taylor, Trim Editing\nColorist - John Lowe\nOriginal Source - Link\nCAR\nINTERIOR\nFRIENDS\nGROUP\nVEHICLE",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703899338.webp",
+      "alt_text": "Childish Gambino - Sweatpants ft. Problem",
+      "discovered_at": "2025-09-11T15:20:34.647531",
+      "title": "Childish Gambino - Sweatpants ft. Problem (2014)",
+      "description": "",
+      "tags": [
+        "RESTAURANT",
+        "NIGHT",
+        "INTERIOR",
+        "WARM WHITE",
+        "NOKTOR T0.324 135MM HYPERPRIME",
+        "RED HYPNO-DRAGON 7.2K",
+        "ZACUTO"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Pan"
+      ],
+      "director": "Eric Greenburg",
+      "dop": "Larkin Seiple",
+      "colorist": "Marc Steinberg",
+      "original_source": "",
+      "additional_info": "Childish Gambino - Sweatpants ft. Problem (2014)\nNow iconic 2014 music video in which we see people in a restaurant turn into Donald Glover as he appears to leave the restaurant only to re-enter in a loop. VFX aside, Director Hiro Murai delivers a simple mechanic with long tracking takes on a steadicam.\nTechnique - Lazy Susan , Pan\nDirector - Hiro Murai\nDOP - Larkin Seiple\nEditor - Eric Greenburg\nColorist - Marc Steinberg\nOriginal Source - Link\nTutorial - Link\nRESTAURANT\nNIGHT\nINTERIOR\nWARM WHITE\nNOKTOR T0.324 135MM HYPERPRIME\nRED HYPNO-DRAGON 7.2K\nZACUTO",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704939349.webp",
+      "alt_text": "Square - Para Los Que Hacen",
+      "discovered_at": "2025-09-11T15:20:41.964739",
+      "title": "Square - Para Los Que Hacen (2021)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "INTERIOR",
+        "SINGLE SHOT",
+        "CLAY"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Lazy Susan",
+        "Locked-on Lazy Susan"
+      ],
+      "director": "Fouad Gaber",
+      "dop": "Zack Spiger",
+      "colorist": "Simon Bourne",
+      "original_source": "",
+      "additional_info": "Square - Para Los Que Hacen (2021)\nTechnique - Fast Motion , Lazy Susan , Locked-on Lazy Susan\nDirector - Alex Hulsey\nDOP - Zack Spiger\nEditor - Fouad Gaber\nColorist - Simon Bourne\nOriginal Source - Link\nWOMAN\nINTERIOR\nSINGLE SHOT\nCLAY",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947406.webp",
+      "alt_text": "Moonrise Kingdom",
+      "discovered_at": "2025-09-11T15:20:45.646325",
+      "title": "Moonrise Kingdom (2012)",
+      "description": "A whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.",
+      "tags": [
+        "WARM",
+        "INTERIOR",
+        "DARK",
+        "FILM",
+        "16MM",
+        "ZEISS SUPER SPEED",
+        "AATON AMINIMA"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Lazy Susan",
+        "Whip Pan"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Tim Stipan",
+      "original_source": "",
+      "additional_info": "Moonrise Kingdom (2012)\nA whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.\nTechnique - 1960s , Lazy Susan , Whip Pan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Tim Stipan\nWARM\nINTERIOR\nDARK\nFILM\n16MM\n1.85\nZEISS SUPER SPEED\nAATON AMINIMA",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709020302.webp",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "discovered_at": "2025-09-11T15:20:49.864626",
+      "title": "Snipes x Nike - The Cypher (2023)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "DANCE",
+        "CYPHER"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Match Cut"
+      ],
+      "director": "Alexis Benot, Eugène Signoret",
+      "dop": "Cesar Decharme",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Snipes x Nike - The Cypher (2023)\nTechnique - Lazy Susan , Match Cut\nDirector - Marius Gonzalez\nDOP - Cesar Decharme\nEditor - Alexis Benot, Eugène Signoret\nColorist - Arthur Paux\nOriginal Source - Link\nGROUP\nDANCE\nCYPHER",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706477130.webp",
+      "alt_text": "Valaire - (She's A) Winner (Ft. Alan Prater)",
+      "discovered_at": "2025-09-11T15:20:54.057423",
+      "title": "Valaire - (She's A) Winner (Ft. Alan Prater) (2023)",
+      "description": "Macro tracking shot inside 'ear canal' as we take on the perspective of the inside of the ear.",
+      "tags": [
+        "LOW ANGLE",
+        "INTERIOR",
+        "GROUP"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Julien Vallée",
+      "dop": "Harley Francis",
+      "colorist": "Charles-Étienne Pascal",
+      "original_source": "",
+      "additional_info": "Valaire - (She's A) Winner (Ft. Alan Prater) (2023)\nMacro tracking shot inside 'ear canal' as we take on the perspective of the inside of the ear.\nTechnique - Lazy Susan\nDirector - Julien Vallée\nDOP - Harley Francis\nColorist - Charles-Étienne Pascal\nOriginal Source - Link\nLOW ANGLE\nINTERIOR\nGROUP",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706478051.webp",
+      "alt_text": "Nike - Never Settle. Never Done",
+      "discovered_at": "2025-09-11T15:20:57.708860",
+      "title": "Nike - Never Settle. Never Done (2022)",
+      "description": "",
+      "tags": [
+        "SOCCER",
+        "NERF",
+        "BALL"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Locked-on Lazy Susan"
+      ],
+      "director": "Alexandre Sellem, Hugo Beron, Lola Margrain",
+      "dop": "Maeva Von Dinh, Paul Guilhaume",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Nike - Never Settle. Never Done (2022)\nValentin Petit, the visionary director of Nike's women's football campaign, skillfully captures the essence of the game by featuring a dynamic cast of all-stars and grassroots players in the Women's Euros anthem. His directorial prowess unveils the unparalleled speed, technical finesse, and undeniable quality that define the current landscape of women's football, setting a new standard for equality in the sport.\nTechnique - Lazy Susan , Locked-on Lazy Susan\nDirector - Valentin Petit\nDOP - Maeva Von Dinh, Paul Guilhaume\nEditor - Alexandre Sellem, Hugo Beron, Lola Margrain\nColorist - Arthur Paux\nOriginal Source - Link\nSOCCER\nNERF\nBALL",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704613976.webp",
+      "alt_text": "Ben Claremont - It's Time",
+      "discovered_at": "2025-09-11T15:21:01.425258",
+      "title": "Ben Claremont - It's Time (2016)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "MUSIC",
+        "BLUE",
+        "GRASS",
+        "EXTERIOR",
+        "BAND",
+        "INSTA360"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Omnidirectional"
+      ],
+      "director": "Ben Claremont",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ben Claremont - It's Time (2016)\nTechnique - Lazy Susan , Omnidirectional\nDirector - Ben Claremont\nOriginal Source - Link\nTutorial - Link\nDAY\nMUSIC\nBLUE\nGRASS\nEXTERIOR\nBAND\n360\nINSTA360",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706425490.webp",
+      "alt_text": "RIMOWA - Ingenieurskunst",
+      "discovered_at": "2025-09-11T15:21:05.613110",
+      "title": "RIMOWA - Ingenieurskunst (2022)",
+      "description": "",
+      "tags": [
+        "WHITE",
+        "RIMOWA",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Low Angle"
+      ],
+      "director": "Carlos Font Clos",
+      "dop": "Maximilian Pittner",
+      "colorist": "Sofie Borup",
+      "original_source": "",
+      "additional_info": "RIMOWA - Ingenieurskunst (2022)\nTechnique - Lazy Susan , Low Angle\nDirector - Maik Schuster\nDOP - Maximilian Pittner\nEditor - Carlos Font Clos\nColorist - Sofie Borup\nOriginal Source - Link\nWHITE\nRIMOWA\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706476112.webp",
+      "alt_text": "Chase - Sizzle",
+      "discovered_at": "2025-09-11T15:21:10.317624",
+      "title": "Chase - Sizzle (2020)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "RESTAURANT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Paul Hardcastle, Trim Editing",
+      "dop": "Albert Salas",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Chase - Sizzle (2020)\n2020 commercial for Chase from director Oscar Hudson. Edited by Paul Hardcastle of Trim Editing\nTechnique - Lazy Susan\nDirector - Oscar Hudson\nDOP - Albert Salas\nEditor - Paul Hardcastle, Trim Editing\nOriginal Source - Link\nWOMAN\nRESTAURANT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824977.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T15:21:14.511096",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "TABLE"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Lazy Susan\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nTABLE",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703899251.webp",
+      "alt_text": "Childish Gambino - Sweatpants ft. Problem",
+      "discovered_at": "2025-09-11T15:21:18.680609",
+      "title": "Childish Gambino - Sweatpants ft. Problem (2014)",
+      "description": "",
+      "tags": [
+        "RESTAURANT",
+        "NIGHT",
+        "INTERIOR",
+        "WARM WHITE",
+        "NOKTOR T0.324 135MM HYPERPRIME",
+        "RED HYPNO-DRAGON 7.2K",
+        "ZACUTO"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Indifference",
+        "Lazy Susan"
+      ],
+      "director": "Eric Greenburg",
+      "dop": "Larkin Seiple",
+      "colorist": "Marc Steinberg",
+      "original_source": "",
+      "additional_info": "Childish Gambino - Sweatpants ft. Problem (2014)\nNow iconic 2014 music video in which we see people in a restaurant turn into Donald Glover as he appears to leave the restaurant only to re-enter in a loop. VFX aside, Director Hiro Murai delivers a simple mechanic with long tracking takes on a steadicam.\nTechnique - Duplication , Indifference , Lazy Susan\nDirector - Hiro Murai\nDOP - Larkin Seiple\nEditor - Eric Greenburg\nColorist - Marc Steinberg\nOriginal Source - Link\nTutorial - Link\nRESTAURANT\nNIGHT\nINTERIOR\nWARM WHITE\nNOKTOR T0.324 135MM HYPERPRIME\nRED HYPNO-DRAGON 7.2K\nZACUTO",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710975977.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T15:21:23.368605",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "USHER"
+      ],
+      "technique_tags": [
+        "Credits",
+        "Lazy Susan",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Credits , Lazy Susan , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nUSHER",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703489876.webp",
+      "alt_text": "Lil Yachty - TESLA",
+      "discovered_at": "2025-09-11T15:21:27.522965",
+      "title": "Lil Yachty - TESLA (2023)",
+      "description": "",
+      "tags": [
+        "GREEN",
+        "PINK",
+        "INTERIOR",
+        "COLORFUL",
+        "OVERHEAD",
+        "SATURATED",
+        "SATURATION",
+        "DUOTONE"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Overhead"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Lil Yachty - TESLA (2023)\nRecipe: Overhead duotone lazy susan\nTechnique - Lazy Susan , Overhead\nDirector - Cole Bennett\nDOP - Franklin Ricart\nColorist - Loren White\nOriginal Source - Link\nGREEN\nPINK\nINTERIOR\nCOLORFUL\nOVERHEAD\nSATURATED\nSATURATION\nDUOTONE",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976682.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T15:21:31.151342",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706477890.webp",
+      "alt_text": "Nine Inch Nails - Closer",
+      "discovered_at": "2025-09-11T15:21:35.322971",
+      "title": "Nine Inch Nails - Closer (2009)",
+      "description": "Filmed at the abandoned Linda Vista Community Hospital in Los Angeles, the video gained popularity and contributed to the band's success. Set in a 19th-century mad scientist's laboratory, the video incorporates imagery related to religion, sexuality, animal cruelty, politics, and terror. Fun!",
+      "tags": [
+        "WARM",
+        "INTERIOR",
+        "FILM",
+        "VINTAGE",
+        "BURN",
+        "ORANGE",
+        "RETRO",
+        "NINE INCH NAILS",
+        "EXPRESSIONISM",
+        "GRUNGE",
+        "2000S",
+        "MARK ROMANEK",
+        "HARRIS SAVIDES",
+        "ROBERT DUFFY"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Lazy Susan",
+        "Stationary camera",
+        "Vintage"
+      ],
+      "director": "Robert Duffy",
+      "dop": "Harris Savides",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nine Inch Nails - Closer (2009)\nFilmed at the abandoned Linda Vista Community Hospital in Los Angeles, the video gained popularity and contributed to the band's success. Set in a 19th-century mad scientist's laboratory, the video incorporates imagery related to religion, sexuality, animal cruelty, politics, and terror. Fun!\nTechnique - 2000s , Lazy Susan , Stationary camera , Vintage\nDirector - Mark Romanek\nDOP - Harris Savides\nEditor - Robert Duffy\nOriginal Source - Link\n2009\nWARM\nINTERIOR\nFILM\nVINTAGE\nBURN\nORANGE\nRETRO\nNINE INCH NAILS\nEXPRESSIONISM\nGRUNGE\n2000S\nMARK ROMANEK\nHARRIS SAVIDES\nROBERT DUFFY",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704620909.webp",
+      "alt_text": "American Rock GIF By Dyan Jong",
+      "discovered_at": "2025-09-11T15:21:39.506127",
+      "title": "American Rock GIF By Dyan Jong (2019)",
+      "description": "",
+      "tags": [
+        "ORANGE"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Silhouette",
+        "Stationary camera"
+      ],
+      "director": "Dylan Jong",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "American Rock GIF By Dyan Jong (2019)\nTechnique - Lazy Susan , Silhouette , Stationary camera\nDirector - Dylan Jong\nOriginal Source - Link\nORANGE",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711258616.webp",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "discovered_at": "2025-09-11T15:21:43.656703",
+      "title": "Sam Akpro - Death By Entertainment (2023)",
+      "description": "The music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.",
+      "tags": [],
+      "technique_tags": [
+        "Lazy Susan",
+        "Slow Motion"
+      ],
+      "director": "Pedro Takahashi",
+      "dop": "Max Conran",
+      "colorist": "Connor Coolbear, Electric Theatre Collective",
+      "original_source": "",
+      "additional_info": "Sam Akpro - Death By Entertainment (2023)\nThe music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.\nTechnique - Lazy Susan , Slow Motion\nDirector - Pedro Takahashi\nDOP - Max Conran\nColorist - Connor Coolbear, Electric Theatre Collective\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711258885.webp",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "discovered_at": "2025-09-11T15:21:58.240077",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706477937.webp",
+      "alt_text": "Freshlabels - Rodeo",
+      "discovered_at": "2025-09-11T15:22:12.860663",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706476182.webp",
+      "alt_text": "Chase - Sizzle",
+      "discovered_at": "2025-09-11T15:22:24.326028",
+      "title": "Sam Akpro - Death By Entertainment (2023)",
+      "description": "The music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Lazy Susan",
+        "Low Angle",
+        "Wide shot"
+      ],
+      "director": "Pedro Takahashi",
+      "dop": "Max Conran",
+      "colorist": "Connor Coolbear, Electric Theatre Collective",
+      "original_source": "",
+      "additional_info": "Sam Akpro - Death By Entertainment (2023)\nThe music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.\nTechnique - Fast Motion , Lazy Susan , Low Angle , Wide shot\nDirector - Pedro Takahashi\nDOP - Max Conran\nColorist - Connor Coolbear, Electric Theatre Collective\nOriginal Source - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706476519.webp",
+      "alt_text": "Everyone You Know - The Drive",
+      "discovered_at": "2025-09-11T15:22:31.071637",
+      "title": "Everyone You Know - The Drive (2019)",
+      "description": "",
+      "tags": [
+        "CAR",
+        "NIGHT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Locked-on Lazy Susan"
+      ],
+      "director": "Silent Tapes",
+      "dop": "Sam Meyer",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Everyone You Know - The Drive (2019)\nDirecting duo Silent Tapes demonstrate considerable technical prowess in the narrative trick that the directors and DoP Sam Meyer call the 'geostationary camera technique'.\nTechnique - Lazy Susan , Locked-on Lazy Susan\nDirector - Silent Tapes\nDOP - Sam Meyer\nOriginal Source - Link\nCAR\nNIGHT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384635.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-11T15:22:34.736239",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
+      "tags": [
+        "DAY",
+        "WES ANDERSON",
+        "EXTERIOR",
+        "SATURATED",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "DESERT",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "CYAN"
+      ],
+      "technique_tags": [
+        "1950s",
+        "Lazy Susan"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.\nTechnique - 1950s , Lazy Susan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nDAY\nWES ANDERSON\nEXTERIOR\nSATURATED\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nDESERT\nARRICAM LT\nARRICAM ST\nCYAN",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706476470.webp",
+      "alt_text": "Everyone You Know - The Drive",
+      "discovered_at": "2025-09-11T15:22:38.388725",
+      "title": "Everyone You Know - The Drive (2019)",
+      "description": "",
+      "tags": [
+        "CAR",
+        "NIGHT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Silent Tapes",
+      "dop": "Sam Meyer",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Everyone You Know - The Drive (2019)\nDirecting duo Silent Tapes demonstrate considerable technical prowess in the narrative trick that the directors and DoP Sam Meyer call the 'geostationary camera technique'.\nTechnique - Lazy Susan\nDirector - Silent Tapes\nDOP - Sam Meyer\nOriginal Source - Link\nCAR\nNIGHT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711258785.webp",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "discovered_at": "2025-09-11T15:22:42.050347",
+      "title": "Sam Akpro - Death By Entertainment (2023)",
+      "description": "The music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.",
+      "tags": [],
+      "technique_tags": [
+        "Lazy Susan",
+        "Match Cut",
+        "Match motion"
+      ],
+      "director": "Pedro Takahashi",
+      "dop": "Max Conran",
+      "colorist": "Connor Coolbear, Electric Theatre Collective",
+      "original_source": "",
+      "additional_info": "Sam Akpro - Death By Entertainment (2023)\nThe music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.\nTechnique - Lazy Susan , Match Cut , Match motion\nDirector - Pedro Takahashi\nDOP - Max Conran\nColorist - Connor Coolbear, Electric Theatre Collective\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706477056.webp",
+      "alt_text": "That 70s Show (TV Series)",
+      "discovered_at": "2025-09-11T15:22:45.715388",
+      "title": "That 70s Show (TV Series) (1998)",
+      "description": "A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.",
+      "tags": [
+        "INTERIOR",
+        "GROUP",
+        "WHIP"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Bonnie Turner",
+      "dop": "Ronald W. Browne",
+      "colorist": "Andy Lichtstein",
+      "original_source": "",
+      "additional_info": "That 70s Show (TV Series) (1998)\nA comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.\nTechnique - Lazy Susan\nDirector - David Trainer\nDOP - Ronald W. Browne\nEditor - Bonnie Turner\nColorist - Andy Lichtstein\nINTERIOR\nGROUP\nWHIP",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705111960.webp",
+      "alt_text": "Instagram - Yours to Make",
+      "discovered_at": "2025-09-11T15:22:49.373323",
+      "title": "Instagram - Yours to Make (2021)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "FLASH",
+        "SKATEBOARD",
+        "SKATE",
+        "CAMERAS"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Void"
+      ],
+      "director": "Cabin Edit, Robert Lopuski",
+      "dop": "Oliver Millar",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Instagram - Yours to Make (2021)\nDirector: rubberband Production Company: SMUGGLER Executive Producers: Patrick John Milling-Smith, Brian Carmody, Sue Yeon Ahn COO: Andrew Colon Head of Production: Alex Hughes Producer: Carmen Bosley Director of Photography: Oliver Millar Production Designer: Miranda Lorenz Stylist: Eric Mcneal Hair Stylist: Jayson Medina Makeup Artist: Jenn Hanching\nTechnique - Lazy Susan , Void\nDirector - rubberband\nDOP - Oliver Millar\nEditor - Cabin Edit, Robert Lopuski\nOriginal Source - Link\nWOMAN\nFLASH\nSKATEBOARD\nSKATE\nCAMERAS",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709019537.webp",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "discovered_at": "2025-09-11T15:22:53.194299",
+      "title": "Snipes x Nike - The Cypher (2023)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "DANCE",
+        "CYPHER"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Low Frame-rate",
+        "Motion Blur"
+      ],
+      "director": "Alexis Benot, Eugène Signoret",
+      "dop": "Cesar Decharme",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Snipes x Nike - The Cypher (2023)\nTechnique - Lazy Susan , Low Frame-rate , Motion Blur\nDirector - Marius Gonzalez\nDOP - Cesar Decharme\nEditor - Alexis Benot, Eugène Signoret\nColorist - Arthur Paux\nOriginal Source - Link\nGROUP\nDANCE\nCYPHER",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702949042.webp",
+      "alt_text": "Magnolia",
+      "discovered_at": "2025-09-11T15:22:56.865812",
+      "title": "Magnolia (1999)",
+      "description": "An epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.",
+      "tags": [
+        "WOMAN",
+        "HOUSE",
+        "INTERIOR",
+        "WHIP",
+        "SET TRANSITION"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Set Transition",
+        "Whip Pan"
+      ],
+      "director": "Dylan Tichenor",
+      "dop": "Robert Elswit",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Magnolia (1999)\nAn epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.\nTechnique - Lazy Susan , Set Transition , Whip Pan\nDirector - Paul Thomas Anderson\nDOP - Robert Elswit\nEditor - Dylan Tichenor\nWOMAN\nHOUSE\nINTERIOR\nWHIP\nSET TRANSITION",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706477777.webp",
+      "alt_text": "The Darjeeling Limited",
+      "discovered_at": "2025-09-11T15:22:59.975031",
+      "title": "The Darjeeling Limited (2007)",
+      "description": "Wes Anderson directed film in which three brothers travel across India by train in an attempt to bond with each other a year after their fathers death. You're seeing a ground-level shot on a moving platform — in this case, a train.",
+      "tags": [
+        "WOMAN",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert D. Yeoman",
+      "colorist": "Walter Volpatto",
+      "original_source": "",
+      "additional_info": "The Darjeeling Limited (2007)\nWes Anderson directed film in which three brothers travel across India by train in an attempt to bond with each other a year after their fathers death. You're seeing a ground-level shot on a moving platform — in this case, a train.\nTechnique - Lazy Susan\nDirector - Wes Anderson\nDOP - Robert D. Yeoman\nEditor - Andrew Weisblum\nColorist - Walter Volpatto\nWOMAN\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706476773.webp",
+      "alt_text": "Everyone You Know - The Drive",
+      "discovered_at": "2025-09-11T15:23:03.630498",
+      "title": "Everyone You Know - The Drive (2019)",
+      "description": "",
+      "tags": [
+        "CAR",
+        "NIGHT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Silent Tapes",
+      "dop": "Sam Meyer",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Everyone You Know - The Drive (2019)\nDirecting duo Silent Tapes demonstrate considerable technical prowess in the narrative trick that the directors and DoP Sam Meyer call the 'geostationary camera technique'.\nTechnique - Lazy Susan\nDirector - Silent Tapes\nDOP - Sam Meyer\nOriginal Source - Link\nCAR\nNIGHT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706477877.webp",
+      "alt_text": "Nine Inch Nails - Closer",
+      "discovered_at": "2025-09-11T15:23:07.279378",
+      "title": "Nine Inch Nails - Closer (2009)",
+      "description": "Filmed at the abandoned Linda Vista Community Hospital in Los Angeles, the video gained popularity and contributed to the band's success. Set in a 19th-century mad scientist's laboratory, the video incorporates imagery related to religion, sexuality, animal cruelty, politics, and terror. Fun!",
+      "tags": [
+        "WARM",
+        "INTERIOR",
+        "FILM",
+        "VINTAGE",
+        "BURN",
+        "ORANGE",
+        "RETRO",
+        "NINE INCH NAILS",
+        "EXPRESSIONISM",
+        "GRUNGE",
+        "2000S",
+        "MARK ROMANEK",
+        "HARRIS SAVIDES",
+        "ROBERT DUFFY"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Lazy Susan",
+        "Stationary camera",
+        "Vintage"
+      ],
+      "director": "Robert Duffy",
+      "dop": "Harris Savides",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nine Inch Nails - Closer (2009)\nFilmed at the abandoned Linda Vista Community Hospital in Los Angeles, the video gained popularity and contributed to the band's success. Set in a 19th-century mad scientist's laboratory, the video incorporates imagery related to religion, sexuality, animal cruelty, politics, and terror. Fun!\nTechnique - 2000s , Lazy Susan , Stationary camera , Vintage\nDirector - Mark Romanek\nDOP - Harris Savides\nEditor - Robert Duffy\nOriginal Source - Link\n2009\nWARM\nINTERIOR\nFILM\nVINTAGE\nBURN\nORANGE\nRETRO\nNINE INCH NAILS\nEXPRESSIONISM\nGRUNGE\n2000S\nMARK ROMANEK\nHARRIS SAVIDES\nROBERT DUFFY",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706476706.webp",
+      "alt_text": "Everyone You Know - The Drive",
+      "discovered_at": "2025-09-11T15:23:10.930264",
+      "title": "Everyone You Know - The Drive (2019)",
+      "description": "",
+      "tags": [
+        "CAR",
+        "NIGHT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Locked-on Lazy Susan"
+      ],
+      "director": "Silent Tapes",
+      "dop": "Sam Meyer",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Everyone You Know - The Drive (2019)\nDirecting duo Silent Tapes demonstrate considerable technical prowess in the narrative trick that the directors and DoP Sam Meyer call the 'geostationary camera technique'.\nTechnique - Lazy Susan , Locked-on Lazy Susan\nDirector - Silent Tapes\nDOP - Sam Meyer\nOriginal Source - Link\nCAR\nNIGHT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704620933.webp",
+      "alt_text": "American Rock GIF By Dyan Jong",
+      "discovered_at": "2025-09-11T15:23:14.578974",
+      "title": "American Rock GIF By Dyan Jong (2019)",
+      "description": "",
+      "tags": [
+        "STUDIO",
+        "ORANGE"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Silhouette",
+        "Stationary camera"
+      ],
+      "director": "Dylan Jong",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "American Rock GIF By Dyan Jong (2019)\nTechnique - Lazy Susan , Silhouette , Stationary camera\nDirector - Dylan Jong\nOriginal Source - Link\nSTUDIO\nORANGE",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706475646.webp",
+      "alt_text": "The Grand Budapest Hotel",
+      "discovered_at": "2025-09-11T15:23:18.222762",
+      "title": "The Grand Budapest Hotel (2014)",
+      "description": "A visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.",
+      "tags": [
+        "INTERIOR",
+        "DINNER",
+        "LUNCH"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Jill Bogdanowicz",
+      "original_source": "",
+      "additional_info": "The Grand Budapest Hotel (2014)\nA visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.\nTechnique - Lazy Susan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Jill Bogdanowicz\nTutorial - Link\nINTERIOR\nDINNER\nLUNCH",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710976637.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T15:23:21.878696",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706476065.webp",
+      "alt_text": "Chase - Sizzle",
+      "discovered_at": "2025-09-11T15:23:25.527399",
+      "title": "Chase - Sizzle (2020)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "RESTAURANT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Paul Hardcastle, Trim Editing",
+      "dop": "Albert Salas",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Chase - Sizzle (2020)\n2020 commercial for Chase from director Oscar Hudson. Edited by Paul Hardcastle of Trim Editing\nTechnique - Lazy Susan\nDirector - Oscar Hudson\nDOP - Albert Salas\nEditor - Paul Hardcastle, Trim Editing\nOriginal Source - Link\nWOMAN\nRESTAURANT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384832.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-11T15:23:29.176842",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
+      "tags": [
+        "DAY",
+        "WES ANDERSON",
+        "EXTERIOR",
+        "SATURATED",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "DESERT",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "CYAN"
+      ],
+      "technique_tags": [
+        "1950s",
+        "Awkwardness",
+        "Lazy Susan"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.\nTechnique - 1950s , Awkwardness , Lazy Susan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nDAY\nWES ANDERSON\nEXTERIOR\nSATURATED\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nDESERT\nARRICAM LT\nARRICAM ST\nCYAN",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704621548.webp",
+      "alt_text": "George Maple Spinning GIF By Dyan Jong",
+      "discovered_at": "2025-09-11T15:23:32.811848",
+      "title": "George Maple Spinning GIF By Dyan Jong (2019)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Lazy Susan",
+        "Stationary camera",
+        "Void"
+      ],
+      "director": "Dylan Jong",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "George Maple Spinning GIF By Dyan Jong (2019)\nTechnique - Lazy Susan , Stationary camera , Void\nDirector - Dylan Jong\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706476024.webp",
+      "alt_text": "Chase - Sizzle",
+      "discovered_at": "2025-09-11T15:23:36.471059",
+      "title": "Chase - Sizzle (2020)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "RESTAURANT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Paul Hardcastle, Trim Editing",
+      "dop": "Albert Salas",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Chase - Sizzle (2020)\n2020 commercial for Chase from director Oscar Hudson. Edited by Paul Hardcastle of Trim Editing\nTechnique - Lazy Susan\nDirector - Oscar Hudson\nDOP - Albert Salas\nEditor - Paul Hardcastle, Trim Editing\nOriginal Source - Link\nWOMAN\nRESTAURANT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706687271.webp",
+      "alt_text": "Gregory Porter - Revival",
+      "discovered_at": "2025-09-11T15:23:40.171251",
+      "title": "Gregory Porter - Revival (2020)",
+      "description": "",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "DARK",
+        "BOY",
+        "DINER",
+        "TABLES"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Danilo Abraham",
+      "dop": "Chris Ripley",
+      "colorist": "Osmar Junior",
+      "original_source": "",
+      "additional_info": "Gregory Porter - Revival (2020)\nAward-winning music video for artist Gregory Porter from director Douglas Bernardt. Sick use of scale shift technique. Produced by Stink Films.\nTechnique - Lazy Susan\nDirector - Douglas Bernardt\nDOP - Chris Ripley\nEditor - Danilo Abraham\nColorist - Osmar Junior\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nDARK\nBOY\nDINER\nTABLES",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947097.webp",
+      "alt_text": "The Grand Budapest Hotel",
+      "discovered_at": "2025-09-11T15:23:43.825514",
+      "title": "The Grand Budapest Hotel (2014)",
+      "description": "A visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.",
+      "tags": [
+        "WARM",
+        "WES ANDERSON",
+        "HOTEL",
+        "INTERIOR",
+        "FILM",
+        "2010S",
+        "JUDE LAW",
+        "35MM",
+        "JILL BOGDANOWICZ",
+        "BARNEY PILLING",
+        "COOKE S4/ I",
+        "ARRICAM ST",
+        "COOKE VAROTAL LENSES",
+        "ROBERT YOEMAN",
+        "COOKE VAROTEL ZOOM LENSES",
+        "ANGENIEUX OPTIMO ZOOMS",
+        "THE GRAND BUDAPEST HOTEL"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Pan"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Jill Bogdanowicz",
+      "original_source": "",
+      "additional_info": "The Grand Budapest Hotel (2014)\nA visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.\nTechnique - Lazy Susan , Pan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Jill Bogdanowicz\nTutorial - Link\n2014\nWARM\nWES ANDERSON\nHOTEL\nINTERIOR\nFILM\n2010S\nJUDE LAW\n35MM\n1.78\nJILL BOGDANOWICZ\nBARNEY PILLING\nCOOKE S4/ I\nARRICAM ST\nCOOKE VAROTAL LENSES\nROBERT YOEMAN\nCOOKE VAROTEL ZOOM LENSES\nANGENIEUX OPTIMO ZOOMS\nTHE GRAND BUDAPEST HOTEL",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384761.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-11T15:23:47.526499",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
+      "tags": [
+        "DAY",
+        "WES ANDERSON",
+        "EXTERIOR",
+        "SATURATED",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "DESERT",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "CYAN"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.\nTechnique - Lazy Susan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nDAY\nWES ANDERSON\nEXTERIOR\nSATURATED\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nDESERT\nARRICAM LT\nARRICAM ST\nCYAN",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706477969.webp",
+      "alt_text": "That 70s Show (TV Series)",
+      "discovered_at": "2025-09-11T15:23:51.177437",
+      "title": "That 70s Show (TV Series) (1998)",
+      "description": "A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.",
+      "tags": [
+        "INTERIOR",
+        "GROUP",
+        "HAZE"
+      ],
+      "technique_tags": [
+        "Lazy Susan"
+      ],
+      "director": "Bonnie Turner",
+      "dop": "Ronald W. Browne",
+      "colorist": "Andy Lichtstein",
+      "original_source": "",
+      "additional_info": "That 70s Show (TV Series) (1998)\nA comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.\nTechnique - Lazy Susan\nDirector - David Trainer\nDOP - Ronald W. Browne\nEditor - Bonnie Turner\nColorist - Andy Lichtstein\nINTERIOR\nGROUP\nHAZE",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709020190.webp",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "discovered_at": "2025-09-11T15:23:54.344697",
+      "title": "Snipes x Nike - The Cypher (2023)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "DANCE",
+        "CYPHER"
+      ],
+      "technique_tags": [
+        "High Angle",
+        "Lazy Susan"
+      ],
+      "director": "Alexis Benot, Eugène Signoret",
+      "dop": "Cesar Decharme",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Snipes x Nike - The Cypher (2023)\nTechnique - High Angle , Lazy Susan\nDirector - Marius Gonzalez\nDOP - Cesar Decharme\nEditor - Alexis Benot, Eugène Signoret\nColorist - Arthur Paux\nOriginal Source - Link\nGROUP\nDANCE\nCYPHER",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706476569.webp",
+      "alt_text": "Everyone You Know - The Drive",
+      "discovered_at": "2025-09-11T15:23:57.981378",
+      "title": "Everyone You Know - The Drive (2019)",
+      "description": "",
+      "tags": [
+        "CAR",
+        "NIGHT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Locked-on Lazy Susan"
+      ],
+      "director": "Silent Tapes",
+      "dop": "Sam Meyer",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Everyone You Know - The Drive (2019)\nDirecting duo Silent Tapes demonstrate considerable technical prowess in the narrative trick that the directors and DoP Sam Meyer call the 'geostationary camera technique'.\nTechnique - Lazy Susan , Locked-on Lazy Susan\nDirector - Silent Tapes\nDOP - Sam Meyer\nOriginal Source - Link\nCAR\nNIGHT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710316917.webp",
+      "alt_text": "Skims - Lab",
+      "discovered_at": "2025-09-11T15:24:01.641020",
+      "title": "Skims - Lab (2024)",
+      "description": "2024 advert for Kim Kardashian's Skims shapewear line, which aired during the pre-show coverage of the Academy Awards. The ad features a striking scene of Kim Kardashian observing numerous versions of herself on a series of video monitors, effectively embodying the essence and irony of modern celebrity culture.",
+      "tags": [
+        "WOMAN",
+        "KIM KARDASHIAN",
+        "SKIMS",
+        "TELEVISIONS",
+        "TVS"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Screen in Screen"
+      ],
+      "director": "Rory Mclame",
+      "dop": "Eric Yue",
+      "colorist": "Ayumi Ashley",
+      "original_source": "",
+      "additional_info": "Skims - Lab (2024)\n2024 advert for Kim Kardashian's Skims shapewear line, which aired during the pre-show coverage of the Academy Awards. The ad features a striking scene of Kim Kardashian observing numerous versions of herself on a series of video monitors, effectively embodying the essence and irony of modern celebrity culture.\nTechnique - Lazy Susan , Screen in Screen\nDirector - Frank Lebon\nDOP - Eric Yue\nEditor - Rory Mclame\nColorist - Ayumi Ashley\nOriginal Source - Link\nWOMAN\nKIM KARDASHIAN\nSKIMS\nTELEVISIONS\nTVS",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/19/la_on_acid_1080p_kjKcBcJ/92e4e1676ac136f601ef97ff0235fedd.gif",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T15:24:05.280264",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "TABLE"
+      ],
+      "technique_tags": [
+        "Locked-on Lazy Susan"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Locked-on Lazy Susan\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nTABLE",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706478051.webp",
+      "alt_text": "Nike - Never Settle. Never Done",
+      "discovered_at": "2025-09-11T15:24:08.927500",
+      "title": "Nike - Never Settle. Never Done (2022)",
+      "description": "",
+      "tags": [
+        "SOCCER",
+        "NERF",
+        "BALL"
+      ],
+      "technique_tags": [
+        "Lazy Susan",
+        "Locked-on Lazy Susan"
+      ],
+      "director": "Alexandre Sellem, Hugo Beron, Lola Margrain",
+      "dop": "Maeva Von Dinh, Paul Guilhaume",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Nike - Never Settle. Never Done (2022)\nValentin Petit, the visionary director of Nike's women's football campaign, skillfully captures the essence of the game by featuring a dynamic cast of all-stars and grassroots players in the Women's Euros anthem. His directorial prowess unveils the unparalleled speed, technical finesse, and undeniable quality that define the current landscape of women's football, setting a new standard for equality in the sport.\nTechnique - Lazy Susan , Locked-on Lazy Susan\nDirector - Valentin Petit\nDOP - Maeva Von Dinh, Paul Guilhaume\nEditor - Alexandre Sellem, Hugo Beron, Lola Margrain\nColorist - Arthur Paux\nOriginal Source - Link\nSOCCER\nNERF\nBALL",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704939349.webp",
+      "alt_text": "Square - Para Los Que Hacen",
+      "discovered_at": "2025-09-11T15:24:12.567514",
+      "title": "Square - Para Los Que Hacen (2021)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "INTERIOR",
+        "SINGLE SHOT",
+        "CLAY"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Lazy Susan",
+        "Locked-on Lazy Susan"
+      ],
+      "director": "Fouad Gaber",
+      "dop": "Zack Spiger",
+      "colorist": "Simon Bourne",
+      "original_source": "",
+      "additional_info": "Square - Para Los Que Hacen (2021)\nTechnique - Fast Motion , Lazy Susan , Locked-on Lazy Susan\nDirector - Alex Hulsey\nDOP - Zack Spiger\nEditor - Fouad Gaber\nColorist - Simon Bourne\nOriginal Source - Link\nWOMAN\nINTERIOR\nSINGLE SHOT\nCLAY",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706588129.webp",
+      "alt_text": "Breaking Bad (TV Series)",
+      "discovered_at": "2025-09-11T15:24:16.210696",
+      "title": "Breaking Bad (TV Series) (2011)",
+      "description": "",
+      "tags": [
+        "JESSE PINKMAN",
+        "INTERIOR",
+        "LAB"
+      ],
+      "technique_tags": [
+        "Locked-on Lazy Susan"
+      ],
+      "director": "Michael Slovis",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Breaking Bad (TV Series) (2011)\nTechnique - Locked-on Lazy Susan\nDirector - Michael Slovis\nOriginal Source - Link\nJESSE PINKMAN\nINTERIOR\nLAB",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711342047.webp",
+      "alt_text": "Fantastic Mr. Fox",
+      "discovered_at": "2025-09-11T15:24:30.828086",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704939600.webp",
+      "alt_text": "Square - Para Los Que Hacen",
+      "discovered_at": "2025-09-11T15:24:45.760454",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742372.webp",
+      "alt_text": "ONHA - KODAK",
+      "discovered_at": "2025-09-11T15:24:49.422984",
+      "title": "ONHA - KODAK (2024)",
+      "description": "The music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.",
+      "tags": [
+        "ONHA - KODAK (2024)",
+        "MALE",
+        "SPIN"
+      ],
+      "technique_tags": [
+        "Locked-on Lazy Susan",
+        "Motion Blur"
+      ],
+      "director": "M. Tikal",
+      "dop": "Virgil Leclercq",
+      "colorist": "Francois Dubois",
+      "original_source": "",
+      "additional_info": "ONHA - KODAK (2024)\nThe music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.\nTechnique - Locked-on Lazy Susan , Motion Blur\nDirector - Nitram\nDOP - Virgil Leclercq\nEditor - M. Tikal\nColorist - Francois Dubois\nOriginal Source - Link\nMALE\nSPIN",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/17/261702778131.webp",
+      "alt_text": "Hennessy - Maurice Ashley & the Black Bear School",
+      "discovered_at": "2025-09-11T15:24:57.243013",
+      "title": "Hennessy - Maurice Ashley & the Black Bear School (2020)",
+      "description": "Hennessy - Maurice Ashley & the Black Bear School (2020)",
+      "tags": [
+        "DAY",
+        "MALE",
+        "CHESS",
+        "MEN",
+        "DUPLICATION",
+        "DAY TIME",
+        "DAYTIME",
+        "PARK",
+        "DOUBLE DOLLY"
+      ],
+      "technique_tags": [
+        "Locked-on Lazy Susan"
+      ],
+      "director": "Paul Watts",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Hennessy - Maurice Ashley & the Black Bear School (2020)\nTechnique - Locked-on Lazy Susan\nDirector - Daniel Wolfe\nEditor - Paul Watts\nOriginal Source - Link\nDAY\nMALE\nCHESS\nMEN\nDUPLICATION\nDAY TIME\nDAYTIME\nPARK\nDOUBLE DOLLY",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742331.webp",
+      "alt_text": "ONHA - KODAK",
+      "discovered_at": "2025-09-11T15:25:04.522322",
+      "title": "ONHA - KODAK (2024)",
+      "description": "The music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.",
+      "tags": [
+        "ONHA - KODAK (2024)",
+        "MALE",
+        "SPIN"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Locked-on Lazy Susan",
+        "Motion Blur"
+      ],
+      "director": "M. Tikal",
+      "dop": "Virgil Leclercq",
+      "colorist": "Francois Dubois",
+      "original_source": "",
+      "additional_info": "ONHA - KODAK (2024)\nThe music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.\nTechnique - Jump cut , Locked-on Lazy Susan , Motion Blur\nDirector - Nitram\nDOP - Virgil Leclercq\nEditor - M. Tikal\nColorist - Francois Dubois\nOriginal Source - Link\nMALE\nSPIN",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708334180.webp",
+      "alt_text": "Dua Lipa - Training Season",
+      "discovered_at": "2025-09-11T15:25:08.688163",
+      "title": "Dua Lipa - Training Season (2024)",
+      "description": "In the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "DUA LIPA"
+      ],
+      "technique_tags": [
+        "Locked-on Lazy Susan",
+        "Set Transition",
+        "Suggestive",
+        "Zoom"
+      ],
+      "director": "Julie Levy",
+      "dop": "Rina Yang",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Dua Lipa - Training Season (2024)\nIn the \"Training Season\" video, Dua Lipa remains composed at a cafe, surrounded by gawking men taking photos of her. The song's inspiration, as shared by Lipa, stemmed from a series of bad dates, leading her to declare the end of her \"training season\" and shaping the song with songwriters Caroline Ailin and Tobias Jesso Jr.\nTechnique - Locked-on Lazy Susan , Set Transition , Suggestive , Zoom\nDirector - Vincent Haycock\nDOP - Rina Yang\nEditor - Julie Levy\nColorist - Dante Pasquinelli\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nDUA LIPA",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709971185.webp",
+      "alt_text": "Nike - Rise of the kids",
+      "discovered_at": "2025-09-11T15:25:12.852302",
+      "title": "Nike - Rise of the kids (2022)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Locked-on Lazy Susan"
+      ],
+      "director": "ALASKA",
+      "dop": "Todd Martin",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - Rise of the kids (2022)\nTechnique - Locked-on Lazy Susan\nDirector - ALASKA\nDOP - Todd Martin\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/21/USHER_H.E.R._-_Risk_It_All_Official_Music_Video_Au2wcYa/f1f399a44ebde183f28d5aa25b9a67d5.gif",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T15:25:17.078805",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/21/USHER_H.E.R._-_Risk_It_All_Official_Music_Video_Je1ULTc/1aa772f601750b6aa1ac70d6907b71c1.gif",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T15:25:21.753082",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710975977.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T15:25:25.925618",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "USHER"
+      ],
+      "technique_tags": [
+        "Credits",
+        "Lazy Susan",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Credits , Lazy Susan , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nUSHER",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711984742.webp",
+      "alt_text": "Face",
+      "discovered_at": "2025-09-11T15:25:30.599189",
+      "title": "Face (2021)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "ROTATE",
+        "FACE",
+        "LASER"
+      ],
+      "technique_tags": [
+        "Light Void",
+        "Stationary camera"
+      ],
+      "director": "Mah Ferraz",
+      "dop": "Mayer Chalom",
+      "colorist": "Carlos Flores",
+      "original_source": "",
+      "additional_info": "Face (2021)\nThe 2021 trailer for Jessica Helfand's book FACE, directed by Lake Buckley and Dayday, was produced for its release by MIT Press. The production team behind the trailer included Nicolas Thau as the producer, Harry Walters as the production manager, and Charlotte Arnoux handling casting. Mayer Chalom was the director of photography, with Davide Sorasio and Emma Penrose assisting as 1st and 2nd AC respectively.\nTechnique - Light Void , Stationary camera\nDirector - dayday, Lake Buckley\nDOP - Mayer Chalom\nEditor - Mah Ferraz\nColorist - Carlos Flores\nOriginal Source - Link\nMALE\nROTATE\nFACE\nLASER",
+      "page_url": "https://eyecannndy.com/technique/lazy-susan"
+    }
+  ]
 }

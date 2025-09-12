@@ -1,1374 +1,1223 @@
 {
   "technique": "glitch",
-  "video_count": 71,
-  "generated_at": "2025-09-05T04:03:29.637998",
+  "scrape_info": {
+    "timestamp": "20250911_141350",
+    "total_videos": 61,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710333669.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.394878",
-      "element_tag": "img",
-      "title": "#LoveYourz",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250143.webp",
+      "alt_text": "Unknown Source",
+      "discovered_at": "2025-09-11T14:05:00.610380",
+      "title": "Unknown Source",
       "description": "",
-      "category": "glitch",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344887.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395019",
-      "element_tag": "img",
-      "title": "Oddworld x Souly - wzf / maybach",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Oddworld x Souly - wzf / maybach",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008882.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395102",
-      "element_tag": "img",
-      "title": "Untitled Clip",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Untitled Clip",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704912168.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395176",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403762.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395246",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008742.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395315",
-      "element_tag": "img",
-      "title": "Untitled Animation",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Untitled Animation",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346622.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395381",
-      "element_tag": "img",
-      "title": "The Electric Hotel",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "The Electric Hotel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609932.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395445",
-      "element_tag": "img",
-      "title": "Carly Gibert - Dropping Seeds",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Carly Gibert - Dropping Seeds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155281.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395509",
-      "element_tag": "img",
-      "title": "Tetsuo: The Iron Man",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Tetsuo: The Iron Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710333669.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395571",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344887.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395633",
-      "element_tag": "img",
-      "title": "Oddworld x Souly - wzf / maybach",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Oddworld x Souly - wzf / maybach",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008882.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395692",
-      "element_tag": "img",
-      "title": "Untitled Clip",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Untitled Clip",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704912168.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395750",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403762.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395809",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008742.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395867",
-      "element_tag": "img",
-      "title": "Untitled Animation",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Untitled Animation",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346622.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395925",
-      "element_tag": "img",
-      "title": "The Electric Hotel",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "The Electric Hotel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609932.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.395983",
-      "element_tag": "img",
-      "title": "Carly Gibert - Dropping Seeds",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Carly Gibert - Dropping Seeds",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155281.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396040",
-      "element_tag": "img",
-      "title": "Tetsuo: The Iron Man",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Tetsuo: The Iron Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403642.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396103",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250276.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396171",
-      "element_tag": "img",
-      "title": "Artist - hAyDiRoKeT",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Artist - hAyDiRoKeT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400658.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396238",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709633764.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396300",
-      "element_tag": "img",
-      "title": "Cowboy Bepop (TV Series)",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Cowboy Bepop (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329181.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396366",
-      "element_tag": "img",
-      "title": "Vaeda Black - Run Fast",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Vaeda Black - Run Fast",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455032.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396434",
-      "element_tag": "img",
-      "title": "Severance",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Severance",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346555.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396499",
-      "element_tag": "img",
-      "title": "The Electric Hotel",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "The Electric Hotel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706040845.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396549",
-      "element_tag": "img",
-      "title": "Travis Scott - I KNOW ?",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Travis Scott - I KNOW ?",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704912533.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396599",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707978057.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396648",
-      "element_tag": "img",
-      "title": "BENEE - Never Ending",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "BENEE - Never Ending",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Feedback"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Unknown Source\nKnow where this is from? Email jacobi@eycndy.com\nTechnique - Feedback",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705099841.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396697",
-      "element_tag": "img",
-      "title": "A$AP Rocky - A$AP Forever",
-      "description": "",
-      "category": "glitch",
       "alt_text": "A$AP Rocky - A$AP Forever",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:05:04.279988",
+      "title": "A$AP Rocky - A$AP Forever (2018)",
+      "description": "A$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703467854.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396746",
-      "element_tag": "img",
-      "title": "A$AP Rocky - Praise The Lord",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "A$AP Rocky - Praise The Lord",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400460.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396793",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250143.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396841",
-      "element_tag": "img",
-      "title": "Unknown Source",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Unknown Source",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716334141.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396888",
-      "element_tag": "img",
-      "title": "Made for Heroes. Worn by Icons",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Made for Heroes. Worn by Icons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709633810.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396936",
-      "element_tag": "img",
-      "title": "Cowboy Bepop (TV Series)",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Cowboy Bepop (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401107.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.396983",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "INTERIOR",
+        "BLONDE",
+        "ORANGE",
+        "ZOOM",
+        "PORTAL",
+        "A$AP ROCKY",
+        "FRANK OCEAN"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Object Portal",
+        "Vintage"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - A$AP Forever (2018)\nA$AP Rocky returns as the \"fashion killa\" in the music video for his latest single, \"A$AP Forever,\" featuring Moby. Directed by Dexter Navy, the video features Rocky and the A$AP Mob in various New York locations, with a cameo by Moby, credited for the heavy sampling of his 1999 hit \"Porcelain.\"\nTechnique - Feedback , Object Portal , Vintage\nDirector - Dexter Navy\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nBLONDE\nORANGE\nZOOM\nPORTAL\nA$AP ROCKY\nFRANK OCEAN",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400815.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397029",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "glitch",
       "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:05:08.468165",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. This shot features a vintage 90s-inspired camcorder look and feel, ending on a low-angle shot of a skater reaching for the camera.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "GREEN",
+        "DARK",
+        "SKATING",
+        "SKATEBOARD",
+        "GLITCH",
+        "SODIUM LIGHTS",
+        "WARM WHITE",
+        "AMATEUR",
+        "ANALOGUE",
+        "CAMCORDER"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Vintage"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. This shot features a vintage 90s-inspired camcorder look and feel, ending on a low-angle shot of a skater reaching for the camera.\nTechnique - Feedback , Vintage\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nGREEN\nDARK\nSKATING\nSKATEBOARD\nGLITCH\nSODIUM LIGHTS\nWARM WHITE\nAMATEUR\nANALOGUE\nCAMCORDER",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707641843.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397075",
-      "element_tag": "img",
-      "title": "Nu Genea - Marechià (with Célia Kameni)",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704917060.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397121",
-      "element_tag": "img",
-      "title": "João Borsch - Apaz",
-      "description": "",
-      "category": "glitch",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704912168.webp",
       "alt_text": "João Borsch - Apaz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:05:12.646329",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703050556.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397167",
-      "element_tag": "img",
-      "title": "The Truman Show",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "The Truman Show",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250291.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397213",
-      "element_tag": "img",
-      "title": "Artist - hAyDiRoKeT",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Artist - hAyDiRoKeT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707641804.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397259",
-      "element_tag": "img",
-      "title": "Nu Genea - Marechià (with Célia Kameni)",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345235.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397304",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703367033.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397350",
-      "element_tag": "img",
-      "title": "Husky - Never-ever",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Husky - Never-ever",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "VINTAGE",
+        "FEEDBACK",
+        "TV STATIC"
+      ],
+      "technique_tags": [
+        "Feedback"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Feedback\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nVINTAGE\nFEEDBACK\nTV STATIC",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706040882.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397396",
-      "element_tag": "img",
-      "title": "Travis Scott - I KNOW ?",
-      "description": "",
-      "category": "glitch",
       "alt_text": "Travis Scott - I KNOW ?",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:05:16.840610",
+      "title": "Travis Scott - I KNOW ? (2024)",
+      "description": "Travis Scott music video, directed by Dave Meyers. Cinematic romance.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "SHADOW BOX",
+        "SPLIT SCREEN",
+        "TRAVIS SCOTT"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Vintage"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Travis Scott - I KNOW ? (2024)\nTravis Scott music video, directed by Dave Meyers. Cinematic romance.\nTechnique - Feedback , Vintage\nOriginal Source - Link\nSHADOW BOX\nSPLIT SCREEN\nTRAVIS SCOTT",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707407868.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397442",
-      "element_tag": "img",
-      "title": "A Trip to the Moon",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "A Trip to the Moon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261706040845.webp",
+      "alt_text": "Travis Scott - I KNOW ?",
+      "discovered_at": "2025-09-11T14:05:22.085377",
+      "title": "Travis Scott - I KNOW ? (2024)",
+      "description": "Travis Scott music video, directed by Dave Meyers. Cinematic romance.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "SHADOW BOX",
+        "SPLIT SCREEN",
+        "TRAVIS SCOTT"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Vintage"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Travis Scott - I KNOW ? (2024)\nTravis Scott music video, directed by Dave Meyers. Cinematic romance.\nTechnique - Feedback , Vintage\nOriginal Source - Link\nSHADOW BOX\nSPLIT SCREEN\nTRAVIS SCOTT",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250262.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397490",
-      "element_tag": "img",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250291.webp",
+      "alt_text": "Artist - hAyDiRoKeT",
+      "discovered_at": "2025-09-11T14:05:25.788395",
       "title": "Artist - hAyDiRoKeT",
       "description": "",
-      "category": "glitch",
-      "alt_text": "Artist - hAyDiRoKeT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "FACE",
+        "CLOSE-UP"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Glitch"
+      ],
+      "director": "Haydiroket",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - hAyDiRoKeT\nTechnique - Feedback , Glitch\nDirector - Haydiroket\nFACE\nCLOSE-UP",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705106252.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397538",
-      "element_tag": "img",
-      "title": "Get Out",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Get Out",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703367033.webp",
+      "alt_text": "Husky - Never-ever",
+      "discovered_at": "2025-09-11T14:05:29.470212",
+      "title": "Husky - Never-ever (2020)",
+      "description": "A guy works as a janitor and cleans up gang fight scenes.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "YELLOW",
+        "WARM",
+        "INTERIOR",
+        "DARK",
+        "ORANGE",
+        "OVERHEAD"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Overhead"
+      ],
+      "director": "Kirill Khandurin",
+      "dop": "Kirill Groshev",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Husky - Never-ever (2020)\nA guy works as a janitor and cleans up gang fight scenes.\nTechnique - Feedback , Overhead\nDirector - Evgenii Bakirov\nDOP - Kirill Groshev\nEditor - Kirill Khandurin\nOriginal Source - Link\nYELLOW\nWARM\nINTERIOR\nDARK\nORANGE\nOVERHEAD",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708341995.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397584",
-      "element_tag": "img",
+      "alt_text": "@blancavinas / Giphy",
+      "discovered_at": "2025-09-11T14:05:33.671631",
       "title": "@blancavinas / Giphy",
       "description": "",
-      "category": "glitch",
-      "alt_text": "@blancavinas / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "tags": [],
+      "technique_tags": [
+        "Archival",
+        "Collage",
+        "Feedback",
+        "Stop Motion",
+        "Vintage"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@blancavinas / Giphy\nTechnique - Archival , Collage , Feedback , Stop Motion , Vintage",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707407868.webp",
+      "alt_text": "A Trip to the Moon",
+      "discovered_at": "2025-09-11T14:05:37.358653",
+      "title": "A Trip to the Moon (1902)",
+      "description": "A group of astronomers go on an expedition to the Moon.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "1900S",
+        "MOON"
+      ],
+      "technique_tags": [
+        "1900s",
+        "Anthropo",
+        "Feedback",
+        "Stop Motion",
+        "Vintage"
+      ],
+      "director": "Georges Méliès",
+      "dop": "Lucien Tainguy, Théophile Michault",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A Trip to the Moon (1902)\nA group of astronomers go on an expedition to the Moon.\nTechnique - 1900s , Anthropo , Feedback , Stop Motion , Vintage\nDirector - Georges Méliès\nDOP - Lucien Tainguy, Théophile Michault\nOriginal Source - Link\n1900S\nMOON\n1902",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250276.webp",
+      "alt_text": "Artist - hAyDiRoKeT",
+      "discovered_at": "2025-09-11T14:05:41.030230",
+      "title": "Artist - hAyDiRoKeT",
+      "description": "",
+      "tags": [
+        "FACE",
+        "CLOSE-UP"
+      ],
+      "technique_tags": [
+        "Feedback"
+      ],
+      "director": "Haydiroket",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - hAyDiRoKeT\nTechnique - Feedback\nDirector - Haydiroket\nFACE\nCLOSE-UP",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329181.webp",
+      "alt_text": "Vaeda Black - Run Fast",
+      "discovered_at": "2025-09-11T14:05:44.692824",
+      "title": "Vaeda Black - Run Fast (2019)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "INTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Feedback"
+      ],
+      "director": "Jacobi Mehringer, Justin Leyba",
+      "dop": "Nat Pinhiero",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vaeda Black - Run Fast (2019)\nShot breakdown: Double exposure\nTechnique - Double Exposure , Feedback\nDirector - Jacobi Mehringer, Justin Leyba\nDOP - Nat Pinhiero\nEditor - Jacobi Mehringer, Justin Leyba\nOriginal Source - Link\nWOMAN\nINTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250262.webp",
+      "alt_text": "Artist - hAyDiRoKeT",
+      "discovered_at": "2025-09-11T14:05:48.355754",
+      "title": "Artist - hAyDiRoKeT",
+      "description": "",
+      "tags": [
+        "FACE",
+        "CLOSE-UP"
+      ],
+      "technique_tags": [
+        "Feedback"
+      ],
+      "director": "Haydiroket",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - hAyDiRoKeT\nTechnique - Feedback\nDirector - Haydiroket\nFACE\nCLOSE-UP",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707641804.webp",
+      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
+      "discovered_at": "2025-09-11T14:06:03.016770",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704912533.webp",
+      "alt_text": "João Borsch - Apaz",
+      "discovered_at": "2025-09-11T14:06:13.566600",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
+      "tags": [
+        "FEEDBACK",
+        "TV STATIC"
+      ],
+      "technique_tags": [
+        "Feedback"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Feedback\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nFEEDBACK\nTV STATIC",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709633764.webp",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "discovered_at": "2025-09-11T14:06:17.225237",
+      "title": "Cowboy Bepop (TV Series) (2021)",
+      "description": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.",
+      "tags": [],
+      "technique_tags": [
+        "Feedback",
+        "Title Card",
+        "Vintage"
+      ],
+      "director": "Bridget Durnford, Elliot Greenberg",
+      "dop": "Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn",
+      "colorist": "Bill Ferwerda, Company 3",
+      "original_source": "",
+      "additional_info": "Cowboy Bepop (TV Series) (2021)\nA ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.\nTechnique - Feedback , Title Card , Vintage\nDirector - Alex Garcia Lopez, Michael Katleman\nDOP - Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn\nEditor - Bridget Durnford, Elliot Greenberg\nColorist - Bill Ferwerda, Company 3\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345235.webp",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "discovered_at": "2025-09-11T14:06:31.890543",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706589437.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397633",
-      "element_tag": "img",
-      "title": "Allbirds - Introducing The Trail Runner SWT",
-      "description": "",
-      "category": "glitch",
       "alt_text": "Allbirds - Introducing The Trail Runner SWT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:06:42.863332",
+      "title": "Allbirds - Introducing The Trail Runner SWT (2021)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "VHS",
+        "GLITCH"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Glitch",
+        "Vintage"
+      ],
+      "director": "Brandon Kuzma, Jerry Buttles",
+      "dop": "Brandon Kuzma",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Allbirds - Introducing The Trail Runner SWT (2021)\nProduct promo for Allbirds using a range of VHS-inspired techniques as well as a great collage sequence around the 40 second mark.\nTechnique - Feedback , Glitch , Vintage\nDirector - Brandon Kuzma, Jerry Buttles\nDOP - Brandon Kuzma\nOriginal Source - Link\nVHS\nGLITCH",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409869.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397681",
-      "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704917060.webp",
+      "alt_text": "João Borsch - Apaz",
+      "discovered_at": "2025-09-11T14:06:47.551544",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "SURREAL",
+        "VOID",
+        "CLOSE-UP"
+      ],
+      "technique_tags": [
+        "Feedback"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Feedback\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nSURREAL\nVOID\nCLOSE-UP",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346555.webp",
+      "alt_text": "The Electric Hotel",
+      "discovered_at": "2025-09-11T14:07:02.115023",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008742.webp",
+      "alt_text": "Untitled Animation",
+      "discovered_at": "2025-09-11T14:07:16.719334",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703050034.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397728",
-      "element_tag": "img",
-      "title": "The Truman Show",
-      "description": "",
-      "category": "glitch",
       "alt_text": "The Truman Show",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T14:07:31.279168",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335427.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397776",
-      "element_tag": "img",
-      "title": "#LoveYourz",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403642.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-11T14:07:45.401899",
+      "title": "",
       "description": "",
-      "category": "glitch",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710830412.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397823",
-      "element_tag": "img",
-      "title": "Aritzia - Sweatfleece",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707978057.webp",
+      "alt_text": "BENEE - Never Ending",
+      "discovered_at": "2025-09-11T14:07:59.534899",
+      "title": "",
       "description": "",
-      "category": "glitch",
-      "alt_text": "Aritzia - Sweatfleece",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336325.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397870",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455032.webp",
+      "alt_text": "Severance",
+      "discovered_at": "2025-09-11T14:08:06.921410",
+      "title": "Severance (2022)",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "INTERIOR",
+        "BRITT LOWER"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Subtitles"
+      ],
+      "director": "Erica Freed Marker, Geoffrey Richman, Gershon Hinkson",
+      "dop": "Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "Severance (2022)\nMark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.\nTechnique - Feedback , Subtitles\nDirector - Ben Stiller\nDOP - Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle\nEditor - Erica Freed Marker, Geoffrey Richman, Gershon Hinkson\nColorist - Company 3, Tom Poole\nINTERIOR\nBRITT LOWER",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335029.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397918",
-      "element_tag": "img",
-      "title": "#LoveYourz",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609932.webp",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "discovered_at": "2025-09-11T14:08:14.272468",
+      "title": "Carly Gibert - Dropping Seeds (2023)",
       "description": "",
-      "category": "glitch",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WOMAN",
+        "FACE",
+        "PROFILE",
+        "GRADIENT",
+        "HEADPHONES",
+        "ORANGE",
+        "GLITCH"
+      ],
+      "technique_tags": [
+        "Feedback"
+      ],
+      "director": "Christopher A. Medina",
+      "dop": "Sonali Chugani",
+      "colorist": "Ben Cerauli",
+      "original_source": "",
+      "additional_info": "Carly Gibert - Dropping Seeds (2023)\nMusic video from artist Carly Gibert featuring a litany of visual techniques brought to life in a vivid color palette. Shot: POV of pool que.\nTechnique - Feedback\nDirector - Luciana Baldovino\nDOP - Sonali Chugani\nEditor - Christopher A. Medina\nColorist - Ben Cerauli\nOriginal Source - Link\nWOMAN\nFACE\nPROFILE\nGRADIENT\nHEADPHONES\nORANGE\nGLITCH",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336138.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.397964",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705106252.webp",
+      "alt_text": "Get Out",
+      "discovered_at": "2025-09-11T14:08:19.483674",
+      "title": "Get Out (2017)",
+      "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "VINTAGE",
+        "HORROR",
+        "JORDAN PEELE",
+        "THRILLER",
+        "FEEDBACK",
+        "GET OUT",
+        "OLD TV"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Horror",
+        "Screen in Screen",
+        "Unsettling",
+        "Vintage"
+      ],
+      "director": "Gregory Plotkin",
+      "dop": "Toby Oliver",
+      "colorist": "Aidan Stanford",
+      "original_source": "",
+      "additional_info": "Get Out (2017)\nA young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.\nTechnique - Feedback , Horror , Screen in Screen , Unsettling , Vintage\nDirector - Jordan Peele\nDOP - Toby Oliver\nEditor - Gregory Plotkin\nColorist - Aidan Stanford\nVINTAGE\nHORROR\nJORDAN PEELE\nTHRILLER\nFEEDBACK\nGET OUT\nOLD TV",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335989.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398010",
-      "element_tag": "img",
-      "title": "#LoveYourz",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703467854.webp",
+      "alt_text": "A$AP Rocky - Praise The Lord",
+      "discovered_at": "2025-09-11T14:08:24.709444",
+      "title": "A$AP Rocky - Praise The Lord (2018)",
       "description": "",
-      "category": "glitch",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Feedback",
+        "Vintage"
+      ],
+      "director": "Dexter Navy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - Praise The Lord (2018)\nTechnique - Feedback , Vintage\nDirector - Dexter Navy\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336061.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398056",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709633810.webp",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "discovered_at": "2025-09-11T14:08:29.413905",
+      "title": "Cowboy Bepop (TV Series) (2021)",
+      "description": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.",
+      "tags": [],
+      "technique_tags": [
+        "Feedback",
+        "Silhouette",
+        "Split Screen",
+        "Vintage"
+      ],
+      "director": "Bridget Durnford, Elliot Greenberg",
+      "dop": "Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn",
+      "colorist": "Bill Ferwerda, Company 3",
+      "original_source": "",
+      "additional_info": "Cowboy Bepop (TV Series) (2021)\nA ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.\nTechnique - Feedback , Silhouette , Split Screen , Vintage\nDirector - Alex Garcia Lopez, Michael Katleman\nDOP - Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn\nEditor - Bridget Durnford, Elliot Greenberg\nColorist - Bill Ferwerda, Company 3\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336523.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398102",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400658.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-11T14:08:34.117221",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. This shot begins with a pedestal upwards into an analogue glitch. It transitions into a traditional trucking shot right but with one of the skaters duplicating near the end.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716270889.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398149",
-      "element_tag": "img",
-      "title": "The Blair Witch Project",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "The Blair Witch Project",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344023.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398194",
-      "element_tag": "img",
-      "title": "Oddworld x Souly - wzf / maybach",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Oddworld x Souly - wzf / maybach",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335860.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398244",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336216.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398293",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DARK",
+        "GLITCH",
+        "SODIUM LIGHTS",
+        "WARM WHITE",
+        "AMATEUR",
+        "ANALOGUE"
+      ],
+      "technique_tags": [
+        "Duplication",
+        "Feedback",
+        "Pedestal",
+        "Trucking"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. This shot begins with a pedestal upwards into an analogue glitch. It transitions into a traditional trucking shot right but with one of the skaters duplicating near the end.\nTechnique - Duplication , Feedback , Pedestal , Trucking\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nDARK\nGLITCH\nSODIUM LIGHTS\nWARM WHITE\nAMATEUR\nANALOGUE",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710333669.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398340",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "glitch",
       "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T14:08:39.344989",
+      "title": "#LoveYourz (2018)",
+      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
+      "tags": [],
+      "technique_tags": [
+        "Feedback",
+        "VHS"
+      ],
+      "director": "Eavvon O’Neal",
+      "dop": "Greta Zozula, Sam Wootton",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - Feedback , VHS\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715573916.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398389",
-      "element_tag": "img",
-      "title": "Donna Missal - Sex is Good",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708346622.webp",
+      "alt_text": "The Electric Hotel",
+      "discovered_at": "2025-09-11T14:08:44.067050",
+      "title": "The Electric Hotel (1908)",
       "description": "",
-      "category": "glitch",
-      "alt_text": "Donna Missal - Sex is Good",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "1900s",
+        "Feedback",
+        "Title Card",
+        "Vintage",
+        "Vintage Graphics",
+        "Vintage Titles"
+      ],
+      "director": "Segundo de Chomón",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Electric Hotel (1908)\nEl hotel eléctrico (The Electric Hotel) is a 1908 silent Spanish comedy-fantasy film directed by Spanish film pioneer Segundo de Chomón. The film displays one of the earliest uses of stop motion animation in history, though it is not de Chomón's first try at this technique. His 1906 film, Le théâtre de Bob, use animated puppets. But El Hotel eléctrico is also an early use of pixilation.\nTechnique - 1900s , Feedback , Title Card , Vintage , Vintage Graphics , Vintage Titles\nDirector - Segundo de Chomón\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715573840.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398439",
-      "element_tag": "img",
-      "title": "Donna Missal - Sex is Good",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "Donna Missal - Sex is Good",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703400460.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-11T14:08:48.821043",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. This shot includes a widely used color bar glitch, more formally known as SMBTE color bars, which date back to 1977. Filmmakers will use this as a transition, and to give their films an analogue aesthetic.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "RED",
+        "CAR",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Feedback"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. This shot includes a widely used color bar glitch, more formally known as SMBTE color bars, which date back to 1977. Filmmakers will use this as a transition, and to give their films an analogue aesthetic.\nTechnique - Feedback\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nRED\nCAR\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715655947.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398488",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707008882.webp",
+      "alt_text": "Untitled Clip",
+      "discovered_at": "2025-09-11T14:08:52.985857",
+      "title": "Untitled Clip (2020)",
       "description": "",
-      "category": "glitch",
+      "tags": [
+        "RUNNING",
+        "SUNSET",
+        "ORANGE"
+      ],
+      "technique_tags": [
+        "Archival",
+        "Feedback",
+        "Silhouette"
+      ],
+      "director": "Fuzzy Ghost",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Untitled Clip (2020)\nTechnique - Archival , Feedback , Silhouette\nEditor - Fuzzy Ghost\nRUNNING\nSUNSET\nORANGE",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707641843.webp",
+      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
+      "discovered_at": "2025-09-11T14:08:57.688569",
+      "title": "Nu Genea - Marechià (with Célia Kameni) (2021)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Feedback",
+        "Stylistic Suck",
+        "Vintage Graphics"
+      ],
+      "director": "Fabio Gargano, Guido Lombardi",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nu Genea - Marechià (with Célia Kameni) (2021)\n2021 short film for Nu Genea from directors Guido Lombardi and Fabio Gargano.\nTechnique - Feedback , Stylistic Suck , Vintage Graphics\nDirector - Fabio Gargano, Guido Lombardi\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716334141.webp",
+      "alt_text": "Made for Heroes. Worn by Icons",
+      "discovered_at": "2025-09-11T14:09:08.166790",
+      "title": "Made for Heroes. Worn by Icons (2024)",
+      "description": "A campaign from Alpha Industries that captures the essence of their enduring influence across diverse cultures. From punk rockers to fashion mavens and everything in between.",
+      "tags": [
+        "MALE",
+        "TELEVISION",
+        "NEWS ANCHOR",
+        "LIVE TV",
+        "ANCHOR"
+      ],
+      "technique_tags": [
+        "Dystopian",
+        "Feedback",
+        "Interview",
+        "News"
+      ],
+      "director": "Poria Asghari",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Made for Heroes. Worn by Icons (2024)\nA campaign from Alpha Industries that captures the essence of their enduring influence across diverse cultures. From punk rockers to fashion mavens and everything in between.\nTechnique - Dystopian , Feedback , Interview , News\nDirector - Poria Asghari\nOriginal Source - Link\nMALE\nTELEVISION\nNEWS ANCHOR\nLIVE TV\nANCHOR",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409869.webp",
+      "alt_text": "Kendrick Lamar - Humble",
+      "discovered_at": "2025-09-11T14:09:22.291102",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344887.webp",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "discovered_at": "2025-09-11T14:09:36.439420",
+      "title": "Kendrick Lamar - Humble (2017)",
+      "description": "The visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.",
+      "tags": [
+        "INTERIOR",
+        "KENDRICK LAMAR",
+        "COOL WHITE"
+      ],
+      "technique_tags": [
+        "Feedback"
+      ],
+      "director": "Greg Scruton",
+      "dop": "Scott Cunningham",
+      "colorist": "Jaime O'Bradovich",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - Humble (2017)\nThe visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.\nTechnique - Feedback\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Greg Scruton\nColorist - Jaime O'Bradovich\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nKENDRICK LAMAR\nCOOL WHITE",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403762.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-11T14:09:44.286311",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. We'd identify this clip as a VTR glitch bringing us into a conveyor shot cut-in.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "SODIUM",
+        "WARM WHITE"
+      ],
+      "technique_tags": [
+        "Conveyor",
+        "Cut-ins",
+        "Feedback"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. We'd identify this clip as a VTR glitch bringing us into a conveyor shot cut-in.\nTechnique - Conveyor , Cut-ins , Feedback\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nNIGHT\nEXTERIOR\nSODIUM\nWARM WHITE",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401107.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-11T14:09:51.075972",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. This shot features a combination of a pedestal shot and an analogue glitch, reminiscent of late 90s television static.",
+      "tags": [
+        "GREEN",
+        "DARK",
+        "SKATING",
+        "SKATEBOARD",
+        "GLITCH",
+        "SODIUM LIGHTS",
+        "WARM WHITE",
+        "AMATEUR",
+        "ANALOGUE",
+        "CAMCORDER"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Pedestal"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. This shot features a combination of a pedestal shot and an analogue glitch, reminiscent of late 90s television static.\nTechnique - Feedback , Pedestal\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nGREEN\nDARK\nSKATING\nSKATEBOARD\nGLITCH\nSODIUM LIGHTS\nWARM WHITE\nAMATEUR\nANALOGUE\nCAMCORDER",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155281.webp",
+      "alt_text": "Tetsuo: The Iron Man",
+      "discovered_at": "2025-09-11T14:09:56.818341",
+      "title": "Tetsuo: The Iron Man (1989)",
+      "description": "A businessman accidentally kills The Metal Fetishist, who gets his revenge by slowly turning the man into a grotesque hybrid of flesh and rusty metal.",
+      "tags": [
+        "BLACK AND WHITE",
+        "TEETH",
+        "MOUTH"
+      ],
+      "technique_tags": [
+        "Feedback"
+      ],
+      "director": "Shinya Tsukamoto",
+      "dop": "Kei Fujiwara",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Tetsuo: The Iron Man (1989)\nA businessman accidentally kills The Metal Fetishist, who gets his revenge by slowly turning the man into a grotesque hybrid of flesh and rusty metal.\nTechnique - Feedback\nDirector - Shinya Tsukamoto\nDOP - Kei Fujiwara\nBLACK AND WHITE\nTEETH\nMOUTH",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703050556.webp",
+      "alt_text": "The Truman Show",
+      "discovered_at": "2025-09-11T14:10:02.554106",
+      "title": "The Truman Show (1998)",
+      "description": "An insurance salesman discovers his whole life is actually a reality TV show.",
+      "tags": [
+        "DAY",
+        "LIGHT",
+        "BLUE SKY",
+        "CLOSE UP",
+        "CAR",
+        "DRIVING",
+        "NATURAL LIGHT",
+        "EXTERIOR",
+        "35MM",
+        "PANAVISION PRIMO PRIMES",
+        "SATURATED",
+        "PETER WEIR",
+        "ARTIFICIAL LIGHT",
+        "PANAVISION PLATINUM",
+        "MICHAEL HEALEY",
+        "WILLIAM M. ANDERSON",
+        "LEE SMITH",
+        "SCREEN IN SCREEN",
+        "LICENSE PLATE",
+        "RASTER LINES"
+      ],
+      "technique_tags": [
+        "Feedback",
+        "Subtitles"
+      ],
+      "director": "Lee Smith, William M. Anderson",
+      "dop": "Peter Biziou",
+      "colorist": "Michael Healey",
+      "original_source": "",
+      "additional_info": "The Truman Show (1998)\nAn insurance salesman discovers his whole life is actually a reality TV show.\nTechnique - Feedback , Subtitles\nDirector - Peter Weir\nDOP - Peter Biziou\nEditor - Lee Smith, William M. Anderson\nColorist - Michael Healey\nDAY\nLIGHT\nBLUE SKY\nCLOSE UP\nCAR\nDRIVING\nNATURAL LIGHT\nEXTERIOR\n35MM\nPANAVISION PRIMO PRIMES\nSATURATED\n1.78\nPETER WEIR\nARTIFICIAL LIGHT\nPANAVISION PLATINUM\nMICHAEL HEALEY\nWILLIAM M. ANDERSON\nLEE SMITH\nSCREEN IN SCREEN\nLICENSE PLATE\nRASTER LINES",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710830412.webp",
+      "alt_text": "Aritzia - Sweatfleece",
+      "discovered_at": "2025-09-11T14:10:07.239570",
+      "title": "Aritzia - Sweatfleece (2024)",
+      "description": "",
+      "tags": [
+        "STUDIO",
+        "FAST MOTION"
+      ],
+      "technique_tags": [
+        "Damaged Film"
+      ],
+      "director": "Miloš Bogojevic",
+      "dop": "Thomas Marchese",
+      "colorist": "Dylan Hageman",
+      "original_source": "",
+      "additional_info": "Aritzia - Sweatfleece (2024)\nTechnique - Damaged Film\nDirector - Miloš Bogojevic\nDOP - Thomas Marchese\nColorist - Dylan Hageman\nOriginal Source - Link\nSTUDIO\nFAST MOTION",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335427.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:10:14.553606",
+      "title": "#LoveYourz (2018)",
+      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
+      "tags": [
+        "WOMAN",
+        "NIGHT",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Damaged Film"
+      ],
+      "director": "Eavvon O’Neal",
+      "dop": "Greta Zozula, Sam Wootton",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - Damaged Film\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link\nWOMAN\nNIGHT\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/05/14/Joost_Ski_Aggu__Otto_Waalkes_-_Friesenjung_Official_Video_8ltj6vQ/93f3d340cb3dba0f6bab3ae7c65a8ddb.gif",
       "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:10:21.339312",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "GREEN",
+        "EXTERIOR",
+        "FIELD",
+        "FARM",
+        "TRACTOR"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "VHS"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Handheld , VHS\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nDAY\nGREEN\nEXTERIOR\nFIELD\nFARM\nTRACTOR",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335906.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398537",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "glitch",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336216.webp",
       "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:10:26.548107",
+      "title": "#LoveYourz (2018)",
+      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "WOMAN",
+        "BLACK AND WHITE",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Handheld",
+        "VHS"
+      ],
+      "director": "Eavvon O’Neal",
+      "dop": "Greta Zozula, Sam Wootton",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - 1990s , Handheld , VHS\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link\nDAY\nWOMAN\nBLACK AND WHITE\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715574038.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398585",
-      "element_tag": "img",
-      "title": "Donna Missal - Sex is Good",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336523.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:10:41.184016",
+      "title": "",
       "description": "",
-      "category": "glitch",
-      "alt_text": "Donna Missal - Sex is Good",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710490198.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398633",
-      "element_tag": "img",
-      "title": "21 Savage - redrum",
-      "description": "",
-      "category": "glitch",
-      "alt_text": "21 Savage - redrum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710334311.webp",
-      "page_url": "https://eyecannndy.com/technique/glitch",
-      "discovered_at": "2025-09-05T03:26:00.398683",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "glitch",
       "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T14:10:55.814991",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715574038.webp",
+      "alt_text": "Donna Missal - Sex is Good",
+      "discovered_at": "2025-09-11T14:11:10.445522",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336138.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:11:25.111686",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335906.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:11:39.276314",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335989.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:11:53.938145",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336061.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:12:08.106883",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335029.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:12:22.261358",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710336325.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:12:36.410259",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720344023.webp",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "discovered_at": "2025-09-11T14:12:50.571802",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715573840.webp",
+      "alt_text": "Donna Missal - Sex is Good",
+      "discovered_at": "2025-09-11T14:13:04.716817",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/21/261716270889.webp",
+      "alt_text": "The Blair Witch Project",
+      "discovered_at": "2025-09-11T14:13:19.028853",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710490198.webp",
+      "alt_text": "21 Savage - redrum",
+      "discovered_at": "2025-09-11T14:13:33.225901",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335860.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T14:13:47.357947",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715573916.webp",
+      "alt_text": "Donna Missal - Sex is Good",
+      "discovered_at": "2025-09-11T14:13:50.507974",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/glitch"
     }
   ]
 }

@@ -1,1173 +1,1159 @@
 {
   "technique": "cut-ins",
-  "video_count": 60,
-  "generated_at": "2025-09-05T04:03:29.625440",
+  "scrape_info": {
+    "timestamp": "20250911_085157",
+    "total_videos": 48,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706588441.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.852892",
-      "element_tag": "img",
-      "title": "Breaking Bad (TV Series)",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Breaking Bad (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119471.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853018",
-      "element_tag": "img",
-      "title": "First Hawaiian Bank - Dance Party",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "First Hawaiian Bank - Dance Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452079.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853142",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703406025.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853198",
-      "element_tag": "img",
-      "title": "Come Together: A Fashion Picture in Motion",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Come Together: A Fashion Picture in Motion",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140861.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853245",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715645038.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853287",
-      "element_tag": "img",
-      "title": "Oblé Reed - WESTON.",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Oblé Reed - WESTON.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642984.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853328",
-      "element_tag": "img",
-      "title": "Into the Ring (TV Series)",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Into the Ring (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140750.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853368",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075342.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853409",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576023.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853449",
-      "element_tag": "img",
-      "title": "Ken Carson - Fighting My Demons",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Ken Carson - Fighting My Demons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704074164.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853488",
-      "element_tag": "img",
-      "title": "Duda Beat feat. Trevo - Nem Um Pouquinho",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Duda Beat feat. Trevo - Nem Um Pouquinho",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246057.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853526",
-      "element_tag": "img",
-      "title": "Latto - Sunday Service",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Latto - Sunday Service",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075163.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853565",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706588441.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853601",
-      "element_tag": "img",
-      "title": "Breaking Bad (TV Series)",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Breaking Bad (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119471.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853638",
-      "element_tag": "img",
-      "title": "First Hawaiian Bank - Dance Party",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "First Hawaiian Bank - Dance Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452079.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853673",
-      "element_tag": "img",
-      "title": "Empimic - Bittere Welt",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Empimic - Bittere Welt",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703406025.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853708",
-      "element_tag": "img",
-      "title": "Come Together: A Fashion Picture in Motion",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Come Together: A Fashion Picture in Motion",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140861.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853745",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715645038.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853782",
-      "element_tag": "img",
-      "title": "Oblé Reed - WESTON.",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Oblé Reed - WESTON.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642984.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853817",
-      "element_tag": "img",
-      "title": "Into the Ring (TV Series)",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Into the Ring (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140750.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853853",
-      "element_tag": "img",
-      "title": "Downtown Kayoto - Came Thru",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Downtown Kayoto - Came Thru",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075342.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853888",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576023.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853924",
-      "element_tag": "img",
-      "title": "Ken Carson - Fighting My Demons",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Ken Carson - Fighting My Demons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704074164.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853959",
-      "element_tag": "img",
-      "title": "Duda Beat feat. Trevo - Nem Um Pouquinho",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Duda Beat feat. Trevo - Nem Um Pouquinho",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246057.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.853994",
-      "element_tag": "img",
-      "title": "Latto - Sunday Service",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Latto - Sunday Service",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075163.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854030",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706691649.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854070",
-      "element_tag": "img",
-      "title": "Kid Culture - KEEP IT",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Kid Culture - KEEP IT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703407842.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854111",
-      "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703042782.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854149",
-      "element_tag": "img",
-      "title": "The Life Aquatic with Steve Zissou",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "The Life Aquatic with Steve Zissou",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705030033.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854188",
-      "element_tag": "img",
-      "title": "Jimmy Nelson - Blink. And they're gone",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Jimmy Nelson - Blink. And they're gone",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863655.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854227",
-      "element_tag": "img",
-      "title": "Chime - Woah",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Chime - Woah",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335144.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854267",
-      "element_tag": "img",
-      "title": "#LoveYourz",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "#LoveYourz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704834450.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854306",
-      "element_tag": "img",
-      "title": "Nike - Nothing Beats a Londoner",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Nike - Nothing Beats a Londoner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709104543.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854344",
-      "element_tag": "img",
-      "title": "Watchtower of China",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Watchtower of China",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814201.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854383",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385421.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854421",
-      "element_tag": "img",
-      "title": "Asteroid City",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Asteroid City",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709017710.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854459",
-      "element_tag": "img",
-      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175068.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854496",
-      "element_tag": "img",
-      "title": "M.I.A. 'Bad Girls'",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "M.I.A. 'Bad Girls'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924232.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854533",
-      "element_tag": "img",
-      "title": "slowthai - Yum",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "slowthai - Yum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702950272.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854570",
-      "element_tag": "img",
-      "title": "Whiplash",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Whiplash",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703367283.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854608",
-      "element_tag": "img",
-      "title": "Husky - Never-ever",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Husky - Never-ever",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703919409.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854677",
-      "element_tag": "img",
-      "title": "Quavo x Takeoff - Hotel Lobby",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Quavo x Takeoff - Hotel Lobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715293411.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854755",
-      "element_tag": "img",
-      "title": "Inter Alia (Short Film)",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Inter Alia (Short Film)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703487883.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854803",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488518.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854865",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710030719.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854905",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "cut-ins",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/10/3_HV1C4dz/04d030e8fdda3d3c305c0a42d3be7a21.gif",
       "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T08:49:04.682280",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403762.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854945",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/04/tumblr_2490c9a8231619c395dfb26f56903687_ccd7655c_540/cb7fa90e3cf7500266c4c46c23910960.gif",
+      "alt_text": "Top Gun: Maverick",
+      "discovered_at": "2025-09-11T08:49:12.170975",
+      "title": "",
       "description": "",
-      "category": "cut-ins",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706691832.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.854985",
-      "element_tag": "img",
-      "title": "Kid Culture - KEEP IT",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Kid Culture - KEEP IT",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739192856.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855059",
-      "element_tag": "img",
-      "title": "Static - Federer",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Static - Federer",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165278.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855121",
-      "element_tag": "img",
-      "title": "Victoria Monet - Alright",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Victoria Monet - Alright",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706686032.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855174",
-      "element_tag": "img",
-      "title": "Gregory Porter - Revival",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Gregory Porter - Revival",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401642.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855215",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705824288.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855254",
-      "element_tag": "img",
-      "title": "Ziak - Akimbo",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Ziak - Akimbo",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824596.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855295",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409664.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855334",
-      "element_tag": "img",
-      "title": "Kendrick Lamar - Humble",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Kendrick Lamar - Humble",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705030926.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855389",
-      "element_tag": "img",
-      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Unknown T - Hocus Pocus Feat. Loyle Carner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175597.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855431",
-      "element_tag": "img",
-      "title": "M.I.A. 'Bad Girls'",
-      "description": "",
-      "category": "cut-ins",
       "alt_text": "M.I.A. 'Bad Girls'",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:49:15.830017",
+      "title": "M.I.A. 'Bad Girls' (2012)",
+      "description": "M.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "CAR",
+        "MUSIC VIDEO",
+        "DRIFTING",
+        "DUST",
+        "MOROCCO",
+        "STUNT"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "High Angle",
+        "Slow Motion"
+      ],
+      "director": "Walter Mauriot",
+      "dop": "André Chemetoff",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "M.I.A. 'Bad Girls' (2012)\nM.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.\nTechnique - Cut-ins , High Angle , Slow Motion\nDirector - Romain Gavras\nDOP - André Chemetoff\nEditor - Walter Mauriot\nOriginal Source - Link\nTutorial - Link\nCAR\nMUSIC VIDEO\nDRIFTING\nDUST\nMOROCCO\nSTUNT",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707628073.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855473",
-      "element_tag": "img",
-      "title": "Drake, 21 Savage - Spin Bout U",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Drake, 21 Savage - Spin Bout U",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075342.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T08:49:19.533759",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "NIGHT",
+        "DARK",
+        "SPOTLIGHT",
+        "WIDE",
+        "CAR LIGHT"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford.\nTechnique - Cut-ins\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nNIGHT\nDARK\nSPOTLIGHT\nWIDE\nCAR LIGHT",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021980.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855524",
-      "element_tag": "img",
-      "title": "Top Gun: Maverick",
-      "description": "",
-      "category": "cut-ins",
-      "alt_text": "Top Gun: Maverick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642984.webp",
+      "alt_text": "Into the Ring (TV Series)",
+      "discovered_at": "2025-09-11T08:49:23.180371",
+      "title": "Into the Ring (TV Series) (2020)",
+      "description": "A dirt-born character chooses to join politics over getting a job and punishing rogue politicians with an elite official.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WOMAN",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Overhead"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Into the Ring (TV Series) (2020)\nA dirt-born character chooses to join politics over getting a job and punishing rogue politicians with an elite official.\nTechnique - Cut-ins , Overhead\nWOMAN\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705030926.webp",
+      "alt_text": "Unknown T - Hocus Pocus Feat. Loyle Carner",
+      "discovered_at": "2025-09-11T08:49:26.802842",
+      "title": "Unknown T - Hocus Pocus Feat. Loyle Carner (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "GOLD",
+        "GREEN",
+        "EXTERIOR",
+        "PUTTING"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "High Angle"
+      ],
+      "director": "Fouad Gaber",
+      "dop": "Anna Smoroňová",
+      "colorist": "Marina Starke",
+      "original_source": "",
+      "additional_info": "Unknown T - Hocus Pocus Feat. Loyle Carner (2023)\nDive into Felix Brady's latest music video masterpiece—a surreal space adorned with captivating visual techniques and a vibrant color palette. Experience artistic brilliance in a compact creation.\nTechnique - Cut-ins , High Angle\nDirector - Felix Brady\nDOP - Anna Smoroňová\nEditor - Fouad Gaber\nColorist - Marina Starke\nOriginal Source - Link\nDAY\nGOLD\nGREEN\nEXTERIOR\nPUTTING",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715814201.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T08:49:29.953836",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "DAY",
+        "BEACH",
+        "WOMEN",
+        "GROUP",
+        "SUNNY",
+        "TAN",
+        "SUN",
+        "SUMMER",
+        "TANNING",
+        "SURFBOARDS"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Central Framing",
+        "Choreo",
+        "Cut-ins",
+        "Overhead"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Central Framing , Choreo , Cut-ins , Overhead\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nDAY\nBEACH\nWOMEN\nGROUP\nSUNNY\nTAN\nSUN\nSUMMER\nTANNING\nSURFBOARDS",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175068.webp",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "discovered_at": "2025-09-11T08:49:33.579085",
+      "title": "M.I.A. 'Bad Girls' (2012)",
+      "description": "M.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.",
+      "tags": [
+        "CAR",
+        "MUSIC VIDEO",
+        "GROUP",
+        "ROOF",
+        "DESERT",
+        "MOROCCO"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Walter Mauriot",
+      "dop": "André Chemetoff",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "M.I.A. 'Bad Girls' (2012)\nM.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.\nTechnique - Cut-ins\nDirector - Romain Gavras\nDOP - André Chemetoff\nEditor - Walter Mauriot\nOriginal Source - Link\nTutorial - Link\nCAR\nMUSIC VIDEO\nGROUP\nROOF\nDESERT\nMOROCCO",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709017710.webp",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "discovered_at": "2025-09-11T08:49:37.208206",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
+      "description": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
+      "tags": [
+        "DAY",
+        "MALE",
+        "CLOSE UP",
+        "NIGHT",
+        "EXTERIOR",
+        "DESERT",
+        "ALL IS YELLOW"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Yo-Yo Zoom"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)\nStunning 2024 music video from director Cole Bennett of Lyrical Lemonade.\nTechnique - Cut-ins , Yo-Yo Zoom\nDirector - Cole Bennett\nDOP - Franklin Ricart\nColorist - Josh Bohoskey\nOriginal Source - Link\nDAY\nMALE\nCLOSE UP\nNIGHT\nEXTERIOR\nDESERT\nALL IS YELLOW",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403762.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-11T08:49:40.879237",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. We'd identify this clip as a VTR glitch bringing us into a conveyor shot cut-in.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "SODIUM",
+        "WARM WHITE"
+      ],
+      "technique_tags": [
+        "Conveyor",
+        "Cut-ins",
+        "Feedback"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. We'd identify this clip as a VTR glitch bringing us into a conveyor shot cut-in.\nTechnique - Conveyor , Cut-ins , Feedback\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nNIGHT\nEXTERIOR\nSODIUM\nWARM WHITE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576023.webp",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "discovered_at": "2025-09-11T08:49:44.592145",
+      "title": "Ken Carson - Fighting My Demons (2023)",
+      "description": "The music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.",
+      "tags": [
+        "MALE",
+        "BLUNT",
+        "WEED",
+        "CIGARETTE",
+        "INTERIOR",
+        "SMOKING",
+        "MARIJUANA"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Light Flash",
+        "Single shot"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Ken Carson - Fighting My Demons (2023)\nThe music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.\nTechnique - Cut-ins , Light Flash , Single shot\nDirector - Cole Bennett\nDOP - Franklin Ricart\nEditor - Cole Bennett\nColorist - Loren White\nOriginal Source - Link\nTutorial - Link\nMALE\nBLUNT\nWEED\nCIGARETTE\nINTERIOR\nSMOKING\nMARIJUANA",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710452079.webp",
+      "alt_text": "Empimic - Bittere Welt",
+      "discovered_at": "2025-09-11T08:49:47.705664",
+      "title": "Empimic - Bittere Welt (2021)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "FACE",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Angelo Kovatchev",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Empimic - Bittere Welt (2021)\nTechnique - Cut-ins\nDirector - Angelo Kovatchev\nOriginal Source - Link\nMALE\nFACE\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706691832.webp",
+      "alt_text": "Kid Culture - KEEP IT",
+      "discovered_at": "2025-09-11T08:49:51.344655",
+      "title": "Kid Culture - KEEP IT (2023)",
+      "description": "2023 music video for artist Kid Culture. Produced by Stray Dogs",
+      "tags": [
+        "WOMAN"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Intensity"
+      ],
+      "director": "Daniel Iglesias Jr.",
+      "dop": "Scott Siracusano",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Kid Culture - KEEP IT (2023)\n2023 music video for artist Kid Culture. Produced by Stray Dogs\nTechnique - Cut-ins , Intensity\nDirector - Daniel Iglesias Jr.\nDOP - Scott Siracusano\nColorist - Dante Pasquinelli\nOriginal Source - Link\nWOMAN",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335144.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-11T08:49:55.021064",
+      "title": "#LoveYourz (2018)",
+      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
+      "tags": [
+        "MALE"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Video Portraits"
+      ],
+      "director": "Eavvon O’Neal",
+      "dop": "Greta Zozula, Sam Wootton",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - Cut-ins , Video Portraits\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link\nMALE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/30/261706588441.webp",
+      "alt_text": "Breaking Bad (TV Series)",
+      "discovered_at": "2025-09-11T08:49:59.174230",
+      "title": "Breaking Bad (TV Series) (2011)",
+      "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's future.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "GUN",
+        "WALTER WHITE"
+      ],
+      "technique_tags": [
+        "2010s",
+        "Cut-ins",
+        "Dispair"
+      ],
+      "director": "Michael Slovis",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Breaking Bad (TV Series) (2011)\nA chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's future.\nTechnique - 2010s , Cut-ins , Dispair\nDirector - Michael Slovis\nOriginal Source - Link\nDAY\nEXTERIOR\nGUN\nWALTER WHITE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704834450.webp",
+      "alt_text": "Nike - Nothing Beats a Londoner",
+      "discovered_at": "2025-09-11T08:50:02.303284",
+      "title": "Nike - Nothing Beats a Londoner (2018)",
+      "description": "Energetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.",
+      "tags": [
+        "NIGHT",
+        "DARK",
+        "FIELD",
+        "SOCCER",
+        "SPOTLIGHT"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Whip Pan"
+      ],
+      "director": "Joe Guest",
+      "dop": "Nicolas Loir",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - Nothing Beats a Londoner (2018)\nEnergetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.\nTechnique - Cut-ins , Whip Pan\nDirector - Megaforce\nDOP - Nicolas Loir\nEditor - Joe Guest\nOriginal Source - Link\nNIGHT\nDARK\nFIELD\nSOCCER\nSPOTLIGHT",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409664.webp",
+      "alt_text": "Kendrick Lamar - Humble",
+      "discovered_at": "2025-09-11T08:50:05.962328",
+      "title": "Kendrick Lamar - Humble (2017)",
+      "description": "The visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.",
+      "tags": [
+        "EXTERIOR",
+        "KENDRICK LAMAR",
+        "COOL WHITE"
+      ],
+      "technique_tags": [
+        "Bolt Cam",
+        "Cut-ins"
+      ],
+      "director": "Greg Scruton",
+      "dop": "Scott Cunningham",
+      "colorist": "Jaime O'Bradovich",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - Humble (2017)\nThe visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.\nTechnique - Bolt Cam , Cut-ins\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Greg Scruton\nColorist - Jaime O'Bradovich\nOriginal Source - Link\nTutorial - Link\nEXTERIOR\nKENDRICK LAMAR\nCOOL WHITE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824596.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T08:50:09.594109",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "MALE",
+        "MIRROR"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Cut-ins\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nMALE\nMIRROR",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702950272.webp",
+      "alt_text": "Whiplash",
+      "discovered_at": "2025-09-11T08:50:13.237714",
+      "title": "Whiplash (2014)",
+      "description": "\"Whiplash\" is a 2014 film directed by Damien Chazelle, known for its intense portrayal of the relationship between a young jazz drummer and his demanding music instructor. Chazelle's dynamic direction in \"Whiplash\" earned him widespread acclaim, showcasing his ability to create tension and deliver a gripping narrative within the context of a music-driven story.",
+      "tags": [
+        "WARM",
+        "INTERIOR",
+        "CONDUCTOR",
+        "J. K. SIMMONS",
+        "JAZZ",
+        "DRUMS"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Low Angle"
+      ],
+      "director": "Tom Cross",
+      "dop": "Sharone Meir",
+      "colorist": "Natasha Leonnet",
+      "original_source": "",
+      "additional_info": "Whiplash (2014)\n\"Whiplash\" is a 2014 film directed by Damien Chazelle, known for its intense portrayal of the relationship between a young jazz drummer and his demanding music instructor. Chazelle's dynamic direction in \"Whiplash\" earned him widespread acclaim, showcasing his ability to create tension and deliver a gripping narrative within the context of a music-driven story.\nTechnique - Cut-ins , Low Angle\nDirector - Damien Chazelle\nDOP - Sharone Meir\nEditor - Tom Cross\nColorist - Natasha Leonnet\nOriginal Source - Link\nWARM\nINTERIOR\nCONDUCTOR\nJ. K. SIMMONS\nJAZZ\nDRUMS",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119471.webp",
+      "alt_text": "First Hawaiian Bank - Dance Party",
+      "discovered_at": "2025-09-11T08:50:16.878927",
+      "title": "First Hawaiian Bank - Dance Party (2022)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "BACK OF HEAD",
+        "INTERIOR",
+        "DARK",
+        "STORE"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Match Cut"
+      ],
+      "director": "Ariel Danziger",
+      "dop": "Jeremy Snell",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "First Hawaiian Bank - Dance Party (2022)\nCommercial for First Hawaiian Bank's priority unlimited credit card. Director: Ariel Danziger DP: Jeremy Snell GCD: Kerry Mellor ECD: Adan Romero CCO: Lincoln Bjorkman Producer: Becky Friedman Agency: FKA Client: First Hawaiian Bank\nTechnique - Cut-ins , Match Cut\nDirector - Ariel Danziger\nDOP - Jeremy Snell\nOriginal Source - Link\nNIGHT\nBACK OF HEAD\nINTERIOR\nDARK\nSTORE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704115165.webp",
-      "page_url": "https://eyecannndy.com/technique/cut-ins",
-      "discovered_at": "2025-09-05T03:24:04.855655",
-      "element_tag": "img",
-      "title": "KFC - Crunch Collective",
-      "description": "",
-      "category": "cut-ins",
       "alt_text": "KFC - Crunch Collective",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:50:20.037451",
+      "title": "KFC - Crunch Collective (2023)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "INTERIOR",
+        "CHICKEN"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Slow Motion"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "KFC - Crunch Collective (2023)\nShot breakdown: Slow motion cut-in.\nTechnique - Cut-ins , Slow Motion\nOriginal Source - Link\nDAY\nINTERIOR\nCHICKEN",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703924232.webp",
+      "alt_text": "slowthai - Yum",
+      "discovered_at": "2025-09-11T08:50:23.679909",
+      "title": "slowthai - Yum (2023)",
+      "description": "Shot breakdown: surrealist cut-out to wide spotlight shot",
+      "tags": [
+        "NIGHT",
+        "BLUE",
+        "EXTERIOR",
+        "DARK",
+        "SODIUM LIGHT",
+        "SNOWING"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Magical realism",
+        "Spotlight"
+      ],
+      "director": "John Holloway",
+      "dop": "Jack Exton",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "slowthai - Yum (2023)\nShot breakdown: surrealist cut-out to wide spotlight shot\nTechnique - Cut-ins , Magical realism , Spotlight\nDirector - Crowns & Owls\nDOP - Jack Exton\nEditor - John Holloway\nOriginal Source - Link\nNIGHT\nBLUE\nEXTERIOR\nDARK\nSODIUM LIGHT\nSNOWING",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706691649.webp",
+      "alt_text": "Kid Culture - KEEP IT",
+      "discovered_at": "2025-09-11T08:50:26.806496",
+      "title": "Kid Culture - KEEP IT (2023)",
+      "description": "2023 music video for artist Kid Culture. Produced by Stray Dogs",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "BUTTERFLY"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Daniel Iglesias Jr.",
+      "dop": "Scott Siracusano",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Kid Culture - KEEP IT (2023)\n2023 music video for artist Kid Culture. Produced by Stray Dogs\nTechnique - Cut-ins\nDirector - Daniel Iglesias Jr.\nDOP - Scott Siracusano\nColorist - Dante Pasquinelli\nOriginal Source - Link\nDAY\nEXTERIOR\nBUTTERFLY",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703042782.webp",
+      "alt_text": "The Life Aquatic with Steve Zissou",
+      "discovered_at": "2025-09-11T08:50:30.480329",
+      "title": "The Life Aquatic with Steve Zissou (2004)",
+      "description": "With a plan to exact revenge on a mythical shark that killed his partner, Oceanographer Steve Zissou (Bill Murray) rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.",
+      "tags": [
+        "DAY",
+        "WARM",
+        "WES ANDERSON",
+        "OCEAN",
+        "BEANIE",
+        "LIFE AQUATIC",
+        "35MM",
+        "PANAVISION PANAFLEX",
+        "ANAMORPHIC",
+        "SOFT LIGHT",
+        "PANAVISION PRIMO ANAMORPHICS",
+        "DAVID MORITZ",
+        "PANAVISION PRIMO ZOOMS",
+        "ROBERT YEOMAN",
+        "BOATING",
+        "WILLEM DEFOE",
+        "SEA"
+      ],
+      "technique_tags": [
+        "1970s",
+        "Adventure",
+        "Cut-ins"
+      ],
+      "director": "David Moritz",
+      "dop": "Robert Yeoman",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Life Aquatic with Steve Zissou (2004)\nWith a plan to exact revenge on a mythical shark that killed his partner, Oceanographer Steve Zissou (Bill Murray) rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.\nTechnique - 1970s , Adventure , Cut-ins\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - David Moritz\nDAY\nWARM\nWES ANDERSON\nOCEAN\nBEANIE\nLIFE AQUATIC\n35MM\n2.35\nPANAVISION PANAFLEX\nANAMORPHIC\nSOFT LIGHT\nPANAVISION PRIMO ANAMORPHICS\nDAVID MORITZ\nPANAVISION PRIMO ZOOMS\nROBERT YEOMAN\nBOATING\nWILLEM DEFOE\nSEA",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/21/261705824288.webp",
+      "alt_text": "Ziak - Akimbo",
+      "discovered_at": "2025-09-11T08:50:34.118302",
+      "title": "Ziak - Akimbo (2022)",
+      "description": "",
+      "tags": [
+        "BLUNT",
+        "CIGARETTE",
+        "SMOKE",
+        "FIRE",
+        "FLAME",
+        "LIGHTER"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Match Cut"
+      ],
+      "director": "Bleu Désert",
+      "dop": "Antoine Cormier",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ziak - Akimbo (2022)\nDirected by Bleu Désert Produced by Obvious DOP: Antoine Cormier Executive Production: She Films 3D / VFX (Visual Effects): Dust VFX: Antoine Hache, Katlas Sound Design: Benzene\nTechnique - Cut-ins , Match Cut\nDirector - Bleu Désert\nDOP - Antoine Cormier\nOriginal Source - Link\nBLUNT\nCIGARETTE\nSMOKE\nFIRE\nFLAME\nLIGHTER",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/31/261706686032.webp",
+      "alt_text": "Gregory Porter - Revival",
+      "discovered_at": "2025-09-11T08:50:38.307457",
+      "title": "Gregory Porter - Revival (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "DANCING",
+        "BOY",
+        "CHOREOGRAPHY"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Miniature",
+        "Scale Shift"
+      ],
+      "director": "Danilo Abraham",
+      "dop": "Chris Ripley",
+      "colorist": "Osmar Junior",
+      "original_source": "",
+      "additional_info": "Gregory Porter - Revival (2020)\nAward-winning music video for artist Gregory Porter from director Douglas Bernardt. Sick use of scale shift technique. Produced by Stink Films.\nTechnique - Cut-ins , Miniature , Scale Shift\nDirector - Douglas Bernardt\nDOP - Chris Ripley\nEditor - Danilo Abraham\nColorist - Osmar Junior\nOriginal Source - Link\nDAY\nINTERIOR\nDANCING\nBOY\nCHOREOGRAPHY",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246057.webp",
+      "alt_text": "Latto - Sunday Service",
+      "discovered_at": "2025-09-11T08:50:41.928060",
+      "title": "Latto - Sunday Service (2024)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "VEHICLE"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Light Void"
+      ],
+      "director": "HIDJI WORLD",
+      "dop": "Leroy Farrell",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Latto - Sunday Service (2024)\n2024 music video for Latto from renowned director HIDJI WORLD. Produced by North of Now films.\nTechnique - Cut-ins , Light Void\nDirector - HIDJI WORLD\nDOP - Leroy Farrell\nOriginal Source - Link\nWOMAN\nVEHICLE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709104543.webp",
+      "alt_text": "Watchtower of China",
+      "discovered_at": "2025-09-11T08:50:45.567159",
+      "title": "Watchtower of China (2022)",
+      "description": "A cinematic exploration capturing the vast diversity and spirit of China through seamless edits and fluid camera work over five years of filming and editing. The project, which extends Dalessandri's unique visual storytelling seen in \"Watchtower of Turkey,\" presents a rich tapestry of China's landscapes, people, and culture, set to the emotive compositions of Ezio Bosso. The film is acclaimed for its vibrant portrayal and deep personal vision of China, reflecting the interconnected energy of its inhabitants and their surroundings.",
+      "tags": [
+        "KIDS",
+        "KARATE"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Leonardo Dalessandri",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Watchtower of China (2022)\nA cinematic exploration capturing the vast diversity and spirit of China through seamless edits and fluid camera work over five years of filming and editing. The project, which extends Dalessandri's unique visual storytelling seen in \"Watchtower of Turkey,\" presents a rich tapestry of China's landscapes, people, and culture, set to the emotive compositions of Ezio Bosso. The film is acclaimed for its vibrant portrayal and deep personal vision of China, reflecting the interconnected energy of its inhabitants and their surroundings.\nTechnique - Cut-ins\nDirector - Leonardo Dalessandri\nOriginal Source - Link\nKIDS\nKARATE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075163.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T08:50:48.688593",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford.",
+      "tags": [
+        "TRUCKING",
+        "NIGHT",
+        "INTERIOR",
+        "BAR",
+        "DARK",
+        "CONVEYOR"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Trucking"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford.\nTechnique - Cut-ins , Trucking\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nTRUCKING\nNIGHT\nINTERIOR\nBAR\nDARK\nCONVEYOR",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707628073.webp",
+      "alt_text": "Drake, 21 Savage - Spin Bout U",
+      "discovered_at": "2025-09-11T08:50:53.394458",
+      "title": "Drake, 21 Savage - Spin Bout U (2023)",
+      "description": "2023 music video in collaboration between Drake and 21 Savage, directed by the iconic Dave Meyers.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "21 SAVAGE",
+        "YACHT",
+        "GRAPEFRUIT"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Match Cut"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Stefan Sonnenfeld",
+      "original_source": "",
+      "additional_info": "Drake, 21 Savage - Spin Bout U (2023)\n2023 music video in collaboration between Drake and 21 Savage, directed by the iconic Dave Meyers.\nTechnique - Cut-ins , Match Cut\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Stefan Sonnenfeld\nOriginal Source - Link\nDAY\nINTERIOR\n21 SAVAGE\nYACHT\nGRAPEFRUIT",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739192856.webp",
+      "alt_text": "Static - Federer",
+      "discovered_at": "2025-09-11T08:50:57.055981",
+      "title": "Static - Federer (2025)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "MALE",
+        "WOMAN",
+        "BLUE",
+        "EXTERIOR",
+        "STADIUM",
+        "COURT",
+        "FANS",
+        "TENNIS"
+      ],
+      "technique_tags": [
+        "Central Framing",
+        "Cut-ins",
+        "Low Angle",
+        "Ultra Wide"
+      ],
+      "director": "Din Perlis",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Static - Federer (2025)\nDirected, filmed, and edited by Din Perlis, with production led by Hatzub, the video has been highlighted for its exceptional visual storytelling. Directed, Filmed and Edited by @dinperlis Production House : @hatzub Head Producer : @hatzub Executive Producer : @orbarak10 Gaffer : @yanaimoradi 3D & VFX : @dyln.films Coloring : @dinperlis Sound Design : @kai.goodrem Talent Styling : @kimeliyahu Actors Styling : @sarah.elalouf Art Director : @sarah.elalouf PA : @kobefunt PA : @tzur_h BTS : @nnnnoya BTS : @edenush02 Makeup Artist : @makeup.by.roni_ Makeup Assistant : @maayan_ashkenazi_makeup Actors Makeup : @alinshabtay Actors : yardenlasry / @rotem.landesberg Hair Stylist : @oshri.shushan Extras : @sharonann_26 / @hila.atdgi / @sn0rka Artist Management : @gagamanagement Rep : @roms_studios\nTechnique - Central Framing , Cut-ins , Low Angle , Ultra Wide\nDirector - Din Perlis\nOriginal Source - Link\nDAY\nMALE\nWOMAN\nBLUE\nEXTERIOR\nSTADIUM\nCOURT\nFANS\nTENNIS",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704385421.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-11T08:51:00.702608",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
+      "tags": [
+        "DAY",
+        "GOLD",
+        "WES ANDERSON",
+        "INTERIOR",
+        "COOL",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "DESERT",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "CYAN",
+        "TELESCOPE"
+      ],
+      "technique_tags": [
+        "1950s",
+        "Cut-ins",
+        "Low Angle"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.\nTechnique - 1950s , Cut-ins , Low Angle\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nDAY\nGOLD\nWES ANDERSON\nINTERIOR\nCOOL\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nDESERT\nARRICAM LT\nARRICAM ST\nCYAN\nTELESCOPE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140750.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T08:51:04.388451",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "VINTAGE",
+        "OVERHEAD",
+        "CAMERA",
+        "SINGLE-LENS REFLEX CAMERA"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Overhead",
+        "Overhead Close-up"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Cut-ins , Overhead , Overhead Close-up\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nVINTAGE\nOVERHEAD\nCAMERA\nSINGLE-LENS REFLEX CAMERA",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715645038.webp",
+      "alt_text": "Oblé Reed - WESTON.",
+      "discovered_at": "2025-09-11T08:51:08.020974",
+      "title": "Oblé Reed - WESTON. (2023)",
+      "description": "",
+      "tags": [
+        "BLUNT",
+        "WOMAN",
+        "CIGARETTE",
+        "SMOKING",
+        "SMOKE",
+        "FIRE",
+        "LIT",
+        "MATCH",
+        "CIGAR"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Quick Cuts"
+      ],
+      "director": "Nash Pearson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oblé Reed - WESTON. (2023)\nMusic video\nTechnique - Cut-ins , Quick Cuts\nDirector - Nash Pearson\nEditor - Nash Pearson\nOriginal Source - Link\nBLUNT\nWOMAN\nCIGARETTE\nSMOKING\nSMOKE\nFIRE\nLIT\nMATCH\nCIGAR",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703919409.webp",
+      "alt_text": "Quavo x Takeoff - Hotel Lobby",
+      "discovered_at": "2025-09-11T08:51:11.652823",
+      "title": "Quavo x Takeoff - Hotel Lobby (2022)",
+      "description": "Quavo and Takeoff go on a drug-fueled trip through the desert of Nevada and the streets of Las Vegas.",
+      "tags": [
+        "CAR",
+        "DRIVING",
+        "NIGHT",
+        "HOTEL",
+        "INTERIOR",
+        "SATURATED",
+        "2020S",
+        "VEHICLE",
+        "SATURATION",
+        "K35S",
+        "ALEXA MINI LF"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Keemotion., Quavo",
+      "dop": "Marcelo Pancote",
+      "colorist": "Arianna Shining Star",
+      "original_source": "",
+      "additional_info": "Quavo x Takeoff - Hotel Lobby (2022)\nQuavo and Takeoff go on a drug-fueled trip through the desert of Nevada and the streets of Las Vegas.\nTechnique - Cut-ins\nDirector - Keemotion., Quavo\nDOP - Marcelo Pancote\nColorist - Arianna Shining Star\nOriginal Source - Link\nTutorial - Link\n2022\nCAR\nDRIVING\nNIGHT\nHOTEL\nINTERIOR\nSATURATED\n2020S\nVEHICLE\nSATURATION\nK35S\nALEXA MINI LF",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703367283.webp",
+      "alt_text": "Husky - Never-ever",
+      "discovered_at": "2025-09-11T08:51:14.801166",
+      "title": "Husky - Never-ever (2020)",
+      "description": "A guy works as a janitor and cleans up gang fight scenes.",
+      "tags": [
+        "BLUE",
+        "EXTERIOR",
+        "DARK",
+        "ORANGE",
+        "VEHICLE",
+        "TRUCK"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Kirill Khandurin",
+      "dop": "Kirill Groshev",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Husky - Never-ever (2020)\nA guy works as a janitor and cleans up gang fight scenes.\nTechnique - Cut-ins\nDirector - Evgenii Bakirov\nDOP - Kirill Groshev\nEditor - Kirill Khandurin\nOriginal Source - Link\nBLUE\nEXTERIOR\nDARK\nORANGE\nVEHICLE\nTRUCK",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165278.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T08:51:18.456747",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "VICTORIA MONET",
+        "GLITTER"
+      ],
+      "technique_tags": [
+        "Central Framing",
+        "Choreo",
+        "Cut-ins"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Central Framing , Choreo , Cut-ins\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET\nGLITTER",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488518.webp",
+      "alt_text": "Lil Yachty - TESLA",
+      "discovered_at": "2025-09-11T08:51:21.737373",
+      "title": "Lil Yachty - TESLA (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "PINK",
+        "EXTERIOR",
+        "WIDE",
+        "GARAGE"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Lil Yachty - TESLA (2023)\nRecipe: cut-in wide to full shot\nTechnique - Cut-ins\nDirector - Cole Bennett\nDOP - Franklin Ricart\nColorist - Loren White\nOriginal Source - Link\nDAY\nPINK\nEXTERIOR\nWIDE\nGARAGE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703407842.webp",
+      "alt_text": "Kendrick Lamar - Humble",
+      "discovered_at": "2025-09-11T08:51:25.376507",
+      "title": "Kendrick Lamar - Humble (2017)",
+      "description": "The visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.",
+      "tags": [
+        "DAY",
+        "KENDRICK LAMAR",
+        "LOS ANGELES",
+        "GOLFING"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Greg Scruton",
+      "dop": "Scott Cunningham",
+      "colorist": "Jaime O'Bradovich",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - Humble (2017)\nThe visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.\nTechnique - Cut-ins\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Greg Scruton\nColorist - Jaime O'Bradovich\nOriginal Source - Link\nTutorial - Link\nDAY\nKENDRICK LAMAR\nLOS ANGELES\nGOLFING",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/12/261705030033.webp",
+      "alt_text": "Jimmy Nelson - Blink. And they're gone",
+      "discovered_at": "2025-09-11T08:51:29.001220",
+      "title": "Jimmy Nelson - Blink. And they're gone",
+      "description": "Made in collaboration with @Senthil Kumar / Music by Dhruv Ghanekar @WAH WAH MUSIC Worldwide call to preserve global cultural heritage by portraying the world’s last indigenous cultures in all their glory",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "PHOTOGRAPHY",
+        "PEOPLE"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Tableau",
+        "Wide shot"
+      ],
+      "director": "Jimmy Nelson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Jimmy Nelson - Blink. And they're gone\nMade in collaboration with @Senthil Kumar / Music by Dhruv Ghanekar @WAH WAH MUSIC Worldwide call to preserve global cultural heritage by portraying the world’s last indigenous cultures in all their glory\nTechnique - Cut-ins , Tableau , Wide shot\nDirector - Jimmy Nelson\nOriginal Source - Link\nDAY\nEXTERIOR\nPHOTOGRAPHY\nPEOPLE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703487883.webp",
+      "alt_text": "Lil Yachty - TESLA",
+      "discovered_at": "2025-09-11T08:51:32.633408",
+      "title": "Lil Yachty - TESLA (2023)",
+      "description": "Recipe: Ultra-wide exterior cut in to low angle medium shot.",
+      "tags": [
+        "EXTERIOR",
+        "MUTED",
+        "PASTEL",
+        "PINK WHITE"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Lil Yachty - TESLA (2023)\nRecipe: Ultra-wide exterior cut in to low angle medium shot.\nTechnique - Cut-ins\nDirector - Cole Bennett\nDOP - Franklin Ricart\nColorist - Loren White\nOriginal Source - Link\nEXTERIOR\nMUTED\nPASTEL\nPINK WHITE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/06/Cowboy_Bebop___Official_Teaser_Lost_Session___Netflix_Q6CRsvr.gif",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "discovered_at": "2025-09-11T08:51:36.261020",
+      "title": "Cowboy Bepop (TV Series) (2021)",
+      "description": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.",
+      "tags": [],
+      "technique_tags": [
+        "Action",
+        "Cut-ins"
+      ],
+      "director": "Bridget Durnford, Elliot Greenberg",
+      "dop": "Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn",
+      "colorist": "Bill Ferwerda, Company 3",
+      "original_source": "",
+      "additional_info": "Cowboy Bepop (TV Series) (2021)\nA ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.\nTechnique - Action , Cut-ins\nDirector - Alex Garcia Lopez, Michael Katleman\nDOP - Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn\nEditor - Bridget Durnford, Elliot Greenberg\nColorist - Bill Ferwerda, Company 3\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704074164.webp",
+      "alt_text": "Duda Beat feat. Trevo - Nem Um Pouquinho",
+      "discovered_at": "2025-09-11T08:51:39.942618",
+      "title": "Duda Beat feat. Trevo - Nem Um Pouquinho (2021)",
+      "description": "Duda Beat's single \"Nem Um Pouquinho\" featuring Trevo presents a cyberpunk and dystopian universe where she plays a metamorphic creature seeking revenge in a bitter heartbreak narrative. The video complements this theme with a fantastic approach, featuring urban arts, signage, and vehicles developed by the production design team, while the barbed rose symbolizes fatal charm throughout the project.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "OVERHEAD"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Datamosh"
+      ],
+      "director": "Marcelo Vogelaar",
+      "dop": "Fabio Politi",
+      "colorist": "Osmar Junior",
+      "original_source": "",
+      "additional_info": "Duda Beat feat. Trevo - Nem Um Pouquinho (2021)\nDuda Beat's single \"Nem Um Pouquinho\" featuring Trevo presents a cyberpunk and dystopian universe where she plays a metamorphic creature seeking revenge in a bitter heartbreak narrative. The video complements this theme with a fantastic approach, featuring urban arts, signage, and vehicles developed by the production design team, while the barbed rose symbolizes fatal charm throughout the project.\nTechnique - Cut-ins , Datamosh\nDirector - ALASKA\nDOP - Fabio Politi\nEditor - Marcelo Vogelaar\nColorist - Osmar Junior\nOriginal Source - Link\nINTERIOR\nDARK\nOVERHEAD",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863655.webp",
+      "alt_text": "Chime - Woah",
+      "discovered_at": "2025-09-11T08:51:43.072777",
+      "title": "Chime - Woah (2021)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "INTERIOR",
+        "BEDROOM",
+        "RUG",
+        "LIVING ROOM",
+        "CUT IN"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Cut-ins"
+      ],
+      "director": "Jojo King",
+      "dop": "Starr Whitesides",
+      "colorist": "Kris Smale",
+      "original_source": "",
+      "additional_info": "Chime - Woah (2021)\nWritten and Directed by Mount Defiance Head of Creative: Thierry Ambraisse Creative Producer: Jane Hong Copywriter: Brent Bamberger Production: Open Range Creative Studio: Mount Defiance Director: Mount Defiance Executive Producers: Nancy Lichtwardt and Noah Lichtwardt Line Producer: Matt Little Director of Photography: Starr Whitesides Production Designer: Luke Carr Art Director: Regina Fernandez-Alonso Wardrobe Stylist: Anastasia Walker Post Production: Cabin Edit Post Producer: Michelle Dorsch Editor: Jojo King Visual Effects: JAMM Visual Visual Effects Producer: Justine Pregler Visual Effects Artist: Toma Bowen Color Company: MPC Colorist: Kris Smale Mix House: Lime Studios Sound Engineer: Dave Wagg Composer: Ryland Blackinton Casting Director: Tyler Adams Voice: Christy Fabbri Starring: Andrew Walke, Alexis Zollicoffer, Keane Lindsey, Briar Strong\nTechnique - Camera Roll , Cut-ins\nDirector - Mount Defiance\nDOP - Starr Whitesides\nEditor - Jojo King\nColorist - Kr",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703401642.webp",
+      "alt_text": "adidas Originals - Original Is Never Finished",
+      "discovered_at": "2025-09-11T08:51:46.716980",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. This shot would be categorized as an overhead stop motion duplication conveyor shot to cut-in. A cut-in is literally when we \"cut-in\" from a wider shot to a closer shot. It's a staple of Wes Anderson and Edgar Wright. The stop-motion in this scene is subtle but enough to be catalogued.",
+      "tags": [
+        "INTERIOR",
+        "COOL",
+        "OVERHEAD",
+        "COOL WHITE"
+      ],
+      "technique_tags": [
+        "Conveyor",
+        "Cut-ins",
+        "Overhead",
+        "Stop Motion"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. This shot would be categorized as an overhead stop motion duplication conveyor shot to cut-in. A cut-in is literally when we \"cut-in\" from a wider shot to a closer shot. It's a staple of Wes Anderson and Edgar Wright. The stop-motion in this scene is subtle but enough to be catalogued.\nTechnique - Conveyor , Cut-ins , Overhead , Stop Motion\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nINTERIOR\nCOOL\nOVERHEAD\nCOOL WHITE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715293411.webp",
+      "alt_text": "Inter Alia (Short Film)",
+      "discovered_at": "2025-09-11T08:51:50.361041",
+      "title": "Inter Alia (Short Film) (2023)",
+      "description": "A musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "BEACH",
+        "CIGARETTE",
+        "OCEAN",
+        "EXTERIOR",
+        "SMOKING",
+        "SMOKE",
+        "FLAME",
+        "OVERCAST",
+        "CIGAR"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Daniel Lawrence Wilson",
+      "dop": "Michael Fenton",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Inter Alia (Short Film) (2023)\nA musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?\nTechnique - Cut-ins\nDirector - Daniel Lawrence Wilson\nDOP - Michael Fenton\nOriginal Source - Link\nDAY\nWOMAN\nBEACH\nCIGARETTE\nOCEAN\nEXTERIOR\nSMOKING\nSMOKE\nFLAME\nOVERCAST\nCIGAR",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140861.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T08:51:53.998074",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "SINGING",
+        "MICROPHONE"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Cut-ins",
+        "Profile",
+        "Void"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Close-Up , Cut-ins , Profile , Void\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nMALE\nSINGING\nMICROPHONE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703406025.webp",
+      "alt_text": "Come Together: A Fashion Picture in Motion",
+      "discovered_at": "2025-09-11T08:51:57.609884",
+      "title": "Come Together: A Fashion Picture in Motion (2016)",
+      "description": "Lone passengers are traveling to join their loved ones for the Christmas holiday, but winter weather conspires to way-lay them.",
+      "tags": [
+        "INTERIOR",
+        "COOL WHITE"
+      ],
+      "technique_tags": [
+        "Cut-ins"
+      ],
+      "director": "Joe Guest",
+      "dop": "Bruno Delbonnel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Come Together: A Fashion Picture in Motion (2016)\nLone passengers are traveling to join their loved ones for the Christmas holiday, but winter weather conspires to way-lay them.\nTechnique - Cut-ins\nDirector - Wes Anderson\nDOP - Bruno Delbonnel\nEditor - Joe Guest\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nCOOL WHITE",
+      "page_url": "https://eyecannndy.com/technique/cut-ins"
     }
   ]
 }

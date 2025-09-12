@@ -1,1658 +1,1544 @@
 {
   "technique": "camera-roll",
-  "video_count": 85,
-  "generated_at": "2025-09-05T04:03:29.614467",
+  "scrape_info": {
+    "timestamp": "20250911_080052",
+    "total_videos": 66,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710030170.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.601847",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701846.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602038",
-      "element_tag": "img",
-      "title": "Apple - Chase",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Apple - Chase",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704365041.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602159",
-      "element_tag": "img",
-      "title": "ASAHI — The Unusual",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "ASAHI — The Unusual",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711611132.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602291",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704342253.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602351",
-      "element_tag": "img",
-      "title": "Elderbrook - Why Do We Shake In The Cold?",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Elderbrook - Why Do We Shake In The Cold?",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703365628.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602404",
-      "element_tag": "img",
-      "title": "Husky - Never-ever",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Husky - Never-ever",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704864187.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602452",
-      "element_tag": "img",
-      "title": "Chime - Woah",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Chime - Woah",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715292142.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602588",
-      "element_tag": "img",
-      "title": "Inter Alia (Short Film)",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Inter Alia (Short Film)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711245741.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602637",
-      "element_tag": "img",
-      "title": "adidas - Original is Never Finished (Chapter 3)",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "adidas - Original is Never Finished (Chapter 3)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715644042.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602684",
-      "element_tag": "img",
-      "title": "Oblé Reed - WESTON.",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Oblé Reed - WESTON.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711254690.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602780",
-      "element_tag": "img",
-      "title": "Coach - Life Has Different Paths",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Coach - Life Has Different Paths",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703368865.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602826",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710577055.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602871",
-      "element_tag": "img",
-      "title": "Ken Carson - Fighting My Demons",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Ken Carson - Fighting My Demons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715634194.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602916",
-      "element_tag": "img",
-      "title": "French Cassettes - White Noise",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "French Cassettes - White Noise",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703374022.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.602959",
-      "element_tag": "img",
-      "title": "McLaren - Three Crowns",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "McLaren - Three Crowns",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508408.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603003",
-      "element_tag": "img",
-      "title": "Clip from Mikhail Parkhomenko",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Clip from Mikhail Parkhomenko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703365103.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603047",
-      "element_tag": "img",
-      "title": "Infinity Pool",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Infinity Pool",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244141.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603257",
-      "element_tag": "img",
-      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710030170.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603308",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701846.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603354",
-      "element_tag": "img",
-      "title": "Apple - Chase",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Apple - Chase",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704365041.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603396",
-      "element_tag": "img",
-      "title": "ASAHI — The Unusual",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "ASAHI — The Unusual",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711611132.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603439",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704342253.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603479",
-      "element_tag": "img",
-      "title": "Elderbrook - Why Do We Shake In The Cold?",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Elderbrook - Why Do We Shake In The Cold?",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703365628.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603519",
-      "element_tag": "img",
-      "title": "Husky - Never-ever",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Husky - Never-ever",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704864187.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603559",
-      "element_tag": "img",
-      "title": "Chime - Woah",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Chime - Woah",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715292142.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603599",
-      "element_tag": "img",
-      "title": "Inter Alia (Short Film)",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Inter Alia (Short Film)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711245741.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603640",
-      "element_tag": "img",
-      "title": "adidas - Original is Never Finished (Chapter 3)",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "adidas - Original is Never Finished (Chapter 3)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715644042.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603680",
-      "element_tag": "img",
-      "title": "Oblé Reed - WESTON.",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Oblé Reed - WESTON.",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711254690.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603720",
-      "element_tag": "img",
-      "title": "Coach - Life Has Different Paths",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Coach - Life Has Different Paths",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703368865.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603762",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710577055.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603803",
-      "element_tag": "img",
-      "title": "Ken Carson - Fighting My Demons",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Ken Carson - Fighting My Demons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715634194.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.603844",
-      "element_tag": "img",
-      "title": "French Cassettes - White Noise",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "French Cassettes - White Noise",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703374022.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604009",
-      "element_tag": "img",
-      "title": "McLaren - Three Crowns",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "McLaren - Three Crowns",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508408.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604200",
-      "element_tag": "img",
-      "title": "Clip from Mikhail Parkhomenko",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Clip from Mikhail Parkhomenko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703365103.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604256",
-      "element_tag": "img",
-      "title": "Infinity Pool",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Infinity Pool",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244141.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604305",
-      "element_tag": "img",
-      "title": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710364602.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604355",
-      "element_tag": "img",
-      "title": "Fortuna - Fortuna Favors You",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Fortuna - Fortuna Favors You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710315358.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604408",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432875.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604456",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711247220.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604504",
-      "element_tag": "img",
-      "title": "Audrey Nuna - Cellulite",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Audrey Nuna - Cellulite",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703370251.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604551",
-      "element_tag": "img",
-      "title": "Black Panther",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Black Panther",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710977146.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604597",
-      "element_tag": "img",
-      "title": "Usher, H.E.R. - Risk It All",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Usher, H.E.R. - Risk It All",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706176215.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604643",
-      "element_tag": "img",
-      "title": "zef - 4:20 (Už je čas)",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "zef - 4:20 (Už je čas)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701508.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604689",
-      "element_tag": "img",
-      "title": "The North Face x Gucci presented by Highsnobiety",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "The North Face x Gucci presented by Highsnobiety",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155257.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604733",
-      "element_tag": "img",
-      "title": "Tetsuo: The Iron Man",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Tetsuo: The Iron Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703363275.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604778",
-      "element_tag": "img",
-      "title": "A$AP Ferg - Floor Seats",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "A$AP Ferg - Floor Seats",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703364867.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.604859",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704372822.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605072",
-      "element_tag": "img",
-      "title": "Nike - Never Settle. Never Done",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Nike - Never Settle. Never Done",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863655.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605371",
-      "element_tag": "img",
-      "title": "Chime - Woah",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Chime - Woah",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715642144.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605459",
-      "element_tag": "img",
-      "title": "Vince Staples - Norf Norf",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Vince Staples - Norf Norf",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703363423.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605538",
-      "element_tag": "img",
-      "title": "Nike - Never Settle. Never Done",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Nike - Never Settle. Never Done",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703998665.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605591",
-      "element_tag": "img",
-      "title": "Metro Boomin & Future - Superhero (Heroes & Villains)",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432933.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605639",
-      "element_tag": "img",
-      "title": "Pa Salieu - My Family feat BackRoad Gee",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704374050.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605688",
-      "element_tag": "img",
-      "title": "Facebook Groups - Self Care with Becky G",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Facebook Groups - Self Care with Becky G",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703363006.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605736",
-      "element_tag": "img",
-      "title": "The Wandering Earth",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "The Wandering Earth",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476240.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605783",
-      "element_tag": "img",
-      "title": ":aexattack - Next Year",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": ":aexattack - Next Year",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/13/261707812484.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605830",
-      "element_tag": "img",
-      "title": "It Chapter Two",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "It Chapter Two",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077112.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605876",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701757.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605923",
-      "element_tag": "img",
-      "title": "Fujifilm - Give Instax",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Fujifilm - Give Instax",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704507686.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.605971",
-      "element_tag": "img",
-      "title": "Clip from Mikhail Parkhomenko",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Clip from Mikhail Parkhomenko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656021.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606099",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703363382.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606154",
-      "element_tag": "img",
-      "title": "Rosalia - Saoko",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Rosalia - Saoko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707625358.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606205",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711247053.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606286",
-      "element_tag": "img",
-      "title": "Audrey Nuna - Cellulite",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Audrey Nuna - Cellulite",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703364350.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606343",
-      "element_tag": "img",
-      "title": "Source Unknown",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705435201.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606409",
-      "element_tag": "img",
-      "title": "Polo G - GNF (OKOKOK)",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Polo G - GNF (OKOKOK)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702007.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606474",
-      "element_tag": "img",
-      "title": "A$AP Rocky - L$D",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "A$AP Rocky - L$D",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314101.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606527",
-      "element_tag": "img",
-      "title": "A$AP Ferg - Floor Seats",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "A$AP Ferg - Floor Seats",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704342082.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606577",
-      "element_tag": "img",
-      "title": "Elderbrook - Why Do We Shake In The Cold?",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Elderbrook - Why Do We Shake In The Cold?",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488933.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606626",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703363043.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606675",
-      "element_tag": "img",
-      "title": "Pharrell Williams - Cash In Cash Out",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Pharrell Williams - Cash In Cash Out",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702155.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606722",
-      "element_tag": "img",
-      "title": "H&M - House of Members",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "H&M - House of Members",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076501.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606769",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703364278.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606816",
-      "element_tag": "img",
-      "title": "DJ Premier - Our Streets feat. A$AP Ferg",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "DJ Premier - Our Streets feat. A$AP Ferg",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703365314.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606863",
-      "element_tag": "img",
-      "title": "Ford - Kuga",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Ford - Kuga",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711247530.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606909",
-      "element_tag": "img",
-      "title": "Audrey Nuna - Cellulite",
-      "description": "",
-      "category": "camera-roll",
       "alt_text": "Audrey Nuna - Cellulite",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:57:01.595923",
+      "title": "Audrey Nuna - Cellulite (2023)",
+      "description": "Audrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163432.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606953",
-      "element_tag": "img",
-      "title": "Bree Runway - Just Like That",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Bree Runway - Just Like That",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WOMAN",
+        "MUSIC VIDEO",
+        "NIGHT",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Zac Dov Wiesel",
+      "dop": "Gabe Knoos-Newton",
+      "colorist": "Brian Niles",
+      "original_source": "",
+      "additional_info": "Audrey Nuna - Cellulite (2023)\nAudrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.\nTechnique - Camera Roll\nDirector - Zac Dov Wiesel\nDOP - Gabe Knoos-Newton\nColorist - Brian Niles\nOriginal Source - Link\nWOMAN\nMUSIC VIDEO\nNIGHT\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707686352.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.606996",
-      "element_tag": "img",
-      "title": "Casino",
-      "description": "",
-      "category": "camera-roll",
       "alt_text": "Casino",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:57:05.720489",
+      "title": "Casino (1995)",
+      "description": "In Las Vegas, two best friends - a casino executive and a mafia enforcer - compete for a gambling empire and a fast-living, fast-loving socialite.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "TWO SHOT",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Camera Roll",
+        "Overhead"
+      ],
+      "director": "Thelma Schoonmaker",
+      "dop": "Robert Richardson",
+      "colorist": "John Gardiner",
+      "original_source": "",
+      "additional_info": "Casino (1995)\nIn Las Vegas, two best friends - a casino executive and a mafia enforcer - compete for a gambling empire and a fast-living, fast-loving socialite.\nTechnique - 1990s , Camera Roll , Overhead\nDirector - Martin Scorsese\nDOP - Robert Richardson\nEditor - Thelma Schoonmaker\nColorist - John Gardiner\nOriginal Source - Link\nTutorial - Link\nTWO SHOT\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119733.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.607040",
-      "element_tag": "img",
-      "title": "First Hawaiian Bank - Dance Party",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432933.webp",
+      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
+      "discovered_at": "2025-09-11T07:57:10.381128",
+      "title": "Pa Salieu - My Family feat BackRoad Gee (2020)",
       "description": "",
-      "category": "camera-roll",
-      "alt_text": "First Hawaiian Bank - Dance Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Match Cut"
+      ],
+      "director": "Femi Ladi",
+      "dop": "Stefan Yap",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pa Salieu - My Family feat BackRoad Gee (2020)\nMusic video for British rapper Pa Salieu, from director Femi Ladi. Utilizes a bolt arm camera that was popularized in Kendrick Lamar's 2017 music video, Humble, by director Dave Meyers. Ladi's decision to use a black and white color scheme gives this film an interesting juxtaposition between a timeless look, and modern camera techniques, with the help of the bolt arm.\nTechnique - Camera Roll , Match Cut\nDirector - Femi Ladi\nDOP - Stefan Yap\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711254690.webp",
+      "alt_text": "Coach - Life Has Different Paths",
+      "discovered_at": "2025-09-11T07:57:14.032678",
+      "title": "Coach - Life Has Different Paths (2024)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "MIRROR",
+        "REFLECTION",
+        "ELEVATOR",
+        "DROSTE"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Nik Valentin",
+      "dop": "Pat Aldinger",
+      "colorist": "Marina Starke",
+      "original_source": "",
+      "additional_info": "Coach - Life Has Different Paths (2024)\nTechnique - Camera Roll\nDirector - Henry Scholfield\nDOP - Pat Aldinger\nEditor - Nik Valentin\nColorist - Marina Starke\nOriginal Source - Link\nWOMAN\nMIRROR\nREFLECTION\nELEVATOR\nDROSTE",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508408.webp",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-11T07:57:17.157804",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "tags": [
+        "ROAD",
+        "NIGHT",
+        "DARK",
+        "DRONE",
+        "SODIUM",
+        "CARS",
+        "HIGHWAY",
+        "FPV"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Camera Roll",
+        "FPV Drone"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nShot: Aerial FPV drone roll\nTechnique - Aerial , Camera Roll , FPV Drone\nDirector - Mikhail Parkhomenko (parh0)\nROAD\nNIGHT\nDARK\nDRONE\nSODIUM\nCARS\nHIGHWAY\nFPV",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077112.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T07:57:20.295043",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Camera roll + Datamosh",
+      "tags": [
+        "DAY",
+        "CAR",
+        "FORD",
+        "ROAD",
+        "EXTERIOR",
+        "TRACKING"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Datamosh"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Camera roll + Datamosh\nTechnique - Camera Roll , Datamosh\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nDAY\nCAR\nFORD\nROAD\nEXTERIOR\nTRACKING",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705435201.webp",
+      "alt_text": "Polo G - GNF (OKOKOK)",
+      "discovered_at": "2025-09-11T07:57:23.396682",
+      "title": "Polo G - GNF (OKOKOK) (2021)",
+      "description": "",
+      "tags": [
+        "BROWN",
+        "BEIGE",
+        "HALLWAY"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Roll Transition",
+        "Transitions"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Garry Torrance",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Polo G - GNF (OKOKOK) (2021)\nMusic video for Polo G from director Cole Bennett.\nTechnique - Camera Roll , Roll Transition , Transitions\nDirector - Cole Bennett\nDOP - Garry Torrance\nOriginal Source - Link\nBROWN\nBEIGE\nHALLWAY",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701508.webp",
+      "alt_text": "The North Face x Gucci presented by Highsnobiety",
+      "discovered_at": "2025-09-11T07:57:26.560576",
+      "title": "The North Face x Gucci presented by Highsnobiety (2021)",
+      "description": "The North Face x Gucci presented by Highsnobiety (2021)",
+      "tags": [
+        "SPIN",
+        "ROLL",
+        "CAMERA ROLL",
+        "NORTH FACE",
+        "FIELD",
+        "FIONA JANE",
+        "HIGHSNOBIETY",
+        "GUCCI"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Rich Woolway",
+      "dop": "Luke C. Harper",
+      "colorist": "Rich Fearon",
+      "original_source": "",
+      "additional_info": "The North Face x Gucci presented by Highsnobiety (2021)\nA new generation of birdwatching enthusiasts are breaking down the stereotype of what outdoor recreation looks like and who it is for. Through it, more people are discovering the mental and physical benefits of being in nature. Among those leading the charge is Flock Together, a birdwatching collective redefining what birdwatching looks like by challenging the underrepresentation of Black and other POC in nature. In partnership with The North Face x Gucci, this campaign brings to the fore those changing the outdoors for the better. Director: Fiona Jane Burgess Executive Producer: Kadri Mahmoud Production Company: COMPULSORY Producer: Natalie Steiner Cinematographer: Luke C. Harper AR Camera Operator: Josh Brooks Focus Puller: Samuel Johnson Loader: Ashton Born Camera Trainee: Elizabeth Gbejuade Grip: Dan Huntley 1st AD: Luke Goodrich 2nd AD: Charlie Kilick Runner: Giulia Lyla Balsamo Runner: Sam Page Jones Runner: Barney Lee Runne",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701757.webp",
+      "alt_text": "Fujifilm - Give Instax",
+      "discovered_at": "2025-09-11T07:57:29.673301",
+      "title": "Fujifilm - Give Instax (2021)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "SPIN",
+        "WOMEN",
+        "PURPLE",
+        "COLORFUL",
+        "ROLL",
+        "CAMERA ROLL",
+        "INSTANT CAMERA",
+        "MAGNIFYING GLASS",
+        "TAKING PICUTRE",
+        "FUJIFILM"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Kat Webber",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Fujifilm - Give Instax (2021)\nTechnique - Camera Roll\nDirector - Kat Webber\nOriginal Source - Link\nWOMAN\nSPIN\nWOMEN\nPURPLE\nCOLORFUL\nROLL\nCAMERA ROLL\nINSTANT CAMERA\nMAGNIFYING GLASS\nTAKING PICUTRE\nFUJIFILM",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476240.webp",
+      "alt_text": ":aexattack - Next Year",
+      "discovered_at": "2025-09-11T07:57:32.812010",
+      "title": ":aexattack - Next Year (2021)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "ROOF",
+        "DRUMMER",
+        "DRUM SET",
+        "DRUMMING"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Jetski",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": ":aexattack - Next Year (2021)\nTechnique - Camera Roll\nDirector - Jetski\nOriginal Source - Link\nDAY\nEXTERIOR\nROOF\nDRUMMER\nDRUM SET\nDRUMMING",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703364350.webp",
+      "alt_text": "Source Unknown",
+      "discovered_at": "2025-09-11T07:57:35.931811",
+      "title": "Source Unknown",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "BED",
+        "DARK",
+        "OVERHEAD"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Overhead"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source Unknown\nH/T @lloydewinteriv / Giphy\nTechnique - Camera Roll , Overhead\nINTERIOR\nBED\nDARK\nOVERHEAD",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708244141.webp",
+      "alt_text": "YUNGBLUD - When We Die [feat. Lil Yachty]",
+      "discovered_at": "2025-09-11T07:57:39.066393",
+      "title": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)",
+      "description": "2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.",
+      "tags": [
+        "DAY",
+        "FOREST",
+        "EXTERIOR",
+        "TREES"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Worms-Eye"
+      ],
+      "director": "Logan Fields, Yussef Haridy",
+      "dop": "Zayd Ezzeldine",
+      "colorist": "Dylan Hageman",
+      "original_source": "",
+      "additional_info": "YUNGBLUD - When We Die [feat. Lil Yachty] (2024)\n2024 music video for artist YUNGBLUD, featuring Lil Yachty. Directed by Yussef Haridy and Logan Fields. Produced by Parallel Studios.\nTechnique - Camera Roll , Worms-Eye\nDirector - Logan Fields, Yussef Haridy\nDOP - Zayd Ezzeldine\nColorist - Dylan Hageman\nOriginal Source - Link\nDAY\nFOREST\nEXTERIOR\nTREES",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707621823.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.607083",
-      "element_tag": "img",
-      "title": "A$AP Rocky - L$D",
-      "description": "",
-      "category": "camera-roll",
       "alt_text": "A$AP Rocky - L$D",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T07:57:42.176271",
+      "title": "A$AP Rocky - L$D (2015)",
+      "description": "Shot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).",
+      "tags": [],
+      "technique_tags": [
+        "Camera Roll",
+        "Roll Transition",
+        "Transitions"
+      ],
+      "director": "Dexter Navy",
+      "dop": "Oliver Millar",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - L$D (2015)\nShot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).\nTechnique - Camera Roll , Roll Transition , Transitions\nDirector - Dexter Navy\nDOP - Oliver Millar\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825914.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.607125",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704365041.webp",
+      "alt_text": "ASAHI — The Unusual",
+      "discovered_at": "2025-09-11T07:57:45.833754",
+      "title": "ASAHI — The Unusual (2022)",
       "description": "",
-      "category": "camera-roll",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "SUNSET",
+        "CITY",
+        "DUTCH",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Camera Roll",
+        "FPV Drone"
+      ],
+      "director": "MANSON",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "ASAHI — The Unusual (2022)\nTitle The Unusual Client Asahi Agency Dentsu McGarrenBowen Production Company CANADA Director BLISS Creative Sudio: BLISS Executive Creative Director: Pau López Executive Producer: Maria Soler Chopo Production Coordinator: Berta Rodríguez CG Lead: César Rodrez Illustrators: Claudia Duran, Pablo Casal, Toni Caballero, Paula Blumen, Jonathan Romero, Laura Pérez 3D Artists: Lucas Céspedes, Bernat Martínez, Mike Fernández Art Director and 3D Artist Videogame: Enric Sant Animation 2D / Cel: Pablo Navarro, Libardo Bohórquez, Alberto Sánchez Cleanup 2D: Pau Anglada Lettering: Arantxa Gil Motion Graphics: Hernán Scassa Compositing: Héctor Cornelles, Alain Laza\nTechnique - Aerial , Camera Roll , FPV Drone\nDirector - MANSON\nOriginal Source - Link\nSUNSET\nCITY\nDUTCH\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703374456.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.607169",
-      "element_tag": "img",
-      "title": "Talk To Me",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Talk To Me",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/20/261710977146.webp",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-11T07:57:49.473782",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Overhead"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Camera Roll , Overhead\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702959979.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.607212",
-      "element_tag": "img",
-      "title": "Adobe Photoshop: Fantastic Voyage",
-      "description": "",
-      "category": "camera-roll",
-      "alt_text": "Adobe Photoshop: Fantastic Voyage",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715292142.webp",
+      "alt_text": "Inter Alia (Short Film)",
+      "discovered_at": "2025-09-11T07:57:52.638117",
+      "title": "Inter Alia (Short Film) (2023)",
+      "description": "A musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "INTERIOR",
+        "MIRROR",
+        "ALTERED",
+        "INEBRIATION"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Daniel Lawrence Wilson",
+      "dop": "Michael Fenton",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Inter Alia (Short Film) (2023)\nA musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?\nTechnique - Camera Roll\nDirector - Daniel Lawrence Wilson\nDOP - Michael Fenton\nOriginal Source - Link\nINTERIOR\nMIRROR\nALTERED\nINEBRIATION",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703363382.webp",
+      "alt_text": "Rosalia - Saoko",
+      "discovered_at": "2025-09-11T07:57:56.318173",
+      "title": "Rosalia - Saoko (2022)",
+      "description": "Rosalía and her motorcycle girl gang run riot in Valentin Petit's brilliant video for Saoko, the first track from the Spanish superstar's latest album Motomami.",
+      "tags": [
+        "DAY",
+        "BIKE",
+        "BRIDGE",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Jon Echeveste",
+      "dop": "Paul Guilhaume",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Rosalia - Saoko (2022)\nRosalía and her motorcycle girl gang run riot in Valentin Petit's brilliant video for Saoko, the first track from the Spanish superstar's latest album Motomami.\nTechnique - Camera Roll\nDirector - Valentin Petit\nDOP - Paul Guilhaume\nEditor - Jon Echeveste\nColorist - Arthur Paux\nOriginal Source - Link\nDAY\nBIKE\nBRIDGE\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703363275.webp",
+      "alt_text": "A$AP Ferg - Floor Seats",
+      "discovered_at": "2025-09-11T07:57:59.986746",
+      "title": "A$AP Ferg - Floor Seats (2019)",
+      "description": "In the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?",
+      "tags": [
+        "DAY",
+        "BIKE",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Fisheye"
+      ],
+      "director": "Maxime Caro",
+      "dop": "Hunter Daly",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "A$AP Ferg - Floor Seats (2019)\nIn the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?\nTechnique - Camera Roll , Fisheye\nDirector - Valentin Petit\nDOP - Hunter Daly\nEditor - Maxime Caro\nColorist - Arthur Paux\nOriginal Source - Link\nTutorial - Link\nDAY\nBIKE\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715642144.webp",
+      "alt_text": "Vince Staples - Norf Norf",
+      "discovered_at": "2025-09-11T07:58:04.163688",
+      "title": "Vince Staples - Norf Norf (2015)",
+      "description": "The music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.",
+      "tags": [
+        "INTERIOR",
+        "BLACK AND WHITE",
+        "POLICE",
+        "COPS",
+        "JAIL",
+        "ARRESTED",
+        "PRISON",
+        "VINCE STAPLES",
+        "INTERROGATION",
+        "POLICE OFFICERS"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Spike Jordan, Vince Staples",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vince Staples - Norf Norf (2015)\nThe music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.\nTechnique - Camera Roll\nDirector - Spike Jordan, Vince Staples\nOriginal Source - Link\nINTERIOR\nBLACK AND WHITE\nPOLICE\nCOPS\nJAIL\nARRESTED\nPRISON\nVINCE STAPLES\nINTERROGATION\nPOLICE OFFICERS",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704342082.webp",
+      "alt_text": "Elderbrook - Why Do We Shake In The Cold?",
+      "discovered_at": "2025-09-11T07:58:07.308108",
+      "title": "Elderbrook - Why Do We Shake In The Cold? (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "LARGE ROOM"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Light Flash",
+        "Overhead"
+      ],
+      "director": "Katarina Gramatová",
+      "dop": "Filip Marek",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Elderbrook - Why Do We Shake In The Cold? (2020)\nDelirium-induced fata morgana brings together two lone friends. Constantly trying to break through their bubbles, they seem stuck in ever repeating loops - Elderbrook's new video is a reminder of invisible everyday habbits and patterns that form our lives. Performers: Antonín Ničovský, Daniel Vitešník Director - Jára Moravec DoP - Filip Marek Executive Producer: Carla Mooney, Delwyn Mooney Producer - Mojaš Perović Edit: Katarina Gramatová Production Manager - Klára Plechsson 1AD - Kristýna Rousková 1AC - Jan “Hofajz” Hofmann 2AC - Richard Krejza Set dressing: Helena Liška, Václav Bejlek Props - Farid Beyzai, Martin Žerdík Ronin op. - Anton Endovshenko Drone op - Vojtěch Pollák Gaffer - Tomáš Volter Electrician - Roman Lety Jabůrek Costumes/MUP - Aneta Boháčová Catering - Lenka Egrtová Transport - Jan Salvet Production Company: Cardel Service Production Company: Bistro Films\nTechnique - Camera Roll , Light Flash , Overhead\nDirector - Jara",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715634194.webp",
+      "alt_text": "French Cassettes - White Noise",
+      "discovered_at": "2025-09-11T07:58:11.500383",
+      "title": "French Cassettes - White Noise (2024)",
+      "description": "The music video for \"White Noise\" by French Cassettes, released in 2024, visually encapsulates themes of love, heartache, and self-discovery. It portrays the emotional complexities of relationships through a narrative of emotional turbulence and introspection, reflecting the aftermath of love and loss. The video enhances the song's lyrical exploration of finding solace amid emotional turmoil, using vibrant and expressive imagery to convey the depth of these experiences.",
+      "tags": [
+        "RED",
+        "MALE",
+        "PANTS",
+        "CHECKERED",
+        "SWEATER"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Overhead",
+        "Spotlight"
+      ],
+      "director": "Syra McCarthy",
+      "dop": "Andy Hoffman",
+      "colorist": "Roast n’ Post",
+      "original_source": "",
+      "additional_info": "French Cassettes - White Noise (2024)\nThe music video for \"White Noise\" by French Cassettes, released in 2024, visually encapsulates themes of love, heartache, and self-discovery. It portrays the emotional complexities of relationships through a narrative of emotional turbulence and introspection, reflecting the aftermath of love and loss. The video enhances the song's lyrical exploration of finding solace amid emotional turmoil, using vibrant and expressive imagery to convey the depth of these experiences.\nTechnique - Camera Roll , Overhead , Spotlight\nDirector - Syra McCarthy\nDOP - Andy Hoffman\nColorist - Roast n’ Post\nOriginal Source - Link\nRED\nMALE\nPANTS\nCHECKERED\nSWEATER",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710577055.webp",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "discovered_at": "2025-09-11T07:58:14.656198",
+      "title": "Ken Carson - Fighting My Demons (2023)",
+      "description": "The music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.",
+      "tags": [
+        "BLUE",
+        "INTERIOR",
+        "DARK",
+        "STORE",
+        "LIGHTS OFF"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Ken Carson - Fighting My Demons (2023)\nThe music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.\nTechnique - Camera Roll\nDirector - Cole Bennett\nDOP - Franklin Ricart\nEditor - Cole Bennett\nColorist - Loren White\nOriginal Source - Link\nTutorial - Link\nBLUE\nINTERIOR\nDARK\nSTORE\nLIGHTS OFF",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710364602.webp",
+      "alt_text": "Fortuna - Fortuna Favors You",
+      "discovered_at": "2025-09-11T07:58:19.945340",
+      "title": "Fortuna - Fortuna Favors You (2024)",
+      "description": "To be lucky is not lucky. We have to push our luck. Whether it’s a favorite ritual, hard preparation or careful analysis and study… These are all things that tilt fortune in our favor. Fortuna favors you. New TVC for year 2023.",
+      "tags": [],
+      "technique_tags": [
+        "Camera Roll",
+        "Floating UI",
+        "Roll Transition",
+        "Transitions"
+      ],
+      "director": "Petr Dvořák",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Fortuna - Fortuna Favors You (2024)\nTo be lucky is not lucky. We have to push our luck. Whether it’s a favorite ritual, hard preparation or careful analysis and study… These are all things that tilt fortune in our favor. Fortuna favors you. New TVC for year 2023.\nTechnique - Camera Roll , Floating UI , Roll Transition , Transitions\nDirector - Petr Dvořák\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703365314.webp",
+      "alt_text": "Ford - Kuga",
+      "discovered_at": "2025-09-11T07:58:23.083294",
+      "title": "Ford - Kuga (2021)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "GREEN",
+        "CAR",
+        "ROAD",
+        "DRIVING",
+        "EXTERIOR",
+        "VEHICLE"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Datamosh"
+      ],
+      "director": "Daniel Warwick",
+      "dop": "Ekkehart Pollak",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Ford - Kuga (2021)\nTechnique - Camera Roll , Datamosh\nDirector - Daniel Warwick\nDOP - Ekkehart Pollak\nOriginal Source - Link\nDAY\nGREEN\nCAR\nROAD\nDRIVING\nEXTERIOR\nVEHICLE",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703363043.webp",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "discovered_at": "2025-09-11T07:58:26.739953",
+      "title": "Pharrell Williams - Cash In Cash Out (2022)",
+      "description": "\"Cash In Cash Out\" is a song produced by American musician Pharrell Williams, featuring vocals from Atlanta-based rapper 21 Savage and American rapper Tyler, the Creator. Written by all three, it was released as a single through Columbia Records on June 10, 2022. Williams first teased the song on his TikTok account June 6, 2022. An accompanying music video was released, featuring a zoetrope-inspired CG animation style.",
+      "tags": [
+        "RED",
+        "TYLER THE CREATOR",
+        "BLUE",
+        "PORTRAIT",
+        "PHARRELL",
+        "FACES",
+        "21 SAVAGE",
+        "NICOLAS LARROUQUERE",
+        "FRANCOIS ROUSSELET",
+        "CONNOR COOLBEAR"
+      ],
+      "technique_tags": [
+        "3D animation",
+        "Camera Roll"
+      ],
+      "director": "Nicolas Larrouquere",
+      "dop": "",
+      "colorist": "Connor Coolbear",
+      "original_source": "",
+      "additional_info": "Pharrell Williams - Cash In Cash Out (2022)\n\"Cash In Cash Out\" is a song produced by American musician Pharrell Williams, featuring vocals from Atlanta-based rapper 21 Savage and American rapper Tyler, the Creator. Written by all three, it was released as a single through Columbia Records on June 10, 2022. Williams first teased the song on his TikTok account June 6, 2022. An accompanying music video was released, featuring a zoetrope-inspired CG animation style.\nTechnique - 3D animation , Camera Roll\nDirector - François Rousselet\nEditor - Nicolas Larrouquere\nColorist - Connor Coolbear\nOriginal Source - Link\nTutorial - Link\nRED\nTYLER THE CREATOR\nBLUE\nPORTRAIT\nPHARRELL\nFACES\n21 SAVAGE\nNICOLAS LARROUQUERE\nFRANCOIS ROUSSELET\nCONNOR COOLBEAR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703365103.webp",
+      "alt_text": "Infinity Pool",
+      "discovered_at": "2025-09-11T07:58:30.901096",
+      "title": "Infinity Pool (2023)",
+      "description": "James and Em Foster are enjoying an all-inclusive beach vacation in the fictional island of La Tolqa, when a fatal accident exposes the resort's perverse subculture of hedonistic tourism, reckless violence and surreal horrors.",
+      "tags": [
+        "DAY",
+        "BEACH",
+        "BLUE",
+        "EXTERIOR",
+        "COOL",
+        "ARRI ALEXA MINI",
+        "COAST",
+        "ANGENIEUX",
+        "25-250MM",
+        "CANON K35",
+        "DESARESORT",
+        "HELIOS 44MM T2",
+        "TROPICAL"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "James Vandewater",
+      "dop": "Karim Hussain",
+      "colorist": "Jim Fleming",
+      "original_source": "",
+      "additional_info": "Infinity Pool (2023)\nJames and Em Foster are enjoying an all-inclusive beach vacation in the fictional island of La Tolqa, when a fatal accident exposes the resort's perverse subculture of hedonistic tourism, reckless violence and surreal horrors.\nTechnique - Camera Roll\nDirector - David Cronenberg\nDOP - Karim Hussain\nEditor - James Vandewater\nColorist - Jim Fleming\nDAY\nBEACH\nBLUE\nEXTERIOR\nCOOL\nARRI ALEXA MINI\nCOAST\n1.78\nANGENIEUX\n25-250MM\nCANON K35\nDESARESORT\nHELIOS 44MM T2\nTROPICAL",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863655.webp",
+      "alt_text": "Chime - Woah",
+      "discovered_at": "2025-09-11T07:58:34.057216",
+      "title": "Chime - Woah (2021)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "INTERIOR",
+        "BEDROOM",
+        "RUG",
+        "LIVING ROOM",
+        "CUT IN"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Cut-ins"
+      ],
+      "director": "Jojo King",
+      "dop": "Starr Whitesides",
+      "colorist": "Kris Smale",
+      "original_source": "",
+      "additional_info": "Chime - Woah (2021)\nWritten and Directed by Mount Defiance Head of Creative: Thierry Ambraisse Creative Producer: Jane Hong Copywriter: Brent Bamberger Production: Open Range Creative Studio: Mount Defiance Director: Mount Defiance Executive Producers: Nancy Lichtwardt and Noah Lichtwardt Line Producer: Matt Little Director of Photography: Starr Whitesides Production Designer: Luke Carr Art Director: Regina Fernandez-Alonso Wardrobe Stylist: Anastasia Walker Post Production: Cabin Edit Post Producer: Michelle Dorsch Editor: Jojo King Visual Effects: JAMM Visual Visual Effects Producer: Justine Pregler Visual Effects Artist: Toma Bowen Color Company: MPC Colorist: Kris Smale Mix House: Lime Studios Sound Engineer: Dave Wagg Composer: Ryland Blackinton Casting Director: Tyler Adams Voice: Christy Fabbri Starring: Andrew Walke, Alexis Zollicoffer, Keane Lindsey, Briar Strong\nTechnique - Camera Roll , Cut-ins\nDirector - Mount Defiance\nDOP - Starr Whitesides\nEditor - Jojo King\nColorist - Kr",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704372822.webp",
+      "alt_text": "Nike - Never Settle. Never Done",
+      "discovered_at": "2025-09-11T07:58:37.728079",
+      "title": "Nike - Never Settle. Never Done (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "GIRL",
+        "SOCCER"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Alexandre Sellem, Hugo Beron, Lola Margrain",
+      "dop": "Maeva Von Dinh, Paul Guilhaume",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Nike - Never Settle. Never Done (2022)\nValentin Petit, the visionary director of Nike's women's football campaign, skillfully captures the essence of the game by featuring a dynamic cast of all-stars and grassroots players in the Women's Euros anthem. His directorial prowess unveils the unparalleled speed, technical finesse, and undeniable quality that define the current landscape of women's football, setting a new standard for equality in the sport.\nTechnique - Camera Roll\nDirector - Valentin Petit\nDOP - Maeva Von Dinh, Paul Guilhaume\nEditor - Alexandre Sellem, Hugo Beron, Lola Margrain\nColorist - Arthur Paux\nOriginal Source - Link\nDAY\nINTERIOR\nGIRL\nSOCCER",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702007.webp",
+      "alt_text": "A$AP Rocky - L$D",
+      "discovered_at": "2025-09-11T07:58:41.378125",
+      "title": "A$AP Rocky - L$D (2015)",
+      "description": "Shot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).",
+      "tags": [
+        "RED",
+        "MUSIC VIDEO",
+        "INTERIOR",
+        "MIRROR",
+        "DEXTER NAVY",
+        "ROCKY",
+        "ASAP",
+        "A$AP",
+        "STRIP",
+        "MV",
+        "TILT",
+        "RAP"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Reflections"
+      ],
+      "director": "Dexter Navy",
+      "dop": "Oliver Millar",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - L$D (2015)\nShot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).\nTechnique - Camera Roll , Reflections\nDirector - Dexter Navy\nDOP - Oliver Millar\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link\nRED\nMUSIC VIDEO\nINTERIOR\nMIRROR\nDEXTER NAVY\nROCKY\nASAP\nA$AP\nSTRIP\nMV\nTILT\nRAP",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711245741.webp",
+      "alt_text": "adidas - Original is Never Finished (Chapter 3)",
+      "discovered_at": "2025-09-11T07:58:44.503018",
+      "title": "adidas - Original is Never Finished (Chapter 3) (2017)",
+      "description": "The third installment of adidas Originals' 'Original Is Never Finished' series, directed by Terence Neal.",
+      "tags": [
+        "INTERIOR",
+        "PURPLE",
+        "NEON",
+        "21 SAVAGE"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Central Framing",
+        "Three Shot"
+      ],
+      "director": "Christopher Fetsch, Robert Lopuski",
+      "dop": "Alexis Zabe",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas - Original is Never Finished (Chapter 3) (2017)\nThe third installment of adidas Originals' 'Original Is Never Finished' series, directed by Terence Neal.\nTechnique - Camera Roll , Central Framing , Three Shot\nDirector - Terence Neale\nDOP - Alexis Zabe\nEditor - Christopher Fetsch, Robert Lopuski\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nINTERIOR\nPURPLE\nNEON\n21 SAVAGE",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703363006.webp",
+      "alt_text": "The Wandering Earth",
+      "discovered_at": "2025-09-11T07:58:47.651124",
+      "title": "The Wandering Earth (2019)",
+      "description": "As the sun is dying out, people all around the world build giant planet thrusters to move Earth out of its orbit and sail Earth to a new star system. Yet the 2500-year journey comes with unexpected dangers, and in order to save humanity, a group of young people in this age of a wandering Earth fight hard for the survival of humankind.",
+      "tags": [
+        "INTERIOR",
+        "NATURAL",
+        "MUTED"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Cheung Ka-fai",
+      "dop": "Michael Liu",
+      "colorist": "Amber Zhang",
+      "original_source": "",
+      "additional_info": "The Wandering Earth (2019)\nAs the sun is dying out, people all around the world build giant planet thrusters to move Earth out of its orbit and sail Earth to a new star system. Yet the 2500-year journey comes with unexpected dangers, and in order to save humanity, a group of young people in this age of a wandering Earth fight hard for the survival of humankind.\nTechnique - Camera Roll\nDirector - Frant Gwo\nDOP - Michael Liu\nEditor - Cheung Ka-fai\nColorist - Amber Zhang\nINTERIOR\nNATURAL\nMUTED",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710030170.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T07:58:50.790461",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "WEED",
+        "INTERIOR",
+        "MARIJUANA",
+        "GROWING"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "David Webb",
+      "dop": "Bjorn Charpentier, Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Camera Roll\nDirector - Guy Ritchie, Nima Nourizadeh\nDOP - Bjorn Charpentier, Ed Wild\nEditor - David Webb\nWEED\nINTERIOR\nMARIJUANA\nGROWING",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711247220.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.607253",
-      "element_tag": "img",
-      "title": "Audrey Nuna - Cellulite",
-      "description": "",
-      "category": "camera-roll",
       "alt_text": "Audrey Nuna - Cellulite",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:58:53.926439",
+      "title": "Audrey Nuna - Cellulite (2023)",
+      "description": "Audrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WOMAN",
+        "MUSIC VIDEO",
+        "NIGHT",
+        "EXTERIOR",
+        "SINGING"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Spotlight",
+        "Whip Roll"
+      ],
+      "director": "Zac Dov Wiesel",
+      "dop": "Gabe Knoos-Newton",
+      "colorist": "Brian Niles",
+      "original_source": "",
+      "additional_info": "Audrey Nuna - Cellulite (2023)\nAudrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.\nTechnique - Camera Roll , Spotlight , Whip Roll\nDirector - Zac Dov Wiesel\nDOP - Gabe Knoos-Newton\nColorist - Brian Niles\nOriginal Source - Link\nWOMAN\nMUSIC VIDEO\nNIGHT\nEXTERIOR\nSINGING",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704342253.webp",
+      "alt_text": "Elderbrook - Why Do We Shake In The Cold?",
+      "discovered_at": "2025-09-11T07:58:57.593414",
+      "title": "Elderbrook - Why Do We Shake In The Cold? (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "LARGE ROOM"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Overhead",
+        "Spotlight"
+      ],
+      "director": "Katarina Gramatová",
+      "dop": "Filip Marek",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Elderbrook - Why Do We Shake In The Cold? (2020)\nDelirium-induced fata morgana brings together two lone friends. Constantly trying to break through their bubbles, they seem stuck in ever repeating loops - Elderbrook's new video is a reminder of invisible everyday habbits and patterns that form our lives. Performers: Antonín Ničovský, Daniel Vitešník Director - Jára Moravec DoP - Filip Marek Executive Producer: Carla Mooney, Delwyn Mooney Producer - Mojaš Perović Edit: Katarina Gramatová Production Manager - Klára Plechsson 1AD - Kristýna Rousková 1AC - Jan “Hofajz” Hofmann 2AC - Richard Krejza Set dressing: Helena Liška, Václav Bejlek Props - Farid Beyzai, Martin Žerdík Ronin op. - Anton Endovshenko Drone op - Vojtěch Pollák Gaffer - Tomáš Volter Electrician - Roman Lety Jabůrek Costumes/MUP - Aneta Boháčová Catering - Lenka Egrtová Transport - Jan Salvet Production Company: Cardel Service Production Company: Bistro Films\nTechnique - Camera Roll , Overhead , Spotlight\nDirector - Jara M",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701846.webp",
+      "alt_text": "Apple - Chase",
+      "discovered_at": "2025-09-11T07:59:01.263223",
+      "title": "Apple - Chase (2023)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "BLUE",
+        "INTERIOR",
+        "SUIT",
+        "APPLE",
+        "FUTURISTIC",
+        "LANCE ACORD"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Tom Lindsay",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Apple - Chase (2023)\nTechnique - Camera Roll\nDirector - Lance Acord\nEditor - Tom Lindsay\nOriginal Source - Link\nMALE\nBLUE\nINTERIOR\nSUIT\nAPPLE\nFUTURISTIC\nLANCE ACORD",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261703998665.webp",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "discovered_at": "2025-09-11T07:59:04.930471",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "description": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "tags": [
+        "DARK",
+        "COOL"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Kenny Shimm (Editor)",
+      "dop": "Chuk Town",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)\nTechnique - Camera Roll\nDirector - HIDJI WORLD\nDOP - Chuk Town\nEditor - Kenny Shimm (Editor)\nOriginal Source - Link\nDARK\nCOOL",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711611132.webp",
+      "alt_text": "THEY. - U-RITE",
+      "discovered_at": "2025-09-11T07:59:08.091793",
+      "title": "THEY. - U-RITE (2017)",
+      "description": "The music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.",
+      "tags": [
+        "THEY. - U-RITE (2017)",
+        "MALE"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Jack Begert",
+      "dop": "Phillips Shum",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "THEY. - U-RITE (2017)\nThe music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.\nTechnique - Camera Roll\nDirector - Jack Begert\nDOP - Phillips Shum\nOriginal Source - Link\nMALE",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707625358.webp",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-11T07:59:11.773868",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Match Cut",
+        "Whip Transition"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - Camera Roll , Match Cut , Whip Transition\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/13/261707812484.webp",
+      "alt_text": "It Chapter Two",
+      "discovered_at": "2025-09-11T07:59:15.437992",
+      "title": "It Chapter Two (2019)",
+      "description": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+      "tags": [
+        "DAY",
+        "MALE",
+        "EXTERIOR",
+        "FAIR",
+        "CARNIVAL"
+      ],
+      "technique_tags": [
+        "2010s",
+        "Camera Roll"
+      ],
+      "director": "Jason Ballantine",
+      "dop": "Checco Varese",
+      "colorist": "Company 3, Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "It Chapter Two (2019)\nTwenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.\nTechnique - 2010s , Camera Roll\nDirector - Andrés Muschietti\nDOP - Checco Varese\nEditor - Jason Ballantine\nColorist - Company 3, Stephen Nakamura\nDAY\nMALE\nEXTERIOR\nFAIR\nCARNIVAL",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825914.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T07:59:19.115873",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "TABLE"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Overhead"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Camera Roll , Overhead\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nTABLE",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155257.webp",
+      "alt_text": "Tetsuo: The Iron Man",
+      "discovered_at": "2025-09-11T07:59:22.766361",
+      "title": "Tetsuo: The Iron Man (1989)",
+      "description": "A businessman accidentally kills The Metal Fetishist, who gets his revenge by slowly turning the man into a grotesque hybrid of flesh and rusty metal.",
+      "tags": [
+        "BLACK AND WHITE",
+        "TEETH",
+        "MOUTH"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Shinya Tsukamoto",
+      "dop": "Kei Fujiwara",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Tetsuo: The Iron Man (1989)\nA businessman accidentally kills The Metal Fetishist, who gets his revenge by slowly turning the man into a grotesque hybrid of flesh and rusty metal.\nTechnique - Camera Roll\nDirector - Shinya Tsukamoto\nDOP - Kei Fujiwara\nBLACK AND WHITE\nTEETH\nMOUTH",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703364278.webp",
+      "alt_text": "DJ Premier - Our Streets feat. A$AP Ferg",
+      "discovered_at": "2025-09-11T07:59:26.436342",
+      "title": "DJ Premier - Our Streets feat. A$AP Ferg (2017)",
+      "description": "DJ Premier not only brings the New York vibe to legends like Notorious B.I.G, Christina Aguilera, and Nas but also elevates collaborators like A$AP Ferg, who seamlessly adapts his flow to the timeless beats in their recent track 'Our Streets.' The video, featuring Preemo and Ferg cruising Harlem in a 90s BMW, adds to the authenticity of the Golden Era hip-hop feel.",
+      "tags": [],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Tyler Yee",
+      "dop": "Ian Quill",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "DJ Premier - Our Streets feat. A$AP Ferg (2017)\nDJ Premier not only brings the New York vibe to legends like Notorious B.I.G, Christina Aguilera, and Nas but also elevates collaborators like A$AP Ferg, who seamlessly adapts his flow to the timeless beats in their recent track 'Our Streets.' The video, featuring Preemo and Ferg cruising Harlem in a 90s BMW, adds to the authenticity of the Golden Era hip-hop feel.\nTechnique - Camera Roll\nDirector - Tyler Yee\nDOP - Ian Quill\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711247053.webp",
+      "alt_text": "Audrey Nuna - Cellulite",
+      "discovered_at": "2025-09-11T07:59:30.106704",
+      "title": "Audrey Nuna - Cellulite (2023)",
+      "description": "Audrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.",
+      "tags": [
+        "WOMAN",
+        "TEETH",
+        "GRILLZ",
+        "MOUTH",
+        "JEWELRY"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Extreme Close-Up"
+      ],
+      "director": "Zac Dov Wiesel",
+      "dop": "Gabe Knoos-Newton",
+      "colorist": "Brian Niles",
+      "original_source": "",
+      "additional_info": "Audrey Nuna - Cellulite (2023)\nAudrey Nuna's \"Cellulite\" music video, directed by Zac Dov, is a vivid narrative of self-liberation and defiance, drawing inspiration from icons like the Pharcyde and Missy Elliott. The video visually represents Nuna's personal theme of overcoming constraints, symbolized by motifs of flying and motion, reflecting her introspective yet rebellious spirit. It's a cinematic portrayal of cutting out life's \"toxic fat,\" aiming to resonate with viewers on a journey of spiritual unburdening.\nTechnique - Camera Roll , Extreme Close-Up\nDirector - Zac Dov Wiesel\nDOP - Gabe Knoos-Newton\nColorist - Brian Niles\nOriginal Source - Link\nWOMAN\nTEETH\nGRILLZ\nMOUTH\nJEWELRY",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703363423.webp",
+      "alt_text": "Nike - Never Settle. Never Done",
+      "discovered_at": "2025-09-11T07:59:33.796834",
+      "title": "Nike - Never Settle. Never Done (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WHITE",
+        "SPIN",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Alexandre Sellem, Hugo Beron, Lola Margrain",
+      "dop": "Maeva Von Dinh, Paul Guilhaume",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Nike - Never Settle. Never Done (2022)\nValentin Petit, the visionary director of Nike's women's football campaign, skillfully captures the essence of the game by featuring a dynamic cast of all-stars and grassroots players in the Women's Euros anthem. His directorial prowess unveils the unparalleled speed, technical finesse, and undeniable quality that define the current landscape of women's football, setting a new standard for equality in the sport.\nTechnique - Camera Roll\nDirector - Valentin Petit\nDOP - Maeva Von Dinh, Paul Guilhaume\nEditor - Alexandre Sellem, Hugo Beron, Lola Margrain\nColorist - Arthur Paux\nOriginal Source - Link\nDAY\nWHITE\nSPIN\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703374022.webp",
+      "alt_text": "McLaren - Three Crowns",
+      "discovered_at": "2025-09-11T07:59:37.470717",
+      "title": "McLaren - Three Crowns (2023)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Henrik Ringnér",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "McLaren - Three Crowns (2023)\nTechnique - Camera Roll\nDirector - Henrik Ringnér",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703364867.webp",
+      "alt_text": "Source Unknown",
+      "discovered_at": "2025-09-11T07:59:41.159015",
+      "title": "Source Unknown",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "WET"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source Unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Camera Roll\nNIGHT\nEXTERIOR\nWET",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076501.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T07:59:44.334045",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford.",
+      "tags": [
+        "CAR",
+        "DRIVING",
+        "NIGHT",
+        "CITY",
+        "NEON"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Dutch Angle"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford.\nTechnique - Camera Roll , Dutch Angle\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nCAR\nDRIVING\nNIGHT\nCITY\nNEON",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704507686.webp",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-11T07:59:48.061734",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "Shot breakdown: FPV camera roll to y-axis arc + tilt",
+      "tags": [
+        "CAR",
+        "INTERIOR",
+        "DARK",
+        "REFLECTION"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "FPV Drone"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nShot breakdown: FPV camera roll to y-axis arc + tilt\nTechnique - Camera Roll , FPV Drone\nDirector - Mikhail Parkhomenko (parh0)\nCAR\nINTERIOR\nDARK\nREFLECTION",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704374050.webp",
+      "alt_text": "Facebook Groups - Self Care with Becky G",
+      "discovered_at": "2025-09-11T07:59:51.751045",
+      "title": "Facebook Groups - Self Care with Becky G (2021)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "CAR",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Object POV"
+      ],
+      "director": "Cabin Edit",
+      "dop": "Gus Bendinelli",
+      "colorist": "Jacob Mckee",
+      "original_source": "",
+      "additional_info": "Facebook Groups - Self Care with Becky G (2021)\ndir cliqua dp gus bendinelli color jacob mckee sound christian stropko production somesuch finishing + vfx mpc edit cabin producer hope duhaime assistan editor chris kelley + ryan khoury agency facebook producer josephine harmon cd garrett jones + jan jaworski copywriter jessy cole\nTechnique - Camera Roll , Object POV\nDirector - Cliqua\nDOP - Gus Bendinelli\nEditor - Cabin Edit\nColorist - Jacob Mckee\nOriginal Source - Link\nDAY\nCAR\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703368865.webp",
+      "alt_text": "Source Unknown",
+      "discovered_at": "2025-09-11T07:59:55.425051",
+      "title": "Source Unknown",
+      "description": "",
+      "tags": [
+        "RED",
+        "WARM",
+        "RESTAURANT",
+        "INTERIOR",
+        "DINER"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source Unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Camera Roll\nRED\nWARM\nRESTAURANT\nINTERIOR\nDINER",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706176215.webp",
+      "alt_text": "zef - 4:20 (Už je čas)",
+      "discovered_at": "2025-09-11T07:59:59.090235",
+      "title": "zef - 4:20 (Už je čas) (2022)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "TRAIN"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Locked-On"
+      ],
+      "director": "Nik Valentin",
+      "dop": "Anna Smoroňová",
+      "colorist": "Marina Starke",
+      "original_source": "",
+      "additional_info": "zef - 4:20 (Už je čas) (2022)\nTechnique - Camera Roll , Locked-On\nDirector - Jay Walker\nDOP - Anna Smoroňová\nEditor - Nik Valentin\nColorist - Marina Starke\nOriginal Source - Link\nINTERIOR\nDARK\nTRAIN",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703314101.webp",
+      "alt_text": "A$AP Ferg - Floor Seats",
+      "discovered_at": "2025-09-11T08:00:02.252093",
+      "title": "A$AP Ferg - Floor Seats (2019)",
+      "description": "In the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?",
+      "tags": [
+        "DAY",
+        "BIKE",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Bullet Time",
+        "Camera Roll"
+      ],
+      "director": "Maxime Caro",
+      "dop": "Hunter Daly",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "A$AP Ferg - Floor Seats (2019)\nIn the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?\nTechnique - Bullet Time , Camera Roll\nDirector - Valentin Petit\nDOP - Hunter Daly\nEditor - Maxime Caro\nColorist - Arthur Paux\nOriginal Source - Link\nTutorial - Link\nDAY\nBIKE\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715644042.webp",
+      "alt_text": "Oblé Reed - WESTON.",
+      "discovered_at": "2025-09-11T08:00:06.449021",
+      "title": "Oblé Reed - WESTON. (2023)",
+      "description": "",
+      "tags": [
+        "RED",
+        "MALE",
+        "JACKET",
+        "NIGHT",
+        "EXTERIOR",
+        "RAIN"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Handheld"
+      ],
+      "director": "Nash Pearson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oblé Reed - WESTON. (2023)\nMusic video\nTechnique - Camera Roll , Handheld\nDirector - Nash Pearson\nEditor - Nash Pearson\nOriginal Source - Link\nRED\nMALE\nJACKET\nNIGHT\nEXTERIOR\nRAIN",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704119733.webp",
+      "alt_text": "First Hawaiian Bank - Dance Party",
+      "discovered_at": "2025-09-11T08:00:10.122312",
+      "title": "First Hawaiian Bank - Dance Party (2022)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "TABLE",
+        "PHONES",
+        "CREDIT CARD"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Fast Motion",
+        "Overhead"
+      ],
+      "director": "Ariel Danziger",
+      "dop": "Jeremy Snell",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "First Hawaiian Bank - Dance Party (2022)\nCommercial for First Hawaiian Bank's priority unlimited credit card. Shot breakdown: Overhead fast motion camera roll. Director: Ariel Danziger DP: Jeremy Snell GCD: Kerry Mellor ECD: Adan Romero CCO: Lincoln Bjorkman Producer: Becky Friedman Agency: FKA Client: First Hawaiian Bank\nTechnique - Camera Roll , Fast Motion , Overhead\nDirector - Ariel Danziger\nDOP - Jeremy Snell\nOriginal Source - Link\nINTERIOR\nTABLE\nPHONES\nCREDIT CARD",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488933.webp",
+      "alt_text": "Lil Yachty - TESLA",
+      "discovered_at": "2025-09-11T08:00:13.764190",
+      "title": "Lil Yachty - TESLA (2023)",
+      "description": "",
+      "tags": [
+        "GREEN",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Lil Yachty - TESLA (2023)\nRecipe: Camera roll close up to wide\nTechnique - Camera Roll\nDirector - Cole Bennett\nDOP - Franklin Ricart\nColorist - Loren White\nOriginal Source - Link\nGREEN\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710315358.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T08:00:17.445025",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Season 1. Episode 6. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. In this episode, Eddie's doubts about Susie continue to grow. But there's 15 million pounds of dirty money to be laundered before she'll consider leaving the estate. Created by Guy Ritchie.",
+      "tags": [
+        "MALE",
+        "INTERIOR",
+        "FIGHT",
+        "KNOCKED OUT"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Overhead"
+      ],
+      "director": "Matt Platts-Mills",
+      "dop": "Callan Green",
+      "colorist": "Matthieu Toullet",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 6. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. In this episode, Eddie's doubts about Susie continue to grow. But there's 15 million pounds of dirty money to be laundered before she'll consider leaving the estate. Created by Guy Ritchie.\nTechnique - Camera Roll , Overhead\nDirector - Eran Creevy\nDOP - Callan Green\nEditor - Matt Platts-Mills\nColorist - Matthieu Toullet\nMALE\nINTERIOR\nFIGHT\nKNOCKED OUT",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163432.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T08:00:21.082307",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [],
+      "technique_tags": [
+        "Camera Roll",
+        "Inversion"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Camera Roll , Inversion\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704864187.webp",
+      "alt_text": "Chime - Woah",
+      "discovered_at": "2025-09-11T08:00:24.738790",
+      "title": "Chime - Woah (2021)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "COUPLE",
+        "KEYHOLE",
+        "DOOR"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Pass Through",
+        "Probe"
+      ],
+      "director": "Jojo King",
+      "dop": "Starr Whitesides",
+      "colorist": "Kris Smale",
+      "original_source": "",
+      "additional_info": "Chime - Woah (2021)\nWritten and Directed by Mount Defiance Head of Creative: Thierry Ambraisse Creative Producer: Jane Hong Copywriter: Brent Bamberger Production: Open Range Creative Studio: Mount Defiance Director: Mount Defiance Executive Producers: Nancy Lichtwardt and Noah Lichtwardt Line Producer: Matt Little Director of Photography: Starr Whitesides Production Designer: Luke Carr Art Director: Regina Fernandez-Alonso Wardrobe Stylist: Anastasia Walker Post Production: Cabin Edit Post Producer: Michelle Dorsch Editor: Jojo King Visual Effects: JAMM Visual Visual Effects Producer: Justine Pregler Visual Effects Artist: Toma Bowen Color Company: MPC Colorist: Kris Smale Mix House: Lime Studios Sound Engineer: Dave Wagg Composer: Ryland Blackinton Casting Director: Tyler Adams Voice: Christy Fabbri Starring: Andrew Walke, Alexis Zollicoffer, Keane Lindsey, Briar Strong\nTechnique - Camera Roll , Pass Through , Probe\nDirector - Mount Defiance\nDOP - Starr Whitesides\nEditor - Jojo King\n",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656021.webp",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-11T08:00:28.398479",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "DAY",
+        "GREEN",
+        "EXTERIOR",
+        "FIELD",
+        "FARM",
+        "TRACTOR"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Handheld",
+        "Low Angle",
+        "Ultra Wide"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Camera Roll , Handheld , Low Angle , Ultra Wide\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nDAY\nGREEN\nEXTERIOR\nFIELD\nFARM\nTRACTOR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/16/261705432875.webp",
+      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
+      "discovered_at": "2025-09-11T08:00:32.050469",
+      "title": "Pa Salieu - My Family feat BackRoad Gee (2020)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Match Cut"
+      ],
+      "director": "Femi Ladi",
+      "dop": "Stefan Yap",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pa Salieu - My Family feat BackRoad Gee (2020)\nMusic video for British rapper Pa Salieu, from director Femi Ladi. Utilizes a bolt arm camera that was popularized in Kendrick Lamar's 2017 music video, Humble, by director Dave Meyers. Ladi's decision to use a black and white color scheme gives this film an interesting juxtaposition between a timeless look, and modern camera techniques, with the help of the bolt arm.\nTechnique - Camera Roll , Match Cut\nDirector - Femi Ladi\nDOP - Stefan Yap\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702155.webp",
+      "alt_text": "H&M - House of Members",
+      "discovered_at": "2025-09-11T08:00:35.691495",
+      "title": "H&M - House of Members (2023)",
+      "description": "A colourful, fun and smashing world of the H&M membership – “The house of members”.",
+      "tags": [
+        "RED",
+        "SPIN",
+        "BIKE",
+        "HOTEL",
+        "INTERIOR",
+        "JASON YAN FRANCIS",
+        "PINHOLE",
+        "KEYHOLE",
+        "HALLWAY",
+        "DOOR",
+        "OBJECT PORTAL",
+        "FRANCIS",
+        "ROLL",
+        "H&M",
+        "BALLOONS",
+        "CAMERA ROLL"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Jason Yan Francis",
+      "dop": "Persona",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "H&M - House of Members (2023)\nA colourful, fun and smashing world of the H&M membership – “The house of members”.\nTechnique - Camera Roll\nDirector - Jason Yan Francis\nDOP - Persona\nOriginal Source - Link\nRED\nSPIN\nBIKE\nHOTEL\nINTERIOR\nJASON YAN FRANCIS\nPINHOLE\nKEYHOLE\nHALLWAY\nDOOR\nOBJECT PORTAL\nFRANCIS\nROLL\nH&M\nBALLOONS\nCAMERA ROLL",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703370251.webp",
+      "alt_text": "Black Panther",
+      "discovered_at": "2025-09-11T08:00:39.380963",
+      "title": "Black Panther (2018)",
+      "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past. In this scene, Killmonger takes the throne.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "NATURAL LIGHT",
+        "MICHAEL B JORDAN",
+        "WAKANDA"
+      ],
+      "technique_tags": [
+        "Camera Roll"
+      ],
+      "director": "Debbie Berman, Michael P. Shawver",
+      "dop": "Rachel Morrison",
+      "colorist": "Maxine Gervais",
+      "original_source": "",
+      "additional_info": "Black Panther (2018)\nT'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past. In this scene, Killmonger takes the throne.\nTechnique - Camera Roll\nDirector - Ryan Coogler\nDOP - Rachel Morrison\nEditor - Debbie Berman, Michael P. Shawver\nColorist - Maxine Gervais\nDAY\nINTERIOR\nNATURAL LIGHT\nMICHAEL B JORDAN\nWAKANDA",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703365628.webp",
+      "alt_text": "Husky - Never-ever",
+      "discovered_at": "2025-09-11T08:00:42.547651",
+      "title": "Husky - Never-ever (2020)",
+      "description": "A guy works as a janitor and cleans up gang fight scenes.",
+      "tags": [
+        "WARM",
+        "INTERIOR",
+        "DARK",
+        "ORANGE",
+        "OVERHEAD"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Overhead"
+      ],
+      "director": "Kirill Khandurin",
+      "dop": "Kirill Groshev",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Husky - Never-ever (2020)\nA guy works as a janitor and cleans up gang fight scenes.\nTechnique - Camera Roll , Overhead\nDirector - Evgenii Bakirov\nDOP - Kirill Groshev\nEditor - Kirill Khandurin\nOriginal Source - Link\nWARM\nINTERIOR\nDARK\nORANGE\nOVERHEAD",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/19/Adobe_Photoshop_Fantastic_Voyage_IAj9QqG/37f5bc43d74c1422bafd8b6e53de98d4.gif",
+      "alt_text": "Adobe Photoshop: Fantastic Voyage",
+      "discovered_at": "2025-09-11T08:00:45.697303",
+      "title": "Adobe Photoshop: Fantastic Voyage (2020)",
+      "description": "Reimagining creativity and the power of imagination with Photoshop",
+      "tags": [],
+      "technique_tags": [
+        "Live Action",
+        "Whip Roll"
+      ],
+      "director": "Bill Smedley, Work Editorial",
+      "dop": "Matias Baucard",
+      "colorist": "Mathematic, Mathieu Caplanne",
+      "original_source": "",
+      "additional_info": "Adobe Photoshop: Fantastic Voyage (2020)\nReimagining creativity and the power of imagination with Photoshop\nTechnique - Live Action , Whip Roll\nDirector - Antoine Bardou-Jacquet\nDOP - Matias Baucard\nEditor - Bill Smedley, Work Editorial\nColorist - Mathematic, Mathieu Caplanne\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703374153.webp",
-      "page_url": "https://eyecannndy.com/technique/camera-roll",
-      "discovered_at": "2025-09-05T03:22:51.607295",
-      "element_tag": "img",
-      "title": "St. Louis City FC - The City Kit Is Here",
-      "description": "",
-      "category": "camera-roll",
       "alt_text": "St. Louis City FC - The City Kit Is Here",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:00:48.862163",
+      "title": "St. Louis City FC - The City Kit Is Here (2022)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Lens Play",
+        "Whip Roll"
+      ],
+      "director": "Bruton Stroube",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "St. Louis City FC - The City Kit Is Here (2022)\nTechnique - Lens Play , Whip Roll\nDirector - Bruton Stroube\nOriginal Source - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703374456.webp",
+      "alt_text": "Talk To Me",
+      "discovered_at": "2025-09-11T08:00:52.019034",
+      "title": "Talk To Me (2023)",
+      "description": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces. Close up > Whip roll",
+      "tags": [
+        "DAY",
+        "CLOSE UP",
+        "INTERIOR",
+        "HAND",
+        "HORROR"
+      ],
+      "technique_tags": [
+        "Whip Roll"
+      ],
+      "director": "Geoff Lamb",
+      "dop": "Aaron McLisky",
+      "colorist": "Marty Pepper",
+      "original_source": "",
+      "additional_info": "Talk To Me (2023)\nWhen a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces. Close up > Whip roll\nTechnique - Whip Roll\nDirector - Danny Philippou, Michael Philippou\nDOP - Aaron McLisky\nEditor - Geoff Lamb\nColorist - Marty Pepper\nDAY\nCLOSE UP\nINTERIOR\nHAND\nHORROR",
+      "page_url": "https://eyecannndy.com/technique/camera-roll"
     }
   ]
 }

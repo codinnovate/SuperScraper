@@ -1,6 +1,1270 @@
 {
   "technique": "light-flash",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.651502",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_153321",
+    "total_videos": 56,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344751.webp",
+      "alt_text": "Fantastic Mr. Fox",
+      "discovered_at": "2025-09-11T15:29:57.936555",
+      "title": "Fantastic Mr. Fox (2009)",
+      "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+      "tags": [
+        "ANIMALS"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Stop Motion"
+      ],
+      "director": "Ralph Foster, Stephen Perkins",
+      "dop": "Tristan Oliver",
+      "colorist": "Max Horton",
+      "original_source": "",
+      "additional_info": "Fantastic Mr. Fox (2009)\nAn urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.\nTechnique - Light Flash , Stop Motion\nDirector - Wes Anderson\nDOP - Tristan Oliver\nEditor - Ralph Foster, Stephen Perkins\nColorist - Max Horton\nANIMALS",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720165420.webp",
+      "alt_text": "Victoria Monet - Alright",
+      "discovered_at": "2025-09-11T15:30:02.079406",
+      "title": "Victoria Monet - Alright (2024)",
+      "description": "The music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.",
+      "tags": [
+        "BLUE",
+        "VICTORIA MONET"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Light Flash"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Victoria Monet - Alright (2024)\nThe music video for \"Alright\" by Victoria Monét, directed by Dave Meyers, is a vibrant homage to Janet Jackson, featuring high-energy choreography and striking visuals. In the video, Monét channels Jackson's iconic style, wearing a black-and-white fedora and suit, and performing dynamic dance routines reminiscent of Jackson's 1990s and 2000s era. The video, choreographed by Sean Bankhead, showcases Monét's impressive dance skills and captures the essence of liberation and celebration. Made in collaboration with Jacobi Mehringer, Anna Arnell, and Mia Barnes.\nTechnique - Choreo , Light Flash\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Vinnie Hobbs\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBLUE\nVICTORIA MONET",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707623655.webp",
+      "alt_text": "A$AP Rocky - L$D",
+      "discovered_at": "2025-09-11T15:30:05.694759",
+      "title": "A$AP Rocky - L$D (2015)",
+      "description": "Shot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Light Flash"
+      ],
+      "director": "Dexter Navy",
+      "dop": "Oliver Millar",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - L$D (2015)\nShot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).\nTechnique - Altered state , Drug trip , Light Flash\nDirector - Dexter Navy\nDOP - Oliver Millar\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710024491.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T15:30:09.831770",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "INTERIOR",
+        "THEO JAMES"
+      ],
+      "technique_tags": [
+        "Anger",
+        "Epiphany",
+        "Light Flash"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Anger , Epiphany , Light Flash\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nINTERIOR\nTHEO JAMES",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709544718.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:30:13.970415",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Silhouette",
+        "Slow Motion"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Light Flash , Silhouette , Slow Motion\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707622063.webp",
+      "alt_text": "A$AP Rocky - L$D",
+      "discovered_at": "2025-09-11T15:30:17.110478",
+      "title": "A$AP Rocky - L$D (2015)",
+      "description": "Shot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Light Flash",
+        "Slow Motion"
+      ],
+      "director": "Dexter Navy",
+      "dop": "Oliver Millar",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - L$D (2015)\nShot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).\nTechnique - Altered state , Drug trip , Light Flash , Slow Motion\nDirector - Dexter Navy\nDOP - Oliver Millar\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545841.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:30:20.739909",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "INTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Medium Close-up"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Light Flash , Medium Close-up\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nINTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716236117.webp",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "discovered_at": "2025-09-11T15:30:24.425331",
+      "title": "Flume feat. MAY-A - Say Nothing (2022)",
+      "description": "The music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.",
+      "tags": [
+        "VOID",
+        "MASKS"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Void"
+      ],
+      "director": "Ian Wallace",
+      "dop": "Dimitri Zaunders, Kieran Fowler",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Flume feat. MAY-A - Say Nothing (2022)\nThe music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.\nTechnique - Light Flash , Void\nDirector - Michael Hili\nDOP - Dimitri Zaunders, Kieran Fowler\nEditor - Ian Wallace\nColorist - Josh Bohoskey\nOriginal Source - Link\nVOID\nMASKS",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716236020.webp",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "discovered_at": "2025-09-11T15:30:28.076799",
+      "title": "Flume feat. MAY-A - Say Nothing (2022)",
+      "description": "The music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.",
+      "tags": [
+        "BIRD",
+        "ROOM",
+        "BOARDROOM",
+        "MEETING"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Quick Cuts",
+        "Void"
+      ],
+      "director": "Ian Wallace",
+      "dop": "Dimitri Zaunders, Kieran Fowler",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Flume feat. MAY-A - Say Nothing (2022)\nThe music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.\nTechnique - Light Flash , Quick Cuts , Void\nDirector - Michael Hili\nDOP - Dimitri Zaunders, Kieran Fowler\nEditor - Ian Wallace\nColorist - Josh Bohoskey\nOriginal Source - Link\nBIRD\nROOM\nBOARDROOM\nMEETING",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546062.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:30:31.732931",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Silhouette"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Light Flash , Silhouette\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/02/261706901571.webp",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-11T15:30:35.384832",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "INTERIOR",
+        "STUDIO",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Shadows"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Light Flash , Shadows\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nMALE\nINTERIOR\nSTUDIO\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545737.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:30:39.036478",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "MEETING",
+        "CONFERENCE TABLE"
+      ],
+      "technique_tags": [
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nMEETING\nCONFERENCE TABLE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455711.webp",
+      "alt_text": "Severance",
+      "discovered_at": "2025-09-11T15:30:42.673459",
+      "title": "Severance (2022)",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "tags": [
+        "INTERIOR",
+        "PURPLE",
+        "SATURATED",
+        "OFFICE"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Two Shot"
+      ],
+      "director": "Erica Freed Marker, Geoffrey Richman, Gershon Hinkson",
+      "dop": "Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "Severance (2022)\nMark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.\nTechnique - Light Flash , Two Shot\nDirector - Ben Stiller\nDOP - Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle\nEditor - Erica Freed Marker, Geoffrey Richman, Gershon Hinkson\nColorist - Company 3, Tom Poole\nINTERIOR\nPURPLE\nSATURATED\nOFFICE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546179.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:30:46.314318",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Dutch Angle , Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707622716.webp",
+      "alt_text": "A$AP Rocky - L$D",
+      "discovered_at": "2025-09-11T15:30:49.960345",
+      "title": "A$AP Rocky - L$D (2015)",
+      "description": "Shot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Light Flash",
+        "Towards camera",
+        "Tracking"
+      ],
+      "director": "Dexter Navy",
+      "dop": "Oliver Millar",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - L$D (2015)\nShot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).\nTechnique - Altered state , Drug trip , Light Flash , Towards camera , Tracking\nDirector - Dexter Navy\nDOP - Oliver Millar\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344806.webp",
+      "alt_text": "Fantastic Mr. Fox",
+      "discovered_at": "2025-09-11T15:30:53.108033",
+      "title": "Fantastic Mr. Fox (2009)",
+      "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+      "tags": [
+        "SHOCK",
+        "SKELETON",
+        "ANIMALS",
+        "ELECTRICITY"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Scribble",
+        "Stop Motion"
+      ],
+      "director": "Ralph Foster, Stephen Perkins",
+      "dop": "Tristan Oliver",
+      "colorist": "Max Horton",
+      "original_source": "",
+      "additional_info": "Fantastic Mr. Fox (2009)\nAn urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.\nTechnique - Light Flash , Scribble , Stop Motion\nDirector - Wes Anderson\nDOP - Tristan Oliver\nEditor - Ralph Foster, Stephen Perkins\nColorist - Max Horton\nSHOCK\nSKELETON\nANIMALS\nELECTRICITY",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703044746.webp",
+      "alt_text": "Cocaine Bear",
+      "discovered_at": "2025-09-11T15:30:56.739900",
+      "title": "Cocaine Bear (2023)",
+      "description": "An oddball group of cops, criminals, tourists, and teens converge in a Georgia.",
+      "tags": [
+        "RED",
+        "DARK",
+        "STROBE",
+        "COMPANY 3",
+        "JOHN GULESERIAN",
+        "ARRI ALEXA LF",
+        "ARRI SIGNATURE PRIME LENSES",
+        "ELIZABETH BANKS",
+        "JOEL NEGRON",
+        "NATASHA LEONNET",
+        "DIGITAL",
+        "EMERGENCY",
+        "LIGHT FLASH",
+        "COCKPIT",
+        "FLASHING LIGHT"
+      ],
+      "technique_tags": [
+        "Light Flash"
+      ],
+      "director": "Joel Negron",
+      "dop": "John Guleserian",
+      "colorist": "Company 3, Natasha Leonnet",
+      "original_source": "",
+      "additional_info": "Cocaine Bear (2023)\nAn oddball group of cops, criminals, tourists, and teens converge in a Georgia.\nTechnique - Light Flash\nDirector - Elizabeth Banks\nDOP - John Guleserian\nEditor - Joel Negron\nColorist - Company 3, Natasha Leonnet\nRED\nDARK\nSTROBE\n2.39\nCOMPANY 3\nJOHN GULESERIAN\nARRI ALEXA LF\nARRI SIGNATURE PRIME LENSES\nELIZABETH BANKS\nJOEL NEGRON\nNATASHA LEONNET\nDIGITAL\nEMERGENCY\nLIGHT FLASH\nCOCKPIT\nFLASHING LIGHT",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576844.webp",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "discovered_at": "2025-09-11T15:31:00.391197",
+      "title": "Ken Carson - Fighting My Demons (2023)",
+      "description": "The music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.",
+      "tags": [
+        "MALE",
+        "STROBE"
+      ],
+      "technique_tags": [
+        "Levitation",
+        "Light Flash",
+        "Light Void",
+        "Silhouette"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Ken Carson - Fighting My Demons (2023)\nThe music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.\nTechnique - Levitation , Light Flash , Light Void , Silhouette\nDirector - Cole Bennett\nDOP - Franklin Ricart\nEditor - Cole Bennett\nColorist - Loren White\nOriginal Source - Link\nTutorial - Link\nMALE\nSTROBE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709019660.webp",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "discovered_at": "2025-09-11T15:31:04.027811",
+      "title": "Snipes x Nike - The Cypher (2023)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "BLACK AND WHITE",
+        "DANCE",
+        "CYPHER"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Slow Motion",
+        "Speed Ramp"
+      ],
+      "director": "Alexis Benot, Eugène Signoret",
+      "dop": "Cesar Decharme",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Snipes x Nike - The Cypher (2023)\nTechnique - Light Flash , Slow Motion , Speed Ramp\nDirector - Marius Gonzalez\nDOP - Cesar Decharme\nEditor - Alexis Benot, Eugène Signoret\nColorist - Arthur Paux\nOriginal Source - Link\nGROUP\nBLACK AND WHITE\nDANCE\nCYPHER",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704916887.webp",
+      "alt_text": "João Borsch - Apaz",
+      "discovered_at": "2025-09-11T15:31:07.692181",
+      "title": "João Borsch - Apaz (2023)",
+      "description": "Directed by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini",
+      "tags": [
+        "RED",
+        "DOUBLE EXPOSURE",
+        "SURREAL",
+        "PROFILE"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Echo print",
+        "Light Flash",
+        "Void"
+      ],
+      "director": "Inês Aires, João Morgado",
+      "dop": "Luís Silva Nunes",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "João Borsch - Apaz (2023)\nDirected by – Inês Aires Co-direction – João Morgado Production – Inês Aires, João Borsch, Luís Silva Nunes Production Assistant – João Henrique Câmara Cinematography – Luís Silva Nunes 1st Camera Assistant – Duarte Lino Wardrobe – João Borsch, Inês Aires Makeup and Hair – Marta Saramago, Inês Aires Editing – João Morgado, Inês Aires Visual Effects – Inês Aires Color – Luís Silva Nunes Graphics - Daniel Bertini\nTechnique - Double Exposure , Echo print , Light Flash , Void\nDirector - Inês Aires, João Morgado\nDOP - Luís Silva Nunes\nOriginal Source - Link\nRED\nDOUBLE EXPOSURE\nSURREAL\nPROFILE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545877.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:31:11.331523",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "INTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nINTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704342223.webp",
+      "alt_text": "Elderbrook - Why Do We Shake In The Cold?",
+      "discovered_at": "2025-09-11T15:31:14.998305",
+      "title": "Elderbrook - Why Do We Shake In The Cold? (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "LARGE ROOM"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Spotlight"
+      ],
+      "director": "Katarina Gramatová",
+      "dop": "Filip Marek",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Elderbrook - Why Do We Shake In The Cold? (2020)\nDelirium-induced fata morgana brings together two lone friends. Constantly trying to break through their bubbles, they seem stuck in ever repeating loops - Elderbrook's new video is a reminder of invisible everyday habbits and patterns that form our lives. Performers: Antonín Ničovský, Daniel Vitešník Director - Jára Moravec DoP - Filip Marek Executive Producer: Carla Mooney, Delwyn Mooney Producer - Mojaš Perović Edit: Katarina Gramatová Production Manager - Klára Plechsson 1AD - Kristýna Rousková 1AC - Jan “Hofajz” Hofmann 2AC - Richard Krejza Set dressing: Helena Liška, Václav Bejlek Props - Farid Beyzai, Martin Žerdík Ronin op. - Anton Endovshenko Drone op - Vojtěch Pollák Gaffer - Tomáš Volter Electrician - Roman Lety Jabůrek Costumes/MUP - Aneta Boháčová Catering - Lenka Egrtová Transport - Jan Salvet Production Company: Cardel Service Production Company: Bistro Films\nTechnique - Light Flash , Spotlight\nDirector - Jara Moravec\nDOP ",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711344685.webp",
+      "alt_text": "Fantastic Mr. Fox",
+      "discovered_at": "2025-09-11T15:31:18.640934",
+      "title": "Fantastic Mr. Fox (2009)",
+      "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+      "tags": [
+        "FOX",
+        "SHOCK"
+      ],
+      "technique_tags": [
+        "Anthropo",
+        "Light Flash",
+        "Stop Motion",
+        "Surprise"
+      ],
+      "director": "Ralph Foster, Stephen Perkins",
+      "dop": "Tristan Oliver",
+      "colorist": "Max Horton",
+      "original_source": "",
+      "additional_info": "Fantastic Mr. Fox (2009)\nAn urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.\nTechnique - Anthropo , Light Flash , Stop Motion , Surprise\nDirector - Wes Anderson\nDOP - Tristan Oliver\nEditor - Ralph Foster, Stephen Perkins\nColorist - Max Horton\nFOX\nSHOCK",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163478.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T15:31:22.310907",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [],
+      "technique_tags": [
+        "Inversion",
+        "Light Flash"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Inversion , Light Flash\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163511.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T15:31:25.951454",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [],
+      "technique_tags": [
+        "Inversion",
+        "Light Flash"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Inversion , Light Flash\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705106190.webp",
+      "alt_text": "Get Out",
+      "discovered_at": "2025-09-11T15:31:29.616622",
+      "title": "Get Out (2017)",
+      "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "HORROR",
+        "JORDAN PEELE",
+        "THRILLER",
+        "GET OUT",
+        "POLICE LIGHTS",
+        "COPY"
+      ],
+      "technique_tags": [
+        "Light Flash"
+      ],
+      "director": "Gregory Plotkin",
+      "dop": "Toby Oliver",
+      "colorist": "Aidan Stanford",
+      "original_source": "",
+      "additional_info": "Get Out (2017)\nA young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.\nTechnique - Light Flash\nDirector - Jordan Peele\nDOP - Toby Oliver\nEditor - Gregory Plotkin\nColorist - Aidan Stanford\nNIGHT\nEXTERIOR\nHORROR\nJORDAN PEELE\nTHRILLER\nGET OUT\nPOLICE LIGHTS\nCOPY",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708476438.webp",
+      "alt_text": ":aexattack - Next Year",
+      "discovered_at": "2025-09-11T15:31:33.275160",
+      "title": ":aexattack - Next Year (2021)",
+      "description": "",
+      "tags": [
+        "RED"
+      ],
+      "technique_tags": [
+        "Hard Light",
+        "Light Flash"
+      ],
+      "director": "Jetski",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": ":aexattack - Next Year (2021)\nTechnique - Hard Light , Light Flash\nDirector - Jetski\nOriginal Source - Link\nRED",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704342082.webp",
+      "alt_text": "Elderbrook - Why Do We Shake In The Cold?",
+      "discovered_at": "2025-09-11T15:31:37.954244",
+      "title": "Elderbrook - Why Do We Shake In The Cold? (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "LARGE ROOM"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Light Flash",
+        "Overhead"
+      ],
+      "director": "Katarina Gramatová",
+      "dop": "Filip Marek",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Elderbrook - Why Do We Shake In The Cold? (2020)\nDelirium-induced fata morgana brings together two lone friends. Constantly trying to break through their bubbles, they seem stuck in ever repeating loops - Elderbrook's new video is a reminder of invisible everyday habbits and patterns that form our lives. Performers: Antonín Ničovský, Daniel Vitešník Director - Jára Moravec DoP - Filip Marek Executive Producer: Carla Mooney, Delwyn Mooney Producer - Mojaš Perović Edit: Katarina Gramatová Production Manager - Klára Plechsson 1AD - Kristýna Rousková 1AC - Jan “Hofajz” Hofmann 2AC - Richard Krejza Set dressing: Helena Liška, Václav Bejlek Props - Farid Beyzai, Martin Žerdík Ronin op. - Anton Endovshenko Drone op - Vojtěch Pollák Gaffer - Tomáš Volter Electrician - Roman Lety Jabůrek Costumes/MUP - Aneta Boháčová Catering - Lenka Egrtová Transport - Jan Salvet Production Company: Cardel Service Production Company: Bistro Films\nTechnique - Camera Roll , Light Flash , Overhead\nDirector - Jara",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704329283.webp",
+      "alt_text": "Last Night in Soho",
+      "discovered_at": "2025-09-11T15:31:42.101521",
+      "title": "Last Night in Soho (2021)",
+      "description": "Aspiring fashion designer Eloise is mysteriously able to enter the 1960s, where she encounters dazzling wannabe singer Sandie. But the glamour is not as it seems, and the dreams of the past crack and splinter into something darker.",
+      "tags": [
+        "INTERIOR",
+        "EDGAR WRIGHT",
+        "DARK",
+        "CLUB",
+        "PANAVISION",
+        "ALEXA",
+        "ARRI ALEXA MINI",
+        "ARRI",
+        "2020S",
+        "LAST NIGHT IN SOHO"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Hard Light",
+        "Light Flash"
+      ],
+      "director": "Paul Machliss",
+      "dop": "Chung-hoon Chung",
+      "colorist": "Asa Shoul",
+      "original_source": "",
+      "additional_info": "Last Night in Soho (2021)\nAspiring fashion designer Eloise is mysteriously able to enter the 1960s, where she encounters dazzling wannabe singer Sandie. But the glamour is not as it seems, and the dreams of the past crack and splinter into something darker.\nTechnique - Double Exposure , Hard Light , Light Flash\nDirector - Edgar Wright\nDOP - Chung-hoon Chung\nEditor - Paul Machliss\nColorist - Asa Shoul\nINTERIOR\n2021\nEDGAR WRIGHT\nDARK\nCLUB\nPANAVISION\nALEXA\nARRI ALEXA MINI\nARRI\n2020S\nLAST NIGHT IN SOHO",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546223.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:31:45.726615",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "MALE",
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Dutch Angle , Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nMALE\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703242989.webp",
+      "alt_text": "Source Unknown",
+      "discovered_at": "2025-09-11T15:31:49.359247",
+      "title": "Source Unknown",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE",
+        "STROBE",
+        "TRAIN",
+        "PLATFORM",
+        "STATION"
+      ],
+      "technique_tags": [
+        "Light Flash"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source Unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Light Flash\nBLACK AND WHITE\nSTROBE\nTRAIN\nPLATFORM\nSTATION",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715293024.webp",
+      "alt_text": "Inter Alia (Short Film)",
+      "discovered_at": "2025-09-11T15:31:53.003084",
+      "title": "Inter Alia (Short Film) (2023)",
+      "description": "A musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?",
+      "tags": [
+        "MALE",
+        "CAMERA",
+        "PHOTOGRAPHER"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Void"
+      ],
+      "director": "Daniel Lawrence Wilson",
+      "dop": "Michael Fenton",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Inter Alia (Short Film) (2023)\nA musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?\nTechnique - Light Flash , Void\nDirector - Daniel Lawrence Wilson\nDOP - Michael Fenton\nOriginal Source - Link\nMALE\nCAMERA\nPHOTOGRAPHER",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409328.webp",
+      "alt_text": "Kendrick Lamar - Humble",
+      "discovered_at": "2025-09-11T15:31:56.642185",
+      "title": "Kendrick Lamar - Humble (2017)",
+      "description": "The visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.",
+      "tags": [
+        "LIGHTS",
+        "NIGHT",
+        "EXTERIOR",
+        "DARK",
+        "KENDRICK LAMAR",
+        "COOL WHITE",
+        "LASER",
+        "POLICE"
+      ],
+      "technique_tags": [
+        "Light Flash"
+      ],
+      "director": "Greg Scruton",
+      "dop": "Scott Cunningham",
+      "colorist": "Jaime O'Bradovich",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - Humble (2017)\nThe visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.\nTechnique - Light Flash\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Greg Scruton\nColorist - Jaime O'Bradovich\nOriginal Source - Link\nTutorial - Link\nLIGHTS\nNIGHT\nEXTERIOR\nDARK\nKENDRICK LAMAR\nCOOL WHITE\nLASER\nPOLICE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546262.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:32:00.274830",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Quick Cuts"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Light Flash , Quick Cuts\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/22/261703241452.webp",
+      "alt_text": "BENEE - Never Ending",
+      "discovered_at": "2025-09-11T15:32:04.447433",
+      "title": "BENEE - Never Ending (2022)",
+      "description": "This glitchy video shows a different side of the New Zealand alternative pop star, further showcasing BENEE’s evolution as an artist and her knack for pushing genre boundaries.",
+      "tags": [
+        "DARK",
+        "BLACK",
+        "STREET LIGHTS"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Void"
+      ],
+      "director": "Devan Narsai, Riley Coughlin",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "BENEE - Never Ending (2022)\nThis glitchy video shows a different side of the New Zealand alternative pop star, further showcasing BENEE’s evolution as an artist and her knack for pushing genre boundaries.\nTechnique - Light Flash , Void\nDirector - Devan Narsai, Riley Coughlin\nOriginal Source - Link\nDARK\nBLACK\nSTREET LIGHTS",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709544605.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:32:08.613975",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "BLUE",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nBLUE\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546404.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:32:12.256459",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "GREEN"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Close-Up , Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nGREEN",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237437.webp",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "discovered_at": "2025-09-11T15:32:15.883186",
+      "title": "Flume feat. MAY-A - Say Nothing (2022)",
+      "description": "The music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.",
+      "tags": [
+        "BIKER",
+        "MOTORCYCLIST"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Void"
+      ],
+      "director": "Ian Wallace",
+      "dop": "Dimitri Zaunders, Kieran Fowler",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Flume feat. MAY-A - Say Nothing (2022)\nThe music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.\nTechnique - Light Flash , Void\nDirector - Michael Hili\nDOP - Dimitri Zaunders, Kieran Fowler\nEditor - Ian Wallace\nColorist - Josh Bohoskey\nOriginal Source - Link\nBIKER\nMOTORCYCLIST",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709544778.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:32:19.511809",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Dutch Angle , Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709019729.webp",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "discovered_at": "2025-09-11T15:32:23.146744",
+      "title": "Snipes x Nike - The Cypher (2023)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "BLACK AND WHITE",
+        "DANCE",
+        "CYPHER"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Slow Motion",
+        "Void"
+      ],
+      "director": "Alexis Benot, Eugène Signoret",
+      "dop": "Cesar Decharme",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Snipes x Nike - The Cypher (2023)\nTechnique - Light Flash , Slow Motion , Void\nDirector - Marius Gonzalez\nDOP - Cesar Decharme\nEditor - Alexis Benot, Eugène Signoret\nColorist - Arthur Paux\nOriginal Source - Link\nGROUP\nBLACK AND WHITE\nDANCE\nCYPHER",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576023.webp",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "discovered_at": "2025-09-11T15:32:26.816499",
+      "title": "Ken Carson - Fighting My Demons (2023)",
+      "description": "The music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.",
+      "tags": [
+        "MALE",
+        "BLUNT",
+        "WEED",
+        "CIGARETTE",
+        "INTERIOR",
+        "SMOKING",
+        "MARIJUANA"
+      ],
+      "technique_tags": [
+        "Cut-ins",
+        "Light Flash",
+        "Single shot"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Ken Carson - Fighting My Demons (2023)\nThe music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.\nTechnique - Cut-ins , Light Flash , Single shot\nDirector - Cole Bennett\nDOP - Franklin Ricart\nEditor - Cole Bennett\nColorist - Loren White\nOriginal Source - Link\nTutorial - Link\nMALE\nBLUNT\nWEED\nCIGARETTE\nINTERIOR\nSMOKING\nMARIJUANA",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711246261.webp",
+      "alt_text": "adidas - Original is Never Finished (Chapter 3)",
+      "discovered_at": "2025-09-11T15:32:29.948470",
+      "title": "adidas - Original is Never Finished (Chapter 3) (2017)",
+      "description": "The third installment of adidas Originals' 'Original Is Never Finished' series, directed by Terence Neal.",
+      "tags": [
+        "HANDS",
+        "SURREALISM",
+        "21 SAVAGE",
+        "GLOVES"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Magical realism"
+      ],
+      "director": "Christopher Fetsch, Robert Lopuski",
+      "dop": "Alexis Zabe",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas - Original is Never Finished (Chapter 3) (2017)\nThe third installment of adidas Originals' 'Original Is Never Finished' series, directed by Terence Neal.\nTechnique - Light Flash , Magical realism\nDirector - Terence Neale\nDOP - Alexis Zabe\nEditor - Christopher Fetsch, Robert Lopuski\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nHANDS\nSURREALISM\n21 SAVAGE\nGLOVES",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707627018.webp",
+      "alt_text": "Enter the Void",
+      "discovered_at": "2025-09-11T15:32:33.593793",
+      "title": "Enter the Void (2009)",
+      "description": "An American drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.",
+      "tags": [
+        "WALKING",
+        "NIGHT",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Altered state",
+        "Away from Camera",
+        "Color Shift",
+        "Drug trip",
+        "Light Flash",
+        "Tracking"
+      ],
+      "director": "Jérôme Pesnel, Marc Boucrot",
+      "dop": "Benoît Debie",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Enter the Void (2009)\nAn American drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.\nTechnique - 2000s , Altered state , Away from Camera , Color Shift , Drug trip , Light Flash , Tracking\nDirector - Gaspar Noé\nDOP - Benoît Debie\nEditor - Jérôme Pesnel, Marc Boucrot\nWALKING\nNIGHT\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545789.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T15:32:37.261998",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "WOMAN",
+        "INTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Dutch Angle , Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nWOMAN\nINTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704836259.webp",
+      "alt_text": "Who Shot Scott - What Time U On",
+      "discovered_at": "2025-09-11T15:32:40.899931",
+      "title": "Who Shot Scott - What Time U On (2022)",
+      "description": "Produced by WHO SHOT SCOTT Directed by Connor Pritchard Cinematography by Luca Turner Styling by HYAN Additional Vocals by NXVA Mixed by Josh Strand Mastered by Chris Chetland",
+      "tags": [
+        "INTERIOR",
+        "LIGHT FLASH"
+      ],
+      "technique_tags": [
+        "Fisheye",
+        "Light Flash"
+      ],
+      "director": "Connor Pritchard",
+      "dop": "Luca Turner",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Who Shot Scott - What Time U On (2022)\nProduced by WHO SHOT SCOTT Directed by Connor Pritchard Cinematography by Luca Turner Styling by HYAN Additional Vocals by NXVA Mixed by Josh Strand Mastered by Chris Chetland\nTechnique - Fisheye , Light Flash\nDirector - Connor Pritchard\nDOP - Luca Turner\nOriginal Source - Link\nINTERIOR\nLIGHT FLASH",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237345.webp",
+      "alt_text": "Flume feat. MAY-A - Say Nothing",
+      "discovered_at": "2025-09-11T15:32:44.555902",
+      "title": "Flume feat. MAY-A - Say Nothing (2022)",
+      "description": "The music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.",
+      "tags": [
+        "BIRD",
+        "AI",
+        "GENERATIVE",
+        "STABLE DIFFUSION"
+      ],
+      "technique_tags": [
+        "Central Framing",
+        "Light Flash",
+        "Void"
+      ],
+      "director": "Ian Wallace",
+      "dop": "Dimitri Zaunders, Kieran Fowler",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Flume feat. MAY-A - Say Nothing (2022)\nThe music video for \"Say Nothing\" by Flume featuring MAY-A, directed by Michael Hili, offers a visually captivating and surreal experience. It includes psychedelic visuals, with Flume donning a bleach-blonde hairstyle and posing on motorcycles, while MAY-A is seen submerged in black sand. The video uses stark contrasts and vibrant colors to complement the song's themes of post-relationship clarity and emotional expression. This trippy and avant-garde style enhances the song's narrative, making it a standout piece in Flume's discography.\nTechnique - Central Framing , Light Flash , Void\nDirector - Michael Hili\nDOP - Dimitri Zaunders, Kieran Fowler\nEditor - Ian Wallace\nColorist - Josh Bohoskey\nOriginal Source - Link\nBIRD\nAI\nGENERATIVE\nSTABLE DIFFUSION",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704342016.webp",
+      "alt_text": "Elderbrook - Why Do We Shake In The Cold?",
+      "discovered_at": "2025-09-11T15:32:48.207989",
+      "title": "Elderbrook - Why Do We Shake In The Cold? (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "LARGE ROOM"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Overhead"
+      ],
+      "director": "Katarina Gramatová",
+      "dop": "Filip Marek",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Elderbrook - Why Do We Shake In The Cold? (2020)\nDelirium-induced fata morgana brings together two lone friends. Constantly trying to break through their bubbles, they seem stuck in ever repeating loops - Elderbrook's new video is a reminder of invisible everyday habbits and patterns that form our lives. Performers: Antonín Ničovský, Daniel Vitešník Director - Jára Moravec DoP - Filip Marek Executive Producer: Carla Mooney, Delwyn Mooney Producer - Mojaš Perović Edit: Katarina Gramatová Production Manager - Klára Plechsson 1AD - Kristýna Rousková 1AC - Jan “Hofajz” Hofmann 2AC - Richard Krejza Set dressing: Helena Liška, Václav Bejlek Props - Farid Beyzai, Martin Žerdík Ronin op. - Anton Endovshenko Drone op - Vojtěch Pollák Gaffer - Tomáš Volter Electrician - Roman Lety Jabůrek Costumes/MUP - Aneta Boháčová Catering - Lenka Egrtová Transport - Jan Salvet Production Company: Cardel Service Production Company: Bistro Films\nTechnique - Light Flash , Overhead\nDirector - Jara Moravec\nDOP -",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123337.webp",
+      "alt_text": "Canon - Live for the Story",
+      "discovered_at": "2025-09-11T15:32:52.406018",
+      "title": "Canon - Live for the Story (2017)",
+      "description": "",
+      "tags": [
+        "WATER SLIDE"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Magical realism"
+      ],
+      "director": "Joe Guest",
+      "dop": "Kasper Tuxen",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Canon - Live for the Story (2017)\nCreative Agency: VCCP ECD: Darren Bailes Creatives: Ben McCarthy / Seb Housden Account Handling: Emma Whitmarsh / Olivia Packshaw Agency Producer: Ed Mueller Director: Megaforce Film Production: Riff Raff Films Production Company Producer: Jane Lloyd Executive Producer: Matthew Fone Producer: Gemma Humphries Music Licensing: Finger Music Sound Mix: Ben Leeves @ Grand Central\nTechnique - Light Flash , Magical realism\nDirector - Megaforce\nDOP - Kasper Tuxen\nEditor - Joe Guest\nOriginal Source - Link\nWATER SLIDE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703060022.webp",
+      "alt_text": "The French Dispatch",
+      "discovered_at": "2025-09-11T15:32:56.056067",
+      "title": "The French Dispatch (2021)",
+      "description": "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".",
+      "tags": [
+        "RED",
+        "WES ANDERSON",
+        "BLUE",
+        "RIDING",
+        "EXTERIOR",
+        "DARK",
+        "SPOTLIGHT",
+        "MOTORCYCLE",
+        "EXTREME WIDE",
+        "35MM",
+        "BLACK",
+        "COOKE S4/ I",
+        "GARETH SPENSLEY",
+        "ROBERT D. YEOMAN",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "ARRIFLEX 235",
+        "ANDREW WEISBLUM"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Light Flash",
+        "Spotlight"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "The French Dispatch (2021)\nA love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".\nTechnique - Color Shift , Light Flash , Spotlight\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Gareth Spensley\nRED\nWES ANDERSON\nBLUE\nRIDING\nEXTERIOR\nDARK\nSPOTLIGHT\nMOTORCYCLE\nEXTREME WIDE\n35MM\nBLACK\nCOOKE S4/ I\nGARETH SPENSLEY\nROBERT D. YEOMAN\nARRICAM LT\nARRICAM ST\nARRIFLEX 235\n1.37\nANDREW WEISBLUM",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707623614.webp",
+      "alt_text": "A$AP Rocky - L$D",
+      "discovered_at": "2025-09-11T15:32:59.703189",
+      "title": "A$AP Rocky - L$D (2015)",
+      "description": "Shot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Light Flash"
+      ],
+      "director": "Dexter Navy",
+      "dop": "Oliver Millar",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - L$D (2015)\nShot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).\nTechnique - Altered state , Drug trip , Light Flash\nDirector - Dexter Navy\nDOP - Oliver Millar\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703455739.webp",
+      "alt_text": "Severance",
+      "discovered_at": "2025-09-11T15:33:03.389169",
+      "title": "Severance (2022)",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "tags": [
+        "INTERIOR",
+        "PURPLE",
+        "SATURATED",
+        "OFFICE",
+        "PINK COLORFUL"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Happiness",
+        "Light Flash",
+        "Unsettling"
+      ],
+      "director": "Erica Freed Marker, Geoffrey Richman, Gershon Hinkson",
+      "dop": "Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "Severance (2022)\nMark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.\nTechnique - Close-Up , Happiness , Light Flash , Unsettling\nDirector - Ben Stiller\nDOP - Jessica Lee Gagné, Matt Mitchell, Suzie Lavelle\nEditor - Erica Freed Marker, Geoffrey Richman, Gershon Hinkson\nColorist - Company 3, Tom Poole\nINTERIOR\nPURPLE\nSATURATED\nOFFICE\nPINK COLORFUL",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710577001.webp",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "discovered_at": "2025-09-11T15:33:07.027444",
+      "title": "Ken Carson - Fighting My Demons (2023)",
+      "description": "The music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.",
+      "tags": [
+        "BLUE",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Spotlight"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Ken Carson - Fighting My Demons (2023)\nThe music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.\nTechnique - Light Flash , Spotlight\nDirector - Cole Bennett\nDOP - Franklin Ricart\nEditor - Cole Bennett\nColorist - Loren White\nOriginal Source - Link\nTutorial - Link\nBLUE\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742944.webp",
+      "alt_text": "ONHA - KODAK",
+      "discovered_at": "2025-09-11T15:33:10.700665",
+      "title": "ONHA - KODAK (2024)",
+      "description": "The music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.",
+      "tags": [
+        "ONHA - KODAK (2024)"
+      ],
+      "technique_tags": [
+        "Light Flash"
+      ],
+      "director": "M. Tikal",
+      "dop": "Virgil Leclercq",
+      "colorist": "Francois Dubois",
+      "original_source": "",
+      "additional_info": "ONHA - KODAK (2024)\nThe music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.\nTechnique - Light Flash\nDirector - Nitram\nDOP - Virgil Leclercq\nEditor - M. Tikal\nColorist - Francois Dubois\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710575854.webp",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "discovered_at": "2025-09-11T15:33:14.342025",
+      "title": "Ken Carson - Fighting My Demons (2023)",
+      "description": "The music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.",
+      "tags": [
+        "MALE",
+        "STROBE"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Silhouette"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Ken Carson - Fighting My Demons (2023)\nThe music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.\nTechnique - Light Flash , Silhouette\nDirector - Cole Bennett\nDOP - Franklin Ricart\nEditor - Cole Bennett\nColorist - Loren White\nOriginal Source - Link\nTutorial - Link\nMALE\nSTROBE",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/09/261715293076.webp",
+      "alt_text": "Inter Alia (Short Film)",
+      "discovered_at": "2025-09-11T15:33:17.468457",
+      "title": "Inter Alia (Short Film) (2023)",
+      "description": "A musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?",
+      "tags": [
+        "WOMAN",
+        "STUDIO",
+        "COLORFUL."
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Light Flash"
+      ],
+      "director": "Daniel Lawrence Wilson",
+      "dop": "Michael Fenton",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Inter Alia (Short Film) (2023)\nA musician is given everything. Money, fame, & more...but sometimes our dreams are just nightmares. After you arrive to your success, what comes next? Can you still find who you are after losing yourself? Is any of this even real?\nTechnique - Color Shift , Light Flash\nDirector - Daniel Lawrence Wilson\nDOP - Michael Fenton\nOriginal Source - Link\nWOMAN\nSTUDIO\nCOLORFUL.",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720163132.webp",
+      "alt_text": "Bree Runway - Just Like That",
+      "discovered_at": "2025-09-11T15:33:21.147238",
+      "title": "Bree Runway - Just Like That (2024)",
+      "description": "The \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.",
+      "tags": [
+        "FLASH",
+        "HEELS",
+        "PHOTOGRAPHY",
+        "FASHION"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Slow Motion",
+        "Trucking"
+      ],
+      "director": "Pietro Biz Biasia",
+      "dop": "Chaimuki",
+      "colorist": "Jon Dobson",
+      "original_source": "",
+      "additional_info": "Bree Runway - Just Like That (2024)\nThe \"Just Like That\" music video by Bree Runway is a vibrant and high-energy visual feast that showcases her bold fashion choices and dynamic choreography. Set against a variety of colorful backdrops, the video emphasizes Bree's confident persona and eclectic style, further establishing her as a rising star in the music industry.\nTechnique - Light Flash , Slow Motion , Trucking\nDirector - Pietro Biz Biasia\nDOP - Chaimuki\nColorist - Jon Dobson\nOriginal Source - Link\nFLASH\nHEELS\nPHOTOGRAPHY\nFASHION",
+      "page_url": "https://eyecannndy.com/technique/light-flash"
+    }
+  ]
 }

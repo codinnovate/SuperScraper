@@ -1,1054 +1,796 @@
 {
   "technique": "breakdown",
-  "video_count": 53,
-  "generated_at": "2025-09-05T04:03:29.613295",
+  "scrape_info": {
+    "timestamp": "20250911_075354",
+    "total_videos": 33,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403949.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.947960",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982231.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948068",
-      "element_tag": "img",
-      "title": "Star Wars: Force Awakens (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Star Wars: Force Awakens (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711256303.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948135",
-      "element_tag": "img",
-      "title": "Rema - Trouble Maker",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Rema - Trouble Maker",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701130.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948204",
-      "element_tag": "img",
-      "title": "The Shape of Water (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "The Shape of Water (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711256197.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948260",
-      "element_tag": "img",
-      "title": "Rema - Trouble Maker",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Rema - Trouble Maker",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982797.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948315",
-      "element_tag": "img",
-      "title": "Fantastic Beasts and Where To Find Them (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Fantastic Beasts and Where To Find Them (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708473082.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948368",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703055180.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948425",
-      "element_tag": "img",
-      "title": "Nope",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Nope",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508060.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948480",
-      "element_tag": "img",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704507761.webp",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-11T07:51:56.991313",
       "title": "Clip from Mikhail Parkhomenko",
       "description": "",
-      "category": "breakdown",
-      "alt_text": "Clip from Mikhail Parkhomenko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711433463.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948533",
-      "element_tag": "img",
-      "title": "Yung Jake - Unfollow",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Yung Jake - Unfollow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708472897.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948583",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702981610.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948634",
-      "element_tag": "img",
-      "title": "Batman: Arkham Knight (Video Game)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Batman: Arkham Knight (Video Game)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474559.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948687",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172031.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948738",
-      "element_tag": "img",
-      "title": "Doechii - DENIAL IS A RIVER",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Doechii - DENIAL IS A RIVER",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702981423.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948788",
-      "element_tag": "img",
-      "title": "Star Wars: Force Awakens (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Star Wars: Force Awakens (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474514.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948836",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700653.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948888",
-      "element_tag": "img",
-      "title": "@actionvfx / Giphy",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "@actionvfx / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "CAR",
+        "INTERIOR",
+        "STUDIO",
+        "GREEN SCREEN"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nShot breakdown: VFX breakdown\nTechnique - BTS\nDirector - Mikhail Parkhomenko (parh0)\nCAR\nINTERIOR\nSTUDIO\nGREEN SCREEN",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700697.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948938",
-      "element_tag": "img",
+      "alt_text": "@actionvfx / Giphy",
+      "discovered_at": "2025-09-11T07:52:00.616352",
       "title": "@actionvfx / Giphy",
       "description": "",
-      "category": "breakdown",
-      "alt_text": "@actionvfx / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982429.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.948990",
-      "element_tag": "img",
-      "title": "Star Wars: The Last Jedi (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Star Wars: The Last Jedi (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702979491.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949042",
-      "element_tag": "img",
-      "title": "Deadpool (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Deadpool (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "MALE",
+        "EXPLOSION",
+        "BLUE SKY",
+        "VFX",
+        "BREAKDOWN",
+        "SUIT",
+        "SUNNY",
+        "FIRE",
+        "WIDE SHOT",
+        "DAY TIME",
+        "TOWN",
+        "DAYTIME",
+        "SMALL TOWN"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@actionvfx / Giphy\nTechnique - BTS\nMALE\nEXPLOSION\nBLUE SKY\nVFX\nBREAKDOWN\nSUIT\nSUNNY\nFIRE\nWIDE SHOT\nDAY TIME\nTOWN\nDAYTIME\nSMALL TOWN",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703403949.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949092",
-      "element_tag": "img",
-      "title": "adidas Originals - Original Is Never Finished",
-      "description": "",
-      "category": "breakdown",
       "alt_text": "adidas Originals - Original Is Never Finished",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:52:04.223177",
+      "title": "adidas Originals - Original Is Never Finished (2018)",
+      "description": "The second installment of the now iconic Original is Never Finished campaign. We'd identify this clip as a pedestal shot VFX breakdown. As we ascend higher, the post-production begins to fall away until all that is left is the studio it was shot in.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "STUDIO",
+        "VFX",
+        "BREAKDOWN",
+        "GREEN SCREEN"
+      ],
+      "technique_tags": [
+        "BTS",
+        "Pedestal"
+      ],
+      "director": "Christie Brown, Gian Buazulli",
+      "dop": "Mattias Rudh",
+      "colorist": "Company 3, Tom Poole",
+      "original_source": "",
+      "additional_info": "adidas Originals - Original Is Never Finished (2018)\nThe second installment of the now iconic Original is Never Finished campaign. We'd identify this clip as a pedestal shot VFX breakdown. As we ascend higher, the post-production begins to fall away until all that is left is the studio it was shot in.\nTechnique - BTS , Pedestal\nDirector - Manu Cossu\nDOP - Mattias Rudh\nEditor - Christie Brown, Gian Buazulli\nColorist - Company 3, Tom Poole\nOriginal Source - Link\nSTUDIO\nVFX\nBREAKDOWN\nGREEN SCREEN",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982231.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949142",
-      "element_tag": "img",
-      "title": "Star Wars: Force Awakens (Breakdown)",
-      "description": "",
-      "category": "breakdown",
       "alt_text": "Star Wars: Force Awakens (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:52:07.828895",
+      "title": "Star Wars: Force Awakens (Breakdown) (2015)",
+      "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711256303.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949191",
-      "element_tag": "img",
-      "title": "Rema - Trouble Maker",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Rema - Trouble Maker",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701130.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949238",
-      "element_tag": "img",
-      "title": "The Shape of Water (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "The Shape of Water (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711256197.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949284",
-      "element_tag": "img",
-      "title": "Rema - Trouble Maker",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Rema - Trouble Maker",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982797.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949331",
-      "element_tag": "img",
-      "title": "Fantastic Beasts and Where To Find Them (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Fantastic Beasts and Where To Find Them (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708473082.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949377",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703055180.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949423",
-      "element_tag": "img",
-      "title": "Nope",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Nope",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508060.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949470",
-      "element_tag": "img",
-      "title": "Clip from Mikhail Parkhomenko",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Clip from Mikhail Parkhomenko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711433463.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949516",
-      "element_tag": "img",
-      "title": "Yung Jake - Unfollow",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Yung Jake - Unfollow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708472897.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949562",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702981610.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949609",
-      "element_tag": "img",
-      "title": "Batman: Arkham Knight (Video Game)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Batman: Arkham Knight (Video Game)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "DAY",
+        "VFX",
+        "BREAKDOWN",
+        "EXTERIOR",
+        "JJ ABRAMS",
+        "STAR WARS",
+        "SPACE SHIP"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Maryann Brandon, Mary Jo Markey",
+      "dop": "Dan Mindel",
+      "colorist": "Juan Ignacio Cabrera",
+      "original_source": "",
+      "additional_info": "Star Wars: Force Awakens (Breakdown) (2015)\nAs a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.\nTechnique - BTS\nDirector - J.J. Abrams\nDOP - Dan Mindel\nEditor - Maryann Brandon, Mary Jo Markey\nColorist - Juan Ignacio Cabrera\nDAY\nVFX\nBREAKDOWN\nEXTERIOR\nJJ ABRAMS\nSTAR WARS\nSPACE SHIP",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474559.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949655",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "breakdown",
       "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:52:11.428458",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172031.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949702",
-      "element_tag": "img",
-      "title": "Doechii - DENIAL IS A RIVER",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Doechii - DENIAL IS A RIVER",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702981423.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949749",
-      "element_tag": "img",
-      "title": "Star Wars: Force Awakens (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Star Wars: Force Awakens (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474514.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949796",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700653.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949842",
-      "element_tag": "img",
-      "title": "@actionvfx / Giphy",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "@actionvfx / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700697.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949888",
-      "element_tag": "img",
-      "title": "@actionvfx / Giphy",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "@actionvfx / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982429.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949934",
-      "element_tag": "img",
-      "title": "Star Wars: The Last Jedi (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Star Wars: The Last Jedi (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702979491.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.949980",
-      "element_tag": "img",
-      "title": "Deadpool (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Deadpool (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700631.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950030",
-      "element_tag": "img",
-      "title": "@actionvfx / Giphy",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "@actionvfx / Giphy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982208.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950087",
-      "element_tag": "img",
-      "title": "Game of Thrones S6E5 (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Game of Thrones S6E5 (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700854.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950141",
-      "element_tag": "img",
-      "title": "Original Source: The Walk",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Original Source: The Walk",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "GREEN SCREEN",
+        "EDITING",
+        "PARACHUTING"
+      ],
+      "technique_tags": [
+        "BTS",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - BTS , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nDAY\nEXTERIOR\nGREEN SCREEN\nEDITING\nPARACHUTING",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474105.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950197",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "breakdown",
       "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:52:15.050030",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DANCING",
+        "GREEN SCREEN",
+        "EDITING"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "BTS",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , BTS , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nDANCING\nGREEN SCREEN\nEDITING",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700891.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950250",
-      "element_tag": "img",
-      "title": "Source Unknown",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700631.webp",
+      "alt_text": "@actionvfx / Giphy",
+      "discovered_at": "2025-09-11T07:52:18.162839",
+      "title": "@actionvfx / Giphy",
       "description": "",
-      "category": "breakdown",
-      "alt_text": "Source Unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702983156.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950305",
-      "element_tag": "img",
-      "title": "Doctor Strange (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Doctor Strange (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701052.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950357",
-      "element_tag": "img",
-      "title": "The Martian",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "The Martian",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982759.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950412",
-      "element_tag": "img",
-      "title": "Fantastic Beasts and Where To Find Them (Breakdown)",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Fantastic Beasts and Where To Find Them (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474164.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950463",
-      "element_tag": "img",
-      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702981812.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950516",
-      "element_tag": "img",
-      "title": "Guardians of the Galaxy Vol. 2",
-      "description": "",
-      "category": "breakdown",
-      "alt_text": "Guardians of the Galaxy Vol. 2",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "CAR",
+        "WARM",
+        "VFX",
+        "BREAKDOWN",
+        "NIGHT TIME",
+        "ORANGE",
+        "HEADLIGHTS",
+        "RAINING"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@actionvfx / Giphy\nTechnique - BTS\nCAR\nWARM\nVFX\nBREAKDOWN\nNIGHT TIME\nORANGE\nHEADLIGHTS\nRAINING",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701232.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950566",
-      "element_tag": "img",
-      "title": "Harry Potter and the Prisoner of Azkaban (Breakdown)",
-      "description": "",
-      "category": "breakdown",
       "alt_text": "Harry Potter and the Prisoner of Azkaban (Breakdown)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:52:21.283443",
+      "title": "Harry Potter and the Prisoner of Azkaban (Breakdown) (2004)",
+      "description": "Harry Potter and the Prisoner of Azkaban (Breakdown) (2004)",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "VFX",
+        "HARRY POTTER",
+        "AZKABAN",
+        "BREAKDOWN",
+        "SNITCH",
+        "GREEN SCREEN",
+        "BROOMSTICK",
+        "DANIEL RADCLIFFE"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Steven Weisberg",
+      "dop": "Michael Seresin",
+      "colorist": "Mel Kangleon",
+      "original_source": "",
+      "additional_info": "Harry Potter and the Prisoner of Azkaban (Breakdown) (2004)\nTechnique - BTS\nDirector - Alfonso Cuarón\nDOP - Michael Seresin\nEditor - Steven Weisberg\nColorist - Mel Kangleon\nVFX\nHARRY POTTER\nAZKABAN\nBREAKDOWN\nSNITCH\nGREEN SCREEN\nBROOMSTICK\nDANIEL RADCLIFFE",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704507761.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950615",
-      "element_tag": "img",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701130.webp",
+      "alt_text": "The Shape of Water (Breakdown)",
+      "discovered_at": "2025-09-11T07:52:24.394121",
+      "title": "The Shape of Water (Breakdown) (2017)",
+      "description": "",
+      "tags": [
+        "WATER",
+        "SKY",
+        "VFX",
+        "BREAKDOWN",
+        "CLOUDS",
+        "REFLECTION",
+        "SHAPE OF WATER",
+        "GUILLERMO DEL TORO",
+        "CITY"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Sidney Wolinsky",
+      "dop": "Dan Laustsen",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Shape of Water (Breakdown) (2017)\nTechnique - BTS\nDirector - Guillermo del Toro\nDOP - Dan Laustsen\nEditor - Sidney Wolinsky\nWATER\nSKY\nVFX\nBREAKDOWN\nCLOUDS\nREFLECTION\nSHAPE OF WATER\nGUILLERMO DEL TORO\nCITY",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703055180.webp",
+      "alt_text": "Nope",
+      "discovered_at": "2025-09-11T07:52:28.026908",
+      "title": "Nope (2022)",
+      "description": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
+      "tags": [
+        "DAY",
+        "VFX",
+        "BREAKDOWN",
+        "GREEN SCREEN",
+        "65MM",
+        "PANAVISION 65 HR",
+        "PANAVISION SYSTEM 65M",
+        "DANIEL KALUUYA",
+        "2020S",
+        "GREG FISHER",
+        "HOYTE VAN HOYTEMA",
+        "COMPANY 3",
+        "NICHOLAS MONSOUR",
+        "JORDAN PEELE"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Nicholas Monsour",
+      "dop": "Hoyte van Hoytema",
+      "colorist": "Company 3, Greg Fisher",
+      "original_source": "",
+      "additional_info": "Nope (2022)\nThe residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.\nTechnique - BTS\nDirector - Jordan Peele\nDOP - Hoyte van Hoytema\nEditor - Nicholas Monsour\nColorist - Company 3, Greg Fisher\nDAY\n2022\nVFX\nBREAKDOWN\nGREEN SCREEN\n65MM\nPANAVISION 65 HR\nPANAVISION SYSTEM 65M\nDANIEL KALUUYA\n1.78\n2020S\nGREG FISHER\nHOYTE VAN HOYTEMA\nCOMPANY 3\nNICHOLAS MONSOUR\nJORDAN PEELE",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711433463.webp",
+      "alt_text": "Yung Jake - Unfollow",
+      "discovered_at": "2025-09-11T07:52:31.151539",
+      "title": "Yung Jake - Unfollow (2014)",
+      "description": "\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.",
+      "tags": [
+        "PHOTOSHOP"
+      ],
+      "technique_tags": [
+        "BTS",
+        "Two Shot"
+      ],
+      "director": "Yung Jake",
+      "dop": "Temra Pavlovic",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Yung Jake - Unfollow (2014)\n\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.\nTechnique - BTS , Two Shot\nDirector - Yung Jake\nDOP - Temra Pavlovic\nOriginal Source - Link\nPHOTOSHOP",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708473082.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T07:52:36.333039",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "PLANE",
+        "LIL NAS X",
+        "EDITING",
+        "STOCK FOOTAGE"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "BTS",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , BTS , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nPLANE\nLIL NAS X\nEDITING\nSTOCK FOOTAGE",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702701052.webp",
+      "alt_text": "The Martian",
+      "discovered_at": "2025-09-11T07:52:46.141679",
+      "title": "The Martian (2015)",
+      "description": "",
+      "tags": [
+        "OUTDOORS",
+        "EXTERIOR",
+        "SPACESUIT",
+        "SPACE SUIT",
+        "GREEN SCREEN",
+        "MATT DAMON",
+        "MARS"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Pietro Scalia",
+      "dop": "Dariusz Wolski",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Martian (2015)\nTechnique - BTS\nDirector - Ridley Scott\nDOP - Dariusz Wolski\nEditor - Pietro Scalia\nOUTDOORS\nEXTERIOR\nSPACESUIT\nSPACE SUIT\nGREEN SCREEN\nMATT DAMON\nMARS",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982429.webp",
+      "alt_text": "Star Wars: The Last Jedi (Breakdown)",
+      "discovered_at": "2025-09-11T07:52:49.794318",
+      "title": "Star Wars: The Last Jedi (Breakdown) (2017)",
+      "description": "The Star Wars saga continues as new heroes and galactic legends go on an epic adventure, unlocking mysteries of the Force and shocking revelations of the past.",
+      "tags": [],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Bob Ducsay",
+      "dop": "Steve Yedlin",
+      "colorist": "Walter Volpatto",
+      "original_source": "",
+      "additional_info": "Star Wars: The Last Jedi (Breakdown) (2017)\nThe Star Wars saga continues as new heroes and galactic legends go on an epic adventure, unlocking mysteries of the Force and shocking revelations of the past.\nTechnique - BTS\nDirector - Rian Johnson\nDOP - Steve Yedlin\nEditor - Bob Ducsay\nColorist - Walter Volpatto",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711256197.webp",
+      "alt_text": "Rema - Trouble Maker",
+      "discovered_at": "2025-09-11T07:52:53.433192",
+      "title": "Rema - Trouble Maker (2023)",
+      "description": "The \"Trouble Maker\" music video by Rema, directed by Meji Alabi, features vibrant visuals and dynamic choreography that emphasize themes of triumph and resilience. Enhanced by Blaisebeatz's production, it provides a cinematic experience that complements the track's infectious beats. The video showcases Rema's unique style and artistic versatility.",
+      "tags": [
+        "MALE",
+        "MUSIC VIDEO",
+        "STUDIO"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Matt Newmann, Trim Editing",
+      "dop": "Stefan Yap",
+      "colorist": "Ana Escorse",
+      "original_source": "",
+      "additional_info": "Rema - Trouble Maker (2023)\nThe \"Trouble Maker\" music video by Rema, directed by Meji Alabi, features vibrant visuals and dynamic choreography that emphasize themes of triumph and resilience. Enhanced by Blaisebeatz's production, it provides a cinematic experience that complements the track's infectious beats. The video showcases Rema's unique style and artistic versatility.\nTechnique - BTS\nDirector - Meji Alabi\nDOP - Stefan Yap\nEditor - Matt Newmann, Trim Editing\nColorist - Ana Escorse\nOriginal Source - Link\nMALE\nMUSIC VIDEO\nSTUDIO",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474164.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T07:52:56.564576",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "DANCING",
+        "GREEN SCREEN",
+        "EDITING"
+      ],
+      "technique_tags": [
+        "Background replacement",
+        "BTS",
+        "Flying",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - Background replacement , BTS , Flying , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nDANCING\nGREEN SCREEN\nEDITING",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711256303.webp",
+      "alt_text": "Rema - Trouble Maker",
+      "discovered_at": "2025-09-11T07:53:00.209034",
+      "title": "Rema - Trouble Maker (2023)",
+      "description": "The \"Trouble Maker\" music video by Rema, directed by Meji Alabi, features vibrant visuals and dynamic choreography that emphasize themes of triumph and resilience. Enhanced by Blaisebeatz's production, it provides a cinematic experience that complements the track's infectious beats. The video showcases Rema's unique style and artistic versatility.",
+      "tags": [
+        "MALE",
+        "MUSIC VIDEO",
+        "STUDIO"
+      ],
+      "technique_tags": [
+        "BTS",
+        "Spotlight",
+        "Void",
+        "Wide shot"
+      ],
+      "director": "Matt Newmann, Trim Editing",
+      "dop": "Stefan Yap",
+      "colorist": "Ana Escorse",
+      "original_source": "",
+      "additional_info": "Rema - Trouble Maker (2023)\nThe \"Trouble Maker\" music video by Rema, directed by Meji Alabi, features vibrant visuals and dynamic choreography that emphasize themes of triumph and resilience. Enhanced by Blaisebeatz's production, it provides a cinematic experience that complements the track's infectious beats. The video showcases Rema's unique style and artistic versatility.\nTechnique - BTS , Spotlight , Void , Wide shot\nDirector - Meji Alabi\nDOP - Stefan Yap\nEditor - Matt Newmann, Trim Editing\nColorist - Ana Escorse\nOriginal Source - Link\nMALE\nMUSIC VIDEO\nSTUDIO",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702981423.webp",
+      "alt_text": "Star Wars: Force Awakens (Breakdown)",
+      "discovered_at": "2025-09-11T07:53:03.859213",
+      "title": "Star Wars: Force Awakens (Breakdown) (2015)",
+      "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
+      "tags": [
+        "DAY",
+        "VFX",
+        "BREAKDOWN",
+        "EXTERIOR",
+        "JJ ABRAMS",
+        "STAR WARS",
+        "SPACE SHIP"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Maryann Brandon, Mary Jo Markey",
+      "dop": "Dan Mindel",
+      "colorist": "Juan Ignacio Cabrera",
+      "original_source": "",
+      "additional_info": "Star Wars: Force Awakens (Breakdown) (2015)\nAs a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.\nTechnique - BTS\nDirector - J.J. Abrams\nDOP - Dan Mindel\nEditor - Maryann Brandon, Mary Jo Markey\nColorist - Juan Ignacio Cabrera\nDAY\nVFX\nBREAKDOWN\nEXTERIOR\nJJ ABRAMS\nSTAR WARS\nSPACE SHIP",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982759.webp",
+      "alt_text": "Fantastic Beasts and Where To Find Them (Breakdown)",
+      "discovered_at": "2025-09-11T07:53:06.990896",
+      "title": "Fantastic Beasts and Where To Find Them (Breakdown) (2016)",
+      "description": "The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.",
+      "tags": [
+        "STUDIO",
+        "VFX",
+        "BREAKDOWN",
+        "EXTERIOR",
+        "GREEN SCREEN"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Mark Day",
+      "dop": "Philippe Rousselot",
+      "colorist": "Peter Doyle",
+      "original_source": "",
+      "additional_info": "Fantastic Beasts and Where To Find Them (Breakdown) (2016)\nThe adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.\nTechnique - BTS\nDirector - David Yates\nDOP - Philippe Rousselot\nEditor - Mark Day\nColorist - Peter Doyle\nSTUDIO\nVFX\nBREAKDOWN\nEXTERIOR\nGREEN SCREEN",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702981812.webp",
+      "alt_text": "Guardians of the Galaxy Vol. 2",
+      "discovered_at": "2025-09-11T07:53:10.634382",
+      "title": "Guardians of the Galaxy Vol. 2 (2017)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Fred Raskin",
+      "dop": "Henry Braham",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Guardians of the Galaxy Vol. 2 (2017)\nTechnique - BTS\nDirector - James Gunn\nDOP - Henry Braham\nEditor - Fred Raskin",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508060.webp",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-11T07:53:13.773920",
       "title": "Clip from Mikhail Parkhomenko",
       "description": "",
-      "category": "breakdown",
-      "alt_text": "Clip from Mikhail Parkhomenko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "CAR",
+        "CLOUDS",
+        "EXTERIOR",
+        "SUPER ZOOM",
+        "HIGH ANGLE",
+        "AERIAL",
+        "MEGAPHONE",
+        "PARKING LOT",
+        "CAR LOT",
+        "CAR DEALERSHIP"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nShot: High angle VFX breakdown + super zoom out\nTechnique - BTS\nDirector - Mikhail Parkhomenko (parh0)\nCAR\nCLOUDS\nEXTERIOR\nSUPER ZOOM\nHIGH ANGLE\nAERIAL\nMEGAPHONE\nPARKING LOT\nCAR LOT\nCAR DEALERSHIP",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702979491.webp",
+      "alt_text": "Deadpool (Breakdown)",
+      "discovered_at": "2025-09-11T07:53:16.892111",
+      "title": "Deadpool (Breakdown) (2016)",
+      "description": "A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks.",
+      "tags": [],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Julian Clarke",
+      "dop": "Ken Seng",
+      "colorist": "Tim Stipan",
+      "original_source": "",
+      "additional_info": "Deadpool (Breakdown) (2016)\nA wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks.\nTechnique - BTS\nDirector - Terri Timely, Tim Miller\nDOP - Ken Seng\nEditor - Julian Clarke\nColorist - Tim Stipan",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700826.webp",
-      "page_url": "https://eyecannndy.com/technique/breakdown",
-      "discovered_at": "2025-09-05T03:22:37.950667",
-      "element_tag": "img",
-      "title": "Original Source: The Matrix",
-      "description": "",
-      "category": "breakdown",
       "alt_text": "Original Source: The Matrix",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T07:53:20.018597",
+      "title": "Original Source: The Matrix (1999)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "90S",
+        "VFX",
+        "BREAKDOWN",
+        "1990S",
+        "GREEN SCREEN",
+        "THE MATRIX",
+        "WACHOWSKIS",
+        "BULLET TIME",
+        "MATRIX",
+        "WACHOWSKI",
+        "KEANU REEVES"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Action",
+        "BTS"
+      ],
+      "director": "Zach Staenberg",
+      "dop": "Bill Pope",
+      "colorist": "David Orr",
+      "original_source": "",
+      "additional_info": "Original Source: The Matrix (1999)\nTechnique - 1990s , Action , BTS\nDirector - The Wachowskis\nDOP - Bill Pope\nEditor - Zach Staenberg\nColorist - David Orr\n1999\n90S\nVFX\nBREAKDOWN\n1990S\nGREEN SCREEN\nTHE MATRIX\nWACHOWSKIS\nBULLET TIME\nMATRIX\nWACHOWSKI\nKEANU REEVES",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982797.webp",
+      "alt_text": "Fantastic Beasts and Where To Find Them (Breakdown)",
+      "discovered_at": "2025-09-11T07:53:23.697005",
+      "title": "Fantastic Beasts and Where To Find Them (Breakdown) (2016)",
+      "description": "The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.",
+      "tags": [
+        "VFX",
+        "HARRY POTTER",
+        "EXTERIOR",
+        "VFX BREAKDOWN"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Mark Day",
+      "dop": "Philippe Rousselot",
+      "colorist": "Peter Doyle",
+      "original_source": "",
+      "additional_info": "Fantastic Beasts and Where To Find Them (Breakdown) (2016)\nThe adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.\nTechnique - BTS\nDirector - David Yates\nDOP - Philippe Rousselot\nEditor - Mark Day\nColorist - Peter Doyle\nVFX\nHARRY POTTER\nEXTERIOR\nVFX BREAKDOWN",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702983156.webp",
+      "alt_text": "Doctor Strange (Breakdown)",
+      "discovered_at": "2025-09-11T07:53:27.322915",
+      "title": "Doctor Strange (Breakdown) (2016)",
+      "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+      "tags": [
+        "INTERIOR",
+        "VFX",
+        "BREAKDOWN",
+        "DARK",
+        "COOL",
+        "BENEDICT CUMBERBATCH",
+        "VFX BREAKDOWN"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Sabrina Plisco",
+      "dop": "Ben Davis",
+      "colorist": "Steven J. Scott",
+      "original_source": "",
+      "additional_info": "Doctor Strange (Breakdown) (2016)\nWhile on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.\nTechnique - BTS\nDirector - Scott Derrickson\nDOP - Ben Davis\nEditor - Sabrina Plisco\nColorist - Steven J. Scott\nINTERIOR\nVFX\nBREAKDOWN\nDARK\nCOOL\nBENEDICT CUMBERBATCH\nVFX BREAKDOWN",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702982208.webp",
+      "alt_text": "Game of Thrones S6E5 (Breakdown)",
+      "discovered_at": "2025-09-11T07:53:30.972422",
+      "title": "Game of Thrones S6E5 (Breakdown) (2016)",
+      "description": "Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door!",
+      "tags": [],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Crispin Green",
+      "dop": "Jonathan Freeman",
+      "colorist": "Joe Finley",
+      "original_source": "",
+      "additional_info": "Game of Thrones S6E5 (Breakdown) (2016)\nHold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door! Hold the door!\nTechnique - BTS\nDirector - Jack Bender\nDOP - Jonathan Freeman\nEditor - Crispin Green\nColorist - Joe Finley",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708472897.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T07:53:34.135622",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "PLANE",
+        "LIL NAS X",
+        "EDITING",
+        "STOCK FOOTAGE"
+      ],
+      "technique_tags": [
+        "BTS",
+        "Screen Transition"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - BTS , Screen Transition\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nPLANE\nLIL NAS X\nEDITING\nSTOCK FOOTAGE",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702981610.webp",
+      "alt_text": "Batman: Arkham Knight (Video Game)",
+      "discovered_at": "2025-09-11T07:53:37.784598",
+      "title": "Batman: Arkham Knight (Video Game) (2015)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Sefton Hill",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Batman: Arkham Knight (Video Game) (2015)\nTechnique - BTS\nDirector - Sefton Hill",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700891.webp",
+      "alt_text": "Source Unknown",
+      "discovered_at": "2025-09-11T07:53:41.442857",
+      "title": "Source Unknown",
+      "description": "",
+      "tags": [
+        "MALE",
+        "BREAKDOWN",
+        "SHADOW BOX",
+        "STACKED",
+        "LAYERS",
+        "MOUNTAIN",
+        "FIRE"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source Unknown\nKnow the source? Please email jacobi@eycndy.com\nTechnique - BTS\nMALE\nBREAKDOWN\nSHADOW BOX\nSTACKED\nLAYERS\nMOUNTAIN\nFIRE",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700854.webp",
+      "alt_text": "Original Source: The Walk",
+      "discovered_at": "2025-09-11T07:53:44.584184",
+      "title": "Original Source: The Walk (2015)",
+      "description": "",
+      "tags": [
+        "VFX",
+        "BUILDING",
+        "NYC",
+        "GREEN SCREEN",
+        "CITY",
+        "FOG",
+        "TWIN TOWERS",
+        "NEW YORK",
+        "NEW YORK CITY",
+        "TIGHT ROPE"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Jeremiah O'Driscoll",
+      "dop": "Dariusz Wolski",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Original Source: The Walk (2015)\nTechnique - BTS\nDirector - Robert Zemeckis\nDOP - Dariusz Wolski\nEditor - Jeremiah O'Driscoll\nTutorial - Link\nVFX\nBUILDING\nNYC\nGREEN SCREEN\nCITY\nFOG\nTWIN TOWERS\nNEW YORK\nNEW YORK CITY\nTIGHT ROPE",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2025/02/10/261739172031.webp",
+      "alt_text": "Doechii - DENIAL IS A RIVER",
+      "discovered_at": "2025-09-11T07:53:47.729207",
+      "title": "Doechii - DENIAL IS A RIVER (2025)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "SET",
+        "MOVIE STAGE",
+        "STUDIO AUDIENCE"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "Rock Paper Scissors, Sebastian Zotoff",
+      "dop": "Nico Aguilar",
+      "colorist": "Bryan Smaller",
+      "original_source": "",
+      "additional_info": "Doechii - DENIAL IS A RIVER (2025)\nDoechii's \"Denial Is a River\" (2025) reimagines her life as a '90s sitcom, inspired by Family Matters, with a nostalgic title sequence and a star-studded cast including Zack Fox, ScHoolboy Q, and Teezo Touchdown. Blending humor and introspection, the video playfully navigates sitcom-style scenarios that reflect her personal and professional journey. Directors: Carlos Acosta & James Mackel EPs: Moosa Tiffith & Anthony “Top Dawg” Tiffith Production Company: LOTUMN Executive Producer / Producer: Autumn Maschi Executive Producer: Loris Russier Creative Director: Doechii, Moosa Tiffith, & BMR.Nem Director of Photography: Nico Aguilar Production Designer: Hensel Martinez TDE Creative Producer: Langston Siebens Production Manager: Kai Lusk Production Coordinator: Kate Kramnaia, Alex Turner 1st AD: Daniel Bennaiem 2nd AD: Delaney Forrey 1st AC: Hannah Lee 2nd AC: McKay Todd, Marianna Vashchilenko DIT: Pete Aguirre Camera Operator: Chloe Smolkin, Cordell Jomha",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708474514.webp",
+      "alt_text": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party",
+      "discovered_at": "2025-09-11T07:53:51.408432",
+      "title": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)",
+      "description": "The music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.",
+      "tags": [
+        "CONCERT",
+        "EDITING",
+        "BET AWARDS"
+      ],
+      "technique_tags": [
+        "BTS",
+        "Stylistic Suck"
+      ],
+      "director": "Chris Villa",
+      "dop": "Russ Fraser",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lil Nas X, Youngboy Never Broke Again - Late To Da Party (2022)\nThe music video for \"Late to da Party (F*ck BET)\" by Lil Nas X and YoungBoy Never Broke Again features provocative imagery, including Lil Nas X urinating on a BET Award, to criticize and satirize the entertainment industry, particularly for Lil Nas X's exclusion from BET Awards nominations.\nTechnique - BTS , Stylistic Suck\nDirector - Gibson Hazard\nDOP - Russ Fraser\nEditor - Chris Villa\nOriginal Source - Link\nCONCERT\nEDITING\nBET AWARDS",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702700653.webp",
+      "alt_text": "@actionvfx / Giphy",
+      "discovered_at": "2025-09-11T07:53:54.535781",
+      "title": "@actionvfx / Giphy",
+      "description": "",
+      "tags": [
+        "NATURE",
+        "OUTDOORS",
+        "VFX",
+        "BREAKDOWN",
+        "EXTERIOR",
+        "SMOKE",
+        "FIRE",
+        "FOREST FIRE",
+        "BURN",
+        "NIGHTTIME",
+        "TREES",
+        "NIGHT TIME"
+      ],
+      "technique_tags": [
+        "BTS"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@actionvfx / Giphy\nTechnique - BTS\nNATURE\nOUTDOORS\nVFX\nBREAKDOWN\nEXTERIOR\nSMOKE\nFIRE\nFOREST FIRE\nBURN\nNIGHTTIME\nTREES\nNIGHT TIME",
+      "page_url": "https://eyecannndy.com/technique/breakdown"
     }
   ]
 }

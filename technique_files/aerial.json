@@ -1,1263 +1,1023 @@
 {
   "technique": "aerial",
-  "video_count": 64,
-  "generated_at": "2025-09-05T04:03:29.602466",
+  "scrape_info": {
+    "timestamp": "20250911_084842",
+    "total_videos": 44,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710664164.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.372423",
-      "element_tag": "img",
-      "title": "Noah",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Noah",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626497.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.372662",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403204.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.372759",
-      "element_tag": "img",
-      "title": "Talladega Nights: The Ballad of Ricky Bobby",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164595.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.372836",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707627103.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.372915",
-      "element_tag": "img",
-      "title": "Enter the Void",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Enter the Void",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538069.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.372985",
-      "element_tag": "img",
-      "title": "Miel De Montagne - Le Pigeon",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Miel De Montagne - Le Pigeon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/03/261704256739.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373058",
-      "element_tag": "img",
-      "title": "Fast motion clip from Nohyal",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Fast motion clip from Nohyal",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237793.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373126",
-      "element_tag": "img",
-      "title": "Dune: Part Two",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Dune: Part Two",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077050.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373193",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368615.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373259",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704369836.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373322",
-      "element_tag": "img",
-      "title": "IG / @the.vantage.point",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "IG / @the.vantage.point",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709330025.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373386",
-      "element_tag": "img",
-      "title": "Graubünden - Best Version (DC)",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Graubünden - Best Version (DC)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368399.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373450",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164658.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373513",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368663.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373576",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373641",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345479.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373704",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704835059.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373768",
-      "element_tag": "img",
-      "title": "Nike - Nothing Beats a Londoner",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Nike - Nothing Beats a Londoner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709342086.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373832",
-      "element_tag": "img",
-      "title": "AJ Tracey - Wifey Riddim 4",
-      "description": "",
-      "category": "aerial",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/02/AJ_Tracey_-_Wifey_Riddim_4_Official_Video_l3WA2gF/0e72c47150eb9b9e15efe19feb5f34d3.gif",
       "alt_text": "AJ Tracey - Wifey Riddim 4",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "discovered_at": "2025-09-11T08:45:56.542840",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/aerial"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329389.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373894",
-      "element_tag": "img",
-      "title": "Graubünden - Best Version (DC)",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Graubünden - Best Version (DC)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710664164.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.373956",
-      "element_tag": "img",
-      "title": "Noah",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Noah",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626497.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374016",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403204.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374074",
-      "element_tag": "img",
-      "title": "Talladega Nights: The Ballad of Ricky Bobby",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164595.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374132",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707627103.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374190",
-      "element_tag": "img",
-      "title": "Enter the Void",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Enter the Void",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538069.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374247",
-      "element_tag": "img",
-      "title": "Miel De Montagne - Le Pigeon",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Miel De Montagne - Le Pigeon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/03/261704256739.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374308",
-      "element_tag": "img",
-      "title": "Fast motion clip from Nohyal",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Fast motion clip from Nohyal",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/20/261716237793.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374367",
-      "element_tag": "img",
-      "title": "Dune: Part Two",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Dune: Part Two",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077050.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374426",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368615.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374479",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704369836.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374530",
-      "element_tag": "img",
-      "title": "IG / @the.vantage.point",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "IG / @the.vantage.point",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709330025.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374581",
-      "element_tag": "img",
-      "title": "Graubünden - Best Version (DC)",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Graubünden - Best Version (DC)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368399.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374632",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164658.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374684",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368663.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374736",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374788",
-      "element_tag": "img",
-      "title": "The Shining",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "The Shining",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345479.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374841",
-      "element_tag": "img",
-      "title": "Beastie Boys - An Open Letter To NYC",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Beastie Boys - An Open Letter To NYC",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704835059.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374893",
-      "element_tag": "img",
-      "title": "Nike - Nothing Beats a Londoner",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Nike - Nothing Beats a Londoner",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/02/261709342086.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374944",
-      "element_tag": "img",
-      "title": "AJ Tracey - Wifey Riddim 4",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "AJ Tracey - Wifey Riddim 4",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329389.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.374995",
-      "element_tag": "img",
-      "title": "Graubünden - Best Version (DC)",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Graubünden - Best Version (DC)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704529422.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375050",
-      "element_tag": "img",
-      "title": "Morgan x Orlebar Brown feat. Karl Shakur",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Morgan x Orlebar Brown feat. Karl Shakur",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710313129.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375110",
-      "element_tag": "img",
-      "title": "Reddit user BW3D",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Reddit user BW3D",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711346859.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375166",
-      "element_tag": "img",
-      "title": "Tiny Cyberpunk 2077 by Flurdeh",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Tiny Cyberpunk 2077 by Flurdeh",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710225646.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375223",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123075.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375278",
-      "element_tag": "img",
-      "title": "Canon - Live for the Story",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Canon - Live for the Story",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812336.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375337",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076286.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375396",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021457.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375453",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704365041.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375508",
-      "element_tag": "img",
-      "title": "ASAHI — The Unusual",
-      "description": "",
-      "category": "aerial",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/04/2_GHwGSq4/4869d7477850651a61f9c2bb49cc450a.gif",
       "alt_text": "ASAHI — The Unusual",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T08:46:03.957866",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/aerial"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021425.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375569",
-      "element_tag": "img",
-      "title": "Do Revenge",
-      "description": "",
-      "category": "aerial",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/04/tumblr_1f5b95aecfa3199c76b230e05cc87ab2_6d362a8e_540/46b6d4f586bf55e12c9866c64e612a67.gif",
       "alt_text": "Do Revenge",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T08:46:11.356242",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/aerial"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711603985.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375626",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/05/21/Dune_Part_Two_-_Paul_Arrival_Scene_HD/920655795c4ff4f5bfa4ba8b389ca27f.gif",
+      "alt_text": "Dune: Part Two",
+      "discovered_at": "2025-09-11T08:46:18.781545",
+      "title": "",
       "description": "",
-      "category": "aerial",
-      "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709104388.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375684",
-      "element_tag": "img",
-      "title": "Watchtower of China",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Watchtower of China",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709018151.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375741",
-      "element_tag": "img",
-      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508408.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375798",
-      "element_tag": "img",
-      "title": "Clip from Mikhail Parkhomenko",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Clip from Mikhail Parkhomenko",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626229.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375854",
-      "element_tag": "img",
-      "title": "Lil Uzi Vert - Just Wanna Rock",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/03/261704256696.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375911",
-      "element_tag": "img",
-      "title": "Fast motion clip from Nohyal",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Fast motion clip from Nohyal",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368535.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.375965",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704369409.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.376020",
-      "element_tag": "img",
-      "title": "FPV clip from David Friday",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "FPV clip from David Friday",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/aerial"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711346967.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.376075",
-      "element_tag": "img",
-      "title": "Tiny Cyberpunk 2077 by Flurdeh",
-      "description": "",
-      "category": "aerial",
       "alt_text": "Tiny Cyberpunk 2077 by Flurdeh",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:46:22.395687",
+      "title": "Tiny Cyberpunk 2077 by Flurdeh (2021)",
+      "description": "Flurdeh specializes in applying a \"tilt-shift\" effect to video games, transforming their expansive 3D environments into charming miniature dioramas. The videos share common features such as accelerated animations and a lower framerate, enhancing their resemblance to stop-motion animation rather than modern video game footage. An example highlighted is Cyberpunk, where the game's diverse settings are miniaturized, and characters are depicted as if they were tiny figurines engaging in everyday activities.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "ROAD",
+        "NIGHT",
+        "EXTERIOR",
+        "CARS",
+        "CYBERPUNK",
+        "HIGHWAY",
+        "FAST MOTION"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Dystopian",
+        "Tilt Shift",
+        "Video Game"
+      ],
+      "director": "Kevin Hensen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Tiny Cyberpunk 2077 by Flurdeh (2021)\nFlurdeh specializes in applying a \"tilt-shift\" effect to video games, transforming their expansive 3D environments into charming miniature dioramas. The videos share common features such as accelerated animations and a lower framerate, enhancing their resemblance to stop-motion animation rather than modern video game footage. An example highlighted is Cyberpunk, where the game's diverse settings are miniaturized, and characters are depicted as if they were tiny figurines engaging in everyday activities.\nTechnique - Aerial , Dystopian , Tilt Shift , Video Game\nEditor - Kevin Hensen\nOriginal Source - Link\nROAD\nNIGHT\nEXTERIOR\nCARS\nCYBERPUNK\nHIGHWAY\nFAST MOTION",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711603985.webp",
+      "alt_text": "THEY. - U-RITE",
+      "discovered_at": "2025-09-11T08:46:26.007289",
+      "title": "THEY. - U-RITE (2017)",
+      "description": "The music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.",
+      "tags": [
+        "THEY. - U-RITE (2017)",
+        "DAY",
+        "DESSERT",
+        "COLORADO"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "FPV Drone"
+      ],
+      "director": "Jack Begert",
+      "dop": "Phillips Shum",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "THEY. - U-RITE (2017)\nThe music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.\nTechnique - Aerial , FPV Drone\nDirector - Jack Begert\nDOP - Phillips Shum\nOriginal Source - Link\nDAY\nDESSERT\nCOLORADO",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/03/261704256739.webp",
+      "alt_text": "Fast motion clip from Nohyal",
+      "discovered_at": "2025-09-11T08:46:29.663873",
+      "title": "Fast motion clip from Nohyal",
+      "description": "Fast motion vs. Timelapse? \"Fast Motion\" video is typically shot at a normal frame rate, and then sped up afterwards. \"Timelapse\" uses a longer interval between frames, and then plays back at a normal frame rate. It's the difference between hours or days sped into seconds vs minutes sped into seconds. Shot breakdown: Aerial Fast motion drone tilt down",
+      "tags": [
+        "SUNSET",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Fast Motion"
+      ],
+      "director": "Nohyal",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Fast motion clip from Nohyal\nFast motion vs. Timelapse? \"Fast Motion\" video is typically shot at a normal frame rate, and then sped up afterwards. \"Timelapse\" uses a longer interval between frames, and then plays back at a normal frame rate. It's the difference between hours or days sped into seconds vs minutes sped into seconds. Shot breakdown: Aerial Fast motion drone tilt down\nTechnique - Aerial , Fast Motion\nDirector - Nohyal\nSUNSET\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812336.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T08:46:33.303321",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "WATER",
+        "OCEAN",
+        "BLACK AND WHITE",
+        "LAKE",
+        "BOAT",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "FPV Drone"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - Aerial , FPV Drone\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nWATER\nOCEAN\nBLACK AND WHITE\nLAKE\nBOAT\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368663.webp",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "discovered_at": "2025-09-11T08:46:36.929350",
+      "title": "Indonesia FPV: Bali & Java (2022)",
+      "description": "From impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "TREES",
+        "FLIPPED"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "FPV Drone"
+      ],
+      "director": "Andrew Efimov",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Indonesia FPV: Bali & Java (2022)\nFrom impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.\nTechnique - Aerial , FPV Drone\nDirector - Andrew Efimov\nOriginal Source - Link\nDAY\nEXTERIOR\nTREES\nFLIPPED",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704529422.webp",
+      "alt_text": "Morgan x Orlebar Brown feat. Karl Shakur",
+      "discovered_at": "2025-09-11T08:46:40.556094",
+      "title": "Morgan x Orlebar Brown feat. Karl Shakur (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "CAR",
+        "ROAD",
+        "DRIVING",
+        "EXTERIOR",
+        "AERIAL",
+        "SUPER 3"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Dolly Zoom",
+        "FPV Drone"
+      ],
+      "director": "Karl Shakur",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Morgan x Orlebar Brown feat. Karl Shakur (2022)\nTechnique - Aerial , Dolly Zoom , FPV Drone\nDirector - Karl Shakur\nOriginal Source - Link\nDAY\nCAR\nROAD\nDRIVING\nEXTERIOR\nAERIAL\nSUPER 3",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076286.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T08:46:44.192835",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Aerial dutch angle speed ramp",
+      "tags": [
+        "NIGHT",
+        "DARK",
+        "CITY",
+        "NEON",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Dutch Angle",
+        "Speed Ramp"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Aerial dutch angle speed ramp\nTechnique - Aerial , Dutch Angle , Speed Ramp\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nNIGHT\nDARK\nCITY\nNEON\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/aerial"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368478.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.376129",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "aerial",
       "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:46:47.810551",
+      "title": "Indonesia FPV: Bali & Java (2022)",
+      "description": "From impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "SUNSET",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "FPV Drone"
+      ],
+      "director": "Andrew Efimov",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Indonesia FPV: Bali & Java (2022)\nFrom impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.\nTechnique - Aerial , FPV Drone\nDirector - Andrew Efimov\nOriginal Source - Link\nDAY\nSUNSET\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/aerial"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368969.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.376186",
-      "element_tag": "img",
-      "title": "Indonesia FPV: Bali & Java",
-      "description": "",
-      "category": "aerial",
-      "alt_text": "Indonesia FPV: Bali & Java",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707021457.webp",
+      "alt_text": "Do Revenge",
+      "discovered_at": "2025-09-11T08:46:51.427806",
+      "title": "Do Revenge (2022)",
+      "description": "Drea and Eleanor agree to go after one another's bullies.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "CAR",
+        "ROAD",
+        "DRIVING",
+        "EXTERIOR",
+        "CITY",
+        "HIGHWAY"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "High Angle"
+      ],
+      "director": "David S. Clark, Lori Ball",
+      "dop": "Brian Burgoyne",
+      "colorist": "Tim Stipan",
+      "original_source": "",
+      "additional_info": "Do Revenge (2022)\nDrea and Eleanor agree to go after one another's bullies.\nTechnique - Aerial , High Angle\nDirector - Jennifer Kaytin Robinson\nDOP - Brian Burgoyne\nEditor - David S. Clark, Lori Ball\nColorist - Tim Stipan\nDAY\nCAR\nROAD\nDRIVING\nEXTERIOR\nCITY\nHIGHWAY",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403204.webp",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "discovered_at": "2025-09-11T08:46:55.039775",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby (2006)",
+      "description": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
+      "tags": [
+        "RACING",
+        "NIGHT",
+        "EXTERIOR",
+        "STADIUM",
+        "NASCAR",
+        "RACETRACK",
+        "RACE CAR"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Tilt"
+      ],
+      "director": "Brent White",
+      "dop": "Oliver Wood",
+      "colorist": "Joe Finley",
+      "original_source": "",
+      "additional_info": "Talladega Nights: The Ballad of Ricky Bobby (2006)\nNumber one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.\nTechnique - Aerial , Tilt\nDirector - Adam McKay\nDOP - Oliver Wood\nEditor - Brent White\nColorist - Joe Finley\nOriginal Source - Link\nRACING\nNIGHT\nEXTERIOR\nSTADIUM\nNASCAR\nRACETRACK\nRACE CAR",
+      "page_url": "https://eyecannndy.com/technique/aerial"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704365455.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.376241",
-      "element_tag": "img",
-      "title": "ASAHI — The Unusual",
-      "description": "",
-      "category": "aerial",
       "alt_text": "ASAHI — The Unusual",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:46:58.654028",
+      "title": "ASAHI — The Unusual (2022)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "ANIMATION",
+        "EXTERIOR",
+        "CITY"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "FPV Drone"
+      ],
+      "director": "MANSON",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "ASAHI — The Unusual (2022)\nTitle The Unusual Client Asahi Agency Dentsu McGarrenBowen Production Company CANADA Director BLISS Creative Sudio: BLISS Executive Creative Director: Pau López Executive Producer: Maria Soler Chopo Production Coordinator: Berta Rodríguez CG Lead: César Rodrez Illustrators: Claudia Duran, Pablo Casal, Toni Caballero, Paula Blumen, Jonathan Romero, Laura Pérez 3D Artists: Lucas Céspedes, Bernat Martínez, Mike Fernández Art Director and 3D Artist Videogame: Enric Sant Animation 2D / Cel: Pablo Navarro, Libardo Bohórquez, Alberto Sánchez Cleanup 2D: Pau Anglada Lettering: Arantxa Gil Motion Graphics: Hernán Scassa Compositing: Héctor Cornelles, Alain Laza\nTechnique - Aerial , FPV Drone\nDirector - MANSON\nOriginal Source - Link\nANIMATION\nEXTERIOR\nCITY",
+      "page_url": "https://eyecannndy.com/technique/aerial"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123117.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.376296",
-      "element_tag": "img",
-      "title": "Canon - Live for the Story",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329389.webp",
+      "alt_text": "Graubünden - Best Version (DC)",
+      "discovered_at": "2025-09-11T08:47:02.267111",
+      "title": "Graubünden - Best Version (DC) (2024)",
       "description": "",
-      "category": "aerial",
-      "alt_text": "Canon - Live for the Story",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "tags": [],
+      "technique_tags": [
+        "Aerial",
+        "Super Zoom"
+      ],
+      "director": "Thomas Cervenca",
+      "dop": "Pierre Castillo Bernad",
+      "colorist": "Nurali Kushkov",
+      "original_source": "",
+      "additional_info": "Graubünden - Best Version (DC) (2024)\nTechnique - Aerial , Super Zoom\nDirector - Maximilian Speidel\nDOP - Pierre Castillo Bernad\nEditor - Thomas Cervenca\nColorist - Nurali Kushkov\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704369836.webp",
+      "alt_text": "IG / @the.vantage.point",
+      "discovered_at": "2025-09-11T08:47:05.889417",
+      "title": "IG / @the.vantage.point",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "OVERHEAD"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Overhead Birds-Eye"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "IG / @the.vantage.point\nTechnique - Aerial , Overhead Birds-Eye\nOVERHEAD",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626229.webp",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-11T08:47:08.989606",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "CITY",
+        "CROWD"
+      ],
+      "technique_tags": [
+        "Aerial"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - Aerial\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link\nNIGHT\nEXTERIOR\nCITY\nCROWD",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709018151.webp",
+      "alt_text": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away",
+      "discovered_at": "2025-09-11T08:47:12.594420",
+      "title": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
+      "description": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "DESERT",
+        "ALL IS YELLOW"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Super Zoom"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Sheck Wes, JID & Ski Mask The Slump God - Fly Away (2024)\nStunning 2024 music video from director Cole Bennett of Lyrical Lemonade.\nTechnique - Aerial , Super Zoom\nDirector - Cole Bennett\nDOP - Franklin Ricart\nColorist - Josh Bohoskey\nOriginal Source - Link\nDAY\nEXTERIOR\nDESERT\nALL IS YELLOW",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704369409.webp",
+      "alt_text": "FPV clip from David Friday",
+      "discovered_at": "2025-09-11T08:47:16.229290",
+      "title": "FPV clip from David Friday",
+      "description": "",
+      "tags": [
+        "DAY",
+        "HOUSE",
+        "EXTERIOR",
+        "SNOW"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "FPV Drone"
+      ],
+      "director": "David Friday",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "FPV clip from David Friday\nShot breakdown: FPV aerial pull out + dolly zoom.\nTechnique - Aerial , FPV Drone\nDirector - David Friday\nDAY\nHOUSE\nEXTERIOR\nSNOW",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704835059.webp",
+      "alt_text": "Nike - Nothing Beats a Londoner",
+      "discovered_at": "2025-09-11T08:47:19.854830",
+      "title": "Nike - Nothing Beats a Londoner (2018)",
+      "description": "Energetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.",
+      "tags": [
+        "AERIAL",
+        "MESSI",
+        "OVERHEAD BIRDS EYE"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Magical realism",
+        "Overhead Birds-Eye",
+        "Tilt"
+      ],
+      "director": "Joe Guest",
+      "dop": "Nicolas Loir",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - Nothing Beats a Londoner (2018)\nEnergetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.\nTechnique - Aerial , Magical realism , Overhead Birds-Eye , Tilt\nDirector - Megaforce\nDOP - Nicolas Loir\nEditor - Joe Guest\nOriginal Source - Link\nAERIAL\nMESSI\nOVERHEAD BIRDS EYE",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164544.webp",
+      "alt_text": "The Shining",
+      "discovered_at": "2025-09-11T08:47:23.472501",
+      "title": "The Shining (1980)",
+      "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "tags": [
+        "FOREST",
+        "LAKE",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Aerial",
+        "Cross Dissolve",
+        "Horror"
+      ],
+      "director": "Ray Lovejoy",
+      "dop": "John Alcott, Martin Kenzie",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Shining (1980)\nA family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.\nTechnique - 1980s , Aerial , Cross Dissolve , Horror\nDirector - Stanley Kubrick\nDOP - John Alcott, Martin Kenzie\nEditor - Ray Lovejoy\nFOREST\nLAKE\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709330025.webp",
+      "alt_text": "Graubünden - Best Version (DC)",
+      "discovered_at": "2025-09-11T08:47:27.092039",
+      "title": "Graubünden - Best Version (DC) (2024)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "LAKE"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Crash Zoom",
+        "FPV Drone",
+        "Overhead",
+        "Tilt"
+      ],
+      "director": "Thomas Cervenca",
+      "dop": "Pierre Castillo Bernad",
+      "colorist": "Nurali Kushkov",
+      "original_source": "",
+      "additional_info": "Graubünden - Best Version (DC) (2024)\nTechnique - Aerial , Crash Zoom , FPV Drone , Overhead , Tilt\nDirector - Maximilian Speidel\nDOP - Pierre Castillo Bernad\nEditor - Thomas Cervenca\nColorist - Nurali Kushkov\nOriginal Source - Link\nDAY\nEXTERIOR\nLAKE",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368399.webp",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "discovered_at": "2025-09-11T08:47:30.696974",
+      "title": "Indonesia FPV: Bali & Java (2022)",
+      "description": "From impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.",
+      "tags": [
+        "EXTERIOR",
+        "MOUNTAIN",
+        "FOG",
+        "MIST"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "FPV Drone"
+      ],
+      "director": "Andrew Efimov",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Indonesia FPV: Bali & Java (2022)\nFrom impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.\nTechnique - Aerial , FPV Drone\nDirector - Andrew Efimov\nOriginal Source - Link\nEXTERIOR\nMOUNTAIN\nFOG\nMIST",
+      "page_url": "https://eyecannndy.com/technique/aerial"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/28/261711610807.webp",
-      "page_url": "https://eyecannndy.com/technique/aerial",
-      "discovered_at": "2025-09-05T03:21:37.376350",
-      "element_tag": "img",
-      "title": "THEY. - U-RITE",
-      "description": "",
-      "category": "aerial",
       "alt_text": "THEY. - U-RITE",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:47:34.840066",
+      "title": "THEY. - U-RITE (2017)",
+      "description": "The music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "THEY. - U-RITE (2017)",
+        "EARTH",
+        "ROCK",
+        "COLORADO"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Speed Ramp"
+      ],
+      "director": "Jack Begert",
+      "dop": "Phillips Shum",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "THEY. - U-RITE (2017)\nThe music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.\nTechnique - Aerial , Speed Ramp\nDirector - Jack Begert\nDOP - Phillips Shum\nOriginal Source - Link\nEARTH\nROCK\nCOLORADO",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707627103.webp",
+      "alt_text": "Enter the Void",
+      "discovered_at": "2025-09-11T08:47:38.468979",
+      "title": "Enter the Void (2009)",
+      "description": "An American drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.",
+      "tags": [],
+      "technique_tags": [
+        "2000s",
+        "Aerial",
+        "Altered state",
+        "Drug trip"
+      ],
+      "director": "Jérôme Pesnel, Marc Boucrot",
+      "dop": "Benoît Debie",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Enter the Void (2009)\nAn American drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.\nTechnique - 2000s , Aerial , Altered state , Drug trip\nDirector - Gaspar Noé\nDOP - Benoît Debie\nEditor - Jérôme Pesnel, Marc Boucrot",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368969.webp",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "discovered_at": "2025-09-11T08:47:41.674907",
+      "title": "Indonesia FPV: Bali & Java (2022)",
+      "description": "From impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.",
+      "tags": [
+        "DAY",
+        "WATER",
+        "BEACH",
+        "SAND",
+        "OCEAN",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "FPV Drone"
+      ],
+      "director": "Andrew Efimov",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Indonesia FPV: Bali & Java (2022)\nFrom impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.\nTechnique - Aerial , FPV Drone\nDirector - Andrew Efimov\nOriginal Source - Link\nDAY\nWATER\nBEACH\nSAND\nOCEAN\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710313129.webp",
+      "alt_text": "Reddit user BW3D",
+      "discovered_at": "2025-09-11T08:47:45.305981",
+      "title": "Reddit user BW3D",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "CITY"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Fast Motion"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Reddit user BW3D\nTechnique - Aerial , Fast Motion\nNIGHT\nCITY",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/06/261704508408.webp",
+      "alt_text": "Clip from Mikhail Parkhomenko",
+      "discovered_at": "2025-09-11T08:47:48.404882",
+      "title": "Clip from Mikhail Parkhomenko",
+      "description": "",
+      "tags": [
+        "ROAD",
+        "NIGHT",
+        "DARK",
+        "DRONE",
+        "SODIUM",
+        "CARS",
+        "HIGHWAY",
+        "FPV"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Camera Roll",
+        "FPV Drone"
+      ],
+      "director": "Mikhail Parkhomenko (parh0)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Mikhail Parkhomenko\nShot: Aerial FPV drone roll\nTechnique - Aerial , Camera Roll , FPV Drone\nDirector - Mikhail Parkhomenko (parh0)\nROAD\nNIGHT\nDARK\nDRONE\nSODIUM\nCARS\nHIGHWAY\nFPV",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123075.webp",
+      "alt_text": "Canon - Live for the Story",
+      "discovered_at": "2025-09-11T08:47:52.012745",
+      "title": "Canon - Live for the Story (2017)",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Magical realism",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Joe Guest",
+      "dop": "Kasper Tuxen",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Canon - Live for the Story (2017)\nCreative Agency: VCCP ECD: Darren Bailes Creatives: Ben McCarthy / Seb Housden Account Handling: Emma Whitmarsh / Olivia Packshaw Agency Producer: Ed Mueller Director: Megaforce Film Production: Riff Raff Films Production Company Producer: Jane Lloyd Executive Producer: Matthew Fone Producer: Gemma Humphries Music Licensing: Finger Music Sound Mix: Ben Leeves @ Grand Central\nTechnique - Aerial , Magical realism , Spotlight , Void\nDirector - Megaforce\nDOP - Kasper Tuxen\nEditor - Joe Guest\nOriginal Source - Link\nNIGHT\nEXTERIOR\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368535.webp",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "discovered_at": "2025-09-11T08:47:55.641198",
+      "title": "Indonesia FPV: Bali & Java (2022)",
+      "description": "From impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.",
+      "tags": [
+        "DAY",
+        "NATURE",
+        "EXTERIOR",
+        "MOUNTAIN",
+        "JUNGLE",
+        "SUNRISE"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "FPV Drone"
+      ],
+      "director": "Andrew Efimov",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Indonesia FPV: Bali & Java (2022)\nFrom impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.\nTechnique - Aerial , FPV Drone\nDirector - Andrew Efimov\nOriginal Source - Link\nDAY\nNATURE\nEXTERIOR\nMOUNTAIN\nJUNGLE\nSUNRISE",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123117.webp",
+      "alt_text": "Canon - Live for the Story",
+      "discovered_at": "2025-09-11T08:47:59.262886",
+      "title": "Canon - Live for the Story (2017)",
+      "description": "",
+      "tags": [
+        "CAR",
+        "ROAD",
+        "NIGHT",
+        "EXTERIOR",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Magical realism",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Joe Guest",
+      "dop": "Kasper Tuxen",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Canon - Live for the Story (2017)\nCreative Agency: VCCP ECD: Darren Bailes Creatives: Ben McCarthy / Seb Housden Account Handling: Emma Whitmarsh / Olivia Packshaw Agency Producer: Ed Mueller Director: Megaforce Film Production: Riff Raff Films Production Company Producer: Jane Lloyd Executive Producer: Matthew Fone Producer: Gemma Humphries Music Licensing: Finger Music Sound Mix: Ben Leeves @ Grand Central\nTechnique - Aerial , Magical realism , Spotlight , Void\nDirector - Megaforce\nDOP - Kasper Tuxen\nEditor - Joe Guest\nOriginal Source - Link\nCAR\nROAD\nNIGHT\nEXTERIOR\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164658.webp",
+      "alt_text": "The Shining",
+      "discovered_at": "2025-09-11T08:48:02.892753",
+      "title": "The Shining (1980)",
+      "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "tags": [
+        "OREGON",
+        "MOUNT HOOD"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Aerial",
+        "Vintage"
+      ],
+      "director": "Ray Lovejoy",
+      "dop": "John Alcott, Martin Kenzie",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Shining (1980)\nA family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.\nTechnique - 1980s , Aerial , Vintage\nDirector - Stanley Kubrick\nDOP - John Alcott, Martin Kenzie\nEditor - Ray Lovejoy\nOREGON\nMOUNT HOOD",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704368615.webp",
+      "alt_text": "Indonesia FPV: Bali & Java",
+      "discovered_at": "2025-09-11T08:48:05.995985",
+      "title": "Indonesia FPV: Bali & Java (2022)",
+      "description": "From impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.",
+      "tags": [
+        "DAY",
+        "WATER",
+        "NATURE",
+        "EXTERIOR",
+        "MOUNTAIN",
+        "JUNGLE",
+        "SUNRISE",
+        "MIST",
+        "WATERFALL"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "FPV Drone"
+      ],
+      "director": "Andrew Efimov",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Indonesia FPV: Bali & Java (2022)\nFrom impenetrable jungle to pristine shores, this dream-like journey through Indonesia is a stunning reminder of our planet’s natural beauty and resilience.\nTechnique - Aerial , FPV Drone\nDirector - Andrew Efimov\nOriginal Source - Link\nDAY\nWATER\nNATURE\nEXTERIOR\nMOUNTAIN\nJUNGLE\nSUNRISE\nMIST\nWATERFALL",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538069.webp",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "discovered_at": "2025-09-11T08:48:09.742493",
+      "title": "Miel De Montagne - Le Pigeon (2023)",
+      "description": "2023 music video directed and edited by Morgan Jouquand.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "FLYING",
+        "PIGEON"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Fixed Cam",
+        "Flying",
+        "FPV Drone"
+      ],
+      "director": "Morgan Jouquand",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Miel De Montagne - Le Pigeon (2023)\n2023 music video directed and edited by Morgan Jouquand.\nTechnique - Aerial , Fixed Cam , Flying , FPV Drone\nDirector - Morgan Jouquand\nOriginal Source - Link\nDAY\nEXTERIOR\nFLYING\nPIGEON",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710664164.webp",
+      "alt_text": "Noah",
+      "discovered_at": "2025-09-11T08:48:12.865554",
+      "title": "Noah (2014)",
+      "description": "Noah is chosen by God to undertake a momentous mission before an apocalyptic flood cleanses the world.",
+      "tags": [
+        "AERIAL",
+        "DOVE"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Away from Camera",
+        "Tracking"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Matthew Libatique",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Noah (2014)\nNoah is chosen by God to undertake a momentous mission before an apocalyptic flood cleanses the world.\nTechnique - Aerial , Away from Camera , Tracking\nDirector - Darren Aronofsky\nDOP - Matthew Libatique\nEditor - Andrew Weisblum\nAERIAL\nDOVE",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710225646.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T08:48:16.479154",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Season 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "FLYING",
+        "GOLF BALL"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Away from Camera",
+        "Title Card",
+        "Tracking",
+        "Typography"
+      ],
+      "director": "Nick Allix",
+      "dop": "Callan Green",
+      "colorist": "Matthieu Toullet",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Aerial , Away from Camera , Title Card , Tracking , Typography\nDirector - Eran Creevy\nDOP - Callan Green\nEditor - Nick Allix\nColorist - Matthieu Toullet\nFLYING\nGOLF BALL",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/03/261704256696.webp",
+      "alt_text": "Fast motion clip from Nohyal",
+      "discovered_at": "2025-09-11T08:48:20.124466",
+      "title": "Fast motion clip from Nohyal",
+      "description": "Fast motion vs. Timelapse? \"Fast Motion\" video is typically shot at a normal frame rate, and then sped up afterwards. \"Timelapse\" uses a longer interval between frames, and then plays back at a normal frame rate. It's the difference between hours or days sped into seconds vs minutes sped into seconds. Shot breakdown: Fast motion drone pull out",
+      "tags": [
+        "SUNSET",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Fast Motion"
+      ],
+      "director": "Nohyal",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Fast motion clip from Nohyal\nFast motion vs. Timelapse? \"Fast Motion\" video is typically shot at a normal frame rate, and then sped up afterwards. \"Timelapse\" uses a longer interval between frames, and then plays back at a normal frame rate. It's the difference between hours or days sped into seconds vs minutes sped into seconds. Shot breakdown: Fast motion drone pull out\nTechnique - Aerial , Fast Motion\nDirector - Nohyal\nSUNSET\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704077050.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T08:48:23.760140",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Aerial tilt up+ scale shift seamless transition",
+      "tags": [
+        "CLOUDS",
+        "OVERHEAD",
+        "SCALE SHIFT",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Magical realism",
+        "Scale Shift",
+        "Seamless Transition",
+        "Tilt",
+        "Transitions"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Aerial tilt up+ scale shift seamless transition\nTechnique - Aerial , Magical realism , Scale Shift , Seamless Transition , Tilt , Transitions\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nCLOUDS\nOVERHEAD\nSCALE SHIFT\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626497.webp",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-11T08:48:27.406706",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "CITY"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Flying"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - Aerial , Flying\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link\nNIGHT\nEXTERIOR\nCITY",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709104388.webp",
+      "alt_text": "Watchtower of China",
+      "discovered_at": "2025-09-11T08:48:31.065152",
+      "title": "Watchtower of China (2022)",
+      "description": "A cinematic exploration capturing the vast diversity and spirit of China through seamless edits and fluid camera work over five years of filming and editing. The project, which extends Dalessandri's unique visual storytelling seen in \"Watchtower of Turkey,\" presents a rich tapestry of China's landscapes, people, and culture, set to the emotive compositions of Ezio Bosso. The film is acclaimed for its vibrant portrayal and deep personal vision of China, reflecting the interconnected energy of its inhabitants and their surroundings.",
+      "tags": [
+        "SUNSET",
+        "AERIAL",
+        "CHINA"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Match motion"
+      ],
+      "director": "Leonardo Dalessandri",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Watchtower of China (2022)\nA cinematic exploration capturing the vast diversity and spirit of China through seamless edits and fluid camera work over five years of filming and editing. The project, which extends Dalessandri's unique visual storytelling seen in \"Watchtower of Turkey,\" presents a rich tapestry of China's landscapes, people, and culture, set to the emotive compositions of Ezio Bosso. The film is acclaimed for its vibrant portrayal and deep personal vision of China, reflecting the interconnected energy of its inhabitants and their surroundings.\nTechnique - Aerial , Match motion\nDirector - Leonardo Dalessandri\nOriginal Source - Link\nSUNSET\nAERIAL\nCHINA",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711346859.webp",
+      "alt_text": "Tiny Cyberpunk 2077 by Flurdeh",
+      "discovered_at": "2025-09-11T08:48:34.698736",
+      "title": "Tiny Cyberpunk 2077 by Flurdeh (2021)",
+      "description": "Flurdeh specializes in applying a \"tilt-shift\" effect to video games, transforming their expansive 3D environments into charming miniature dioramas. The videos share common features such as accelerated animations and a lower framerate, enhancing their resemblance to stop-motion animation rather than modern video game footage. An example highlighted is Cyberpunk, where the game's diverse settings are miniaturized, and characters are depicted as if they were tiny figurines engaging in everyday activities.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "NEON",
+        "CYBERPUNK",
+        "FAST MOTION"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Dystopian",
+        "Tilt Shift",
+        "Video Game"
+      ],
+      "director": "Kevin Hensen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Tiny Cyberpunk 2077 by Flurdeh (2021)\nFlurdeh specializes in applying a \"tilt-shift\" effect to video games, transforming their expansive 3D environments into charming miniature dioramas. The videos share common features such as accelerated animations and a lower framerate, enhancing their resemblance to stop-motion animation rather than modern video game footage. An example highlighted is Cyberpunk, where the game's diverse settings are miniaturized, and characters are depicted as if they were tiny figurines engaging in everyday activities.\nTechnique - Aerial , Dystopian , Tilt Shift , Video Game\nEditor - Kevin Hensen\nOriginal Source - Link\nDAY\nEXTERIOR\nNEON\nCYBERPUNK\nFAST MOTION",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345479.webp",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "discovered_at": "2025-09-11T08:48:38.328985",
+      "title": "Beastie Boys - An Open Letter To NYC (2004)",
+      "description": "Music video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "NEW YORK CITY",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Aerial",
+        "Archival",
+        "Stop Motion",
+        "Vintage"
+      ],
+      "director": "Adam Yauch",
+      "dop": "Nathanial Hornblower",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beastie Boys - An Open Letter To NYC (2004)\nMusic video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys\nTechnique - 2000s , Aerial , Archival , Stop Motion , Vintage\nDirector - Adam Yauch\nDOP - Nathanial Hornblower\nOriginal Source - Link\nDAY\nEXTERIOR\nNEW YORK CITY\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/aerial"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/05/261720164595.webp",
+      "alt_text": "The Shining",
+      "discovered_at": "2025-09-11T08:48:41.952271",
+      "title": "The Shining (1980)",
+      "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "tags": [
+        "FOREST",
+        "LAKE",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Aerial",
+        "Credits",
+        "Cross Dissolve",
+        "Horror",
+        "Vintage Titles"
+      ],
+      "director": "Ray Lovejoy",
+      "dop": "John Alcott, Martin Kenzie",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Shining (1980)\nA family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.\nTechnique - 1980s , Aerial , Credits , Cross Dissolve , Horror , Vintage Titles\nDirector - Stanley Kubrick\nDOP - John Alcott, Martin Kenzie\nEditor - Ray Lovejoy\nFOREST\nLAKE\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/aerial"
     }
   ]
 }

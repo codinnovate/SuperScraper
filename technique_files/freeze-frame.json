@@ -1,591 +1,527 @@
 {
   "technique": "freeze-frame",
-  "video_count": 30,
-  "generated_at": "2025-09-05T04:03:29.647120",
+  "scrape_info": {
+    "timestamp": "20250911_142051",
+    "total_videos": 23,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995189.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.144877",
-      "element_tag": "img",
-      "title": "The King of Comedy",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "The King of Comedy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539150.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.144988",
-      "element_tag": "img",
-      "title": "Saint Levant - Nails",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Saint Levant - Nails",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998471.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145058",
-      "element_tag": "img",
-      "title": "Lil Dicky - HAHAHA",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Lil Dicky - HAHAHA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703045001.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145120",
-      "element_tag": "img",
-      "title": "Cocaine Bear",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Cocaine Bear",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996281.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145178",
-      "element_tag": "img",
-      "title": "Pulp Fiction",
-      "description": "",
-      "category": "freeze-frame",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/23/Screenshot_2024-01-22_at_11.40.15PM_2/aeb1c31b5b8ed426a88d970c0de898cc.gif",
       "alt_text": "Pulp Fiction",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "discovered_at": "2025-09-11T14:18:58.820859",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715575223.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145234",
-      "element_tag": "img",
-      "title": "Ariana Grande - Positions",
-      "description": "",
-      "category": "freeze-frame",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/05/13/Ariana_Grande_-_positions_official_video_SFgjpFu/dfb8130fa116c368cb189beae507a689.gif",
       "alt_text": "Ariana Grande - Positions",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "discovered_at": "2025-09-11T14:19:06.350483",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709540812.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145288",
-      "element_tag": "img",
-      "title": "Saint Levant - Nails",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Saint Levant - Nails",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995189.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145340",
-      "element_tag": "img",
-      "title": "The King of Comedy",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "The King of Comedy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539150.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145392",
-      "element_tag": "img",
-      "title": "Saint Levant - Nails",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Saint Levant - Nails",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998471.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145442",
-      "element_tag": "img",
-      "title": "Lil Dicky - HAHAHA",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Lil Dicky - HAHAHA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703045001.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145490",
-      "element_tag": "img",
-      "title": "Cocaine Bear",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Cocaine Bear",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996281.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145538",
-      "element_tag": "img",
-      "title": "Pulp Fiction",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Pulp Fiction",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715575223.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145587",
-      "element_tag": "img",
-      "title": "Ariana Grande - Positions",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Ariana Grande - Positions",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709540812.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145635",
-      "element_tag": "img",
-      "title": "Saint Levant - Nails",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Saint Levant - Nails",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995273.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145688",
-      "element_tag": "img",
-      "title": "EA SPORTS FC x Triangles ft. Dave",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "EA SPORTS FC x Triangles ft. Dave",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995473.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145747",
-      "element_tag": "img",
-      "title": "Funny Games",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Funny Games",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656702.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145903",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "description": "",
-      "category": "freeze-frame",
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/05/14/Joost_Ski_Aggu__Otto_Waalkes_-_Friesenjung_Official_Video_5yqOvMN/45497ae8cc1324df38e15556b15a9006.gif",
       "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998279.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.145979",
-      "element_tag": "img",
-      "title": "Lil Dicky - HAHAHA",
+      "discovered_at": "2025-09-11T14:19:13.886870",
+      "title": "",
       "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Lil Dicky - HAHAHA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656902.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146041",
-      "element_tag": "img",
-      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996234.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146099",
-      "element_tag": "img",
-      "title": "Magnolia",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Magnolia",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812813.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146155",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996589.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146210",
-      "element_tag": "img",
-      "title": "Hot Fuzz",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Hot Fuzz",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812773.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146263",
-      "element_tag": "img",
-      "title": "Sabrina Carpenter - Espresso",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705181133.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146315",
-      "element_tag": "img",
-      "title": "Cartier - Yvan Fabing",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Cartier - Yvan Fabing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995375.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146370",
-      "element_tag": "img",
-      "title": "Snatch",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Snatch",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996133.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146425",
-      "element_tag": "img",
-      "title": "Once Upon a Time in America",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "Once Upon a Time in America",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996450.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146479",
-      "element_tag": "img",
-      "title": "The Wolf of Wall Street",
-      "description": "",
-      "category": "freeze-frame",
-      "alt_text": "The Wolf of Wall Street",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996350.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146530",
-      "element_tag": "img",
-      "title": "Harry Potter and the Prisoner of Azkaban",
-      "description": "",
-      "category": "freeze-frame",
       "alt_text": "Harry Potter and the Prisoner of Azkaban",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+      "discovered_at": "2025-09-11T14:19:21.386736",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705181133.webp",
+      "alt_text": "Cartier - Yvan Fabing",
+      "discovered_at": "2025-09-11T14:19:28.904511",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707620172.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146582",
-      "element_tag": "img",
-      "title": "It Could Happen To You",
-      "description": "",
-      "category": "freeze-frame",
       "alt_text": "It Could Happen To You",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:19:32.562136",
+      "title": "It Could Happen To You (1994)",
+      "description": "A police officer promises to share his lottery ticket with a waitress in lieu of a tip.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "NEW YORK CITY",
+        "TALKING TO CAMERA"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Freeze Frame"
+      ],
+      "director": "Barry Malkin",
+      "dop": "Caleb Deschanel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "It Could Happen To You (1994)\nA police officer promises to share his lottery ticket with a waitress in lieu of a tip.\nTechnique - Color Shift , Freeze Frame\nDirector - Andrew Bergman\nDOP - Caleb Deschanel\nEditor - Barry Malkin\nNEW YORK CITY\nTALKING TO CAMERA",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812813.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T14:19:36.725658",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "BEACH",
+        "SAND",
+        "WALKING",
+        "POSE",
+        "SABRINA CARPENTER",
+        "MARILYN MONROE"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Freeze Frame",
+        "Haze",
+        "Photography"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Freeze Frame , Haze , Photography\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBEACH\nSAND\nWALKING\nPOSE\nSABRINA CARPENTER\nMARILYN MONROE",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995273.webp",
+      "alt_text": "EA SPORTS FC x Triangles ft. Dave",
+      "discovered_at": "2025-09-11T14:19:40.382017",
+      "title": "EA SPORTS FC x Triangles ft. Dave (2023)",
+      "description": "",
+      "tags": [
+        "SPORTS",
+        "PHOTOGRAPHY",
+        "SOCCER",
+        "FANS",
+        "EA SPORTS"
+      ],
+      "technique_tags": [
+        "Freeze Frame"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "EA SPORTS FC x Triangles ft. Dave (2023)\nTechnique - Freeze Frame\nOriginal Source - Link\nSPORTS\nPHOTOGRAPHY\nSOCCER\nFANS\nEA SPORTS",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703045001.webp",
+      "alt_text": "Cocaine Bear",
+      "discovered_at": "2025-09-11T14:19:44.030116",
+      "title": "Cocaine Bear (2023)",
+      "description": "An oddball group of cops, criminals, tourists, and teens converge in a Georgia.",
+      "tags": [
+        "EXTERIOR",
+        "TITLE",
+        "WIDE",
+        "COMPANY 3",
+        "JOHN GULESERIAN",
+        "ARRI ALEXA LF",
+        "ARRI SIGNATURE PRIME LENSES",
+        "ELIZABETH BANKS",
+        "JOEL NEGRON",
+        "NATASHA LEONNET",
+        "DIGITAL",
+        "FREEZE FRAME"
+      ],
+      "technique_tags": [
+        "Freeze Frame",
+        "Title Card",
+        "Typography"
+      ],
+      "director": "Joel Negron",
+      "dop": "John Guleserian",
+      "colorist": "Company 3, Natasha Leonnet",
+      "original_source": "",
+      "additional_info": "Cocaine Bear (2023)\nAn oddball group of cops, criminals, tourists, and teens converge in a Georgia.\nTechnique - Freeze Frame , Title Card , Typography\nDirector - Elizabeth Banks\nDOP - John Guleserian\nEditor - Joel Negron\nColorist - Company 3, Natasha Leonnet\nEXTERIOR\nTITLE\nWIDE\n2.39\nCOMPANY 3\nJOHN GULESERIAN\nARRI ALEXA LF\nARRI SIGNATURE PRIME LENSES\nELIZABETH BANKS\nJOEL NEGRON\nNATASHA LEONNET\nDIGITAL\nFREEZE FRAME",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539150.webp",
+      "alt_text": "Saint Levant - Nails",
+      "discovered_at": "2025-09-11T14:19:51.339654",
+      "title": "Saint Levant - Nails (2023)",
+      "description": "2024 music video by Saint Levant performing Nails starring Mia Khalifa.",
+      "tags": [
+        "WOMAN",
+        "INTERIOR",
+        "PHOTOGRAPHY",
+        "CAMERA",
+        "LENS",
+        "PAPARAZZI"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Freeze Frame",
+        "Voyeur"
+      ],
+      "director": "Mattias Russo-Larsson",
+      "dop": "Melisse Riahi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Saint Levant - Nails (2023)\n2024 music video by Saint Levant performing Nails starring Mia Khalifa.\nTechnique - Color Shift , Freeze Frame , Voyeur\nDirector - Mattias Russo-Larsson\nDOP - Melisse Riahi\nOriginal Source - Link\nWOMAN\nINTERIOR\nPHOTOGRAPHY\nCAMERA\nLENS\nPAPARAZZI",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/20/261703064164.webp",
-      "page_url": "https://eyecannndy.com/technique/freeze-frame",
-      "discovered_at": "2025-09-05T03:27:29.146632",
-      "element_tag": "img",
-      "title": "The King of Comedy",
-      "description": "",
-      "category": "freeze-frame",
       "alt_text": "The King of Comedy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T14:19:55.515192",
+      "title": "The King of Comedy (1982)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "1980S",
+        "TYPOGRAPHY",
+        "FREEZE FRAME",
+        "MARTIN SCORSESE",
+        "TITLE CARD",
+        "THE KING OF COMEDY"
+      ],
+      "technique_tags": [
+        "Freeze Frame",
+        "Title Card",
+        "Typography"
+      ],
+      "director": "Martin Scorsese",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The King of Comedy (1982)\nTechnique - Freeze Frame , Title Card , Typography\nDirector - Martin Scorsese\n1980S\nTYPOGRAPHY\nFREEZE FRAME\nMARTIN SCORSESE\nTITLE CARD\n1982\nTHE KING OF COMEDY",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996234.webp",
+      "alt_text": "Magnolia",
+      "discovered_at": "2025-09-11T14:20:01.293802",
+      "title": "Magnolia (1999)",
+      "description": "An epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.",
+      "tags": [
+        "SCRIBBLE",
+        "BLUE",
+        "EXTERIOR",
+        "BUILDING",
+        "DRAWN"
+      ],
+      "technique_tags": [
+        "Freeze Frame",
+        "Scribble"
+      ],
+      "director": "Dylan Tichenor",
+      "dop": "Robert Elswit",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Magnolia (1999)\nAn epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.\nTechnique - Freeze Frame , Scribble\nDirector - Paul Thomas Anderson\nDOP - Robert Elswit\nEditor - Dylan Tichenor\nSCRIBBLE\nBLUE\nEXTERIOR\nBUILDING\nDRAWN",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812773.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-11T14:20:05.499856",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "BEACH",
+        "SAND",
+        "WALKING",
+        "POSE",
+        "SABRINA CARPENTER",
+        "MARILYN MONROE"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Freeze Frame",
+        "Haze",
+        "Photography"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Freeze Frame , Haze , Photography\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBEACH\nSAND\nWALKING\nPOSE\nSABRINA CARPENTER\nMARILYN MONROE",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996133.webp",
+      "alt_text": "Once Upon a Time in America",
+      "discovered_at": "2025-09-11T14:20:09.157511",
+      "title": "Once Upon a Time in America (1984)",
+      "description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+      "tags": [
+        "INTERIOR",
+        "ZOOM"
+      ],
+      "technique_tags": [
+        "Freeze Frame",
+        "Single shot"
+      ],
+      "director": "Nino Baragli",
+      "dop": "Tonino Delli Colli",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Once Upon a Time in America (1984)\nA former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.\nTechnique - Freeze Frame , Single shot\nDirector - Sergio Leone\nDOP - Tonino Delli Colli\nEditor - Nino Baragli\nINTERIOR\nZOOM",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709540812.webp",
+      "alt_text": "Saint Levant - Nails",
+      "discovered_at": "2025-09-11T14:20:16.477636",
+      "title": "Saint Levant - Nails (2023)",
+      "description": "2024 music video by Saint Levant performing Nails starring Mia Khalifa.",
+      "tags": [],
+      "technique_tags": [
+        "Color Shift",
+        "Freeze Frame",
+        "Photography"
+      ],
+      "director": "Mattias Russo-Larsson",
+      "dop": "Melisse Riahi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Saint Levant - Nails (2023)\n2024 music video by Saint Levant performing Nails starring Mia Khalifa.\nTechnique - Color Shift , Freeze Frame , Photography\nDirector - Mattias Russo-Larsson\nDOP - Melisse Riahi\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996589.webp",
+      "alt_text": "Hot Fuzz",
+      "discovered_at": "2025-09-11T14:20:20.132246",
+      "title": "Hot Fuzz (2007)",
+      "description": "A skilled London police officer, after irritating superiors with his embarrassing effectiveness, is transferred to a village where the easygoing officers object to his fervor for regulations, as a string of grisly murders strikes the town.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "COOL",
+        "ARRIFLEX",
+        "COP",
+        "ARRICAM",
+        "KNIFE"
+      ],
+      "technique_tags": [
+        "Freeze Frame"
+      ],
+      "director": "Chris Dickens",
+      "dop": "Jess Hall",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Hot Fuzz (2007)\nA skilled London police officer, after irritating superiors with his embarrassing effectiveness, is transferred to a village where the easygoing officers object to his fervor for regulations, as a string of grisly murders strikes the town.\nTechnique - Freeze Frame\nDOP - Jess Hall\nEditor - Chris Dickens\nTutorial - Link\nDAY\nEXTERIOR\nCOOL\nARRIFLEX\nCOP\nARRICAM\nKNIFE",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995189.webp",
+      "alt_text": "The King of Comedy",
+      "discovered_at": "2025-09-11T14:20:23.795916",
+      "title": "The King of Comedy (1982)",
+      "description": "A passionate yet unsuccessful comedian stalks and kidnaps his idol to take the spotlight for himself.",
+      "tags": [
+        "CAR",
+        "WINDOW",
+        "FLASH",
+        "HANDS"
+      ],
+      "technique_tags": [
+        "Freeze Frame"
+      ],
+      "director": "Thelma Schoonmaker",
+      "dop": "Fred Schuler",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The King of Comedy (1982)\nA passionate yet unsuccessful comedian stalks and kidnaps his idol to take the spotlight for himself.\nTechnique - Freeze Frame\nDirector - Martin Scorsese\nDOP - Fred Schuler\nEditor - Thelma Schoonmaker\nCAR\nWINDOW\nFLASH\nHANDS",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998279.webp",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "discovered_at": "2025-09-11T14:20:27.455767",
+      "title": "Lil Dicky - HAHAHA (2024)",
+      "description": "Lil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.",
+      "tags": [
+        "NIGHT",
+        "BLACK AND WHITE",
+        "EXTERIOR",
+        "FLASH",
+        "PHOTOGRAPHY",
+        "FROZEN",
+        "LIL DICKY",
+        "JOKER",
+        "FREEZE"
+      ],
+      "technique_tags": [
+        "Freeze Frame"
+      ],
+      "director": "Phillip R Lopez",
+      "dop": "Benjamin Loeb",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Lil Dicky - HAHAHA (2024)\nLil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.\nTechnique - Freeze Frame\nDirector - Phillip R Lopez\nDOP - Benjamin Loeb\nColorist - Dante Pasquinelli\nOriginal Source - Link\nNIGHT\nBLACK AND WHITE\nEXTERIOR\nFLASH\nPHOTOGRAPHY\nFROZEN\nLIL DICKY\nJOKER\nFREEZE",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705996450.webp",
+      "alt_text": "The Wolf of Wall Street",
+      "discovered_at": "2025-09-11T14:20:31.110217",
+      "title": "The Wolf of Wall Street (2013)",
+      "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "FLYING"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Freeze Frame"
+      ],
+      "director": "Thelma Schoonmaker",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Yvan Lucas",
+      "original_source": "",
+      "additional_info": "The Wolf of Wall Street (2013)\nBased on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.\nTechnique - 1980s , Freeze Frame\nDOP - Rodrigo Prieto\nEditor - Thelma Schoonmaker\nColorist - Yvan Lucas\nDAY\nINTERIOR\nFLYING",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995473.webp",
+      "alt_text": "Funny Games",
+      "discovered_at": "2025-09-11T14:20:34.761383",
+      "title": "Funny Games (2007)",
+      "description": "Two psychopathic young men take a family hostage in their cabin.",
+      "tags": [
+        "INTERIOR",
+        "MEN",
+        "DARK",
+        "THREE SHOT"
+      ],
+      "technique_tags": [
+        "Freeze Frame"
+      ],
+      "director": "Monika Willi",
+      "dop": "Darius Khondji",
+      "colorist": "Willi Willinger",
+      "original_source": "",
+      "additional_info": "Funny Games (2007)\nTwo psychopathic young men take a family hostage in their cabin.\nTechnique - Freeze Frame\nDirector - Michael Haneke\nDOP - Darius Khondji\nEditor - Monika Willi\nColorist - Willi Willinger\nINTERIOR\nMEN\nDARK\nTHREE SHOT",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998471.webp",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "discovered_at": "2025-09-11T14:20:38.421024",
+      "title": "Lil Dicky - HAHAHA (2024)",
+      "description": "Lil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.",
+      "tags": [
+        "NIGHT",
+        "BLACK AND WHITE",
+        "EXTERIOR",
+        "FLASH",
+        "PHOTOGRAPHY",
+        "CAMERAS",
+        "LIL DICKY",
+        "JOKER",
+        "PRESS"
+      ],
+      "technique_tags": [
+        "Freeze Frame",
+        "Slow Motion"
+      ],
+      "director": "Phillip R Lopez",
+      "dop": "Benjamin Loeb",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Lil Dicky - HAHAHA (2024)\nLil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.\nTechnique - Freeze Frame , Slow Motion\nDirector - Phillip R Lopez\nDOP - Benjamin Loeb\nColorist - Dante Pasquinelli\nOriginal Source - Link\nNIGHT\nBLACK AND WHITE\nEXTERIOR\nFLASH\nPHOTOGRAPHY\nCAMERAS\nLIL DICKY\nJOKER\nPRESS",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/14/261715656702.webp",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-11T14:20:42.639123",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "CAR",
+        "PAPER",
+        "POLICE",
+        "COPS",
+        "TEXTURE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Freeze Frame",
+        "Mixed Media",
+        "Title Card",
+        "Typography"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Collage , Freeze Frame , Mixed Media , Title Card , Typography\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nCAR\nPAPER\nPOLICE\nCOPS\nTEXTURE",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705995375.webp",
+      "alt_text": "Snatch",
+      "discovered_at": "2025-09-11T14:20:51.556439",
+      "title": "Snatch (2000)",
+      "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+      "tags": [
+        "SPORTS",
+        "INTERIOR",
+        "ATHLETE",
+        "FROZEN",
+        "BOXING"
+      ],
+      "technique_tags": [
+        "Freeze Frame"
+      ],
+      "director": "Jon Harris",
+      "dop": "Tim Maurice-Jones",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Snatch (2000)\nUnscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.\nTechnique - Freeze Frame\nDirector - Guy Ritchie\nDOP - Tim Maurice-Jones\nEditor - Jon Harris\nSPORTS\nINTERIOR\nATHLETE\nFROZEN\nBOXING",
+      "page_url": "https://eyecannndy.com/technique/freeze-frame"
     }
   ]
 }

@@ -1,807 +1,467 @@
 {
   "technique": "epiphany-shot",
-  "video_count": 40,
-  "generated_at": "2025-09-05T04:03:29.635175",
+  "scrape_info": {
+    "timestamp": "20250911_133752",
+    "total_videos": 20,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707898534.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.848548",
-      "element_tag": "img",
-      "title": "Orlando",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Orlando",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707024196.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.848702",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708424940.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.848786",
-      "element_tag": "img",
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Harry Potter and the Sorcerer's Stone",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707898694.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.848860",
-      "element_tag": "img",
-      "title": "Black Panther: Wakanda Forever",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Black Panther: Wakanda Forever",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707897836.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.848929",
-      "element_tag": "img",
-      "title": "The Menu",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "The Menu",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710753143.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.849000",
-      "element_tag": "img",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T13:36:37.527762",
       "title": "Source unknown",
       "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Epiphany",
+        "Surprise"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nTechnique - Epiphany , Surprise",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710453347.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.849070",
-      "element_tag": "img",
-      "title": "Air Jordan - Rookie Card (Short Film)",
-      "description": "",
-      "category": "epiphany-shot",
       "alt_text": "Air Jordan - Rookie Card (Short Film)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:36:41.190105",
+      "title": "Air Jordan - Rookie Card (Short Film) (2024)",
+      "description": "An homage to the greatest to ever play the game and the card that started it all.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/13/261707812433.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.849137",
-      "element_tag": "img",
-      "title": "It Chapter Two",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "It Chapter Two",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710223776.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.849202",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825196.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.849269",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707896853.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.849332",
-      "element_tag": "img",
-      "title": "Jurassic Park",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Jurassic Park",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709094354.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.849556",
-      "element_tag": "img",
-      "title": "Beethoven",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Beethoven",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708422891.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.849716",
-      "element_tag": "img",
-      "title": "Freaky Friday (Movie)",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Freaky Friday (Movie)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709531249.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.849806",
-      "element_tag": "img",
-      "title": "Monster: The Jeffrey Dahmer Story",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Monster: The Jeffrey Dahmer Story",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710024491.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.849887",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709096738.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.849958",
-      "element_tag": "img",
-      "title": "Beethoven",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Beethoven",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708422717.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850030",
-      "element_tag": "img",
-      "title": "Freaky Friday (Movie)",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Freaky Friday (Movie)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "NIGHT",
+        "EXTERIOR",
+        "CITY",
+        "STREET",
+        "SODIUM LIGHTS",
+        "SHOP",
+        "KID",
+        "GRAFITTI"
+      ],
+      "technique_tags": [
+        "Confusion",
+        "Epiphany",
+        "Low Angle"
+      ],
+      "director": "Masood Ahmed",
+      "dop": "Geoffrey Taylor",
+      "colorist": "Spyros Katsihtis",
+      "original_source": "",
+      "additional_info": "Air Jordan - Rookie Card (Short Film) (2024)\nAn homage to the greatest to ever play the game and the card that started it all.\nTechnique - Confusion , Epiphany , Low Angle\nDirector - Masood Ahmed\nDOP - Geoffrey Taylor\nEditor - Masood Ahmed\nColorist - Spyros Katsihtis\nOriginal Source - Link\nNIGHT\nEXTERIOR\nCITY\nSTREET\nSODIUM LIGHTS\nSHOP\nKID\nGRAFITTI",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250865.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850098",
-      "element_tag": "img",
-      "title": "KYLE - iSpy feat. Lil Yachty",
-      "description": "",
-      "category": "epiphany-shot",
       "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:36:44.844855",
+      "title": "KYLE - iSpy feat. Lil Yachty (2017)",
+      "description": "The \"iSpy\" music video by KYLE featuring Lil Yachty combines playful animation with live-action, creating a whimsical and colorful world that reflects the song's lighthearted vibe. It transports the viewer into a carefree, imaginative space where the artists, portrayed as children, explore vibrant, animated landscapes. This creative blend of elements highlights the song's themes of joy and escapism.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "WOMAN",
+        "BEACH"
+      ],
+      "technique_tags": [
+        "Central Framing",
+        "Epiphany",
+        "Surprise"
+      ],
+      "director": "Vinnie Hobbs",
+      "dop": "Rob Witt",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "KYLE - iSpy feat. Lil Yachty (2017)\nThe \"iSpy\" music video by KYLE featuring Lil Yachty combines playful animation with live-action, creating a whimsical and colorful world that reflects the song's lighthearted vibe. It transports the viewer into a carefree, imaginative space where the artists, portrayed as children, explore vibrant, animated landscapes. This creative blend of elements highlights the song's themes of joy and escapism.\nTechnique - Central Framing , Epiphany , Surprise\nDirector - Colin Tilley\nDOP - Rob Witt\nEditor - Vinnie Hobbs\nOriginal Source - Link\nWOMAN\nBEACH",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824754.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850167",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709531249.webp",
+      "alt_text": "Monster: The Jeffrey Dahmer Story",
+      "discovered_at": "2025-09-11T13:36:48.508509",
+      "title": "Monster: The Jeffrey Dahmer Story (2022)",
+      "description": "The story of a cannibalistic serial killer named Jeffrey Dahmer, a.k.a. the Milwaukee Monster.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "MALE",
+        "DAHMER"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Epiphany",
+        "Indifference",
+        "Medium Close-up"
+      ],
+      "director": "Lyric Ramsey, Nicholas Emme, Peter Grabicki, Robin August",
+      "dop": "Jason McCormick, John T. Connor",
+      "colorist": "Doug Delaney, Michael Hatzer",
+      "original_source": "",
+      "additional_info": "Monster: The Jeffrey Dahmer Story (2022)\nThe story of a cannibalistic serial killer named Jeffrey Dahmer, a.k.a. the Milwaukee Monster.\nTechnique - 1980s , Epiphany , Indifference , Medium Close-up\nDirector - Carl Franklin, Clement Virgo, Gregg Araki, Jennifer Lynch, Paris Barclay\nDOP - Jason McCormick, John T. Connor\nEditor - Lyric Ramsey, Nicholas Emme, Peter Grabicki, Robin August\nColorist - Doug Delaney, Michael Hatzer\nMALE\nDAHMER",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709328323.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850234",
-      "element_tag": "img",
-      "title": "Five Nights at Freddy's",
-      "description": "",
-      "category": "epiphany-shot",
       "alt_text": "Five Nights at Freddy's",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707898534.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850299",
-      "element_tag": "img",
-      "title": "Orlando",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Orlando",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707024196.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850365",
-      "element_tag": "img",
-      "title": "Everything Everywhere All at Once",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Everything Everywhere All at Once",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708424940.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850419",
-      "element_tag": "img",
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Harry Potter and the Sorcerer's Stone",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "discovered_at": "2025-09-11T13:36:52.665960",
+      "title": "Five Nights at Freddy's (2023)",
+      "description": "A troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's.",
+      "tags": [],
+      "technique_tags": [
+        "Arc",
+        "Epiphany",
+        "Horror",
+        "X-Axis Arc"
+      ],
+      "director": "Lara Karamardian, Melanie Kuan",
+      "dop": "Lyn Moncrief",
+      "colorist": "Mitch Paulson",
+      "original_source": "",
+      "additional_info": "Five Nights at Freddy's (2023)\nA troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's.\nTechnique - Arc , Epiphany , Horror , X-Axis Arc\nDirector - Emma Tammi\nDOP - Lyn Moncrief\nEditor - Lara Karamardian, Melanie Kuan\nColorist - Mitch Paulson",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707898694.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850473",
-      "element_tag": "img",
-      "title": "Black Panther: Wakanda Forever",
-      "description": "",
-      "category": "epiphany-shot",
       "alt_text": "Black Panther: Wakanda Forever",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:36:56.321236",
+      "title": "Black Panther: Wakanda Forever (2022)",
+      "description": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707897836.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850525",
-      "element_tag": "img",
-      "title": "The Menu",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "The Menu",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/18/261710753143.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850577",
-      "element_tag": "img",
-      "title": "Source unknown",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Source unknown",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710453347.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850630",
-      "element_tag": "img",
-      "title": "Air Jordan - Rookie Card (Short Film)",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Air Jordan - Rookie Card (Short Film)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/13/261707812433.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850681",
-      "element_tag": "img",
-      "title": "It Chapter Two",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "It Chapter Two",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710223776.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850732",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825196.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850782",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707896853.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850832",
-      "element_tag": "img",
-      "title": "Jurassic Park",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Jurassic Park",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709094354.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850884",
-      "element_tag": "img",
-      "title": "Beethoven",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Beethoven",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708422891.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850936",
-      "element_tag": "img",
-      "title": "Freaky Friday (Movie)",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Freaky Friday (Movie)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709531249.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.850987",
-      "element_tag": "img",
-      "title": "Monster: The Jeffrey Dahmer Story",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Monster: The Jeffrey Dahmer Story",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "WOMAN",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Concern",
+        "Epiphany",
+        "Medium Close-up"
+      ],
+      "director": "Jennifer Lame, Kelley Dixon, Michael P. Shawver",
+      "dop": "Autumn Durald",
+      "colorist": "Tom Poole",
+      "original_source": "",
+      "additional_info": "Black Panther: Wakanda Forever (2022)\nThe people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.\nTechnique - Concern , Epiphany , Medium Close-up\nDirector - Ryan Coogler\nDOP - Autumn Durald\nEditor - Jennifer Lame, Kelley Dixon, Michael P. Shawver\nColorist - Tom Poole\nWOMAN\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710024491.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.851038",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "epiphany-shot",
       "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:37:05.759942",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "INTERIOR",
+        "THEO JAMES"
+      ],
+      "technique_tags": [
+        "Anger",
+        "Epiphany",
+        "Light Flash"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Anger , Epiphany , Light Flash\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nINTERIOR\nTHEO JAMES",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709096738.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.851090",
-      "element_tag": "img",
-      "title": "Beethoven",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Beethoven",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710223776.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T13:37:09.417462",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Season 1. Episode 4. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "RED",
+        "INTERIOR",
+        "TOUR GUIDE"
+      ],
+      "technique_tags": [
+        "Epiphany",
+        "Surprise"
+      ],
+      "director": "Dan Sherwen, Matt Platts-Mills",
+      "dop": "Bjorn Charpentier",
+      "colorist": "Matthieu Toullet",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 4. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Epiphany , Surprise\nDirector - Nima Nourizadeh\nDOP - Bjorn Charpentier\nEditor - Dan Sherwen, Matt Platts-Mills\nColorist - Matthieu Toullet\nRED\nINTERIOR\nTOUR GUIDE",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708422891.webp",
+      "alt_text": "Freaky Friday (Movie)",
+      "discovered_at": "2025-09-11T13:37:13.051472",
+      "title": "Freaky Friday (Movie) (2003)",
+      "description": "An overworked mother and her daughter did not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.",
+      "tags": [
+        "INTERIOR",
+        "LINDSAY LOHAN"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Campy",
+        "Epiphany",
+        "Surprise",
+        "Two Shot"
+      ],
+      "director": "Bruce Green",
+      "dop": "Oliver Wood",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Freaky Friday (Movie) (2003)\nAn overworked mother and her daughter did not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.\nTechnique - 2000s , Campy , Epiphany , Surprise , Two Shot\nDirector - Mark Waters\nDOP - Oliver Wood\nEditor - Bruce Green\nINTERIOR\nLINDSAY LOHAN",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708422717.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.851142",
-      "element_tag": "img",
-      "title": "Freaky Friday (Movie)",
-      "description": "",
-      "category": "epiphany-shot",
       "alt_text": "Freaky Friday (Movie)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:37:16.706994",
+      "title": "Freaky Friday (Movie) (2003)",
+      "description": "An overworked mother and her daughter did not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "INTERIOR",
+        "LINDSAY LOHAN"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Confusion",
+        "Epiphany",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Bruce Green",
+      "dop": "Oliver Wood",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Freaky Friday (Movie) (2003)\nAn overworked mother and her daughter did not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.\nTechnique - 2000s , Confusion , Epiphany , Snorricam , Snorricam > on front\nDirector - Mark Waters\nDOP - Oliver Wood\nEditor - Bruce Green\nINTERIOR\nLINDSAY LOHAN",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/24/261711250865.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.851346",
-      "element_tag": "img",
-      "title": "KYLE - iSpy feat. Lil Yachty",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709096738.webp",
+      "alt_text": "Beethoven",
+      "discovered_at": "2025-09-11T13:37:20.342973",
+      "title": "Beethoven (1992)",
       "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "KYLE - iSpy feat. Lil Yachty",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "MALE",
+        "GLASSES"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Epiphany",
+        "Surprise",
+        "Yo-Yo Zoom"
+      ],
+      "director": "Sheldon Kahn, William D. Gordean",
+      "dop": "Victor J. Kemper",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - 1990s , Epiphany , Surprise , Yo-Yo Zoom\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nMALE\nGLASSES",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709094354.webp",
+      "alt_text": "Beethoven",
+      "discovered_at": "2025-09-11T13:37:24.001996",
+      "title": "Beethoven (1992)",
+      "description": "",
+      "tags": [
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Campy",
+        "Crash Zoom",
+        "Epiphany",
+        "Surprise",
+        "Zoom"
+      ],
+      "director": "Sheldon Kahn, William D. Gordean",
+      "dop": "Victor J. Kemper",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - 1990s , Campy , Crash Zoom , Epiphany , Surprise , Zoom\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nOriginal Source - Link\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708424940.webp",
+      "alt_text": "Harry Potter and the Sorcerer's Stone",
+      "discovered_at": "2025-09-11T13:37:27.632296",
+      "title": "Harry Potter and the Sorcerer's Stone (2001)",
+      "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+      "tags": [
+        "HARRY POTTER",
+        "MAGIC",
+        "DIAGON ALLEY",
+        "WAND"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Epiphany",
+        "Surprise"
+      ],
+      "director": "Richard Francis-Bruce",
+      "dop": "John Seale",
+      "colorist": "John Stanborough, Peter Hunt",
+      "original_source": "",
+      "additional_info": "Harry Potter and the Sorcerer's Stone (2001)\nAn orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.\nTechnique - 2000s , Epiphany , Surprise\nDirector - Chris Columbus\nDOP - John Seale\nEditor - Richard Francis-Bruce\nColorist - John Stanborough, Peter Hunt\nHARRY POTTER\nMAGIC\nDIAGON ALLEY\nWAND",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707896853.webp",
+      "alt_text": "Jurassic Park",
+      "discovered_at": "2025-09-11T13:37:31.304441",
+      "title": "Jurassic Park (1993)",
+      "description": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "tags": [
+        "DAY",
+        "MALE",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Epiphany",
+        "Medium Close-up",
+        "Surprise"
+      ],
+      "director": "Michael Kahn",
+      "dop": "Dean Cundey",
+      "colorist": "Dale Caldwell",
+      "original_source": "",
+      "additional_info": "Jurassic Park (1993)\nA pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.\nTechnique - 1990s , Epiphany , Medium Close-up , Surprise\nDirector - Steven Spielberg\nDOP - Dean Cundey\nEditor - Michael Kahn\nColorist - Dale Caldwell\nDAY\nMALE\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707898534.webp",
+      "alt_text": "Orlando",
+      "discovered_at": "2025-09-11T13:37:34.421383",
+      "title": "Orlando (1992)",
+      "description": "After Queen Elizabeth I commands him not to grow old, a young nobleman struggles with love and his place in the world.",
+      "tags": [
+        "YELLOW",
+        "GOLDEN",
+        "TILDA SWINTON"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Epiphany",
+        "Intensity",
+        "Medium Close-up",
+        "Profile"
+      ],
+      "director": "Hervé Schneid",
+      "dop": "Alexey Rodionov",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Orlando (1992)\nAfter Queen Elizabeth I commands him not to grow old, a young nobleman struggles with love and his place in the world.\nTechnique - 1990s , Epiphany , Intensity , Medium Close-up , Profile\nDirector - Sally Potter\nDOP - Alexey Rodionov\nEditor - Hervé Schneid\nYELLOW\nGOLDEN\nTILDA SWINTON",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/13/261707812433.webp",
+      "alt_text": "It Chapter Two",
+      "discovered_at": "2025-09-11T13:37:38.091201",
+      "title": "It Chapter Two (2019)",
+      "description": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+      "tags": [
+        "MALE",
+        "INTERIOR",
+        "DRUGS"
+      ],
+      "technique_tags": [
+        "2010s",
+        "Altered state",
+        "Dolly Zoom",
+        "Drug trip",
+        "Epiphany",
+        "Horror"
+      ],
+      "director": "Jason Ballantine",
+      "dop": "Checco Varese",
+      "colorist": "Company 3, Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "It Chapter Two (2019)\nTwenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.\nTechnique - 2010s , Altered state , Dolly Zoom , Drug trip , Epiphany , Horror\nDirector - Andrés Muschietti\nDOP - Checco Varese\nEditor - Jason Ballantine\nColorist - Company 3, Stephen Nakamura\nMALE\nINTERIOR\nDRUGS",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824754.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.851436",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "epiphany-shot",
       "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:37:41.750048",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "MALE",
+        "EPIPHANY"
+      ],
+      "technique_tags": [
+        "Double Dolly",
+        "Epiphany",
+        "Surprise"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Double Dolly , Epiphany , Surprise\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nMALE\nEPIPHANY",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709328323.webp",
-      "page_url": "https://eyecannndy.com/technique/epiphany-shot",
-      "discovered_at": "2025-09-05T03:25:28.851499",
-      "element_tag": "img",
-      "title": "Five Nights at Freddy's",
-      "description": "",
-      "category": "epiphany-shot",
-      "alt_text": "Five Nights at Freddy's",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825196.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T13:37:45.408724",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "BLUE",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Dolly Zoom",
+        "Epiphany"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Dolly Zoom , Epiphany\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nBLUE\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707024196.webp",
+      "alt_text": "Everything Everywhere All at Once",
+      "discovered_at": "2025-09-11T13:37:48.553878",
+      "title": "Everything Everywhere All at Once (2022)",
+      "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+      "tags": [],
+      "technique_tags": [
+        "Concern",
+        "Epiphany",
+        "Medium Close-up",
+        "Suspicion"
+      ],
+      "director": "Paul Rogers",
+      "dop": "Larkin Seiple",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Everything Everywhere All at Once (2022)\nA middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.\nTechnique - Concern , Epiphany , Medium Close-up , Suspicion\nDirector - Daniel Kwan, Daniel Scheinert\nDOP - Larkin Seiple\nEditor - Paul Rogers\nColorist - Alex Bickel",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707897836.webp",
+      "alt_text": "The Menu",
+      "discovered_at": "2025-09-11T13:37:52.218157",
+      "title": "The Menu (2022)",
+      "description": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+      "tags": [
+        "ANYA",
+        "TAYLOR-JOY"
+      ],
+      "technique_tags": [
+        "Concern",
+        "Epiphany",
+        "Horror",
+        "Medium Close-up"
+      ],
+      "director": "Christopher Tellefsen",
+      "dop": "Peter Deming",
+      "colorist": "Ross Bartels",
+      "original_source": "",
+      "additional_info": "The Menu (2022)\nA young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.\nTechnique - Concern , Epiphany , Horror , Medium Close-up\nDirector - Mark Mylod\nDOP - Peter Deming\nEditor - Christopher Tellefsen\nColorist - Ross Bartels\nANYA\nTAYLOR-JOY",
+      "page_url": "https://eyecannndy.com/technique/epiphany-shot"
     }
   ]
 }

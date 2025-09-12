@@ -1,6 +1,1172 @@
 {
   "technique": "snorricam",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.655678",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250912_023707",
+    "total_videos": 50,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/23/Lil_Dicky__HAHAHA_Official_Music_Video_33UxCQe/3b5f13b837a82fb085da13aea0665c6a.gif",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "discovered_at": "2025-09-12T02:33:33.327546",
+      "title": "Lil Dicky - HAHAHA (2024)",
+      "description": "Lil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "CLOWN",
+        "HORSE",
+        "LIL DICKY",
+        "JOKER"
+      ],
+      "technique_tags": [
+        "Snorricam"
+      ],
+      "director": "Phillip R Lopez",
+      "dop": "Benjamin Loeb",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Lil Dicky - HAHAHA (2024)\nLil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.\nTechnique - Snorricam\nDirector - Phillip R Lopez\nDOP - Benjamin Loeb\nColorist - Dante Pasquinelli\nOriginal Source - Link\nDAY\nEXTERIOR\nCLOWN\nHORSE\nLIL DICKY\nJOKER",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Apr-01-202319-32-28/0a9b6bd8cd5b9104e00ad4e93c8e97e1.gif",
+      "alt_text": "Requiem for a Dream",
+      "discovered_at": "2025-09-12T02:33:36.457485",
+      "title": "Requiem for a Dream (2000)",
+      "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+      "tags": [
+        "RUNNING",
+        "NIGHT",
+        "EXTERIOR",
+        "POLICE",
+        "PANAVISION GOLD / G2",
+        "CHASE",
+        "PANAVISION PANASTAR",
+        "ARRI 3"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Jay Rabinowitz",
+      "dop": "Matthew Libatique",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Requiem for a Dream (2000)\nThe drug-induced utopias of four Coney Island people are shattered when their addictions run deep.\nTechnique - Snorricam , Snorricam > on front\nDirector - Darren Aronofsky\nDOP - Matthew Libatique\nEditor - Jay Rabinowitz\nOriginal Source - Link\nRUNNING\nNIGHT\nEXTERIOR\nPOLICE\nPANAVISION GOLD / G2\nCHASE\nPANAVISION PANASTAR\nARRI 3",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/TheIrrationalFearofNothing_1/6f9bce85384665dbab549647a5c225bf.gif",
+      "alt_text": "The Irrational Fear of Nothing",
+      "discovered_at": "2025-09-12T02:33:39.669848",
+      "title": "The Irrational Fear of Nothing (2016)",
+      "description": "Follows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.",
+      "tags": [
+        "INTERIOR",
+        "PAUL TRILLO",
+        "BED",
+        "BED ROOM"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Ed David",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Irrational Fear of Nothing (2016)\nFollows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.\nTechnique - Snorricam , Snorricam > on back\nDirector - Paul Trillo\nDOP - Ed David\nEditor - Paul Trillo\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nPAUL TRILLO\nBED\nBED ROOM",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/07/07/FF_2ykuoSN/6428498041685336086e25a90d588cb1.gif",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "discovered_at": "2025-09-12T02:33:42.805580",
+      "title": "Oddworld x Souly - wzf / maybach (2024)",
+      "description": "The music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.",
+      "tags": [
+        "MALE",
+        "WALKING",
+        "SNORRICAM",
+        "HOODIE",
+        "THERMAL"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Snorricam",
+        "Snorricam > on back",
+        "Thermal"
+      ],
+      "director": "Yannic Nixdorf",
+      "dop": "Patrick Pichler",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oddworld x Souly - wzf / maybach (2024)\nThe music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.\nTechnique - Altered state , Drug trip , Snorricam , Snorricam > on back , Thermal\nDirector - Florian Christopher, Grotesk.Group\nDOP - Patrick Pichler\nEditor - Yannic Nixdorf\nOriginal Source - Link\nMALE\nWALKING\nSNORRICAM\nHOODIE\nTHERMAL",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/FPl5QPqSFA2M8qD7h69N_1600/d107e50b885e08d18287de75342f567d.gif",
+      "alt_text": "District 9",
+      "discovered_at": "2025-09-12T02:33:45.947614",
+      "title": "District 9 (2009)",
+      "description": "Violence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology.",
+      "tags": [
+        "GUN",
+        "SOLDIER",
+        "WEAPON",
+        "MACHINE GUN"
+      ],
+      "technique_tags": [
+        "2010s",
+        "Action",
+        "Fixed Cam",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Julian Clarke",
+      "dop": "Trent Opaloch",
+      "colorist": "Dave Pickett, David Hollingsworth",
+      "original_source": "",
+      "additional_info": "District 9 (2009)\nViolence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology.\nTechnique - 2010s , Action , Fixed Cam , Snorricam , Snorricam > on front\nDirector - Neill Blomkamp\nDOP - Trent Opaloch\nEditor - Julian Clarke\nColorist - Dave Pickett, David Hollingsworth\nOriginal Source - Link\nGUN\nSOLDIER\nWEAPON\nMACHINE GUN",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Sequence_01_r9AW2T6/ab39bdfbe8e0fa795be0df4c813d651c.gif",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "discovered_at": "2025-09-12T02:33:49.176395",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby (2006)",
+      "description": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
+      "tags": [
+        "EXPLOSION",
+        "NIGHT",
+        "EXTERIOR",
+        "CRASH",
+        "NASCAR",
+        "WILL FERRELL"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Brent White",
+      "dop": "Oliver Wood",
+      "colorist": "Joe Finley",
+      "original_source": "",
+      "additional_info": "Talladega Nights: The Ballad of Ricky Bobby (2006)\nNumber one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.\nTechnique - Snorricam , Snorricam > on front\nDirector - Adam McKay\nDOP - Oliver Wood\nEditor - Brent White\nColorist - Joe Finley\nOriginal Source - Link\nEXPLOSION\nNIGHT\nEXTERIOR\nCRASH\nNASCAR\nWILL FERRELL",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/07/07/FF_aIT4xud/5b1910bb8621b0002f06b455944df391.gif",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "discovered_at": "2025-09-12T02:33:52.317547",
+      "title": "Oddworld x Souly - wzf / maybach (2024)",
+      "description": "The music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.",
+      "tags": [
+        "MALE",
+        "WALKING",
+        "SNORRICAM",
+        "HOODIE",
+        "THERMAL"
+      ],
+      "technique_tags": [
+        "Floating UI",
+        "Snorricam",
+        "Snorricam > on back",
+        "Thermal",
+        "Video Game"
+      ],
+      "director": "Yannic Nixdorf",
+      "dop": "Patrick Pichler",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oddworld x Souly - wzf / maybach (2024)\nThe music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.\nTechnique - Floating UI , Snorricam , Snorricam > on back , Thermal , Video Game\nDirector - Florian Christopher, Grotesk.Group\nDOP - Patrick Pichler\nEditor - Yannic Nixdorf\nOriginal Source - Link\nMALE\nWALKING\nSNORRICAM\nHOODIE\nTHERMAL",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/ltBCmjdlPyCZkPyzqbLI_1600_1/30d86e99bb54cc7e55d5f4dc975b25b2.gif",
+      "alt_text": "Mean Streets",
+      "discovered_at": "2025-09-12T02:33:55.463996",
+      "title": "Mean Streets (1973)",
+      "description": "In New York City's Little Italy, a devoutly Catholic mobster must reconcile his desire for power, his feelings for his epileptic lover, and his devotion to his troublesome friend.",
+      "tags": [
+        "RED",
+        "INTERIOR",
+        "BAR",
+        "DRUNK"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Sidney Levin",
+      "dop": "Kent L. Wakeford",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Mean Streets (1973)\nIn New York City's Little Italy, a devoutly Catholic mobster must reconcile his desire for power, his feelings for his epileptic lover, and his devotion to his troublesome friend.\nTechnique - Snorricam , Snorricam > on front\nDirector - Martin Scorsese\nDOP - Kent L. Wakeford\nEditor - Sidney Levin\nRED\nINTERIOR\nBAR\nDRUNK",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/KzIHtCjvA2i73kVI1noX_1600/e94bf0ded6a2854423c32d3550694956.gif",
+      "alt_text": "Get Him to the Greek",
+      "discovered_at": "2025-09-12T02:33:58.687869",
+      "title": "Get Him to the Greek (2010)",
+      "description": "A record company intern is hired to accompany out-of-control British rock star Aldous Snow to a concert at L.A.'s Greek Theater.",
+      "tags": [
+        "INTERIOR",
+        "JONAH HILL"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Michael L. Sale, William Kerr",
+      "dop": "Robert Yeoman",
+      "colorist": "Mitch Rosin",
+      "original_source": "",
+      "additional_info": "Get Him to the Greek (2010)\nA record company intern is hired to accompany out-of-control British rock star Aldous Snow to a concert at L.A.'s Greek Theater.\nTechnique - Snorricam , Snorricam > on front\nDirector - Nicholas Stoller\nDOP - Robert Yeoman\nEditor - Michael L. Sale, William Kerr\nColorist - Mitch Rosin\nINTERIOR\nJONAH HILL",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/30/Screenshot_2024-01-29_at_1.54.08PM_uhETOja/ca1c918f43b37439a5dc0ad85bae600c.gif",
+      "alt_text": "The French Dispatch",
+      "discovered_at": "2025-09-12T02:34:01.962729",
+      "title": "The French Dispatch (2021)",
+      "description": "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".",
+      "tags": [
+        "INTERIOR",
+        "BLACK AND WHITE",
+        "WHEELCHAIR"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Fixed Cam",
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "The French Dispatch (2021)\nA love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".\nTechnique - 1960s , Fixed Cam , Snorricam , Snorricam > on back\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Gareth Spensley\nINTERIOR\nBLACK AND WHITE\nWHEELCHAIR",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Apr-01-202319-35-06/89db568c95e7857b3536fab343736827.gif",
+      "alt_text": "Requiem for a Dream",
+      "discovered_at": "2025-09-12T02:34:05.105534",
+      "title": "Requiem for a Dream (2000)",
+      "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+      "tags": [
+        "WOMAN",
+        "WALKING",
+        "INTERIOR",
+        "HALLWAY",
+        "PANAVISION GOLD / G2",
+        "PANAVISION PANASTAR",
+        "EYEMO",
+        "ARRI 3",
+        "SWEATING"
+      ],
+      "technique_tags": [
+        "Nervousness",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Jay Rabinowitz",
+      "dop": "Matthew Libatique",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Requiem for a Dream (2000)\nThe drug-induced utopias of four Coney Island people are shattered when their addictions run deep.\nTechnique - Nervousness , Snorricam , Snorricam > on front\nDirector - Darren Aronofsky\nDOP - Matthew Libatique\nEditor - Jay Rabinowitz\nOriginal Source - Link\nWOMAN\nWALKING\nINTERIOR\nHALLWAY\nPANAVISION GOLD / G2\nPANAVISION PANASTAR\nEYEMO\nARRI 3\nSWEATING",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Apr-01-202319-45-02/2b33f1bd38e561d1cad4105905fc883c.gif",
+      "alt_text": "Dev.D (Movie)",
+      "discovered_at": "2025-09-12T02:34:08.401397",
+      "title": "Dev.D (Movie) (2009)",
+      "description": "After breaking up with his childhood sweetheart, a young man finds solace in drugs. Meanwhile, a teenage girl is caught in the world of prostitution. Will they be destroyed, or will they find redemption?",
+      "tags": [
+        "DRUNK",
+        "INTOXICATED"
+      ],
+      "technique_tags": [
+        "Inebriation",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Aarti Bajaj",
+      "dop": "Rajeev Ravi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dev.D (Movie) (2009)\nAfter breaking up with his childhood sweetheart, a young man finds solace in drugs. Meanwhile, a teenage girl is caught in the world of prostitution. Will they be destroyed, or will they find redemption?\nTechnique - Inebriation , Snorricam , Snorricam > on front\nDirector - Anurag Kashyap\nDOP - Rajeev Ravi\nEditor - Aarti Bajaj\nDRUNK\nINTOXICATED",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/07/07/FF_MIUlOIh/6e9300954e04f3eeeee40967b03c5648.gif",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "discovered_at": "2025-09-12T02:34:11.638912",
+      "title": "Oddworld x Souly - wzf / maybach (2024)",
+      "description": "The music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.",
+      "tags": [
+        "MALE",
+        "WALKING",
+        "SNORRICAM",
+        "HOODIE",
+        "THERMAL"
+      ],
+      "technique_tags": [
+        "Floating UI",
+        "Snorricam",
+        "Snorricam > on back",
+        "Thermal",
+        "Video Game"
+      ],
+      "director": "Yannic Nixdorf",
+      "dop": "Patrick Pichler",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oddworld x Souly - wzf / maybach (2024)\nThe music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.\nTechnique - Floating UI , Snorricam , Snorricam > on back , Thermal , Video Game\nDirector - Florian Christopher, Grotesk.Group\nDOP - Patrick Pichler\nEditor - Yannic Nixdorf\nOriginal Source - Link\nMALE\nWALKING\nSNORRICAM\nHOODIE\nTHERMAL",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Apr-01-202319-36-00/bb59d4f04a2f179862f2c47acf7cd3db.gif",
+      "alt_text": "Requiem for a Dream",
+      "discovered_at": "2025-09-12T02:34:14.933446",
+      "title": "Requiem for a Dream (2000)",
+      "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+      "tags": [
+        "WOMAN",
+        "INTERIOR",
+        "WINDOW",
+        "HAIR"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Jay Rabinowitz",
+      "dop": "Matthew Libatique",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Requiem for a Dream (2000)\nThe drug-induced utopias of four Coney Island people are shattered when their addictions run deep.\nTechnique - Snorricam , Snorricam > on back\nDirector - Darren Aronofsky\nDOP - Matthew Libatique\nEditor - Jay Rabinowitz\nOriginal Source - Link\nWOMAN\nINTERIOR\nWINDOW\nHAIR",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/14/NIKE_x_SIZE_-_Content_De_Te_Revoir_KltYDGa/415be267e8a8eedc5ae502f5af77a35a.gif",
+      "alt_text": "NIKE x SIZE? - Content De Te Revoir",
+      "discovered_at": "2025-09-12T02:34:18.072500",
+      "title": "NIKE x SIZE? - Content De Te Revoir (2024)",
+      "description": "",
+      "tags": [
+        "MALE"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Jessy Busgeeth",
+      "dop": "Jessy Busgeeth",
+      "colorist": "Jessy Busgeeth",
+      "original_source": "",
+      "additional_info": "NIKE x SIZE? - Content De Te Revoir (2024)\nTechnique - Snorricam , Snorricam > on back\nDirector - Jessy Busgeeth\nDOP - Jessy Busgeeth\nEditor - Jessy Busgeeth\nColorist - Jessy Busgeeth\nOriginal Source - Link\nMALE",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/TheIrrationalFearofNothing_12/d27226d6ee206696b67a1cff0d189062.gif",
+      "alt_text": "The Irrational Fear of Nothing",
+      "discovered_at": "2025-09-12T02:34:21.363864",
+      "title": "The Irrational Fear of Nothing (2016)",
+      "description": "Follows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.",
+      "tags": [
+        "INTERIOR",
+        "PAUL TRILLO"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back",
+        "Transitions"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Ed David",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Irrational Fear of Nothing (2016)\nFollows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.\nTechnique - Snorricam , Snorricam > on back , Transitions\nDirector - Paul Trillo\nDOP - Ed David\nEditor - Paul Trillo\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nPAUL TRILLO",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/24/Sam_Akpro__-__Death_By_Entertainment_jDuBevO/287d42ab7206527a7b7b8d987f65c56c.gif",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "discovered_at": "2025-09-12T02:34:24.597221",
+      "title": "Sam Akpro - Death By Entertainment (2023)",
+      "description": "The music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.",
+      "tags": [],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Pedro Takahashi",
+      "dop": "Max Conran",
+      "colorist": "Connor Coolbear, Electric Theatre Collective",
+      "original_source": "",
+      "additional_info": "Sam Akpro - Death By Entertainment (2023)\nThe music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.\nTechnique - Snorricam , Snorricam > on front\nDirector - Pedro Takahashi\nDOP - Max Conran\nColorist - Connor Coolbear, Electric Theatre Collective\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Apr-01-202319-33-56/18a2c13dc4d16d294bb8ff02d63b9b11.gif",
+      "alt_text": "Requiem for a Dream",
+      "discovered_at": "2025-09-12T02:34:27.736691",
+      "title": "Requiem for a Dream (2000)",
+      "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+      "tags": [
+        "WOMAN",
+        "WALKING",
+        "INTERIOR",
+        "HALLWAY",
+        "PANAVISION GOLD / G2",
+        "PANAVISION PANASTAR",
+        "EYEMO",
+        "ARRI 3",
+        "SWEATING"
+      ],
+      "technique_tags": [
+        "Nervousness",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Jay Rabinowitz",
+      "dop": "Matthew Libatique",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Requiem for a Dream (2000)\nThe drug-induced utopias of four Coney Island people are shattered when their addictions run deep.\nTechnique - Nervousness , Snorricam , Snorricam > on front\nDirector - Darren Aronofsky\nDOP - Matthew Libatique\nEditor - Jay Rabinowitz\nOriginal Source - Link\nWOMAN\nWALKING\nINTERIOR\nHALLWAY\nPANAVISION GOLD / G2\nPANAVISION PANASTAR\nEYEMO\nARRI 3\nSWEATING",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/1617650421149922285/10567e6a34320991439d29da7e27b09d.gif",
+      "alt_text": "Bad Santa (Movie)",
+      "discovered_at": "2025-09-12T02:34:30.876702",
+      "title": "Bad Santa (Movie) (2009)",
+      "description": "A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid.",
+      "tags": [
+        "DRINKING",
+        "DRUNK"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Sadness",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Robert Hoffman",
+      "dop": "Jamie Anderson",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Bad Santa (Movie) (2009)\nA miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid.\nTechnique - 2000s , Sadness , Snorricam , Snorricam > on front\nDirector - Terry Zwigoff\nDOP - Jamie Anderson\nEditor - Robert Hoffman\nDRINKING\nDRUNK",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Mar-26-202323-34-00_1/c3cd7fafbb11ee6649e3a3a7ea8002f9.gif",
+      "alt_text": "Getter - Head Splitter",
+      "discovered_at": "2025-09-12T02:34:34.121635",
+      "title": "Getter - Head Splitter (2015)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "NIGHT",
+        "SMILE",
+        "EXTERIOR",
+        "PHONE"
+      ],
+      "technique_tags": [
+        "Happiness",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Liam Underwood",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Getter - Head Splitter (2015)\nA now iconic music video portraying Getter in Los Angeles, where he encounters an unknown substance leading to hallucinations with vivid special effects by Visual Creatures, Kid Mograph, and Deladeso. Director and Editor: Liam Underwood Design / Animation / VFX: Visual Creatures\nTechnique - Happiness , Snorricam , Snorricam > on front\nDirector - Liam Underwood\nOriginal Source - Link\nTutorial - Link\nMALE\nNIGHT\nSMILE\nEXTERIOR\nPHONE",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/13/6_VjdvUQq/61e4afc003d54e5d3d4e9e13a3788cf5.gif",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T02:34:37.367303",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Season 1. Episode 6. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. In this episode, Eddie's doubts about Susie continue to grow. But there's 15 million pounds of dirty money to be laundered before she'll consider leaving the estate. Created by Guy Ritchie.",
+      "tags": [
+        "MALE",
+        "FIGHT",
+        "SUNGLASSES",
+        "KNOCKED OUT"
+      ],
+      "technique_tags": [
+        "Falling",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Matt Platts-Mills",
+      "dop": "Callan Green",
+      "colorist": "Matthieu Toullet",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 6. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. In this episode, Eddie's doubts about Susie continue to grow. But there's 15 million pounds of dirty money to be laundered before she'll consider leaving the estate. Created by Guy Ritchie.\nTechnique - Falling , Snorricam , Snorricam > on front\nDirector - Eran Creevy\nDOP - Callan Green\nEditor - Matt Platts-Mills\nColorist - Matthieu Toullet\nMALE\nFIGHT\nSUNGLASSES\nKNOCKED OUT",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/F9A2A079-B7B9-4839-B700-8B2B96E4BCF0_1/4b1e32faad7dbe58a148303a446f29c3.gif",
+      "alt_text": "Satellite Store",
+      "discovered_at": "2025-09-12T02:34:40.678969",
+      "title": "Satellite Store (2023)",
+      "description": "",
+      "tags": [
+        "WALKING",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Benji Beacham",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Satellite Store (2023)\nTechnique - Snorricam , Snorricam > on back\nDirector - Benji Beacham\nWALKING\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Apr-01-202319-26-43/173c32bc5bfc99f5ed1024b00f747d8c.gif",
+      "alt_text": "The Hangover",
+      "discovered_at": "2025-09-12T02:34:43.928763",
+      "title": "The Hangover (2009)",
+      "description": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "MORNING",
+        "HANGOVER",
+        "GROGGY"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Todd Phillips",
+      "dop": "Lawrence Sher",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Hangover (2009)\nThree buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.\nTechnique - Altered state , Drug trip , Snorricam , Snorricam > on front\nDirector - Todd Phillips\nDOP - Lawrence Sher\nOriginal Source - Link\nDAY\nINTERIOR\nMORNING\nHANGOVER\nGROGGY",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/c569LR9oZQLa5WsCqt8c_1600/da696de00a2bfbfc9e4872d4a4ff338b.gif",
+      "alt_text": "Get Him to the Greek",
+      "discovered_at": "2025-09-12T02:34:47.061224",
+      "title": "Get Him to the Greek (2010)",
+      "description": "A record company intern is hired to accompany out-of-control British rock star Aldous Snow to a concert at L.A.'s Greek Theater.",
+      "tags": [
+        "INTERIOR",
+        "JONAH HILL"
+      ],
+      "technique_tags": [
+        "2010s",
+        "Excitement",
+        "Happiness",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Michael L. Sale, William Kerr",
+      "dop": "Robert Yeoman",
+      "colorist": "Mitch Rosin",
+      "original_source": "",
+      "additional_info": "Get Him to the Greek (2010)\nA record company intern is hired to accompany out-of-control British rock star Aldous Snow to a concert at L.A.'s Greek Theater.\nTechnique - 2010s , Excitement , Happiness , Snorricam , Snorricam > on front\nDirector - Nicholas Stoller\nDOP - Robert Yeoman\nEditor - Michael L. Sale, William Kerr\nColorist - Mitch Rosin\nINTERIOR\nJONAH HILL",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/TheIrrationalFearofNothing_9/aed4b55a936b0c1f4149a2f2aca15160.gif",
+      "alt_text": "The Irrational Fear of Nothing",
+      "discovered_at": "2025-09-12T02:34:50.377979",
+      "title": "The Irrational Fear of Nothing (2016)",
+      "description": "Follows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.",
+      "tags": [
+        "INTERIOR",
+        "PAUL TRILLO"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Ed David",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Irrational Fear of Nothing (2016)\nFollows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.\nTechnique - Snorricam , Snorricam > on back\nDirector - Paul Trillo\nDOP - Ed David\nEditor - Paul Trillo\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nPAUL TRILLO",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Sequence_01_1_qHmybo1/1847327278c010ce78140b69bf6c43a5.gif",
+      "alt_text": "AJR - The DJ Is Crying For Help",
+      "discovered_at": "2025-09-12T02:34:53.629432",
+      "title": "AJR - The DJ Is Crying For Help (2022)",
+      "description": "Directed by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "PARIS"
+      ],
+      "technique_tags": [
+        "Double Dolly",
+        "Fast Motion",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Austin Roa",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "AJR - The DJ Is Crying For Help (2022)\nDirected by Austin Roa and released on November 18, 2022. The video was filmed in Paris during a cloudy day off from AJR's Europe tour and features the band running through the city, most notably in front of the Eiffel Tower.\nTechnique - Double Dolly , Fast Motion , Snorricam , Snorricam > on front\nDirector - Austin Roa\nOriginal Source - Link\nDAY\nEXTERIOR\nPARIS",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/24/Sam_Akpro__-__Death_By_Entertainment_rJVAfsW/c5a43414f832dd664ef879058384698e.gif",
+      "alt_text": "Sam Akpro - Death By Entertainment",
+      "discovered_at": "2025-09-12T02:34:56.880621",
+      "title": "Sam Akpro - Death By Entertainment (2023)",
+      "description": "The music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.",
+      "tags": [
+        "MALE",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Pedro Takahashi",
+      "dop": "Max Conran",
+      "colorist": "Connor Coolbear, Electric Theatre Collective",
+      "original_source": "",
+      "additional_info": "Sam Akpro - Death By Entertainment (2023)\nThe music video for \"Death By Entertainment\" by Sam Akpro, directed by Pedro Takahashi, presents the artist and his band as Wall Street-style bankers caught in an endless loop of hard work and intense leisure. The video employs split screens and dynamic camera movements to convey a melancholic yet captivating atmosphere, mirroring the song's themes of repetitive daily life and the blurring lines between day and night due to physical and mental exhaustion.\nTechnique - Snorricam , Snorricam > on front\nDirector - Pedro Takahashi\nDOP - Max Conran\nColorist - Connor Coolbear, Electric Theatre Collective\nOriginal Source - Link\nMALE\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/07/07/FF_Fe0IQbO/7ff335f0c8851ea6ac5e51a5db1e45b4.gif",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "discovered_at": "2025-09-12T02:35:00.048559",
+      "title": "Oddworld x Souly - wzf / maybach (2024)",
+      "description": "The music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.",
+      "tags": [
+        "MALE",
+        "WALKING",
+        "SNORRICAM",
+        "HOODIE",
+        "THERMAL"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back",
+        "Thermal"
+      ],
+      "director": "Yannic Nixdorf",
+      "dop": "Patrick Pichler",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oddworld x Souly - wzf / maybach (2024)\nThe music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.\nTechnique - Snorricam , Snorricam > on back , Thermal\nDirector - Florian Christopher, Grotesk.Group\nDOP - Patrick Pichler\nEditor - Yannic Nixdorf\nOriginal Source - Link\nMALE\nWALKING\nSNORRICAM\nHOODIE\nTHERMAL",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/07/07/FF_UO2tcqw/39ee7bae86880c7c82b6db0f1ee262b8.gif",
+      "alt_text": "Oddworld x Souly - wzf / maybach",
+      "discovered_at": "2025-09-12T02:35:14.556761",
+      "title": "Oddworld x Souly - wzf / maybach (2024)",
+      "description": "The music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.",
+      "tags": [
+        "MALE",
+        "GLITCH",
+        "GRAIN",
+        "HOODIE"
+      ],
+      "technique_tags": [
+        "Glitch",
+        "Inversion",
+        "Snorricam"
+      ],
+      "director": "Yannic Nixdorf",
+      "dop": "Patrick Pichler",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oddworld x Souly - wzf / maybach (2024)\nThe music video for \"WZF / Maybach\" by Oddworld x Souly is a visually striking and dynamic production. The video features high-energy performances and a mix of urban and futuristic aesthetics. With vibrant colors and fast-paced edits, the visual storytelling complements the rhythm and intensity of the track. The artists are showcased in various locations, including industrial backdrops and sleek, modern settings, adding to the video's edgy and stylish vibe. The direction creatively blends elements of hip-hop culture with innovative visual effects, making it a captivating watch from start to finish.\nTechnique - Glitch , Inversion , Snorricam\nDirector - Florian Christopher, Grotesk.Group\nDOP - Patrick Pichler\nEditor - Yannic Nixdorf\nOriginal Source - Link\nMALE\nGLITCH\nGRAIN\nHOODIE",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/F9A2A079-B7B9-4839-B700-8B2B96E4BCF0/a1a7494544555f608b21126644873b48.gif",
+      "alt_text": "Satellite Store",
+      "discovered_at": "2025-09-12T02:35:17.690873",
+      "title": "Satellite Store (2023)",
+      "description": "",
+      "tags": [
+        "WALKING",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Benji Beacham",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Satellite Store (2023)\nTechnique - Snorricam , Snorricam > on back\nDirector - Benji Beacham\nWALKING\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Apr-01-202319-32-56/3a9c9632ba0ec25c2802e0018aef0e80.gif",
+      "alt_text": "Requiem for a Dream",
+      "discovered_at": "2025-09-12T02:35:20.826300",
+      "title": "Requiem for a Dream (2000)",
+      "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+      "tags": [
+        "RUNNING",
+        "NIGHT",
+        "EXTERIOR",
+        "POLICE",
+        "PANAVISION GOLD / G2",
+        "CHASE",
+        "PANAVISION PANASTAR",
+        "ARRI 3"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Jay Rabinowitz",
+      "dop": "Matthew Libatique",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Requiem for a Dream (2000)\nThe drug-induced utopias of four Coney Island people are shattered when their addictions run deep.\nTechnique - Snorricam , Snorricam > on front\nDirector - Darren Aronofsky\nDOP - Matthew Libatique\nEditor - Jay Rabinowitz\nOriginal Source - Link\nRUNNING\nNIGHT\nEXTERIOR\nPOLICE\nPANAVISION GOLD / G2\nCHASE\nPANAVISION PANASTAR\nARRI 3",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/SIyw3q4snSHTEvY3ZHCU_1600/6da21df53ec256b8dc4b1eb9237955dd.gif",
+      "alt_text": "Seconds",
+      "discovered_at": "2025-09-12T02:35:23.955649",
+      "title": "Seconds (1966)",
+      "description": "An unhappy middle-aged banker agrees to a procedure that will fake his death and give him a completely new look and identity - one that comes with its own price.",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "David Newhouse, Ferris Webster",
+      "dop": "James Wong Howe",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Seconds (1966)\nAn unhappy middle-aged banker agrees to a procedure that will fake his death and give him a completely new look and identity - one that comes with its own price.\nTechnique - Snorricam , Snorricam > on back\nDirector - John Frankenheimer\nDOP - James Wong Howe\nEditor - David Newhouse, Ferris Webster\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/10/3_G5sJtCu/fef7a0c114f71ab5d5057eca32c81d8c.gif",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T02:35:27.295860",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "INTERIOR",
+        "HALLUCINATION"
+      ],
+      "technique_tags": [
+        "Snorricam"
+      ],
+      "director": "David Webb",
+      "dop": "Bjorn Charpentier",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Snorricam\nDOP - Bjorn Charpentier\nEditor - David Webb\nINTERIOR\nHALLUCINATION",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/TheIrrationalFearofNothing_6/8335ceb6494f955fc455866c200733d3.gif",
+      "alt_text": "The Irrational Fear of Nothing",
+      "discovered_at": "2025-09-12T02:35:30.428031",
+      "title": "The Irrational Fear of Nothing (2016)",
+      "description": "Follows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.",
+      "tags": [
+        "INTERIOR",
+        "PAUL TRILLO"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Ed David",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Irrational Fear of Nothing (2016)\nFollows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.\nTechnique - Snorricam , Snorricam > on back\nDirector - Paul Trillo\nDOP - Ed David\nEditor - Paul Trillo\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nPAUL TRILLO",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/0d7xVTAortgWTcvPlbbq_1600/a05b46c21649c144ad2521973f1f773a.gif",
+      "alt_text": "Pi (Movie)",
+      "discovered_at": "2025-09-12T02:35:33.554674",
+      "title": "Pi (Movie) (1998)",
+      "description": "A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.",
+      "tags": [
+        "BLACK AND WHITE",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Oren Sarch",
+      "dop": "Matthew Libatique",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pi (Movie) (1998)\nA paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.\nTechnique - Snorricam , Snorricam > on front\nDirector - Darren Aronofsky\nDOP - Matthew Libatique\nEditor - Oren Sarch\nBLACK AND WHITE\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Kz0fZXpoSz2hIlDSyXO4_1600/9a893ddccdbdf43c22deb18984ef6484.gif",
+      "alt_text": "The Wolf of Wall Street",
+      "discovered_at": "2025-09-12T02:35:36.683225",
+      "title": "The Wolf of Wall Street (2013)",
+      "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+      "tags": [
+        "INTERIOR",
+        "JONAH HILL"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Fear",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Thelma Schoonmaker",
+      "dop": "Rodrigo Prieto",
+      "colorist": "Yvan Lucas",
+      "original_source": "",
+      "additional_info": "The Wolf of Wall Street (2013)\nBased on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.\nTechnique - 1980s , Fear , Snorricam , Snorricam > on front\nDOP - Rodrigo Prieto\nEditor - Thelma Schoonmaker\nColorist - Yvan Lucas\nINTERIOR\nJONAH HILL",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/TheIrrationalFearofNothing_2/42f814004f815b8b361dad3981f15b31.gif",
+      "alt_text": "The Irrational Fear of Nothing",
+      "discovered_at": "2025-09-12T02:35:39.962900",
+      "title": "The Irrational Fear of Nothing (2016)",
+      "description": "Follows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.",
+      "tags": [
+        "DAY",
+        "WALKING",
+        "PAUL TRILLO",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Ed David",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Irrational Fear of Nothing (2016)\nFollows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.\nTechnique - Snorricam , Snorricam > on back\nDirector - Paul Trillo\nDOP - Ed David\nEditor - Paul Trillo\nOriginal Source - Link\nTutorial - Link\nDAY\nWALKING\nPAUL TRILLO\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/TheIrrationalFearofNothing_8/aaae7775ad96ab9e0d08206728433011.gif",
+      "alt_text": "The Irrational Fear of Nothing",
+      "discovered_at": "2025-09-12T02:35:43.084616",
+      "title": "The Irrational Fear of Nothing (2016)",
+      "description": "Follows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.",
+      "tags": [
+        "INTERIOR",
+        "PAUL TRILLO"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back",
+        "Transitions"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Ed David",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Irrational Fear of Nothing (2016)\nFollows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.\nTechnique - Snorricam , Snorricam > on back , Transitions\nDirector - Paul Trillo\nDOP - Ed David\nEditor - Paul Trillo\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nPAUL TRILLO",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/TheIrrationalFearofNothing_7/6583d008a8d57aace639d8dd68ab8e57.gif",
+      "alt_text": "The Irrational Fear of Nothing",
+      "discovered_at": "2025-09-12T02:35:46.295025",
+      "title": "The Irrational Fear of Nothing (2016)",
+      "description": "Follows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.",
+      "tags": [
+        "INTERIOR",
+        "PAUL TRILLO"
+      ],
+      "technique_tags": [
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Ed David",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Irrational Fear of Nothing (2016)\nFollows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.\nTechnique - Snorricam , Snorricam > on back\nDirector - Paul Trillo\nDOP - Ed David\nEditor - Paul Trillo\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nPAUL TRILLO",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/10/2_3t2B6xV/1481fc8ebf29eb739d20d080da15d134.gif",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T02:36:00.851020",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Snorricam"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Close-Up , Snorricam\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/13/Doechii_-_Crazy_Official_Video/51d90d23bc155a1b74c5a5e9993e7965.gif",
+      "alt_text": "Doechii - Crazy",
+      "discovered_at": "2025-09-12T02:36:03.987049",
+      "title": "Doechii - Crazy (2023)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "GUN"
+      ],
+      "technique_tags": [
+        "Snorricam"
+      ],
+      "director": "Armen Harootun",
+      "dop": "Mika Altskan",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Doechii - Crazy (2023)\nShot: Snorricam transititon to first-person POV\nTechnique - Snorricam\nDirector - C Prinz\nDOP - Mika Altskan\nEditor - Armen Harootun\nOriginal Source - Link\nINTERIOR\nGUN",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/TheIrrationalFearofNothing_5/834eb207507dd4e36e0923fed5977341.gif",
+      "alt_text": "The Irrational Fear of Nothing",
+      "discovered_at": "2025-09-12T02:36:18.520208",
+      "title": "The Irrational Fear of Nothing (2016)",
+      "description": "Follows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.",
+      "tags": [
+        "INTERIOR",
+        "PAUL TRILLO"
+      ],
+      "technique_tags": [
+        "Central Framing",
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Ed David",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Irrational Fear of Nothing (2016)\nFollows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.\nTechnique - Central Framing , Snorricam , Snorricam > on back\nDirector - Paul Trillo\nDOP - Ed David\nEditor - Paul Trillo\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nPAUL TRILLO",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/25/Apr-18-202301-22-18_1/93c34c9928100391ced65438c554b71c.gif",
+      "alt_text": "Hassan DeMarco (2017) / IG",
+      "discovered_at": "2025-09-12T02:36:21.833927",
+      "title": "Hassan DeMarco (2017) / IG",
+      "description": "",
+      "tags": [
+        "DAY",
+        "MALE",
+        "BARBER",
+        "INTERIOR",
+        "HAIRCUT"
+      ],
+      "technique_tags": [
+        "Snorricam"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Hassan DeMarco (2017) / IG\nYou're seeing a side-mounted Snorricam rig.\nTechnique - Snorricam\nDAY\nMALE\nBARBER\nINTERIOR\nHAIRCUT",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/TheIrrationalFearofNothing_11/9a4a57f431e8d7158101377693f84cc5.gif",
+      "alt_text": "The Irrational Fear of Nothing",
+      "discovered_at": "2025-09-12T02:36:25.187272",
+      "title": "The Irrational Fear of Nothing (2016)",
+      "description": "Follows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.",
+      "tags": [
+        "INTERIOR",
+        "PAUL TRILLO"
+      ],
+      "technique_tags": [
+        "Match Cut",
+        "Snorricam",
+        "Snorricam > on back"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Ed David",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Irrational Fear of Nothing (2016)\nFollows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.\nTechnique - Match Cut , Snorricam , Snorricam > on back\nDirector - Paul Trillo\nDOP - Ed David\nEditor - Paul Trillo\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nPAUL TRILLO",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/16/TheIrrationalFearofNothing_10/d9c0eb7736f446d4bbff114d543bf776.gif",
+      "alt_text": "The Irrational Fear of Nothing",
+      "discovered_at": "2025-09-12T02:36:28.539451",
+      "title": "The Irrational Fear of Nothing (2016)",
+      "description": "Follows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.",
+      "tags": [
+        "SLIT SCAN",
+        "SLIT-SCAN",
+        "PAUL TRILLO",
+        "SLITSCAN",
+        "SNORRICAM"
+      ],
+      "technique_tags": [
+        "Slit-scan",
+        "Snorricam"
+      ],
+      "director": "Paul Trillo",
+      "dop": "Ed David",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Irrational Fear of Nothing (2016)\nFollows a paranoid, neurotic man named Terry as he wanders through the streets of Manhattan. Past memories and his irrational inner thoughts soon plague his every move. By channeling a form of mental time travel, he attempts to overcome these past anxieties.\nTechnique - Slit-scan , Snorricam\nDirector - Paul Trillo\nDOP - Ed David\nEditor - Paul Trillo\nOriginal Source - Link\nTutorial - Link\nSLIT SCAN\nSLIT-SCAN\nPAUL TRILLO\nSLITSCAN\nSNORRICAM",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Apr-01-202319-33-12/92dbb5a270cd8816a7a533cfcc5ab2e2.gif",
+      "alt_text": "Requiem for a Dream",
+      "discovered_at": "2025-09-12T02:36:43.099744",
+      "title": "Requiem for a Dream (2000)",
+      "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+      "tags": [
+        "WOMAN",
+        "INTERIOR",
+        "HALLWAY",
+        "ELEVATOR",
+        "PANAVISION GOLD / G2",
+        "PANAVISION PANASTAR",
+        "EYEMO",
+        "ARRI 3",
+        "SWEATING"
+      ],
+      "technique_tags": [
+        "Nervousness",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Jay Rabinowitz",
+      "dop": "Matthew Libatique",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Requiem for a Dream (2000)\nThe drug-induced utopias of four Coney Island people are shattered when their addictions run deep.\nTechnique - Nervousness , Snorricam , Snorricam > on front\nDirector - Darren Aronofsky\nDOP - Matthew Libatique\nEditor - Jay Rabinowitz\nOriginal Source - Link\nWOMAN\nINTERIOR\nHALLWAY\nELEVATOR\nPANAVISION GOLD / G2\nPANAVISION PANASTAR\nEYEMO\nARRI 3\nSWEATING",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Apr-01-202319-45-19/61da02f567667235e7b56b9b39aa638d.gif",
+      "alt_text": "Dev.D (Movie)",
+      "discovered_at": "2025-09-12T02:36:46.264215",
+      "title": "Dev.D (Movie) (2009)",
+      "description": "After breaking up with his childhood sweetheart, a young man finds solace in drugs. Meanwhile, a teenage girl is caught in the world of prostitution. Will they be destroyed, or will they find redemption?",
+      "tags": [
+        "DRUNK",
+        "INTOXICATED"
+      ],
+      "technique_tags": [
+        "Inebriation",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Aarti Bajaj",
+      "dop": "Rajeev Ravi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dev.D (Movie) (2009)\nAfter breaking up with his childhood sweetheart, a young man finds solace in drugs. Meanwhile, a teenage girl is caught in the world of prostitution. Will they be destroyed, or will they find redemption?\nTechnique - Inebriation , Snorricam , Snorricam > on front\nDirector - Anurag Kashyap\nDOP - Rajeev Ravi\nEditor - Aarti Bajaj\nDRUNK\nINTOXICATED",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/FEMmoGcC3U2OyUWkCLnM_1600/a8e39a13bbc521bf2ad98b6d68d4e754.gif",
+      "alt_text": "Freaky Friday (Movie)",
+      "discovered_at": "2025-09-12T02:36:49.406577",
+      "title": "Freaky Friday (Movie) (2003)",
+      "description": "An overworked mother and her daughter did not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.",
+      "tags": [
+        "INTERIOR",
+        "LINDSAY LOHAN"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Confusion",
+        "Epiphany",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Bruce Green",
+      "dop": "Oliver Wood",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Freaky Friday (Movie) (2003)\nAn overworked mother and her daughter did not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.\nTechnique - 2000s , Confusion , Epiphany , Snorricam , Snorricam > on front\nDirector - Mark Waters\nDOP - Oliver Wood\nEditor - Bruce Green\nINTERIOR\nLINDSAY LOHAN",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/run-forrest-puppet/60d7d8f3b0e4a31aa43bdd715f221ab1.gif",
+      "alt_text": "The Muppets",
+      "discovered_at": "2025-09-12T02:36:52.769632",
+      "title": "The Muppets (2011)",
+      "description": "A Muppet fanatic with some help from his 2 human compatriots must regroup the Muppet gang to stop an avaricious oil mogul from taking down one of their precious life-longing treasures.",
+      "tags": [],
+      "technique_tags": [
+        "Excitement",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "James Thomas",
+      "dop": "Don Burgess",
+      "colorist": "Corinne Bogdanowicz",
+      "original_source": "",
+      "additional_info": "The Muppets (2011)\nA Muppet fanatic with some help from his 2 human compatriots must regroup the Muppet gang to stop an avaricious oil mogul from taking down one of their precious life-longing treasures.\nTechnique - Excitement , Snorricam , Snorricam > on front\nDirector - James Bobin\nDOP - Don Burgess\nEditor - James Thomas\nColorist - Corinne Bogdanowicz",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/20/Apr-01-202319-44-11/d4f5b4c4b69db086ed00462b347ebc5e.gif",
+      "alt_text": "Dev.D (Movie)",
+      "discovered_at": "2025-09-12T02:37:07.284704",
+      "title": "Dev.D (Movie) (2009)",
+      "description": "After breaking up with his childhood sweetheart, a young man finds solace in drugs. Meanwhile, a teenage girl is caught in the world of prostitution. Will they be destroyed, or will they find redemption?",
+      "tags": [
+        "DRUNK",
+        "INTOXICATED"
+      ],
+      "technique_tags": [
+        "Inebriation",
+        "Snorricam",
+        "Snorricam > on front"
+      ],
+      "director": "Aarti Bajaj",
+      "dop": "Rajeev Ravi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dev.D (Movie) (2009)\nAfter breaking up with his childhood sweetheart, a young man finds solace in drugs. Meanwhile, a teenage girl is caught in the world of prostitution. Will they be destroyed, or will they find redemption?\nTechnique - Inebriation , Snorricam , Snorricam > on front\nDirector - Anurag Kashyap\nDOP - Rajeev Ravi\nEditor - Aarti Bajaj\nDRUNK\nINTOXICATED",
+      "page_url": "https://eyecannndy.com/technique/snorricam"
+    }
+  ]
 }

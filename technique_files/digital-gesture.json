@@ -1,367 +1,184 @@
 {
   "technique": "digital-gesture",
-  "video_count": 18,
-  "generated_at": "2025-09-05T04:03:29.647959",
+  "scrape_info": {
+    "timestamp": "20250911_142327",
+    "total_videos": 9,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329828.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.861298",
-      "element_tag": "img",
-      "title": "Graubünden - Best Version (DC)",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705111690.webp",
+      "alt_text": "Instagram - Yours to Make",
+      "discovered_at": "2025-09-11T14:22:57.402157",
+      "title": "Instagram - Yours to Make (2021)",
       "description": "",
-      "category": "digital-gesture",
-      "alt_text": "Graubünden - Best Version (DC)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704109560.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.861455",
-      "element_tag": "img",
-      "title": "Erik Schmitt / IG",
-      "description": "",
-      "category": "digital-gesture",
-      "alt_text": "Erik Schmitt / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711433063.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.861553",
-      "element_tag": "img",
-      "title": "Yung Jake - Unfollow",
-      "description": "",
-      "category": "digital-gesture",
-      "alt_text": "Yung Jake - Unfollow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704109651.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.861633",
-      "element_tag": "img",
-      "title": "© Rafael Villegas",
-      "description": "",
-      "category": "digital-gesture",
-      "alt_text": "© Rafael Villegas",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "NIGHT",
+        "ROLLERSKATING"
+      ],
+      "technique_tags": [
+        "Gesture",
+        "Void"
+      ],
+      "director": "Cabin Edit, Robert Lopuski",
+      "dop": "Oliver Millar",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Instagram - Yours to Make (2021)\nDirector: rubberband Production Company: SMUGGLER Executive Producers: Patrick John Milling-Smith, Brian Carmody, Sue Yeon Ahn COO: Andrew Colon Head of Production: Alex Hughes Producer: Carmen Bosley Director of Photography: Oliver Millar Production Designer: Miranda Lorenz Stylist: Eric Mcneal Hair Stylist: Jayson Medina Makeup Artist: Jenn Hanching\nTechnique - Gesture , Void\nDirector - rubberband\nDOP - Oliver Millar\nEditor - Cabin Edit, Robert Lopuski\nOriginal Source - Link\nNIGHT\nROLLERSKATING",
+      "page_url": "https://eyecannndy.com/technique/digital-gesture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704109723.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.861711",
-      "element_tag": "img",
+      "alt_text": "@sssamein / IG",
+      "discovered_at": "2025-09-11T14:23:01.069156",
       "title": "@sssamein / IG",
       "description": "",
-      "category": "digital-gesture",
-      "alt_text": "@sssamein / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "INTERIOR",
+        "FIRST PERSON",
+        "INTERFACE",
+        "UI"
+      ],
+      "technique_tags": [
+        "Gesture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "@sssamein / IG\nTechnique - Gesture\nINTERIOR\nFIRST PERSON\nINTERFACE\nUI",
+      "page_url": "https://eyecannndy.com/technique/digital-gesture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704109458.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.861786",
-      "element_tag": "img",
+      "alt_text": "© Grids App / IG",
+      "discovered_at": "2025-09-11T14:23:05.265673",
       "title": "© Grids App / IG",
       "description": "",
-      "category": "digital-gesture",
-      "alt_text": "© Grids App / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711433127.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.861861",
-      "element_tag": "img",
-      "title": "Yung Jake - Unfollow",
-      "description": "",
-      "category": "digital-gesture",
-      "alt_text": "Yung Jake - Unfollow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Gesture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "© Grids App / IG\nTechnique - Gesture",
+      "page_url": "https://eyecannndy.com/technique/digital-gesture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704109752.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.861933",
-      "element_tag": "img",
+      "alt_text": "云 - @_tonyun / IG",
+      "discovered_at": "2025-09-11T14:23:08.939808",
       "title": "云 - @_tonyun / IG",
       "description": "",
-      "category": "digital-gesture",
-      "alt_text": "云 - @_tonyun / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705111690.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.862004",
-      "element_tag": "img",
-      "title": "Instagram - Yours to Make",
-      "description": "",
-      "category": "digital-gesture",
-      "alt_text": "Instagram - Yours to Make",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329828.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.862077",
-      "element_tag": "img",
-      "title": "Graubünden - Best Version (DC)",
-      "description": "",
-      "category": "digital-gesture",
-      "alt_text": "Graubünden - Best Version (DC)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704109560.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.862148",
-      "element_tag": "img",
-      "title": "Erik Schmitt / IG",
-      "description": "",
-      "category": "digital-gesture",
-      "alt_text": "Erik Schmitt / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711433063.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.862216",
-      "element_tag": "img",
-      "title": "Yung Jake - Unfollow",
-      "description": "",
-      "category": "digital-gesture",
-      "alt_text": "Yung Jake - Unfollow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "TENT"
+      ],
+      "technique_tags": [
+        "Gesture"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "云 - @_tonyun / IG\nTechnique - Gesture\nDAY\nEXTERIOR\nTENT",
+      "page_url": "https://eyecannndy.com/technique/digital-gesture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704109651.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.862280",
-      "element_tag": "img",
+      "alt_text": "© Rafael Villegas",
+      "discovered_at": "2025-09-11T14:23:12.600543",
       "title": "© Rafael Villegas",
       "description": "",
-      "category": "digital-gesture",
-      "alt_text": "© Rafael Villegas",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Gesture"
+      ],
+      "director": "Rafael Villegas",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "© Rafael Villegas\nTechnique - Gesture\nDirector - Rafael Villegas\nOriginal Source - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/digital-gesture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704109723.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.862344",
-      "element_tag": "img",
-      "title": "@sssamein / IG",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/01/261709329828.webp",
+      "alt_text": "Graubünden - Best Version (DC)",
+      "discovered_at": "2025-09-11T14:23:16.255836",
+      "title": "Graubünden - Best Version (DC) (2024)",
       "description": "",
-      "category": "digital-gesture",
-      "alt_text": "@sssamein / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "tags": [],
+      "technique_tags": [
+        "Gesture"
+      ],
+      "director": "Thomas Cervenca",
+      "dop": "Pierre Castillo Bernad",
+      "colorist": "Nurali Kushkov",
+      "original_source": "",
+      "additional_info": "Graubünden - Best Version (DC) (2024)\nTechnique - Gesture\nDirector - Maximilian Speidel\nDOP - Pierre Castillo Bernad\nEditor - Thomas Cervenca\nColorist - Nurali Kushkov\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/digital-gesture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704109458.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.862409",
-      "element_tag": "img",
-      "title": "© Grids App / IG",
-      "description": "",
-      "category": "digital-gesture",
-      "alt_text": "© Grids App / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711433063.webp",
+      "alt_text": "Yung Jake - Unfollow",
+      "discovered_at": "2025-09-11T14:23:19.902712",
+      "title": "Yung Jake - Unfollow (2014)",
+      "description": "\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.",
+      "tags": [],
+      "technique_tags": [
+        "Frame play",
+        "Gesture"
+      ],
+      "director": "Yung Jake",
+      "dop": "Temra Pavlovic",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Yung Jake - Unfollow (2014)\n\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.\nTechnique - Frame play , Gesture\nDirector - Yung Jake\nDOP - Temra Pavlovic\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/digital-gesture"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/26/261711433127.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.862475",
-      "element_tag": "img",
-      "title": "Yung Jake - Unfollow",
-      "description": "",
-      "category": "digital-gesture",
       "alt_text": "Yung Jake - Unfollow",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+      "discovered_at": "2025-09-11T14:23:23.548715",
+      "title": "Yung Jake - Unfollow (2014)",
+      "description": "\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.",
+      "tags": [],
+      "technique_tags": [
+        "Gesture",
+        "Transitions"
+      ],
+      "director": "Yung Jake",
+      "dop": "Temra Pavlovic",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Yung Jake - Unfollow (2014)\n\"Unfollow\" by Yung Jake, presented on MOCAtv, explores the challenge of moving on from a past relationship in the digital era, emphasizing the difficulty of severing ties through social media. The music video captures the emotional turmoil and the haunting presence of past memories amplified by social media feeds. It artistically portrays the struggle of detaching from a former partner in a world where digital connections persistently remind one of the past.\nTechnique - Gesture , Transitions\nDirector - Yung Jake\nDOP - Temra Pavlovic\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/digital-gesture"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704109752.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.862540",
-      "element_tag": "img",
-      "title": "云 - @_tonyun / IG",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704109560.webp",
+      "alt_text": "Erik Schmitt / IG",
+      "discovered_at": "2025-09-11T14:23:27.192090",
+      "title": "Erik Schmitt / IG",
       "description": "",
-      "category": "digital-gesture",
-      "alt_text": "云 - @_tonyun / IG",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705111690.webp",
-      "page_url": "https://eyecannndy.com/technique/digital-gesture",
-      "discovered_at": "2025-09-05T03:27:56.862597",
-      "element_tag": "img",
-      "title": "Instagram - Yours to Make",
-      "description": "",
-      "category": "digital-gesture",
-      "alt_text": "Instagram - Yours to Make",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
+        "EXTERIOR",
+        "HAND"
+      ],
+      "technique_tags": [
+        "Gesture"
+      ],
+      "director": "Erik Schmitt",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Erik Schmitt / IG\nTechnique - Gesture\nDirector - Erik Schmitt\nOriginal Source - Link\nEXTERIOR\nHAND",
+      "page_url": "https://eyecannndy.com/technique/digital-gesture"
     }
   ]
 }

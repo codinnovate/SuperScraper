@@ -1,6 +1,1209 @@
 {
   "technique": "speed-ramping",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.655783",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250912_024613",
+    "total_videos": 53,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/01/9/f07c232537dd15260dc9ab38c0dfa3ce.gif",
+      "alt_text": "Apple Arcade - A New World to Play In",
+      "discovered_at": "2025-09-12T02:37:25.407414",
+      "title": "Apple Arcade - A New World to Play In (2020)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "BLUE",
+        "INTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Slow Motion",
+        "Speed Ramp",
+        "Two Shot"
+      ],
+      "director": "Tobias Suhm",
+      "dop": "Mauro Chiarello",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Apple Arcade - A New World to Play In (2020)\nShot breakdown: Two shot speed ramp to slow motion\nTechnique - Slow Motion , Speed Ramp , Two Shot\nDirector - Ian Pons Jewell\nDOP - Mauro Chiarello\nEditor - Tobias Suhm\nOriginal Source - Link\nDAY\nBLUE\nINTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/01/15/853af3b7c62f4fe3d0753a03cabfe5dc.gif",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-12T02:37:28.550726",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Aerial dutch angle speed ramp",
+      "tags": [
+        "NIGHT",
+        "DARK",
+        "CITY",
+        "NEON",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Dutch Angle",
+        "Speed Ramp"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Aerial dutch angle speed ramp\nTechnique - Aerial , Dutch Angle , Speed Ramp\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nNIGHT\nDARK\nCITY\nNEON\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/19/Beastie_Boys_-_An_Open_Letter_To_NYC_pwBDdJv/031f3dce676a63dd391adc1b30a76ee7.gif",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "discovered_at": "2025-09-12T02:37:43.119768",
+      "title": "Beastie Boys - An Open Letter To NYC (2004)",
+      "description": "Music video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys",
+      "tags": [
+        "BRIDGE",
+        "BLACK AND WHITE",
+        "NEW YORK CITY",
+        "SKATING",
+        "SKATEBOARD"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Speed Ramp"
+      ],
+      "director": "Adam Yauch",
+      "dop": "Nathanial Hornblower",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beastie Boys - An Open Letter To NYC (2004)\nMusic video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys\nTechnique - Handheld , Speed Ramp\nDirector - Adam Yauch\nDOP - Nathanial Hornblower\nOriginal Source - Link\nBRIDGE\nBLACK AND WHITE\nNEW YORK CITY\nSKATING\nSKATEBOARD",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/04/01/Travis_Scott_-_FEN_ft._Playboi_Carti_lJYdUgZ/62cf854b27203e05afdd9ee491ebd064.gif",
+      "alt_text": "Travis Scott - FE!N",
+      "discovered_at": "2025-09-12T02:37:46.270844",
+      "title": "Travis Scott - FE!N (2024)",
+      "description": "The music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.",
+      "tags": [
+        "YOUNG",
+        "GROUP",
+        "KIDS",
+        "CROWD",
+        "SCHOOL"
+      ],
+      "technique_tags": [
+        "Flash Cut",
+        "Locked-On",
+        "Speed Ramp",
+        "Zoetrope"
+      ],
+      "director": "Joseph Taylor, Trim Editing",
+      "dop": "Xiaolong Liu",
+      "colorist": "John Lowe",
+      "original_source": "",
+      "additional_info": "Travis Scott - FE!N (2024)\nThe music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.\nTechnique - Flash Cut , Locked-On , Speed Ramp , Zoetrope\nDirector - Gabriel Moses\nDOP - Xiaolong Liu\nEditor - Joseph Taylor, Trim Editing\nColorist - John Lowe\nOriginal Source - Link\nYOUNG\nGROUP\nKIDS\nCROWD\nSCHOOL",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/21/USHER_H.E.R._-_Risk_It_All_Official_Music_Video_IlEGzkK/2c01a45597f8b38744ec04fd494f7968.gif",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-12T02:37:49.438928",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/15/21_Savage_-_redrum_Official_Music_Video_aNBrTz4/2e51441b765e22536dc44d0e528bb618.gif",
+      "alt_text": "21 Savage - redrum",
+      "discovered_at": "2025-09-12T02:37:52.676647",
+      "title": "21 Savage - redrum (2024)",
+      "description": "The music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.",
+      "tags": [
+        "WEED",
+        "INTERIOR",
+        "SMOKING",
+        "MARIJUANA"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Jump cut",
+        "Speed Ramp"
+      ],
+      "director": "Anders Mills, Trim Editing",
+      "dop": "Chewy Lodge, JAWMIDNIGHT, Thomas Marchese",
+      "colorist": "Vlad Barin",
+      "original_source": "",
+      "additional_info": "21 Savage - redrum (2024)\nThe music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.\nTechnique - Dutch Angle , Jump cut , Speed Ramp\nDirector - Danny Seth\nDOP - Chewy Lodge, JAWMIDNIGHT, Thomas Marchese\nEditor - Anders Mills, Trim Editing\nColorist - Vlad Barin\nOriginal Source - Link\nTutorial - Link\nWEED\nINTERIOR\nSMOKING\nMARIJUANA",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/15/AIR_JORDAN__ROOKIE_CARD__-_SHORT_FILM_ozOw0IK/567206d5e09df82226cb0e01165f3177.gif",
+      "alt_text": "Air Jordan - Rookie Card (Short Film)",
+      "discovered_at": "2025-09-12T02:38:07.248937",
+      "title": "Air Jordan - Rookie Card (Short Film) (2024)",
+      "description": "An homage to the greatest to ever play the game and the card that started it all.",
+      "tags": [
+        "NIKE",
+        "EXTERIOR",
+        "SHOES",
+        "COURT",
+        "JUMP"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Product",
+        "Product: Shoes",
+        "Speed Ramp"
+      ],
+      "director": "Masood Ahmed",
+      "dop": "Geoffrey Taylor",
+      "colorist": "Spyros Katsihtis",
+      "original_source": "",
+      "additional_info": "Air Jordan - Rookie Card (Short Film) (2024)\nAn homage to the greatest to ever play the game and the card that started it all.\nTechnique - Locked-On , Product , Product: Shoes , Speed Ramp\nDirector - Masood Ahmed\nDOP - Geoffrey Taylor\nEditor - Masood Ahmed\nColorist - Spyros Katsihtis\nOriginal Source - Link\nNIKE\nEXTERIOR\nSHOES\nCOURT\nJUMP",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/11/Drake_21_Savage_-_Spin_Bout_U_6yZoh25/58f3a1b4e8224a8a39592d0da915a002.gif",
+      "alt_text": "Drake, 21 Savage - Spin Bout U",
+      "discovered_at": "2025-09-12T02:38:10.506056",
+      "title": "Drake, 21 Savage - Spin Bout U (2023)",
+      "description": "2023 music video in collaboration between Drake and 21 Savage, directed by the iconic Dave Meyers.",
+      "tags": [
+        "YACHT"
+      ],
+      "technique_tags": [
+        "Speed Ramp",
+        "Timelapse"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Stefan Sonnenfeld",
+      "original_source": "",
+      "additional_info": "Drake, 21 Savage - Spin Bout U (2023)\n2023 music video in collaboration between Drake and 21 Savage, directed by the iconic Dave Meyers.\nTechnique - Speed Ramp , Timelapse\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Stefan Sonnenfeld\nOriginal Source - Link\nYACHT",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/11/AAP_Rocky_LD_MuBNLZN/946a74abe82faec842d0a8b0f75d1ffd.gif",
+      "alt_text": "A$AP Rocky - L$D",
+      "discovered_at": "2025-09-12T02:38:13.760601",
+      "title": "A$AP Rocky - L$D (2015)",
+      "description": "Shot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Speed Ramp"
+      ],
+      "director": "Dexter Navy",
+      "dop": "Oliver Millar",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - L$D (2015)\nShot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).\nTechnique - Altered state , Drug trip , Speed Ramp\nDirector - Dexter Navy\nDOP - Oliver Millar\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/09/13/M.I.A_Bad_Girls_2_vNzg7TK/86124f080c93b96bcfa650b218b17c26.gif",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "discovered_at": "2025-09-12T02:38:28.348667",
+      "title": "M.I.A. 'Bad Girls' (2012)",
+      "description": "M.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.",
+      "tags": [
+        "CAR",
+        "MUSIC VIDEO",
+        "DRIFTING",
+        "DUST",
+        "MOROCCO",
+        "STUNT"
+      ],
+      "technique_tags": [
+        "Speed Ramp",
+        "Tracking"
+      ],
+      "director": "Walter Mauriot",
+      "dop": "André Chemetoff",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "M.I.A. 'Bad Girls' (2012)\nM.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.\nTechnique - Speed Ramp , Tracking\nDirector - Romain Gavras\nDOP - André Chemetoff\nEditor - Walter Mauriot\nOriginal Source - Link\nTutorial - Link\nCAR\nMUSIC VIDEO\nDRIFTING\nDUST\nMOROCCO\nSTUNT",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/06/12/ad2075381e535dec46fdae1fe65b88f9.gif",
+      "alt_text": "ASD - Legendär / Populär",
+      "discovered_at": "2025-09-12T02:38:42.957843",
+      "title": "ASD - Legendär / Populär (2015)",
+      "description": "Music video for ASD. Produced by Mookwe. Shot: Match cut super zoom sequence with speed ramps",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Quick Cuts",
+        "Speed Ramp",
+        "Super Zoom"
+      ],
+      "director": "David Aufdembrinke",
+      "dop": "Jakob Suess",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "ASD - Legendär / Populär (2015)\nMusic video for ASD. Produced by Mookwe. Shot: Match cut super zoom sequence with speed ramps\nTechnique - Quick Cuts , Speed Ramp , Super Zoom\nDirector - David Aufdembrinke\nDOP - Jakob Suess\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/05/14/Joost_Ski_Aggu__Otto_Waalkes_-_Friesenjung_Official_Video_vBb2cvi/f94eecc7275d50dab4206e9842fc3aa7.gif",
+      "alt_text": "Joost, Ski Aggu & Otto Waalkes - Friesenjung",
+      "discovered_at": "2025-09-12T02:38:46.299664",
+      "title": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)",
+      "description": "The music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.",
+      "tags": [
+        "DAY",
+        "DANCING",
+        "GRASS",
+        "EXTERIOR",
+        "FIELD",
+        "DANCE",
+        "TRACTOR"
+      ],
+      "technique_tags": [
+        "Frame Division",
+        "Speed Ramp",
+        "Split Screen"
+      ],
+      "director": "Fons de Haan",
+      "dop": "",
+      "colorist": "Bloempot Media",
+      "original_source": "",
+      "additional_info": "Joost, Ski Aggu & Otto Waalkes - Friesenjung (2023)\nThe music video for \"Friesenjung\" by Joost, Ski Aggu, and Otto Waalkes presents a playful and humorous visual narrative that complements the lighthearted and catchy tune of the song. It features a variety of quirky scenes that highlight the cultural and comedic elements typical of Otto Waalkes' performances, blended with the musical styles of Joost and Ski Aggu, creating a unique and entertaining fusion.\nTechnique - Frame Division , Speed Ramp , Split Screen\nDirector - Joost Klein\nEditor - Fons de Haan\nColorist - Bloempot Media\nOriginal Source - Link\nDAY\nDANCING\nGRASS\nEXTERIOR\nFIELD\nDANCE\nTRACTOR",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/10/3_ycVGTDx/2a09e3f098b6e084124dc5a597631243.gif",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T02:38:49.542150",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "MALE",
+        "WEED",
+        "SMOKING",
+        "MARIJUANA"
+      ],
+      "technique_tags": [
+        "Medium Close-up",
+        "Slow Motion",
+        "Speed Ramp"
+      ],
+      "director": "David Webb",
+      "dop": "Bjorn Charpentier, Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Medium Close-up , Slow Motion , Speed Ramp\nDirector - Guy Ritchie, Nima Nourizadeh\nDOP - Bjorn Charpentier, Ed Wild\nEditor - David Webb\nMALE\nWEED\nSMOKING\nMARIJUANA",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/10/Screenshot_2024-01-09_at_11.09.08AM_XVtoWRw/e3e3dccd9e2af1aac0f5f2b118e98a79.gif",
+      "alt_text": "DJ Pone (ft. Blasé) - All I Want",
+      "discovered_at": "2025-09-12T02:38:52.778658",
+      "title": "DJ Pone (ft. Blasé) - All I Want (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "LOW ANGLE",
+        "EXTERIOR",
+        "WIDE",
+        "DAWN"
+      ],
+      "technique_tags": [
+        "Low Angle",
+        "Speed Ramp"
+      ],
+      "director": "Benoît Marzouvanlian",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "DJ Pone (ft. Blasé) - All I Want (2023)\nDirector: Benoît Marzouvanlian Producer: Ludovic De Sousa Production: Mandibule & The Lab Editing: Benoît Marzouvanlian Prod Director: Theo Mariaggi Prod Assistant: Mathis Routier 1st Director Assistant: Ibrahim Doumbia 2nd Assistant Real: Maroussia Monino - Op Head: Bfao Marakouvanlian Electrical Chef: Tom Pezziardi Calibration: Florian Martiny Chef Machino: Ben Aka Rigman Deco Chief: Julie Jarrige Deco: Alice Morand Deco: Gaétan Raggi Paris Stunter: Djamel Benyahia Barcelona Stunter: Nabil Hadim Stunting Lining: Sergio Cavalier\nTechnique - Low Angle , Speed Ramp\nDirector - Benoît Marzouvanlian\nOriginal Source - Link\nDAY\nLOW ANGLE\nEXTERIOR\nWIDE\nDAWN",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/03/burberry_x_pop_1080p_pKHoBYP/d84ef362e5302f07991e1b51642e9094.gif",
+      "alt_text": "Burberry x POP",
+      "discovered_at": "2025-09-12T02:38:56.030241",
+      "title": "Burberry x POP (2022)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "ROAD",
+        "NIGHT",
+        "EXTERIOR",
+        "TRAFFIC",
+        "HIGHWAY",
+        "REFLECTIVE"
+      ],
+      "technique_tags": [
+        "Handheld",
+        "Speed Ramp",
+        "Spotlight",
+        "Vintage"
+      ],
+      "director": "Colin Read",
+      "dop": "Eric Schleicher",
+      "colorist": "Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Burberry x POP (2022)\n2022 advert for Burberry x Pop Trading from director Colin Read (Mandible Claw). All effects are done practically. Produced by Artillerie. Color by Company 3.\nTechnique - Handheld , Speed Ramp , Spotlight , Vintage\nDirector - Colin Read\nDOP - Eric Schleicher\nColorist - Joseph Bicknell\nOriginal Source - Link\nMALE\nROAD\nNIGHT\nEXTERIOR\nTRAFFIC\nHIGHWAY\nREFLECTIVE",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/27/NIKE_SNIPES_DIRCUT_MASTER_1min01_yivFfnV/77851cc1b77758846be1b4950eea3b0f.gif",
+      "alt_text": "Snipes x Nike - The Cypher",
+      "discovered_at": "2025-09-12T02:38:59.258588",
+      "title": "Snipes x Nike - The Cypher (2023)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "BLACK AND WHITE",
+        "DANCE",
+        "CYPHER"
+      ],
+      "technique_tags": [
+        "Light Flash",
+        "Slow Motion",
+        "Speed Ramp"
+      ],
+      "director": "Alexis Benot, Eugène Signoret",
+      "dop": "Cesar Decharme",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Snipes x Nike - The Cypher (2023)\nTechnique - Light Flash , Slow Motion , Speed Ramp\nDirector - Marius Gonzalez\nDOP - Cesar Decharme\nEditor - Alexis Benot, Eugène Signoret\nColorist - Arthur Paux\nOriginal Source - Link\nGROUP\nBLACK AND WHITE\nDANCE\nCYPHER",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/06/07/ONHA_-_KODAK_Clip_OOOfficiel_Beat_by_ROCCO_Emw4dxP/405fbf9609222dd21fe1323d2d32ddef.gif",
+      "alt_text": "ONHA - KODAK",
+      "discovered_at": "2025-09-12T02:39:02.544336",
+      "title": "ONHA - KODAK (2024)",
+      "description": "The music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.",
+      "tags": [
+        "ONHA - KODAK (2024)",
+        "MALE",
+        "INTERIOR",
+        "HANDS",
+        "FLOOR",
+        "CHECKERED"
+      ],
+      "technique_tags": [
+        "Speed Ramp"
+      ],
+      "director": "M. Tikal",
+      "dop": "Virgil Leclercq",
+      "colorist": "Francois Dubois",
+      "original_source": "",
+      "additional_info": "ONHA - KODAK (2024)\nThe music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.\nTechnique - Speed Ramp\nDirector - Nitram\nDOP - Virgil Leclercq\nEditor - M. Tikal\nColorist - Francois Dubois\nOriginal Source - Link\nMALE\nINTERIOR\nHANDS\nFLOOR\nCHECKERED",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2025/02/10/%D7%A1%D7%98%D7%98%D7%99%D7%A7_-_%D7%A4%D7%93%D7%A8%D7%A8_Prod._by_Yinon_Yahel_1_seP6ldl/84422d3f858bca29a913fd225b4adaff.gif",
+      "alt_text": "Static - Federer",
+      "discovered_at": "2025-09-12T02:39:17.063351",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/28/watchtower_of_turkey_1080p_RAaxKep/638d84a7fd955eba5b72fa87223e35f6.gif",
+      "alt_text": "Watchtower of Turkey",
+      "discovered_at": "2025-09-12T02:39:31.663376",
+      "title": "Static - Federer (2025)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "COURT",
+        "TENNIS"
+      ],
+      "technique_tags": [
+        "Speed Ramp"
+      ],
+      "director": "Din Perlis",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Static - Federer (2025)\nDirected, filmed, and edited by Din Perlis, with production led by Hatzub, the video has been highlighted for its exceptional visual storytelling. Directed, Filmed and Edited by @dinperlis Production House : @hatzub Head Producer : @hatzub Executive Producer : @orbarak10 Gaffer : @yanaimoradi 3D & VFX : @dyln.films Coloring : @dinperlis Sound Design : @kai.goodrem Talent Styling : @kimeliyahu Actors Styling : @sarah.elalouf Art Director : @sarah.elalouf PA : @kobefunt PA : @tzur_h BTS : @nnnnoya BTS : @edenush02 Makeup Artist : @makeup.by.roni_ Makeup Assistant : @maayan_ashkenazi_makeup Actors Makeup : @alinshabtay Actors : yardenlasry / @rotem.landesberg Hair Stylist : @oshri.shushan Extras : @sharonann_26 / @hila.atdgi / @sn0rka Artist Management : @gagamanagement Rep : @roms_studios\nTechnique - Speed Ramp\nDirector - Din Perlis\nOriginal Source - Link\nDAY\nEXTERIOR\nCOURT\nTENNIS",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/29/nike_sb_-_dont_make_plans1080p_5/9f8cb23f2ed580f1c8329f9f5f593f84.gif",
+      "alt_text": "Nike SB - Don't Make Plans",
+      "discovered_at": "2025-09-12T02:39:34.990793",
+      "title": "Nike SB - Don't Make Plans (2021)",
+      "description": "",
+      "tags": [
+        "PHOTOS",
+        "FLICKER"
+      ],
+      "technique_tags": [
+        "Shadow Box",
+        "Speed Ramp"
+      ],
+      "director": "Matt Carter, Pierre Lesnip",
+      "dop": "",
+      "colorist": "Company 3, Kath Rascih",
+      "original_source": "",
+      "additional_info": "Nike SB - Don't Make Plans (2021)\nBennett Johnson directed commercial for Nike, featuring a litany of frenetic techniques. You're seeing a tracking ground-level shot.\nTechnique - Shadow Box , Speed Ramp\nDirector - Bennett Johnson\nEditor - Matt Carter, Pierre Lesnip\nColorist - Company 3, Kath Rascih\nOriginal Source - Link\nPHOTOS\nFLICKER",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/05/Cowboy_Bebop___Official_Teaser_Lost_Session___Netflix_G8a44DE/b5c515b2236309e9b4ef148f574c9582.gif",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "discovered_at": "2025-09-12T02:39:49.493438",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/10/nike___nothing_beats_a_londoner___1080p_Bxry8r5/d06341cfa68b6d146dbfa67a60f0f2ad.gif",
+      "alt_text": "Nike - Nothing Beats a Londoner",
+      "discovered_at": "2025-09-12T02:40:04.071490",
+      "title": "Nike - Nothing Beats a Londoner (2018)",
+      "description": "Energetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "DARK",
+        "STORE",
+        "BODEGA"
+      ],
+      "technique_tags": [
+        "Speed Ramp",
+        "Steadicam"
+      ],
+      "director": "Joe Guest",
+      "dop": "Nicolas Loir",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - Nothing Beats a Londoner (2018)\nEnergetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.\nTechnique - Speed Ramp , Steadicam\nDirector - Megaforce\nDOP - Nicolas Loir\nEditor - Joe Guest\nOriginal Source - Link\nNIGHT\nEXTERIOR\nDARK\nSTORE\nBODEGA",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/10/Nike_More_Than_Warmth/a816cc76887613b59f1c97bc7400e03c.gif",
+      "alt_text": "Nike - More than Warmth",
+      "discovered_at": "2025-09-12T02:40:18.641031",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/09/10/0907_LBk0KuO/8f06db139a185e109ab9348d005b757c.gif",
+      "alt_text": "ScHoolboy Q - Floating",
+      "discovered_at": "2025-09-12T02:40:32.830749",
+      "title": "Nike - More than Warmth (2023)",
+      "description": "",
+      "tags": [
+        "NIKE",
+        "INTERIOR",
+        "SNOW"
+      ],
+      "technique_tags": [
+        "Speed Ramp"
+      ],
+      "director": "Henry Scholfield",
+      "dop": "",
+      "colorist": "Marina Starke",
+      "original_source": "",
+      "additional_info": "Nike - More than Warmth (2023)\nIn a magical icy lab, a team of eccentric researchers tests the Nike Winter Collection for warmth, breathability, and waterproof features, celebrating their success in a captivating product demonstration. Each film segment highlights specific jacket attributes, culminating in a showcase of the collection's excellence. Production Company: Hamlet China MD/EP: Yimeng Zhang Hamlet Producers: Claire Qin, Duffy Du Production Manager: Winson Wang Line Producer: Wang Zhiyuan, Sun Ying Production Coordinator: Selene Xu Director: Henry Scholfield DOP: Pat Aldinger 1st AD: Stella Gui 2nd AD: Yan 1st AC: Terry Yan Assistant Camera: Ma Chao, He Xiaohu, Cao Cheng, Zhang Hongming, Zhang Zhaoyu, Ou Wentao B-Cam: Ben Kang Gaffer: Dickson Lim Lighting crew: Sun Zhanchao, Yu Puping, Tang Yichun, Gao Binbin, Wang Yongcheng, Chang Dan, Ma Chong, Wang Jie, An Dongdong, Jing Deliang, Jing Xudong, Li Yaohui, JIn Xin Production Designer: Maruxa Alvar Art Director: A-Liang Assista",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/11/AAP_Rocky_LD_Jyse0iu/ce5abdc8e666872107819a7e698e3be9.gif",
+      "alt_text": "A$AP Rocky - L$D",
+      "discovered_at": "2025-09-12T02:40:47.379144",
+      "title": "A$AP Rocky - L$D (2015)",
+      "description": "Shot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).",
+      "tags": [],
+      "technique_tags": [
+        "Fast Motion",
+        "Speed Ramp"
+      ],
+      "director": "Dexter Navy",
+      "dop": "Oliver Millar",
+      "colorist": "Matt Turner",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - L$D (2015)\nShot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).\nTechnique - Fast Motion , Speed Ramp\nDirector - Dexter Navy\nDOP - Oliver Millar\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/06/07/ONHA_-_KODAK_Clip_OOOfficiel_Beat_by_ROCCO_mVdna3q/c0d992cc107e23d67b3c4332c67a28e7.gif",
+      "alt_text": "ONHA - KODAK",
+      "discovered_at": "2025-09-12T02:41:01.954373",
+      "title": "ONHA - KODAK (2024)",
+      "description": "The music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.",
+      "tags": [
+        "ONHA - KODAK (2024)",
+        "DAY",
+        "EXTERIOR",
+        "BASKETBALL",
+        "BASKETBALL COURT"
+      ],
+      "technique_tags": [
+        "Anthropo",
+        "High Angle",
+        "Slow Motion",
+        "Speed Ramp"
+      ],
+      "director": "M. Tikal",
+      "dop": "Virgil Leclercq",
+      "colorist": "Francois Dubois",
+      "original_source": "",
+      "additional_info": "ONHA - KODAK (2024)\nThe music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.\nTechnique - Anthropo , High Angle , Slow Motion , Speed Ramp\nDirector - Nitram\nDOP - Virgil Leclercq\nEditor - M. Tikal\nColorist - Francois Dubois\nOriginal Source - Link\nDAY\nEXTERIOR\nBASKETBALL\nBASKETBALL COURT",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/05/Cowboy_Bebop___Official_Teaser_Lost_Session___Netflix_2QJeLnT/39796c958998f739516a79f4f53b774e.gif",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "discovered_at": "2025-09-12T02:41:16.128149",
+      "title": "Cowboy Bepop (TV Series) (2021)",
+      "description": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.",
+      "tags": [],
+      "technique_tags": [
+        "Action",
+        "Slow Motion",
+        "Speed Ramp"
+      ],
+      "director": "Bridget Durnford, Elliot Greenberg",
+      "dop": "Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn",
+      "colorist": "Bill Ferwerda, Company 3",
+      "original_source": "",
+      "additional_info": "Cowboy Bepop (TV Series) (2021)\nA ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.\nTechnique - Action , Slow Motion , Speed Ramp\nDirector - Alex Garcia Lopez, Michael Katleman\nDOP - Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn\nEditor - Bridget Durnford, Elliot Greenberg\nColorist - Bill Ferwerda, Company 3\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/11/nike_sb__dont_make_plans__1080p_4EO1jFi/1e1e522e1d042e716256e53fdff75bd8.gif",
+      "alt_text": "Nike SB - Don't Make Plans",
+      "discovered_at": "2025-09-12T02:41:30.670738",
+      "title": "Nike SB - Don't Make Plans (2021)",
+      "description": "",
+      "tags": [
+        "NIKE",
+        "SHOE"
+      ],
+      "technique_tags": [
+        "Flash Cut",
+        "Speed Ramp"
+      ],
+      "director": "Matt Carter, Pierre Lesnip",
+      "dop": "",
+      "colorist": "Company 3, Kath Rascih",
+      "original_source": "",
+      "additional_info": "Nike SB - Don't Make Plans (2021)\nDirector: Bennett Johnson Director's Assistant: Giselle Keena Creative Director: Matt Hoffman Producer: Holly Harding PM: Ashley Krick PC: Phaedra Neitzel 1st AD: Dylan Griffith 2nd AD: Noah Johnson DP: Mikey Van Beuren 1st AC: Loren Hamilton 2nd AC: Cameron Campbell Cam op: Chris Herr Gaffer: Ryan Oppedisano BB Electric: Danny Santandrea Electric: Hope Felt Key Grip: Matt Planer BB Grip: Nathone Giordano Grip: Hugo Martinez Grip Driver: Jose Aguilar PD: Kelly Fallon Art Director: Amanda Campanaro Propmaster: Sadie Moon Lead Man: Ramon Navarro Set Dresser: Jose Lopez, Bre Thompson, Marlena Pavich Art PA: Thomas Liwinski, Sophie Wier HMU: Leanna Tallmeister Stylist: Amanda Hipperson Movement Direction: Pascal Johnson DC Edit: Pierre Lesnip @ Chop Shop Client Edit: Matt Carter @ Final Cut Color: Kath Rascih @Co3 Animation VFX: Vlad Naboka Animation VFX EP: maxcolt @frender Additional VFX: @bradley Additional VFX EP: Evan Brown @ Dreambear Sound Designer:",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/11/Screenshot_2024-02-10_at_10.24.34PM_OyG57cl/4f55ef1eff5dfe3e471fb2c65ad35a3b.gif",
+      "alt_text": "IKEA – Show Off Your Savvy",
+      "discovered_at": "2025-09-12T02:41:45.210569",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "technique_tags": [],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/07/08/The_Dare_-_Perfume_Official_Music_Video_UGUpUSK/533d0f95635d4d10489efe96027b820e.gif",
+      "alt_text": "The Dare - Perfume",
+      "discovered_at": "2025-09-12T02:41:59.458414",
+      "title": "The Dare - Perfume (2024)",
+      "description": "The \"The Dare - Perfume 2024\" commercial is an evocative and visually striking advertisement that captures the essence of boldness and sensuality. It features a series of elegantly choreographed scenes where the protagonist moves through various luxurious settings, exuding confidence and allure. The commercial employs a rich color palette and dramatic lighting to highlight the sophistication and intensity of the perfume. The narrative is punctuated by close-up shots of the perfume bottle, emphasizing its sleek design and the brand's logo, leaving a lasting impression of elegance and daring on the viewer.",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Conveyor",
+        "Motion Blur",
+        "Speed Ramp"
+      ],
+      "director": "Josh Wehle",
+      "dop": "Ben Carey",
+      "colorist": "Myles Bevan",
+      "original_source": "",
+      "additional_info": "The Dare - Perfume (2024)\nThe \"The Dare - Perfume 2024\" commercial is an evocative and visually striking advertisement that captures the essence of boldness and sensuality. It features a series of elegantly choreographed scenes where the protagonist moves through various luxurious settings, exuding confidence and allure. The commercial employs a rich color palette and dramatic lighting to highlight the sophistication and intensity of the perfume. The narrative is punctuated by close-up shots of the perfume bottle, emphasizing its sleek design and the brand's logo, leaving a lasting impression of elegance and daring on the viewer.\nTechnique - Collage , Conveyor , Motion Blur , Speed Ramp\nDirector - Nick Harwood\nDOP - Ben Carey\nEditor - Josh Wehle\nColorist - Myles Bevan\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/04/01/Travis_Scott_-_FEN_ft._Playboi_Carti_ODhjQQe/a21f4df8166c844f332713c132c2296a.gif",
+      "alt_text": "Travis Scott - FE!N",
+      "discovered_at": "2025-09-12T02:42:13.796686",
+      "title": "Travis Scott - FE!N (2024)",
+      "description": "The music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.",
+      "tags": [],
+      "technique_tags": [
+        "Arc",
+        "Arc spin",
+        "Speed Ramp",
+        "Spotlight",
+        "Void",
+        "X-Axis Arc"
+      ],
+      "director": "Joseph Taylor, Trim Editing",
+      "dop": "Xiaolong Liu",
+      "colorist": "John Lowe",
+      "original_source": "",
+      "additional_info": "Travis Scott - FE!N (2024)\nThe music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.\nTechnique - Arc , Arc spin , Speed Ramp , Spotlight , Void , X-Axis Arc\nDirector - Gabriel Moses\nDOP - Xiaolong Liu\nEditor - Joseph Taylor, Trim Editing\nColorist - John Lowe\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/21/USHER_H.E.R._-_Risk_It_All_Official_Music_Video_Au2wcYa/f1f399a44ebde183f28d5aa25b9a67d5.gif",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-12T02:42:27.963193",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/23/Lil_Dicky__HAHAHA_Official_Music_Video_MI6Ywg2/32a2170e9c5476157cb9354d365d3fac.gif",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "discovered_at": "2025-09-12T02:42:42.542425",
+      "title": "Lil Dicky - HAHAHA (2024)",
+      "description": "Lil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.",
+      "tags": [
+        "CAR",
+        "SLOW MOTION",
+        "CRASH",
+        "LIMO"
+      ],
+      "technique_tags": [
+        "Slow Motion",
+        "Speed Ramp"
+      ],
+      "director": "Phillip R Lopez",
+      "dop": "Benjamin Loeb",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Lil Dicky - HAHAHA (2024)\nLil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.\nTechnique - Slow Motion , Speed Ramp\nDirector - Phillip R Lopez\nDOP - Benjamin Loeb\nColorist - Dante Pasquinelli\nOriginal Source - Link\nCAR\nSLOW MOTION\nCRASH\nLIMO",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/21/USHER_H.E.R._-_Risk_It_All_Official_Music_Video_Je1ULTc/1aa772f601750b6aa1ac70d6907b71c1.gif",
+      "alt_text": "Usher, H.E.R. - Risk It All",
+      "discovered_at": "2025-09-12T02:42:57.117677",
+      "title": "Usher, H.E.R. - Risk It All (2024)",
+      "description": "In the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.",
+      "tags": [
+        "DANCING",
+        "SENSUAL",
+        "USHER",
+        "UNDERWEAR",
+        "SUGGESTIVE",
+        "BOXERS"
+      ],
+      "technique_tags": [
+        "Echo print",
+        "Lazy Susan",
+        "Motion Blur",
+        "Speed Ramp",
+        "Stationary camera"
+      ],
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Pavel Marko",
+      "original_source": "",
+      "additional_info": "Usher, H.E.R. - Risk It All (2024)\nIn the 2024 music video 'Risk It All' directed by Dave Meyers, Usher and H.E.R. deliver an emotionally charged performance, underscored by contemporary dance, on a rotating platform in a dimly lit setting. The video, known for its sophisticated yet steamy ambiance, culminates in a poignant moment with Usher tearfully singing the final note. This collaboration is a standout part of 'The Color Purple' soundtrack, showcasing the artistic depth and vulnerability of both artists.\nTechnique - Echo print , Lazy Susan , Motion Blur , Speed Ramp , Stationary camera\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Pavel Marko\nOriginal Source - Link\nTutorial - Link\nDANCING\nSENSUAL\nUSHER\nUNDERWEAR\nSUGGESTIVE\nBOXERS",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/04/01/Travis_Scott_-_FEN_ft._Playboi_Carti_AjPL59J/01231a71fbf531fe3eaa48b62232b54e.gif",
+      "alt_text": "Travis Scott - FE!N",
+      "discovered_at": "2025-09-12T02:43:11.732641",
+      "title": "Travis Scott - FE!N (2024)",
+      "description": "The music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.",
+      "tags": [
+        "MALE",
+        "STUDIO",
+        "FEIN",
+        "SINGLE"
+      ],
+      "technique_tags": [
+        "Arc",
+        "Arc spin",
+        "Speed Ramp",
+        "Void",
+        "X-Axis Arc"
+      ],
+      "director": "Joseph Taylor, Trim Editing",
+      "dop": "Xiaolong Liu",
+      "colorist": "John Lowe",
+      "original_source": "",
+      "additional_info": "Travis Scott - FE!N (2024)\nThe music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.\nTechnique - Arc , Arc spin , Speed Ramp , Void , X-Axis Arc\nDirector - Gabriel Moses\nDOP - Xiaolong Liu\nEditor - Joseph Taylor, Trim Editing\nColorist - John Lowe\nOriginal Source - Link\nMALE\nSTUDIO\nFEIN\nSINGLE",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/28/watchtower_of_china_1080p_y0tMjTf/a6b29546fb18e0a404c03ebe74f1f0ab.gif",
+      "alt_text": "Watchtower of Turkey",
+      "discovered_at": "2025-09-12T02:43:26.384992",
+      "title": "Watchtower of Turkey (2014)",
+      "description": "Described as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.",
+      "tags": [],
+      "technique_tags": [
+        "Low Angle",
+        "Slow Motion",
+        "Speed Ramp"
+      ],
+      "director": "Leonardo Dalessandri",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Watchtower of Turkey (2014)\nDescribed as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.\nTechnique - Low Angle , Slow Motion , Speed Ramp\nDirector - Leonardo Dalessandri\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/28/THEY.__U-RITE__Official_Music_Video_Jx3Rdwe/4b1a8e7ac405aaf24fc21faf16f9c043.gif",
+      "alt_text": "THEY. - U-RITE",
+      "discovered_at": "2025-09-12T02:43:40.981928",
+      "title": "THEY. - U-RITE (2017)",
+      "description": "The music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.",
+      "tags": [
+        "THEY. - U-RITE (2017)",
+        "EARTH",
+        "ROCK",
+        "COLORADO"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Speed Ramp"
+      ],
+      "director": "Jack Begert",
+      "dop": "Phillips Shum",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "THEY. - U-RITE (2017)\nThe music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.\nTechnique - Aerial , Speed Ramp\nDirector - Jack Begert\nDOP - Phillips Shum\nOriginal Source - Link\nEARTH\nROCK\nCOLORADO",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/11/Lil_Uzi_Vert_-_Just_Wanna_Rock_Official_Music_Video_MlsLOKH/ac95e9bf4a559ead46a9c87fdd52aa49.gif",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-12T02:43:55.630911",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [],
+      "technique_tags": [
+        "Slow Motion",
+        "Speed Ramp",
+        "Ultra Slow Motion"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - Slow Motion , Speed Ramp , Ultra Slow Motion\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/01/8_RhRhmSU/6313380af14590d8219c93f9549a6819.gif",
+      "alt_text": "Apple Arcade - A New World to Play In",
+      "discovered_at": "2025-09-12T02:44:09.885146",
+      "title": "Apple Arcade - A New World to Play In (2020)",
+      "description": "Shot breakdown: Surrealist levitation shot + speed ramp to slow motion.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "APPLE",
+        "VIDEO GAME",
+        "TRANSITION",
+        "IPHONE",
+        "ARCADE"
+      ],
+      "technique_tags": [
+        "Magical realism",
+        "Slow Motion",
+        "Speed Ramp"
+      ],
+      "director": "Tobias Suhm",
+      "dop": "Mauro Chiarello",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Apple Arcade - A New World to Play In (2020)\nShot breakdown: Surrealist levitation shot + speed ramp to slow motion.\nTechnique - Magical realism , Slow Motion , Speed Ramp\nDirector - Ian Pons Jewell\nDOP - Mauro Chiarello\nEditor - Tobias Suhm\nOriginal Source - Link\nDAY\nEXTERIOR\nAPPLE\nVIDEO GAME\nTRANSITION\nIPHONE\nARCADE",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/07/14/422_HQ_-__NO_SUBTITLES_1_4l4kUSZ/a50c0496352c9c489db40c9f8e21dd0a.gif",
+      "alt_text": "AJ Tracey - Bubble Bath",
+      "discovered_at": "2025-09-12T02:44:24.610409",
+      "title": "AJ Tracey - Bubble Bath (2024)",
+      "description": "The music video for \"Bubble Bath\" by AJ Tracey, released in 2024, is set in a lively West London nail shop, directed by LateMilk. The video features vibrant, energetic scenes that reflect the song's upbeat and catchy vibe. It highlights the fusion of contemporary urban culture with playful, colorful visuals, showcasing AJ Tracey in various stylish setups, interacting with people in the nail shop, and performing the song with charisma and flair. The setting and visuals create a fun, engaging atmosphere that complements the track's infectious rhythm and lyrics.",
+      "tags": [
+        "WOMAN",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Speed Ramp"
+      ],
+      "director": "LateMilk",
+      "dop": "Ethan Lodge",
+      "colorist": "Andi Chu",
+      "original_source": "",
+      "additional_info": "AJ Tracey - Bubble Bath (2024)\nThe music video for \"Bubble Bath\" by AJ Tracey, released in 2024, is set in a lively West London nail shop, directed by LateMilk. The video features vibrant, energetic scenes that reflect the song's upbeat and catchy vibe. It highlights the fusion of contemporary urban culture with playful, colorful visuals, showcasing AJ Tracey in various stylish setups, interacting with people in the nail shop, and performing the song with charisma and flair. The setting and visuals create a fun, engaging atmosphere that complements the track's infectious rhythm and lyrics.\nTechnique - Fast Motion , Speed Ramp\nDirector - LateMilk\nDOP - Ethan Lodge\nColorist - Andi Chu\nOriginal Source - Link\nWOMAN\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/03/Apr-09-202319-33-17/2d9de0c37f29e6deea9cc40f5b1eae6f.gif",
+      "alt_text": "Hyperlapse from Zak Kauth",
+      "discovered_at": "2025-09-12T02:44:38.858009",
+      "title": "Hyperlapse from Zak Kauth (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Hyperlapse",
+        "Speed Ramp"
+      ],
+      "director": "Zak Kauth",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Hyperlapse from Zak Kauth (2023)\nShot breakdown: Hyperlapse yo-yo speed ramp.\nTechnique - Hyperlapse , Speed Ramp\nDirector - Zak Kauth\nOriginal Source - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/09/emporio_armani_ss24_global_campaign_1080p_BKhM8nF/35ad8fef3242fff409364e10f82554ce.gif",
+      "alt_text": "Emporio Armani SS24 Campaign",
+      "discovered_at": "2025-09-12T02:44:53.250192",
+      "title": "Emporio Armani SS24 Campaign (2024)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "PURSE"
+      ],
+      "technique_tags": [
+        "Light Void",
+        "Miniature",
+        "Pass Through",
+        "Scale Shift",
+        "Speed Ramp"
+      ],
+      "director": "Amedeo Zancanella",
+      "dop": "Francesco Bartoli Avveduti",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Emporio Armani SS24 Campaign (2024)\n2024 advert for Emporio Armani from director Amedeo Zancanella. Starring Barbara Palvin & Patrick Schwarzenegger. Choreography from Olivier Casamayou.\nTechnique - Light Void , Miniature , Pass Through , Scale Shift , Speed Ramp\nDirector - Amedeo Zancanella\nDOP - Francesco Bartoli Avveduti\nOriginal Source - Link\nWOMAN\nPURSE",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/31/11/0ad2b138776ef60761ef1cd8d28197ce.gif",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "discovered_at": "2025-09-12T02:45:07.622129",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "description": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "tags": [
+        "WHITE",
+        "TWO SHOT",
+        "VOID",
+        "SPEED RAMP"
+      ],
+      "technique_tags": [
+        "Light Void",
+        "Speed Ramp"
+      ],
+      "director": "Kenny Shimm (Editor)",
+      "dop": "Chuk Town",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)\nTechnique - Light Void , Speed Ramp\nDirector - HIDJI WORLD\nDOP - Chuk Town\nEditor - Kenny Shimm (Editor)\nOriginal Source - Link\nWHITE\nTWO SHOT\nVOID\nSPEED RAMP",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/10/3_5eypj2R/a8e2e9605ebcf25292ac6a6f1e7d357d.gif",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T02:45:21.863112",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "BLUNT",
+        "WEED",
+        "TABLE",
+        "HAND"
+      ],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Speed Ramp"
+      ],
+      "director": "David Webb",
+      "dop": "Bjorn Charpentier, Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Extreme Close-Up , Speed Ramp\nDirector - Guy Ritchie, Nima Nourizadeh\nDOP - Bjorn Charpentier, Ed Wild\nEditor - David Webb\nBLUNT\nWEED\nTABLE\nHAND",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/28/watchtower_of_china_1080p_7HHNwzy/a4290eefc6128e153e579a99db6b60fc.gif",
+      "alt_text": "Watchtower of Turkey",
+      "discovered_at": "2025-09-12T02:45:36.505672",
+      "title": "Watchtower of Turkey (2014)",
+      "description": "Described as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.",
+      "tags": [
+        "DAY",
+        "RUNNING",
+        "YOUNG",
+        "GIRL",
+        "EXTERIOR",
+        "KID"
+      ],
+      "technique_tags": [
+        "Slow Motion",
+        "Speed Ramp",
+        "Trucking"
+      ],
+      "director": "Leonardo Dalessandri",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Watchtower of Turkey (2014)\nDescribed as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.\nTechnique - Slow Motion , Speed Ramp , Trucking\nDirector - Leonardo Dalessandri\nOriginal Source - Link\nDAY\nRUNNING\nYOUNG\nGIRL\nEXTERIOR\nKID",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/02/04/tumblr_0a53ab618756a8e1b4f7e800b6ba0864_c621cb9b_540/f3c53d233423884c44f0a7338869e41e.gif",
+      "alt_text": "Everything Everywhere All at Once",
+      "discovered_at": "2025-09-12T02:45:39.682344",
+      "title": "Everything Everywhere All at Once (2022)",
+      "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+      "tags": [],
+      "technique_tags": [
+        "Slow Motion",
+        "Speed Ramp"
+      ],
+      "director": "Paul Rogers",
+      "dop": "Larkin Seiple",
+      "colorist": "Alex Bickel",
+      "original_source": "",
+      "additional_info": "Everything Everywhere All at Once (2022)\nA middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.\nTechnique - Slow Motion , Speed Ramp\nDirector - Daniel Kwan, Daniel Scheinert\nDOP - Larkin Seiple\nEditor - Paul Rogers\nColorist - Alex Bickel",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/17/Pa_Salieu_-_My_Family_feat_BackRoad_Gee_Official_Video_JJdviiJ/bb9c2dbba1fd3f12cb20b0be8115d4ee.gif",
+      "alt_text": "Pa Salieu - My Family feat BackRoad Gee",
+      "discovered_at": "2025-09-12T02:45:54.299585",
+      "title": "Pa Salieu - My Family feat BackRoad Gee (2020)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Quick Cuts",
+        "Speed Ramp"
+      ],
+      "director": "Femi Ladi",
+      "dop": "Stefan Yap",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Pa Salieu - My Family feat BackRoad Gee (2020)\nMusic video for British rapper Pa Salieu, from director Femi Ladi. Utilizes a bolt arm camera that was popularized in Kendrick Lamar's 2017 music video, Humble, by director Dave Meyers. Ladi's decision to use a black and white color scheme gives this film an interesting juxtaposition between a timeless look, and modern camera techniques, with the help of the bolt arm.\nTechnique - Quick Cuts , Speed Ramp\nDirector - Femi Ladi\nDOP - Stefan Yap\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/04/01/FACE_hQ5P1bB/e05e766365041306a086ebb55328c387.gif",
+      "alt_text": "Face",
+      "discovered_at": "2025-09-12T02:45:57.565714",
+      "title": "Face (2021)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE",
+        "PHOTOGRAPHY",
+        "VINTAGE",
+        "SEPIA"
+      ],
+      "technique_tags": [
+        "1800s",
+        "Archival",
+        "Quick Cuts",
+        "Shadow Box",
+        "Speed Ramp"
+      ],
+      "director": "Mah Ferraz",
+      "dop": "Mayer Chalom",
+      "colorist": "Carlos Flores",
+      "original_source": "",
+      "additional_info": "Face (2021)\nThe 2021 trailer for Jessica Helfand's book FACE, directed by Lake Buckley and Dayday, was produced for its release by MIT Press. The production team behind the trailer included Nicolas Thau as the producer, Harry Walters as the production manager, and Charlotte Arnoux handling casting. Mayer Chalom was the director of photography, with Davide Sorasio and Emma Penrose assisting as 1st and 2nd AC respectively.\nTechnique - 1800s , Archival , Quick Cuts , Shadow Box , Speed Ramp\nDirector - dayday, Lake Buckley\nDOP - Mayer Chalom\nEditor - Mah Ferraz\nColorist - Carlos Flores\nOriginal Source - Link\nBLACK AND WHITE\nPHOTOGRAPHY\nVINTAGE\nSEPIA",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/24/coach__life_has_different_paths__1080p_lN5wekv/3c0b6b3f06932ef5d77f62095d76466b.gif",
+      "alt_text": "Coach - Life Has Different Paths",
+      "discovered_at": "2025-09-12T02:46:00.773977",
+      "title": "Coach - Life Has Different Paths (2024)",
+      "description": "",
+      "tags": [
+        "WALKING",
+        "NIGHT",
+        "NEON"
+      ],
+      "technique_tags": [
+        "Slow Motion",
+        "Speed Ramp",
+        "Towards camera",
+        "Tracking"
+      ],
+      "director": "Nik Valentin",
+      "dop": "Pat Aldinger",
+      "colorist": "Marina Starke",
+      "original_source": "",
+      "additional_info": "Coach - Life Has Different Paths (2024)\nTechnique - Slow Motion , Speed Ramp , Towards camera , Tracking\nDirector - Henry Scholfield\nDOP - Pat Aldinger\nEditor - Nik Valentin\nColorist - Marina Starke\nOriginal Source - Link\nWALKING\nNIGHT\nNEON",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/14/FORTUNA_TVC_2023_ENG_UZN0SQ3/629370bd5582227ea5f27eb8065f4edc.gif",
+      "alt_text": "Fortuna - Fortuna Favors You",
+      "discovered_at": "2025-09-12T02:46:03.917018",
+      "title": "Fortuna - Fortuna Favors You (2024)",
+      "description": "To be lucky is not lucky. We have to push our luck. Whether it’s a favorite ritual, hard preparation or careful analysis and study… These are all things that tilt fortune in our favor. Fortuna favors you. New TVC for year 2023.",
+      "tags": [
+        "SPORTS",
+        "NIGHT",
+        "SOCCER",
+        "ATHLETE"
+      ],
+      "technique_tags": [
+        "Scribble",
+        "Speed Ramp"
+      ],
+      "director": "Petr Dvořák",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Fortuna - Fortuna Favors You (2024)\nTo be lucky is not lucky. We have to push our luck. Whether it’s a favorite ritual, hard preparation or careful analysis and study… These are all things that tilt fortune in our favor. Fortuna favors you. New TVC for year 2023.\nTechnique - Scribble , Speed Ramp\nDirector - Petr Dvořák\nOriginal Source - Link\nSPORTS\nNIGHT\nSOCCER\nATHLETE",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/21/Amine_-_Charmander_Official_Music_Video_53fZODh/a5b4208bfc59c75a4cc295c2936c9b6e.gif",
+      "alt_text": "Aminé - Charmander",
+      "discovered_at": "2025-09-12T02:46:07.168486",
+      "title": "Aminé - Charmander (2021)",
+      "description": "In the 2021 music video \"Charmander\" by Aminé, the artist retreats to a secluded cabin in the woods, symbolizing a quest for peace and introspection away from the pressures of fame. The video is characterized by a warm, earthy color palette and natural light, capturing the tranquil beauty of the forest setting. The nostalgic reference to Pokémon through the title \"Charmander\" adds a whimsical contrast to the mature themes of self-discovery and isolation.",
+      "tags": [
+        "INTERIOR",
+        "TWO SHOT",
+        "SWEAT",
+        "GARAGE",
+        "WORKING OUT"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Speed Ramp",
+        "Two Shot"
+      ],
+      "director": "Will Tooke",
+      "dop": "Ben Mullen",
+      "colorist": "Andrew Francis",
+      "original_source": "",
+      "additional_info": "Aminé - Charmander (2021)\nIn the 2021 music video \"Charmander\" by Aminé, the artist retreats to a secluded cabin in the woods, symbolizing a quest for peace and introspection away from the pressures of fame. The video is characterized by a warm, earthy color palette and natural light, capturing the tranquil beauty of the forest setting. The nostalgic reference to Pokémon through the title \"Charmander\" adds a whimsical contrast to the mature themes of self-discovery and isolation.\nTechnique - Fast Motion , Speed Ramp , Two Shot\nDirector - Adam Daniel, Jack Begert\nDOP - Ben Mullen\nEditor - Will Tooke\nColorist - Andrew Francis\nOriginal Source - Link\nINTERIOR\nTWO SHOT\nSWEAT\nGARAGE\nWORKING OUT",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/28/THEY.__U-RITE__Official_Music_Video_XgwcUp3/86d257428a695983498f6016aa86ad35.gif",
+      "alt_text": "THEY. - U-RITE",
+      "discovered_at": "2025-09-12T02:46:10.315092",
+      "title": "THEY. - U-RITE (2017)",
+      "description": "The music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.",
+      "tags": [
+        "THEY. - U-RITE (2017)",
+        "MALE"
+      ],
+      "technique_tags": [
+        "Speed Ramp",
+        "Yo-Yo Zoom"
+      ],
+      "director": "Jack Begert",
+      "dop": "Phillips Shum",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "THEY. - U-RITE (2017)\nThe music video for \"U-RITE\" by THEY. was filmed entirely in Colorado, featuring various locations including mountains, a chairlift, Red Rocks, and Denver. It showcases the duo's connection to Dante's home state with dynamic editing that syncs with the beat of the song.\nTechnique - Speed Ramp , Yo-Yo Zoom\nDirector - Jack Begert\nDOP - Phillips Shum\nOriginal Source - Link\nMALE",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2023/12/31/15/9bf2c069427e14a296365bab4e2f0d29.gif",
+      "alt_text": "Metro Boomin & Future - Superhero (Heroes & Villains)",
+      "discovered_at": "2025-09-12T02:46:13.556442",
+      "title": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "description": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Jump cut",
+        "Motion Blur",
+        "Speed Ramp"
+      ],
+      "director": "Kenny Shimm (Editor)",
+      "dop": "Chuk Town",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Metro Boomin & Future - Superhero (Heroes & Villains) (2022)\nShot breakdown: Wide shot speed ramp jump cut w/ motion blur\nTechnique - Jump cut , Motion Blur , Speed Ramp\nDirector - HIDJI WORLD\nDOP - Chuk Town\nEditor - Kenny Shimm (Editor)\nOriginal Source - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/speed-ramping"
+    }
+  ]
 }

@@ -1,6 +1,461 @@
 {
   "technique": "photography",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.653961",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250912_003258",
+    "total_videos": 21,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708341605.webp",
+      "alt_text": "Airbnb - Bonnie & Clyde",
+      "discovered_at": "2025-09-12T00:31:52.414115",
+      "title": "Airbnb - Bonnie & Clyde (2022)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Photography",
+        "Shadow Box"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Airbnb - Bonnie & Clyde (2022)\nTechnique - Photography , Shadow Box\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708345892.webp",
+      "alt_text": "Beastie Boys - An Open Letter To NYC",
+      "discovered_at": "2025-09-12T00:31:56.046471",
+      "title": "Beastie Boys - An Open Letter To NYC (2004)",
+      "description": "Music video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Archival",
+        "Photography",
+        "Quick Cuts",
+        "Stop Motion"
+      ],
+      "director": "Adam Yauch",
+      "dop": "Nathanial Hornblower",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beastie Boys - An Open Letter To NYC (2004)\nMusic video by Beastie Boys performing An Open Letter To NYC. © 2004 Capitol Records Inc And Beastie Boys\nTechnique - 2000s , Archival , Photography , Quick Cuts , Stop Motion\nDirector - Adam Yauch\nDOP - Nathanial Hornblower\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/07/261720384963.webp",
+      "alt_text": "The Dare - Perfume",
+      "discovered_at": "2025-09-12T00:31:59.187890",
+      "title": "The Dare - Perfume (2024)",
+      "description": "The \"The Dare - Perfume 2024\" commercial is an evocative and visually striking advertisement that captures the essence of boldness and sensuality. It features a series of elegantly choreographed scenes where the protagonist moves through various luxurious settings, exuding confidence and allure. The commercial employs a rich color palette and dramatic lighting to highlight the sophistication and intensity of the perfume. The narrative is punctuated by close-up shots of the perfume bottle, emphasizing its sleek design and the brand's logo, leaving a lasting impression of elegance and daring on the viewer.",
+      "tags": [
+        "BLACK AND WHITE",
+        "FASHION",
+        "POSE",
+        "EDITORIAL"
+      ],
+      "technique_tags": [
+        "Photography",
+        "Shadow Box"
+      ],
+      "director": "Josh Wehle",
+      "dop": "Ben Carey",
+      "colorist": "Myles Bevan",
+      "original_source": "",
+      "additional_info": "The Dare - Perfume (2024)\nThe \"The Dare - Perfume 2024\" commercial is an evocative and visually striking advertisement that captures the essence of boldness and sensuality. It features a series of elegantly choreographed scenes where the protagonist moves through various luxurious settings, exuding confidence and allure. The commercial employs a rich color palette and dramatic lighting to highlight the sophistication and intensity of the perfume. The narrative is punctuated by close-up shots of the perfume bottle, emphasizing its sleek design and the brand's logo, leaving a lasting impression of elegance and daring on the viewer.\nTechnique - Photography , Shadow Box\nDirector - Nick Harwood\nDOP - Ben Carey\nEditor - Josh Wehle\nColorist - Myles Bevan\nOriginal Source - Link\nBLACK AND WHITE\nFASHION\nPOSE\nEDITORIAL",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710334956.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-12T00:32:02.346314",
+      "title": "#LoveYourz (2018)",
+      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Photography",
+        "Screen in Screen",
+        "Video Portraits"
+      ],
+      "director": "Eavvon O’Neal",
+      "dop": "Greta Zozula, Sam Wootton",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - Photography , Screen in Screen , Video Portraits\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link\nDAY\nWOMAN\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708342075.webp",
+      "alt_text": "Wieden + Kennedy Scotland Workshop",
+      "discovered_at": "2025-09-12T00:32:05.465960",
+      "title": "Wieden + Kennedy Scotland Workshop",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Photography",
+        "Shadow Box"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Wieden + Kennedy Scotland Workshop\nTechnique - Collage , Photography , Shadow Box\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709540812.webp",
+      "alt_text": "Saint Levant - Nails",
+      "discovered_at": "2025-09-12T00:32:09.138625",
+      "title": "Saint Levant - Nails (2023)",
+      "description": "2024 music video by Saint Levant performing Nails starring Mia Khalifa.",
+      "tags": [],
+      "technique_tags": [
+        "Color Shift",
+        "Freeze Frame",
+        "Photography"
+      ],
+      "director": "Mattias Russo-Larsson",
+      "dop": "Melisse Riahi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Saint Levant - Nails (2023)\n2024 music video by Saint Levant performing Nails starring Mia Khalifa.\nTechnique - Color Shift , Freeze Frame , Photography\nDirector - Mattias Russo-Larsson\nDOP - Melisse Riahi\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710399154.webp",
+      "alt_text": "Halo 3 - Diorama",
+      "discovered_at": "2025-09-12T00:32:12.271874",
+      "title": "Halo 3 - Diorama (2007)",
+      "description": "A visually stunning and intricately designed model battlefield, showcasing a battle scene between human UNSC forces, including the series' protagonist Master Chief, and the alien Covenant forces. The diorama was filled with painstaking detail, including miniature soldiers, vehicles like Warthogs and Scorpions, and alien landscapes.",
+      "tags": [
+        "DAY",
+        "EXPLOSION",
+        "EXTERIOR",
+        "ALIEN",
+        "BATTLE",
+        "SOLDIER",
+        "BATTLEFIELD",
+        "DIORAMA",
+        "HALO"
+      ],
+      "technique_tags": [
+        "Diorama",
+        "Photography"
+      ],
+      "director": "Andrea MacArthur, Rock Paper Scissors",
+      "dop": "Chris Soos",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Halo 3 - Diorama (2007)\nA visually stunning and intricately designed model battlefield, showcasing a battle scene between human UNSC forces, including the series' protagonist Master Chief, and the alien Covenant forces. The diorama was filled with painstaking detail, including miniature soldiers, vehicles like Warthogs and Scorpions, and alien landscapes.\nTechnique - Diorama , Photography\nDirector - Rupert Sanders\nDOP - Chris Soos\nEditor - Andrea MacArthur, Rock Paper Scissors\nOriginal Source - Link\nTutorial - Link\nDAY\nEXPLOSION\nEXTERIOR\nALIEN\nBATTLE\nSOLDIER\nBATTLEFIELD\nDIORAMA\nHALO",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715575161.webp",
+      "alt_text": "Ariana Grande - Positions",
+      "discovered_at": "2025-09-12T00:32:15.408221",
+      "title": "Ariana Grande - Positions (2020)",
+      "description": "The music video for Ariana Grande's \"Positions\" creatively alternates between her role as the President in the White House and her personal life, showcasing her handling both leadership responsibilities and domestic bliss with ease and elegance.",
+      "tags": [
+        "KITCHEN",
+        "ARIANA GRANDE"
+      ],
+      "technique_tags": [
+        "Photography"
+      ],
+      "director": "Alyssa Oh",
+      "dop": "Scott Cunningham",
+      "colorist": "Company 3, Stefan Sonnenfeld",
+      "original_source": "",
+      "additional_info": "Ariana Grande - Positions (2020)\nThe music video for Ariana Grande's \"Positions\" creatively alternates between her role as the President in the White House and her personal life, showcasing her handling both leadership responsibilities and domestic bliss with ease and elegance.\nTechnique - Photography\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Alyssa Oh\nColorist - Company 3, Stefan Sonnenfeld\nOriginal Source - Link\nKITCHEN\nARIANA GRANDE",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708508796.webp",
+      "alt_text": "Nike - Sport Changes Everything, Chicago-Style",
+      "discovered_at": "2025-09-12T00:32:18.537298",
+      "title": "Nike - Sport Changes Everything, Chicago-Style (2019)",
+      "description": "This spot dishes out Windy City metaphors faster than a hot dog order, glorifying Chicagoans and their sports passion with a side of campaign slogan irony: \"Sport Changes Everything.\"",
+      "tags": [
+        "NEWSPAPER",
+        "NEWS",
+        "HEADLINES"
+      ],
+      "technique_tags": [
+        "Photography"
+      ],
+      "director": "Jack Kanner, Jamie Foord, Rock Paper Scissors",
+      "dop": "Mihai Malaimare",
+      "colorist": "A52",
+      "original_source": "",
+      "additional_info": "Nike - Sport Changes Everything, Chicago-Style (2019)\nThis spot dishes out Windy City metaphors faster than a hot dog order, glorifying Chicagoans and their sports passion with a side of campaign slogan irony: \"Sport Changes Everything.\"\nTechnique - Photography\nDirector - Mike Warzin\nDOP - Mihai Malaimare\nEditor - Jack Kanner, Jamie Foord, Rock Paper Scissors\nColorist - A52\nOriginal Source - Link\nNEWSPAPER\nNEWS\nHEADLINES",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709540049.webp",
+      "alt_text": "Saint Levant - Nails",
+      "discovered_at": "2025-09-12T00:32:21.679863",
+      "title": "Saint Levant - Nails (2023)",
+      "description": "2024 music video by Saint Levant performing Nails starring Mia Khalifa.",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Photography"
+      ],
+      "director": "Mattias Russo-Larsson",
+      "dop": "Melisse Riahi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Saint Levant - Nails (2023)\n2024 music video by Saint Levant performing Nails starring Mia Khalifa.\nTechnique - Collage , Mixed Media , Photography\nDirector - Mattias Russo-Larsson\nDOP - Melisse Riahi\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/19/261708341685.webp",
+      "alt_text": "A$AP Ferg - Floor Seats",
+      "discovered_at": "2025-09-12T00:32:24.787310",
+      "title": "A$AP Ferg - Floor Seats (2019)",
+      "description": "In the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?",
+      "tags": [],
+      "technique_tags": [
+        "Photography",
+        "Shadow Box"
+      ],
+      "director": "Maxime Caro",
+      "dop": "Hunter Daly",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "A$AP Ferg - Floor Seats (2019)\nIn the music video for \"Floor Seats,\" A$AP Ferg gives a supposedly VIP tour of New York City on his Redline BMX, showcasing the rare and unique experience of his life—complete with gravity-defying bike tricks and a closing act of a house party that makes Harlem look like the ultimate VIP lounge. Because nothing says VIP like riding a BMX through the streets and ending the night with a raucous house bash, right?\nTechnique - Photography , Shadow Box\nDirector - Valentin Petit\nDOP - Hunter Daly\nEditor - Maxime Caro\nColorist - Arthur Paux\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812773.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-12T00:32:28.428380",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "BEACH",
+        "SAND",
+        "WALKING",
+        "POSE",
+        "SABRINA CARPENTER",
+        "MARILYN MONROE"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Freeze Frame",
+        "Haze",
+        "Photography"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Freeze Frame , Haze , Photography\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBEACH\nSAND\nWALKING\nPOSE\nSABRINA CARPENTER\nMARILYN MONROE",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710334910.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-12T00:32:31.539222",
+      "title": "#LoveYourz (2018)",
+      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Photography",
+        "Screen in Screen"
+      ],
+      "director": "Eavvon O’Neal",
+      "dop": "Greta Zozula, Sam Wootton",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - Photography , Screen in Screen\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335076.webp",
+      "alt_text": "#LoveYourz",
+      "discovered_at": "2025-09-12T00:32:34.666269",
+      "title": "#LoveYourz (2018)",
+      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
+      "tags": [
+        "MALE",
+        "WALL",
+        "LEANING"
+      ],
+      "technique_tags": [
+        "Photography"
+      ],
+      "director": "Eavvon O’Neal",
+      "dop": "Greta Zozula, Sam Wootton",
+      "colorist": "Sam Daley",
+      "original_source": "",
+      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - Photography\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link\nMALE\nWALL\nLEANING",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/21/261708508783.webp",
+      "alt_text": "Nike - Sport Changes Everything, Chicago-Style",
+      "discovered_at": "2025-09-12T00:32:38.316393",
+      "title": "Nike - Sport Changes Everything, Chicago-Style (2019)",
+      "description": "This spot dishes out Windy City metaphors faster than a hot dog order, glorifying Chicagoans and their sports passion with a side of campaign slogan irony: \"Sport Changes Everything.\"",
+      "tags": [
+        "NEWSPAPER",
+        "NEWS",
+        "HEADLINES"
+      ],
+      "technique_tags": [
+        "Photography"
+      ],
+      "director": "Jack Kanner, Jamie Foord, Rock Paper Scissors",
+      "dop": "Mihai Malaimare",
+      "colorist": "A52",
+      "original_source": "",
+      "additional_info": "Nike - Sport Changes Everything, Chicago-Style (2019)\nThis spot dishes out Windy City metaphors faster than a hot dog order, glorifying Chicagoans and their sports passion with a side of campaign slogan irony: \"Sport Changes Everything.\"\nTechnique - Photography\nDirector - Mike Warzin\nDOP - Mihai Malaimare\nEditor - Jack Kanner, Jamie Foord, Rock Paper Scissors\nColorist - A52\nOriginal Source - Link\nNEWSPAPER\nNEWS\nHEADLINES",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812813.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-12T00:32:41.985860",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "BEACH",
+        "SAND",
+        "WALKING",
+        "POSE",
+        "SABRINA CARPENTER",
+        "MARILYN MONROE"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Freeze Frame",
+        "Haze",
+        "Photography"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Freeze Frame , Haze , Photography\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBEACH\nSAND\nWALKING\nPOSE\nSABRINA CARPENTER\nMARILYN MONROE",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709540928.webp",
+      "alt_text": "Saint Levant - Nails",
+      "discovered_at": "2025-09-12T00:32:45.130454",
+      "title": "Saint Levant - Nails (2023)",
+      "description": "2024 music video by Saint Levant performing Nails starring Mia Khalifa.",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Photography"
+      ],
+      "director": "Mattias Russo-Larsson",
+      "dop": "Melisse Riahi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Saint Levant - Nails (2023)\n2024 music video by Saint Levant performing Nails starring Mia Khalifa.\nTechnique - Collage , Photography\nDirector - Mattias Russo-Larsson\nDOP - Melisse Riahi\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715575223.webp",
+      "alt_text": "Ariana Grande - Positions",
+      "discovered_at": "2025-09-12T00:32:48.271187",
+      "title": "Ariana Grande - Positions (2020)",
+      "description": "The music video for Ariana Grande's \"Positions\" creatively alternates between her role as the President in the White House and her personal life, showcasing her handling both leadership responsibilities and domestic bliss with ease and elegance.",
+      "tags": [
+        "DESK",
+        "WHITE HOUSE",
+        "ARIANA GRANDE",
+        "OVAL OFFICE"
+      ],
+      "technique_tags": [
+        "Freeze Frame",
+        "Photography"
+      ],
+      "director": "Alyssa Oh",
+      "dop": "Scott Cunningham",
+      "colorist": "Company 3, Stefan Sonnenfeld",
+      "original_source": "",
+      "additional_info": "Ariana Grande - Positions (2020)\nThe music video for Ariana Grande's \"Positions\" creatively alternates between her role as the President in the White House and her personal life, showcasing her handling both leadership responsibilities and domestic bliss with ease and elegance.\nTechnique - Freeze Frame , Photography\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Alyssa Oh\nColorist - Company 3, Stefan Sonnenfeld\nOriginal Source - Link\nDESK\nWHITE HOUSE\nARIANA GRANDE\nOVAL OFFICE",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709540743.webp",
+      "alt_text": "Saint Levant - Nails",
+      "discovered_at": "2025-09-12T00:32:51.951285",
+      "title": "Saint Levant - Nails (2023)",
+      "description": "2024 music video by Saint Levant performing Nails starring Mia Khalifa.",
+      "tags": [],
+      "technique_tags": [
+        "Photography",
+        "Shadow Box"
+      ],
+      "director": "Mattias Russo-Larsson",
+      "dop": "Melisse Riahi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Saint Levant - Nails (2023)\n2024 music video by Saint Levant performing Nails starring Mia Khalifa.\nTechnique - Photography , Shadow Box\nDirector - Mattias Russo-Larsson\nDOP - Melisse Riahi\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710388693.webp",
+      "alt_text": "NIKE x SIZE? - Content De Te Revoir",
+      "discovered_at": "2025-09-12T00:32:55.092902",
+      "title": "NIKE x SIZE? - Content De Te Revoir (2024)",
+      "description": "",
+      "tags": [
+        "BIKE",
+        "EXTERIOR",
+        "NEW YORK CITY",
+        "WHEELIE"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Photography"
+      ],
+      "director": "Jessy Busgeeth",
+      "dop": "Jessy Busgeeth",
+      "colorist": "Jessy Busgeeth",
+      "original_source": "",
+      "additional_info": "NIKE x SIZE? - Content De Te Revoir (2024)\nTechnique - Collage , Photography\nDirector - Jessy Busgeeth\nDOP - Jessy Busgeeth\nEditor - Jessy Busgeeth\nColorist - Jessy Busgeeth\nOriginal Source - Link\nBIKE\nEXTERIOR\nNEW YORK CITY\nWHEELIE",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709539958.webp",
+      "alt_text": "Saint Levant - Nails",
+      "discovered_at": "2025-09-12T00:32:58.243067",
+      "title": "Saint Levant - Nails (2023)",
+      "description": "2024 music video by Saint Levant performing Nails starring Mia Khalifa.",
+      "tags": [],
+      "technique_tags": [
+        "Collage",
+        "Mixed Media",
+        "Photography"
+      ],
+      "director": "Mattias Russo-Larsson",
+      "dop": "Melisse Riahi",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Saint Levant - Nails (2023)\n2024 music video by Saint Levant performing Nails starring Mia Khalifa.\nTechnique - Collage , Mixed Media , Photography\nDirector - Mattias Russo-Larsson\nDOP - Melisse Riahi\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/photography"
+    }
+  ]
 }

@@ -1,6 +1,1328 @@
 {
   "technique": "locked-on",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.651619",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250911_153650",
+    "total_videos": 55,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710024558.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T15:33:32.044932",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "WALKING",
+        "INTERIOR",
+        "THEO JAMES"
+      ],
+      "technique_tags": [
+        "Anger",
+        "Locked-On",
+        "Towards camera",
+        "Tracking"
+      ],
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Anger , Locked-On , Towards camera , Tracking\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nWALKING\nINTERIOR\nTHEO JAMES",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742812.webp",
+      "alt_text": "ONHA - KODAK",
+      "discovered_at": "2025-09-11T15:33:36.215950",
+      "title": "ONHA - KODAK (2024)",
+      "description": "The music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.",
+      "tags": [
+        "ONHA - KODAK (2024)",
+        "DAY",
+        "EXTERIOR",
+        "BASKETBALL",
+        "BASKETBALL COURT"
+      ],
+      "technique_tags": [
+        "Anthropo",
+        "Locked-On"
+      ],
+      "director": "M. Tikal",
+      "dop": "Virgil Leclercq",
+      "colorist": "Francois Dubois",
+      "original_source": "",
+      "additional_info": "ONHA - KODAK (2024)\nThe music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.\nTechnique - Anthropo , Locked-On\nDirector - Nitram\nDOP - Virgil Leclercq\nEditor - M. Tikal\nColorist - Francois Dubois\nOriginal Source - Link\nDAY\nEXTERIOR\nBASKETBALL\nBASKETBALL COURT",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141165.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T15:33:40.360315",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "GROUP",
+        "DANCERS"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Locked-On",
+        "Spotlight",
+        "Void"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Locked-On , Spotlight , Void\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nGROUP\nDANCERS",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704860740.webp",
+      "alt_text": "Beats By Dre - Unleashed",
+      "discovered_at": "2025-09-11T15:33:44.516456",
+      "title": "Beats By Dre - Unleashed (2023)",
+      "description": "Hiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.",
+      "tags": [
+        "SWEAT",
+        "HEADPHONES",
+        "WORKOUT",
+        "WORKING OUT",
+        "BEATS"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Luke Lynch",
+      "dop": "Larkin Seiple",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beats By Dre - Unleashed (2023)\nHiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.\nTechnique - Locked-On\nDirector - Hiro Murai\nDOP - Larkin Seiple\nEditor - Luke Lynch\nOriginal Source - Link\nTutorial - Link\nSWEAT\nHEADPHONES\nWORKOUT\nWORKING OUT\nBEATS",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141694.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T15:33:48.162071",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "DANCING",
+        "BREAKDANCE"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Locked-On"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Locked-On\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nWOMAN\nDANCING\nBREAKDANCE",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863338.webp",
+      "alt_text": "Artist: Sankalp Pandey",
+      "discovered_at": "2025-09-11T15:33:51.812161",
+      "title": "Artist: Sankalp Pandey",
+      "description": "",
+      "tags": [
+        "INSTAGRAM",
+        "TYPOGRAPHY"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Sankalp Pandey",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: Sankalp Pandey\nLocked on word shot\nTechnique - Locked-On\nEditor - Sankalp Pandey\nINSTAGRAM\nTYPOGRAPHY",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309550.webp",
+      "alt_text": "Downtown Kayoto - Changed it",
+      "discovered_at": "2025-09-11T15:33:54.938712",
+      "title": "Downtown Kayoto - Changed it (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "FEET",
+        "WALKING",
+        "EXTERIOR",
+        "COOL",
+        "SHOES"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Joe Howat",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Changed it (2023)\nJoe Howat's sophomore music video features a variety of well-crafted techniques for London artist Downtown Kayoto.\nTechnique - Locked-On\nDirector - Joe Howat\nOriginal Source - Link\nDAY\nFEET\nWALKING\nEXTERIOR\nCOOL\nSHOES",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711141242.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T15:33:58.603907",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "SINGING",
+        "MICROPHONE"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Profile"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Locked-On , Profile\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nMALE\nSINGING\nMICROPHONE",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/06/07/261717742593.webp",
+      "alt_text": "ONHA - KODAK",
+      "discovered_at": "2025-09-11T15:34:02.255387",
+      "title": "ONHA - KODAK (2024)",
+      "description": "The music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.",
+      "tags": [
+        "ONHA - KODAK (2024)",
+        "DAY",
+        "EXTERIOR",
+        "BASKETBALL",
+        "BASKETBALL COURT"
+      ],
+      "technique_tags": [
+        "Anthropo",
+        "Locked-On"
+      ],
+      "director": "M. Tikal",
+      "dop": "Virgil Leclercq",
+      "colorist": "Francois Dubois",
+      "original_source": "",
+      "additional_info": "ONHA - KODAK (2024)\nThe music video for \"Kodak\" by ONHA, directed by Nitram, showcases the artist moving through different lively and surreal environments that correspond to playlists on a girl's phone. In one standout scene, ONHA is turned into a basketball, remaining the focal point during a game. The video is praised for its ambitious concept and impressive visual effects, making it a visually captivating experience.\nTechnique - Anthropo , Locked-On\nDirector - Nitram\nDOP - Virgil Leclercq\nEditor - M. Tikal\nColorist - Francois Dubois\nOriginal Source - Link\nDAY\nEXTERIOR\nBASKETBALL\nBASKETBALL COURT",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704860577.webp",
+      "alt_text": "Beats By Dre - Unleashed",
+      "discovered_at": "2025-09-11T15:34:05.894142",
+      "title": "Beats By Dre - Unleashed (2023)",
+      "description": "Hiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.",
+      "tags": [
+        "HEADPHONES",
+        "BEATS"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Luke Lynch",
+      "dop": "Larkin Seiple",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beats By Dre - Unleashed (2023)\nHiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.\nTechnique - Locked-On\nDirector - Hiro Murai\nDOP - Larkin Seiple\nEditor - Luke Lynch\nOriginal Source - Link\nTutorial - Link\nHEADPHONES\nBEATS",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704860688.webp",
+      "alt_text": "Beats By Dre - Unleashed",
+      "discovered_at": "2025-09-11T15:34:09.527902",
+      "title": "Beats By Dre - Unleashed (2023)",
+      "description": "Hiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.",
+      "tags": [
+        "SWEAT",
+        "HEADPHONES",
+        "WORKOUT",
+        "WORKING OUT",
+        "BEATS"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Luke Lynch",
+      "dop": "Larkin Seiple",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beats By Dre - Unleashed (2023)\nHiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.\nTechnique - Locked-On\nDirector - Hiro Murai\nDOP - Larkin Seiple\nEditor - Luke Lynch\nOriginal Source - Link\nTutorial - Link\nSWEAT\nHEADPHONES\nWORKOUT\nWORKING OUT\nBEATS",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704860514.webp",
+      "alt_text": "Beats By Dre - Unleashed",
+      "discovered_at": "2025-09-11T15:34:12.668155",
+      "title": "Beats By Dre - Unleashed (2023)",
+      "description": "Hiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.",
+      "tags": [
+        "HEADPHONES",
+        "BEATS"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Luke Lynch",
+      "dop": "Larkin Seiple",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beats By Dre - Unleashed (2023)\nHiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.\nTechnique - Locked-On\nDirector - Hiro Murai\nDOP - Larkin Seiple\nEditor - Luke Lynch\nOriginal Source - Link\nTutorial - Link\nHEADPHONES\nBEATS",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863436.webp",
+      "alt_text": "Lazy Susan",
+      "discovered_at": "2025-09-11T15:34:16.831522",
+      "title": "Lazy Susan (2019)",
+      "description": "You might be one of the millions of people whose life was made a little bit easier by Susan and you don’t even know it. Shot breakdown: Overhead tracking shot.",
+      "tags": [
+        "MUSIC",
+        "INTERIOR",
+        "OVERHEAD",
+        "RECORD PLAYER"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Overhead Close-up"
+      ],
+      "director": "Terri Timely",
+      "dop": "Donavan Sell",
+      "colorist": "Clinton Homuth",
+      "original_source": "",
+      "additional_info": "Lazy Susan (2019)\nYou might be one of the millions of people whose life was made a little bit easier by Susan and you don’t even know it. Shot breakdown: Overhead tracking shot.\nTechnique - Locked-On , Overhead Close-up\nDirector - Terri Timely\nDOP - Donavan Sell\nColorist - Clinton Homuth\nOriginal Source - Link\nMUSIC\nINTERIOR\nOVERHEAD\nRECORD PLAYER",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863386.webp",
+      "alt_text": "Pharrell Williams - Cash In Cash Out",
+      "discovered_at": "2025-09-11T15:34:21.016288",
+      "title": "Pharrell Williams - Cash In Cash Out (2022)",
+      "description": "\"Cash In Cash Out\" is a song produced by American musician Pharrell Williams, featuring vocals from Atlanta-based rapper 21 Savage and American rapper Tyler, the Creator. Written by all three, it was released as a single through Columbia Records on June 10, 2022. Williams first teased the song on his TikTok account June 6, 2022. An accompanying music video was released, featuring a zoetrope-inspired CG animation style.",
+      "tags": [
+        "RED",
+        "TYLER THE CREATOR",
+        "BLUE",
+        "DANCING",
+        "21 SAVAGE",
+        "NICOLAS LARROUQUERE",
+        "FRANCOIS ROUSSELET",
+        "CONNOR COOLBEAR",
+        "HULA HOOP"
+      ],
+      "technique_tags": [
+        "3D animation",
+        "Locked-On"
+      ],
+      "director": "Nicolas Larrouquere",
+      "dop": "",
+      "colorist": "Connor Coolbear",
+      "original_source": "",
+      "additional_info": "Pharrell Williams - Cash In Cash Out (2022)\n\"Cash In Cash Out\" is a song produced by American musician Pharrell Williams, featuring vocals from Atlanta-based rapper 21 Savage and American rapper Tyler, the Creator. Written by all three, it was released as a single through Columbia Records on June 10, 2022. Williams first teased the song on his TikTok account June 6, 2022. An accompanying music video was released, featuring a zoetrope-inspired CG animation style.\nTechnique - 3D animation , Locked-On\nDirector - François Rousselet\nEditor - Nicolas Larrouquere\nColorist - Connor Coolbear\nOriginal Source - Link\nTutorial - Link\nRED\nTYLER THE CREATOR\nBLUE\nDANCING\n21 SAVAGE\nNICOLAS LARROUQUERE\nFRANCOIS ROUSSELET\nCONNOR COOLBEAR\nHULA HOOP",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705176089.webp",
+      "alt_text": "Mammut - Fast Hiking",
+      "discovered_at": "2025-09-11T15:34:24.651697",
+      "title": "Mammut - Fast Hiking (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "RUNNING",
+        "NATURE",
+        "SPORTS",
+        "EXTERIOR",
+        "MOUNTAIN",
+        "ATHLETE",
+        "WILDERNESS",
+        "HIKING",
+        "RUN"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Overhead",
+        "Single shot"
+      ],
+      "director": "Kris Lüdi",
+      "dop": "",
+      "colorist": "Yves Roy Vallaster",
+      "original_source": "",
+      "additional_info": "Mammut - Fast Hiking (2022)\nVideo advert for Mammut from Swiss director Kris Lüdi featuring sweeping landscape shots, hand-held shaky cam techniques, and a locked-on sequence.\nTechnique - Locked-On , Overhead , Single shot\nDirector - Kris Lüdi\nColorist - Yves Roy Vallaster\nOriginal Source - Link\nDAY\nRUNNING\nNATURE\nSPORTS\nEXTERIOR\nMOUNTAIN\nATHLETE\nWILDERNESS\nHIKING\nRUN",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704860798.webp",
+      "alt_text": "Beats By Dre - Unleashed",
+      "discovered_at": "2025-09-11T15:34:28.303540",
+      "title": "Beats By Dre - Unleashed (2023)",
+      "description": "Hiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.",
+      "tags": [
+        "SWEAT",
+        "HEADPHONES",
+        "WORKOUT",
+        "WORKING OUT",
+        "BEATS"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Luke Lynch",
+      "dop": "Larkin Seiple",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beats By Dre - Unleashed (2023)\nHiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.\nTechnique - Locked-On\nDirector - Hiro Murai\nDOP - Larkin Seiple\nEditor - Luke Lynch\nOriginal Source - Link\nTutorial - Link\nSWEAT\nHEADPHONES\nWORKOUT\nWORKING OUT\nBEATS",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861553.webp",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "discovered_at": "2025-09-11T15:34:31.454103",
+      "title": "A$AP Rocky - D.M.B. (2022)",
+      "description": "",
+      "tags": [
+        "RED",
+        "A$AP ROCKY",
+        "CLOSE-UP"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "A$AP Rocky",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - D.M.B. (2022)\nDirected and produced by him for AWGE, this music video depicts a devoted relationship in challenging circumstances, filmed in New York. This specific clip features a flash cut photography technique inside a vintage film border that duplicates.\nTechnique - Locked-On\nDirector - A$AP Rocky\nOriginal Source - Link\nRED\nA$AP ROCKY\nCLOSE-UP",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489079.webp",
+      "alt_text": "21 Savage - redrum",
+      "discovered_at": "2025-09-11T15:34:35.104032",
+      "title": "21 Savage - redrum (2024)",
+      "description": "The music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.",
+      "tags": [
+        "MALE",
+        "INTERIOR",
+        "BEANIE",
+        "TUNNEL"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Profile"
+      ],
+      "director": "Anders Mills, Trim Editing",
+      "dop": "Chewy Lodge, JAWMIDNIGHT, Thomas Marchese",
+      "colorist": "Vlad Barin",
+      "original_source": "",
+      "additional_info": "21 Savage - redrum (2024)\nThe music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.\nTechnique - Locked-On , Profile\nDirector - Danny Seth\nDOP - Chewy Lodge, JAWMIDNIGHT, Thomas Marchese\nEditor - Anders Mills, Trim Editing\nColorist - Vlad Barin\nOriginal Source - Link\nTutorial - Link\nMALE\nINTERIOR\nBEANIE\nTUNNEL",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711051998.webp",
+      "alt_text": "Aminé - Charmander",
+      "discovered_at": "2025-09-11T15:34:38.742297",
+      "title": "Aminé - Charmander (2021)",
+      "description": "In the 2021 music video \"Charmander\" by Aminé, the artist retreats to a secluded cabin in the woods, symbolizing a quest for peace and introspection away from the pressures of fame. The video is characterized by a warm, earthy color palette and natural light, capturing the tranquil beauty of the forest setting. The nostalgic reference to Pokémon through the title \"Charmander\" adds a whimsical contrast to the mature themes of self-discovery and isolation.",
+      "tags": [
+        "MALE",
+        "FOREST",
+        "DANCING",
+        "BRIDGE",
+        "EXTERIOR",
+        "PORTLAND",
+        "OREGON"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Wide shot"
+      ],
+      "director": "Will Tooke",
+      "dop": "Ben Mullen",
+      "colorist": "Andrew Francis",
+      "original_source": "",
+      "additional_info": "Aminé - Charmander (2021)\nIn the 2021 music video \"Charmander\" by Aminé, the artist retreats to a secluded cabin in the woods, symbolizing a quest for peace and introspection away from the pressures of fame. The video is characterized by a warm, earthy color palette and natural light, capturing the tranquil beauty of the forest setting. The nostalgic reference to Pokémon through the title \"Charmander\" adds a whimsical contrast to the mature themes of self-discovery and isolation.\nTechnique - Locked-On , Wide shot\nDirector - Adam Daniel, Jack Begert\nDOP - Ben Mullen\nEditor - Will Tooke\nColorist - Andrew Francis\nOriginal Source - Link\nMALE\nFOREST\nDANCING\nBRIDGE\nEXTERIOR\nPORTLAND\nOREGON",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705176128.webp",
+      "alt_text": "Mammut - Fast Hiking",
+      "discovered_at": "2025-09-11T15:34:42.387418",
+      "title": "Mammut - Fast Hiking (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "RUNNING",
+        "NATURE",
+        "SPORTS",
+        "EXTERIOR",
+        "MOUNTAIN",
+        "ATHLETE",
+        "WILDERNESS",
+        "HIKING",
+        "RUN"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Single shot"
+      ],
+      "director": "Kris Lüdi",
+      "dop": "",
+      "colorist": "Yves Roy Vallaster",
+      "original_source": "",
+      "additional_info": "Mammut - Fast Hiking (2022)\nVideo advert for Mammut from Swiss director Kris Lüdi featuring sweeping landscape shots, hand-held shaky cam techniques, and a locked-on sequence.\nTechnique - Locked-On , Single shot\nDirector - Kris Lüdi\nColorist - Yves Roy Vallaster\nOriginal Source - Link\nDAY\nRUNNING\nNATURE\nSPORTS\nEXTERIOR\nMOUNTAIN\nATHLETE\nWILDERNESS\nHIKING\nRUN",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704609638.webp",
+      "alt_text": "Carly Gibert - Dropping Seeds",
+      "discovered_at": "2025-09-11T15:34:46.047987",
+      "title": "Carly Gibert - Dropping Seeds (2023)",
+      "description": "",
+      "tags": [
+        "RED",
+        "FACE",
+        "LIPS",
+        "HEADPHONES"
+      ],
+      "technique_tags": [
+        "Extreme Close-Up",
+        "Locked-On"
+      ],
+      "director": "Christopher A. Medina",
+      "dop": "Sonali Chugani",
+      "colorist": "Ben Cerauli",
+      "original_source": "",
+      "additional_info": "Carly Gibert - Dropping Seeds (2023)\nMusic video from artist Carly Gibert featuring a litany of visual techniques brought to life in a vivid color palette.\nTechnique - Extreme Close-Up , Locked-On\nDirector - Luciana Baldovino\nDOP - Sonali Chugani\nEditor - Christopher A. Medina\nColorist - Ben Cerauli\nOriginal Source - Link\nRED\nFACE\nLIPS\nHEADPHONES",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863158.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-11T15:34:51.270485",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "CAR",
+        "RIM",
+        "WHEEL"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Locked-On\nCAR\nRIM\nWHEEL",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704862831.webp",
+      "alt_text": "Art by Paul Trillo",
+      "discovered_at": "2025-09-11T15:34:54.897244",
+      "title": "Art by Paul Trillo",
+      "description": "",
+      "tags": [
+        "DAY",
+        "SPORTS",
+        "EXTERIOR",
+        "TENNIS",
+        "COURTS"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Paul Trillo",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art by Paul Trillo\nLocked on tennis ball shot\nTechnique - Locked-On\nDirector - Paul Trillo\nDAY\nSPORTS\nEXTERIOR\nTENNIS\nCOURTS",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704862932.webp",
+      "alt_text": "Locked-on clip from Dirk Koy",
+      "discovered_at": "2025-09-11T15:34:58.558362",
+      "title": "Locked-on clip from Dirk Koy",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "OVERHEAD",
+        "BIRDS-EYE"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Dirk Koy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Locked-on clip from Dirk Koy\nTechnique - Locked-On\nEditor - Dirk Koy\nDAY\nEXTERIOR\nOVERHEAD\nBIRDS-EYE",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861408.webp",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "discovered_at": "2025-09-11T15:35:01.702928",
+      "title": "A$AP Rocky - D.M.B. (2022)",
+      "description": "",
+      "tags": [
+        "BLUNT",
+        "WEED"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "A$AP Rocky",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - D.M.B. (2022)\nDirected and produced by him for AWGE, this music video depicts a devoted relationship in challenging circumstances, filmed in New York. This specific clip features a flash cut photography technique inside a vintage film border that duplicates.\nTechnique - Locked-On\nDirector - A$AP Rocky\nOriginal Source - Link\nBLUNT\nWEED",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709970859.webp",
+      "alt_text": "Nike - Rise of the kids",
+      "discovered_at": "2025-09-11T15:35:05.358611",
+      "title": "Nike - Rise of the kids (2022)",
+      "description": "",
+      "tags": [
+        "SPORTS",
+        "GIRL",
+        "SOCCER",
+        "ATHLETE"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Super Zoom"
+      ],
+      "director": "ALASKA",
+      "dop": "Todd Martin",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nike - Rise of the kids (2022)\nTechnique - Locked-On , Super Zoom\nDirector - ALASKA\nDOP - Todd Martin\nOriginal Source - Link\nSPORTS\nGIRL\nSOCCER\nATHLETE",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704864370.webp",
+      "alt_text": "Waves",
+      "discovered_at": "2025-09-11T15:35:09.000889",
+      "title": "Waves (2019)",
+      "description": "Traces the journey of a suburban family - led by a well-intentioned but domineering father - as they navigate love, forgiveness, and coming together in the aftermath of a loss.",
+      "tags": [
+        "WOMAN",
+        "BLUE",
+        "INTERIOR",
+        "BEDROOM",
+        "MORNING"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Profile"
+      ],
+      "director": "Isaac Hagy",
+      "dop": "Drew Daniels",
+      "colorist": "Damien Vandercruyssen",
+      "original_source": "",
+      "additional_info": "Waves (2019)\nTraces the journey of a suburban family - led by a well-intentioned but domineering father - as they navigate love, forgiveness, and coming together in the aftermath of a loss.\nTechnique - Locked-On , Profile\nDirector - Trey Edward Shults\nDOP - Drew Daniels\nEditor - Isaac Hagy\nColorist - Damien Vandercruyssen\nTutorial - Link\nWOMAN\nBLUE\nINTERIOR\nBEDROOM\nMORNING",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/04/01/261711985814.webp",
+      "alt_text": "Travis Scott - FE!N",
+      "discovered_at": "2025-09-11T15:35:12.651409",
+      "title": "Travis Scott - FE!N (2024)",
+      "description": "The music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.",
+      "tags": [
+        "YOUNG",
+        "GROUP",
+        "KIDS",
+        "CROWD",
+        "SCHOOL"
+      ],
+      "technique_tags": [
+        "Flash Cut",
+        "Locked-On",
+        "Speed Ramp",
+        "Zoetrope"
+      ],
+      "director": "Joseph Taylor, Trim Editing",
+      "dop": "Xiaolong Liu",
+      "colorist": "John Lowe",
+      "original_source": "",
+      "additional_info": "Travis Scott - FE!N (2024)\nThe music video for \"Fe!n\" by Travis Scott featuring Playboi Carti was released on March 30, 2024, on Scott's YouTube channel via Vevo and directed by Gabriel Moses. The song itself, part of Scott's album \"Utopia,\" has been praised for its unique composition and contributions from both artists, showcasing a new vocal delivery by Carti and Scott's titular chorus.\nTechnique - Flash Cut , Locked-On , Speed Ramp , Zoetrope\nDirector - Gabriel Moses\nDOP - Xiaolong Liu\nEditor - Joseph Taylor, Trim Editing\nColorist - John Lowe\nOriginal Source - Link\nYOUNG\nGROUP\nKIDS\nCROWD\nSCHOOL",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715644445.webp",
+      "alt_text": "Oblé Reed - WESTON.",
+      "discovered_at": "2025-09-11T15:35:16.274622",
+      "title": "Oblé Reed - WESTON. (2023)",
+      "description": "",
+      "tags": [
+        "RED",
+        "MALE",
+        "NIGHT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Live action pixelation",
+        "Locked-On",
+        "Pixilation"
+      ],
+      "director": "Nash Pearson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oblé Reed - WESTON. (2023)\nMusic video\nTechnique - Live action pixelation , Locked-On , Pixilation\nDirector - Nash Pearson\nEditor - Nash Pearson\nOriginal Source - Link\nRED\nMALE\nNIGHT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/14/261710453936.webp",
+      "alt_text": "Air Jordan - Rookie Card (Short Film)",
+      "discovered_at": "2025-09-11T15:35:20.413844",
+      "title": "Air Jordan - Rookie Card (Short Film) (2024)",
+      "description": "An homage to the greatest to ever play the game and the card that started it all.",
+      "tags": [
+        "NIKE",
+        "EXTERIOR",
+        "SHOES",
+        "COURT",
+        "JUMP"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Product",
+        "Product: Shoes",
+        "Speed Ramp"
+      ],
+      "director": "Masood Ahmed",
+      "dop": "Geoffrey Taylor",
+      "colorist": "Spyros Katsihtis",
+      "original_source": "",
+      "additional_info": "Air Jordan - Rookie Card (Short Film) (2024)\nAn homage to the greatest to ever play the game and the card that started it all.\nTechnique - Locked-On , Product , Product: Shoes , Speed Ramp\nDirector - Masood Ahmed\nDOP - Geoffrey Taylor\nEditor - Masood Ahmed\nColorist - Spyros Katsihtis\nOriginal Source - Link\nNIKE\nEXTERIOR\nSHOES\nCOURT\nJUMP",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863267.webp",
+      "alt_text": "Downtown Kayoto - Lite",
+      "discovered_at": "2025-09-11T15:35:24.055262",
+      "title": "Downtown Kayoto - Lite (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "TRUCKING",
+        "PROFILE",
+        "EXTERIOR",
+        "KAYOTO"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Joe Howat",
+      "dop": "Ethan Lodge",
+      "colorist": "Mara Ciorba",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Lite (2023)\nStop motion photography dolly zoom effect.\nTechnique - Locked-On\nDirector - Joe Howat\nDOP - Ethan Lodge\nEditor - Joe Howat\nColorist - Mara Ciorba\nOriginal Source - Link\nDAY\nTRUCKING\nPROFILE\nEXTERIOR\nKAYOTO",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707901758.webp",
+      "alt_text": "Zodiac",
+      "discovered_at": "2025-09-11T15:35:27.709546",
+      "title": "Zodiac (2007)",
+      "description": "Between 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.",
+      "tags": [
+        "CAR",
+        "ROAD",
+        "DRIVING",
+        "EXTERIOR",
+        "VEHICLE"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Overhead Birds-Eye"
+      ],
+      "director": "Angus Wall",
+      "dop": "Harris Savides",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "Zodiac (2007)\nBetween 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.\nTechnique - Locked-On , Overhead Birds-Eye\nDirector - David Fincher\nDOP - Harris Savides\nEditor - Angus Wall\nColorist - Stephen Nakamura\nCAR\nROAD\nDRIVING\nEXTERIOR\nVEHICLE",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704860637.webp",
+      "alt_text": "Beats By Dre - Unleashed",
+      "discovered_at": "2025-09-11T15:35:31.863123",
+      "title": "Beats By Dre - Unleashed (2023)",
+      "description": "Hiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.",
+      "tags": [
+        "INTERIOR",
+        "SWEAT",
+        "HEADPHONES",
+        "WORKOUT",
+        "WORKING OUT",
+        "BEATS"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Luke Lynch",
+      "dop": "Larkin Seiple",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beats By Dre - Unleashed (2023)\nHiro Murai directed Beats by Dre commercial, featuring a locked-on stablization effect on the headphones throughout.\nTechnique - Locked-On\nDirector - Hiro Murai\nDOP - Larkin Seiple\nEditor - Luke Lynch\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nSWEAT\nHEADPHONES\nWORKOUT\nWORKING OUT\nBEATS",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863579.webp",
+      "alt_text": "Chime - Woah",
+      "discovered_at": "2025-09-11T15:35:35.520635",
+      "title": "Chime - Woah (2021)",
+      "description": "",
+      "tags": [
+        "COFFEE",
+        "ICED COFFEE"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Jojo King",
+      "dop": "Starr Whitesides",
+      "colorist": "Kris Smale",
+      "original_source": "",
+      "additional_info": "Chime - Woah (2021)\nWritten and Directed by Mount Defiance Head of Creative: Thierry Ambraisse Creative Producer: Jane Hong Copywriter: Brent Bamberger Production: Open Range Creative Studio: Mount Defiance Director: Mount Defiance Executive Producers: Nancy Lichtwardt and Noah Lichtwardt Line Producer: Matt Little Director of Photography: Starr Whitesides Production Designer: Luke Carr Art Director: Regina Fernandez-Alonso Wardrobe Stylist: Anastasia Walker Post Production: Cabin Edit Post Producer: Michelle Dorsch Editor: Jojo King Visual Effects: JAMM Visual Visual Effects Producer: Justine Pregler Visual Effects Artist: Toma Bowen Color Company: MPC Colorist: Kris Smale Mix House: Lime Studios Sound Engineer: Dave Wagg Composer: Ryland Blackinton Casting Director: Tyler Adams Voice: Christy Fabbri Starring: Andrew Walke, Alexis Zollicoffer, Keane Lindsey, Briar Strong\nTechnique - Locked-On\nDirector - Mount Defiance\nDOP - Starr Whitesides\nEditor - Jojo King\nColorist - Kris Smale\nOri",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710825597.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T15:35:39.687413",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "MIRROR",
+        "MOUTH"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Mirror Shot"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Locked-On , Mirror Shot\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nMIRROR\nMOUTH",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863035.webp",
+      "alt_text": "Clip from Zeb Wilson",
+      "discovered_at": "2025-09-11T15:35:43.336305",
+      "title": "Clip from Zeb Wilson",
+      "description": "",
+      "tags": [
+        "SPORTS",
+        "INTERIOR",
+        "INDOORS",
+        "BASKETBALL",
+        "GAME"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Zeb Wilson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Zeb Wilson\nLocked on basketball shot\nTechnique - Locked-On\nEditor - Zeb Wilson\nSPORTS\nINTERIOR\nINDOORS\nBASKETBALL\nGAME",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705175990.webp",
+      "alt_text": "Mammut - Fast Hiking",
+      "discovered_at": "2025-09-11T15:35:46.997364",
+      "title": "Mammut - Fast Hiking (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "RUNNING",
+        "NATURE",
+        "SPORTS",
+        "EXTERIOR",
+        "MOUNTAIN",
+        "ATHLETE",
+        "WIDE",
+        "WILDERNESS",
+        "HIKING",
+        "RUN"
+      ],
+      "technique_tags": [
+        "Extreme Wide",
+        "Locked-On",
+        "Single shot"
+      ],
+      "director": "Kris Lüdi",
+      "dop": "",
+      "colorist": "Yves Roy Vallaster",
+      "original_source": "",
+      "additional_info": "Mammut - Fast Hiking (2022)\nVideo advert for Mammut from Swiss director Kris Lüdi featuring sweeping landscape shots, hand-held shaky cam techniques, and a locked-on sequence.\nTechnique - Extreme Wide , Locked-On , Single shot\nDirector - Kris Lüdi\nColorist - Yves Roy Vallaster\nOriginal Source - Link\nDAY\nRUNNING\nNATURE\nSPORTS\nEXTERIOR\nMOUNTAIN\nATHLETE\nWIDE\nWILDERNESS\nHIKING\nRUN",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711142676.webp",
+      "alt_text": "Downtown Kayoto - Came Thru",
+      "discovered_at": "2025-09-11T15:35:50.151759",
+      "title": "Downtown Kayoto - Came Thru (2024)",
+      "description": "",
+      "tags": [
+        "DANCE"
+      ],
+      "technique_tags": [
+        "Choreo",
+        "Locked-On",
+        "Match motion"
+      ],
+      "director": "Joe Howat",
+      "dop": "Harry Basey",
+      "colorist": "Anna Barsukova",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Came Thru (2024)\n2024 music video for Downtown Kayoto, from director Joe Howat. Features a choreographed dance routine, stellar cinematography, and unique visual techniques.\nTechnique - Choreo , Locked-On , Match motion\nDirector - Joe Howat\nDOP - Harry Basey\nColorist - Anna Barsukova\nOriginal Source - Link\nDANCE",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705176035.webp",
+      "alt_text": "Mammut - Fast Hiking",
+      "discovered_at": "2025-09-11T15:35:53.821133",
+      "title": "Mammut - Fast Hiking (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "RUNNING",
+        "NATURE",
+        "SPORTS",
+        "EXTERIOR",
+        "MOUNTAIN",
+        "ATHLETE",
+        "WIDE",
+        "WILDERNESS",
+        "HIKING",
+        "RUN"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Single shot"
+      ],
+      "director": "Kris Lüdi",
+      "dop": "",
+      "colorist": "Yves Roy Vallaster",
+      "original_source": "",
+      "additional_info": "Mammut - Fast Hiking (2022)\nVideo advert for Mammut from Swiss director Kris Lüdi featuring sweeping landscape shots, hand-held shaky cam techniques, and a locked-on sequence.\nTechnique - Locked-On , Single shot\nDirector - Kris Lüdi\nColorist - Yves Roy Vallaster\nOriginal Source - Link\nDAY\nRUNNING\nNATURE\nSPORTS\nEXTERIOR\nMOUNTAIN\nATHLETE\nWIDE\nWILDERNESS\nHIKING\nRUN",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861260.webp",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "discovered_at": "2025-09-11T15:35:57.464203",
+      "title": "A$AP Rocky - D.M.B. (2022)",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Locked-On",
+        "Split Screen"
+      ],
+      "director": "A$AP Rocky",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - D.M.B. (2022)\nDirected and produced by him for AWGE, this music video depicts a devoted relationship in challenging circumstances, filmed in New York. This specific clip features a flash cut photography technique inside a vintage film border that duplicates.\nTechnique - Locked-On , Split Screen\nDirector - A$AP Rocky\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826182.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T15:36:01.122134",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "INTERIOR",
+        "KITCHEN",
+        "KNIFE",
+        "FISH",
+        "CHEF",
+        "COOK"
+      ],
+      "technique_tags": [
+        "Fixed Cam",
+        "Locked-On"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Fixed Cam , Locked-On\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nINTERIOR\nKITCHEN\nKNIFE\nFISH\nCHEF\nCOOK",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708245692.webp",
+      "alt_text": "Latto - Sunday Service",
+      "discovered_at": "2025-09-11T15:36:04.738992",
+      "title": "Latto - Sunday Service (2024)",
+      "description": "",
+      "tags": [
+        "WALKING",
+        "COWBOY",
+        "TRACKING",
+        "JEANS",
+        "DENIM",
+        "BUCKLE"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Medium Close-up",
+        "Towards camera",
+        "Tracking"
+      ],
+      "director": "HIDJI WORLD",
+      "dop": "Leroy Farrell",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Latto - Sunday Service (2024)\n2024 music video for Latto from renowned director HIDJI WORLD. Produced by North of Now films.\nTechnique - Locked-On , Medium Close-up , Towards camera , Tracking\nDirector - HIDJI WORLD\nDOP - Leroy Farrell\nOriginal Source - Link\nWALKING\nCOWBOY\nTRACKING\nJEANS\nDENIM\nBUCKLE",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720913937.webp",
+      "alt_text": "AJ Tracey - Bubble Bath",
+      "discovered_at": "2025-09-11T15:36:08.363796",
+      "title": "AJ Tracey - Bubble Bath (2024)",
+      "description": "The music video for \"Bubble Bath\" by AJ Tracey, released in 2024, is set in a lively West London nail shop, directed by LateMilk. The video features vibrant, energetic scenes that reflect the song's upbeat and catchy vibe. It highlights the fusion of contemporary urban culture with playful, colorful visuals, showcasing AJ Tracey in various stylish setups, interacting with people in the nail shop, and performing the song with charisma and flair. The setting and visuals create a fun, engaging atmosphere that complements the track's infectious rhythm and lyrics.",
+      "tags": [
+        "WOMAN",
+        "WALKING",
+        "INTERIOR",
+        "DOOR"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Overhead"
+      ],
+      "director": "LateMilk",
+      "dop": "Ethan Lodge",
+      "colorist": "Andi Chu",
+      "original_source": "",
+      "additional_info": "AJ Tracey - Bubble Bath (2024)\nThe music video for \"Bubble Bath\" by AJ Tracey, released in 2024, is set in a lively West London nail shop, directed by LateMilk. The video features vibrant, energetic scenes that reflect the song's upbeat and catchy vibe. It highlights the fusion of contemporary urban culture with playful, colorful visuals, showcasing AJ Tracey in various stylish setups, interacting with people in the nail shop, and performing the song with charisma and flair. The setting and visuals create a fun, engaging atmosphere that complements the track's infectious rhythm and lyrics.\nTechnique - Locked-On , Overhead\nDirector - LateMilk\nDOP - Ethan Lodge\nColorist - Andi Chu\nOriginal Source - Link\nWOMAN\nWALKING\nINTERIOR\nDOOR",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706176215.webp",
+      "alt_text": "zef - 4:20 (Už je čas)",
+      "discovered_at": "2025-09-11T15:36:12.025667",
+      "title": "zef - 4:20 (Už je čas) (2022)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "TRAIN"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Locked-On"
+      ],
+      "director": "Nik Valentin",
+      "dop": "Anna Smoroňová",
+      "colorist": "Marina Starke",
+      "original_source": "",
+      "additional_info": "zef - 4:20 (Už je čas) (2022)\nTechnique - Camera Roll , Locked-On\nDirector - Jay Walker\nDOP - Anna Smoroňová\nEditor - Nik Valentin\nColorist - Marina Starke\nOriginal Source - Link\nINTERIOR\nDARK\nTRAIN",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863057.webp",
+      "alt_text": "Clip from Zeb Wilson",
+      "discovered_at": "2025-09-11T15:36:15.686615",
+      "title": "Clip from Zeb Wilson",
+      "description": "",
+      "tags": [
+        "SPORTS",
+        "INTERIOR",
+        "INDOORS",
+        "BASKETBALL",
+        "GAME"
+      ],
+      "technique_tags": [
+        "Locked-On"
+      ],
+      "director": "Zeb Wilson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Clip from Zeb Wilson\nLocked on basketball shot\nTechnique - Locked-On\nEditor - Zeb Wilson\nSPORTS\nINTERIOR\nINDOORS\nBASKETBALL\nGAME",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704863232.webp",
+      "alt_text": "Downtown Kayoto - Lite",
+      "discovered_at": "2025-09-11T15:36:18.830061",
+      "title": "Downtown Kayoto - Lite (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "LOW ANGLE",
+        "EXTERIOR",
+        "KAYOTO",
+        "GROUND SHOT",
+        "SHOW"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Match Cut"
+      ],
+      "director": "Joe Howat",
+      "dop": "Ethan Lodge",
+      "colorist": "Mara Ciorba",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Lite (2023)\nStop motion photography dolly zoom effect.\nTechnique - Locked-On , Match Cut\nDirector - Joe Howat\nDOP - Ethan Lodge\nEditor - Joe Howat\nColorist - Mara Ciorba\nOriginal Source - Link\nDAY\nLOW ANGLE\nEXTERIOR\nKAYOTO\nGROUND SHOT\nSHOW",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703309487.webp",
+      "alt_text": "Downtown Kayoto - Changed it",
+      "discovered_at": "2025-09-11T15:36:21.967506",
+      "title": "Downtown Kayoto - Changed it (2023)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WALKING",
+        "PROFILE",
+        "COOL",
+        "KAYOTO",
+        "ZOOM IN",
+        "PHONE"
+      ],
+      "technique_tags": [
+        "Flash Cut",
+        "Locked-On",
+        "Profile"
+      ],
+      "director": "Joe Howat",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Downtown Kayoto - Changed it (2023)\nJoe Howat's sophomore music video features a variety of well-crafted techniques for London artist Downtown Kayoto.\nTechnique - Flash Cut , Locked-On , Profile\nDirector - Joe Howat\nOriginal Source - Link\nDAY\nWALKING\nPROFILE\nCOOL\nKAYOTO\nZOOM IN\nPHONE",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705176236.webp",
+      "alt_text": "Mammut - Fast Hiking",
+      "discovered_at": "2025-09-11T15:36:25.637304",
+      "title": "Mammut - Fast Hiking (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "RUNNING",
+        "NATURE",
+        "SPORTS",
+        "EXTERIOR",
+        "MOUNTAIN",
+        "ATHLETE",
+        "WILDERNESS",
+        "HIKING",
+        "RUN"
+      ],
+      "technique_tags": [
+        "Locked-On",
+        "Single shot"
+      ],
+      "director": "Kris Lüdi",
+      "dop": "",
+      "colorist": "Yves Roy Vallaster",
+      "original_source": "",
+      "additional_info": "Mammut - Fast Hiking (2022)\nVideo advert for Mammut from Swiss director Kris Lüdi featuring sweeping landscape shots, hand-held shaky cam techniques, and a locked-on sequence.\nTechnique - Locked-On , Single shot\nDirector - Kris Lüdi\nColorist - Yves Roy Vallaster\nOriginal Source - Link\nDAY\nRUNNING\nNATURE\nSPORTS\nEXTERIOR\nMOUNTAIN\nATHLETE\nWILDERNESS\nHIKING\nRUN",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/10/AfwLWh5sVtn0RP4w/299e6765d58edc99be7047f4f6ca4375.gif",
+      "alt_text": "Locked-on dog",
+      "discovered_at": "2025-09-11T15:36:29.290977",
+      "title": "Locked-on dog",
+      "description": "",
+      "tags": [
+        "WATER",
+        "SLOW MOTION",
+        "WET",
+        "BLACK",
+        "DOG",
+        "SHAKE"
+      ],
+      "technique_tags": [
+        "Locked-on shadow box",
+        "Shadow Box"
+      ],
+      "director": "Dirk Koy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Locked-on dog\nTechnique - Locked-on shadow box , Shadow Box\nEditor - Dirk Koy\nWATER\nSLOW MOTION\nWET\nBLACK\nDOG\nSHAKE",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704864804.webp",
+      "alt_text": "Locked-on gymnast",
+      "discovered_at": "2025-09-11T15:36:33.485507",
+      "title": "Locked-on gymnast",
+      "description": "",
+      "tags": [
+        "SPORTS",
+        "ATHLETE",
+        "GYMNASTICS",
+        "GYMNAST"
+      ],
+      "technique_tags": [
+        "Locked-on shadow box",
+        "Shadow Box"
+      ],
+      "director": "Dirk Koy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Locked-on gymnast\nTechnique - Locked-on shadow box , Shadow Box\nEditor - Dirk Koy\nSPORTS\nATHLETE\nGYMNASTICS\nGYMNAST",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704864621.webp",
+      "alt_text": "Locked-on ping-pong ball",
+      "discovered_at": "2025-09-11T15:36:37.145302",
+      "title": "Locked-on ping-pong ball",
+      "description": "",
+      "tags": [
+        "SPORTS",
+        "BLACK AND WHITE",
+        "BALL",
+        "PING PONG"
+      ],
+      "technique_tags": [
+        "Locked-on shadow box",
+        "Shadow Box"
+      ],
+      "director": "Dirk Koy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Locked-on ping-pong ball\nTechnique - Locked-on shadow box , Shadow Box\nEditor - Dirk Koy\nSPORTS\nBLACK AND WHITE\nBALL\nPING PONG",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704864883.webp",
+      "alt_text": "Locked-on diver",
+      "discovered_at": "2025-09-11T15:36:40.834686",
+      "title": "Locked-on diver",
+      "description": "",
+      "tags": [
+        "DAY",
+        "MALE",
+        "WATER",
+        "POOL",
+        "SPORTS",
+        "EXTERIOR",
+        "WET",
+        "ATHLETE",
+        "SWIMMING",
+        "DIVER",
+        "SWIMSUIT"
+      ],
+      "technique_tags": [
+        "Locked-on shadow box",
+        "Shadow Box"
+      ],
+      "director": "Dirk Koy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Locked-on diver\nTechnique - Locked-on shadow box , Shadow Box\nEditor - Dirk Koy\nDAY\nMALE\nWATER\nPOOL\nSPORTS\nEXTERIOR\nWET\nATHLETE\nSWIMMING\nDIVER\nSWIMSUIT",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704864693.webp",
+      "alt_text": "Locked-on breaker",
+      "discovered_at": "2025-09-11T15:36:44.477739",
+      "title": "Locked-on breaker",
+      "description": "",
+      "tags": [
+        "OVERHEAD",
+        "CHOREOGRAPHY",
+        "CIRCLE",
+        "DANCER",
+        "BREAKDANCE",
+        "BREAKDANCER"
+      ],
+      "technique_tags": [
+        "Locked-on shadow box",
+        "Overhead",
+        "Shadow Box"
+      ],
+      "director": "Dirk Koy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Locked-on breaker\nTechnique - Locked-on shadow box , Overhead , Shadow Box\nEditor - Dirk Koy\nOVERHEAD\nCHOREOGRAPHY\nCIRCLE\nDANCER\nBREAKDANCE\nBREAKDANCER",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704864763.webp",
+      "alt_text": "Locked-on car",
+      "discovered_at": "2025-09-11T15:36:47.655722",
+      "title": "Locked-on car",
+      "description": "",
+      "tags": [
+        "CAR",
+        "RACING",
+        "BLUE",
+        "OVERHEAD",
+        "VEHICLE",
+        "DRIFTING"
+      ],
+      "technique_tags": [
+        "Infinite Loop",
+        "Locked-on shadow box",
+        "Overhead",
+        "Shadow Box"
+      ],
+      "director": "Dirk Koy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Locked-on car\nTechnique - Infinite Loop , Locked-on shadow box , Overhead , Shadow Box\nEditor - Dirk Koy\nCAR\nRACING\nBLUE\nOVERHEAD\nVEHICLE\nDRIFTING",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704864570.webp",
+      "alt_text": "Locked-on clip from Dirk Koy",
+      "discovered_at": "2025-09-11T15:36:50.841181",
+      "title": "Locked-on clip from Dirk Koy",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "WINDMILL"
+      ],
+      "technique_tags": [
+        "Locked-on shadow box",
+        "Shadow Box"
+      ],
+      "director": "Dirk Koy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Locked-on clip from Dirk Koy\nTechnique - Locked-on shadow box , Shadow Box\nEditor - Dirk Koy\nDAY\nEXTERIOR\nWINDMILL",
+      "page_url": "https://eyecannndy.com/technique/locked-on"
+    }
+  ]
 }

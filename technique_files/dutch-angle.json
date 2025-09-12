@@ -1,1388 +1,1337 @@
 {
   "technique": "dutch-angle",
-  "video_count": 71,
-  "generated_at": "2025-09-05T04:03:29.633221",
+  "scrape_info": {
+    "timestamp": "20250911_132956",
+    "total_videos": 55,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403321.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.072434",
-      "element_tag": "img",
-      "title": "Talladega Nights: The Ballad of Ricky Bobby",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082595.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.072570",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155331.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.072630",
-      "element_tag": "img",
-      "title": "Tetsuo: The Iron Man",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Tetsuo: The Iron Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086797.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.072683",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546223.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.072734",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576714.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.072782",
-      "element_tag": "img",
-      "title": "Ken Carson - Fighting My Demons",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Ken Carson - Fighting My Demons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703920812.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.072829",
-      "element_tag": "img",
-      "title": "Quavo x Takeoff - Hotel Lobby",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Quavo x Takeoff - Hotel Lobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488763.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.072876",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110124.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.072922",
-      "element_tag": "img",
-      "title": "Memorials (TV Series)",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Memorials (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369861.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.072967",
-      "element_tag": "img",
-      "title": "PeeWee's Big Adventure",
-      "description": "",
-      "category": "dutch-angle",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369912.webp",
       "alt_text": "PeeWee's Big Adventure",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:26:10.032736",
+      "title": "PeeWee's Big Adventure (1985)",
+      "description": "When eccentric man-child Pee-wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369895.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073013",
-      "element_tag": "img",
-      "title": "PeeWee's Big Adventure",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "PeeWee's Big Adventure",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710034558.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073057",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704386076.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073185",
-      "element_tag": "img",
-      "title": "Asteroid City",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Asteroid City",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246624.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073266",
-      "element_tag": "img",
-      "title": "Latto - Sunday Service",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Latto - Sunday Service",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390480.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073313",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076351.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073357",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403321.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073416",
-      "element_tag": "img",
-      "title": "Talladega Nights: The Ballad of Ricky Bobby",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082595.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073619",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155331.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073779",
-      "element_tag": "img",
-      "title": "Tetsuo: The Iron Man",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Tetsuo: The Iron Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086797.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073838",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546223.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073886",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576714.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073928",
-      "element_tag": "img",
-      "title": "Ken Carson - Fighting My Demons",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Ken Carson - Fighting My Demons",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703920812.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.073971",
-      "element_tag": "img",
-      "title": "Quavo x Takeoff - Hotel Lobby",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Quavo x Takeoff - Hotel Lobby",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488763.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074012",
-      "element_tag": "img",
-      "title": "Lil Yachty - TESLA",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Lil Yachty - TESLA",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110124.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074052",
-      "element_tag": "img",
-      "title": "Memorials (TV Series)",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Memorials (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369861.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074092",
-      "element_tag": "img",
-      "title": "PeeWee's Big Adventure",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "PeeWee's Big Adventure",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369895.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074132",
-      "element_tag": "img",
-      "title": "PeeWee's Big Adventure",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "PeeWee's Big Adventure",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710034558.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074171",
-      "element_tag": "img",
-      "title": "The Gentlemen (TV Series)",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "The Gentlemen (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704386076.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074210",
-      "element_tag": "img",
-      "title": "Asteroid City",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Asteroid City",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246624.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074249",
-      "element_tag": "img",
-      "title": "Latto - Sunday Service",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Latto - Sunday Service",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390480.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074287",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076351.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074326",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705107826.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074375",
-      "element_tag": "img",
-      "title": "Doechii - Crazy",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Doechii - Crazy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703730392.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074427",
-      "element_tag": "img",
-      "title": "Evil Dead Rise",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Evil Dead Rise",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704386123.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074578",
-      "element_tag": "img",
-      "title": "Asteroid City",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Asteroid City",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706505221.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074628",
-      "element_tag": "img",
-      "title": "Long Live Liborius",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Long Live Liborius",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076392.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074674",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076467.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074771",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634438.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074871",
-      "element_tag": "img",
-      "title": "Cowboy Bepop (TV Series)",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Cowboy Bepop (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "PANAVISION",
+        "SCARY",
+        "HORROR",
+        "35MM",
+        "CLOWN"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Campy",
+        "Dutch Angle",
+        "Fear"
+      ],
+      "director": "Billy Weber",
+      "dop": "Victor J. Kemper",
+      "colorist": "Richard Garibaldi",
+      "original_source": "",
+      "additional_info": "PeeWee's Big Adventure (1985)\nWhen eccentric man-child Pee-wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life.\nTechnique - 1980s , Campy , Dutch Angle , Fear\nDirector - Tim Burton\nDOP - Victor J. Kemper\nEditor - Billy Weber\nColorist - Richard Garibaldi\nDAY\nEXTERIOR\nPANAVISION\nSCARY\nHORROR\n35MM\n1.85\n1.37\nCLOWN",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709544778.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074931",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "dutch-angle",
       "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:26:13.686422",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Dutch Angle , Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390482.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.074981",
-      "element_tag": "img",
-      "title": "Halfprice - Fitting room",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Halfprice - Fitting room",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703730392.webp",
+      "alt_text": "Evil Dead Rise",
+      "discovered_at": "2025-09-11T13:26:19.409930",
+      "title": "Evil Dead Rise (2023)",
+      "description": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film. Shot breakdown: Dutch angle ground shot + split diopter lens + close up.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110257.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075031",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369912.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075077",
-      "element_tag": "img",
-      "title": "PeeWee's Big Adventure",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "PeeWee's Big Adventure",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111640.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075123",
-      "element_tag": "img",
-      "title": "St. Louis City FC - The City Kit Is Here",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "St. Louis City FC - The City Kit Is Here",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715575491.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075167",
-      "element_tag": "img",
-      "title": "Ariana Grande - Positions",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Ariana Grande - Positions",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538123.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075213",
-      "element_tag": "img",
-      "title": "Miel De Montagne - Le Pigeon",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Miel De Montagne - Le Pigeon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489266.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075274",
-      "element_tag": "img",
-      "title": "21 Savage - redrum",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "21 Savage - redrum",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705107780.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075345",
-      "element_tag": "img",
-      "title": "Doechii - Crazy",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Doechii - Crazy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111327.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075433",
-      "element_tag": "img",
-      "title": "Mission Impossible",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Mission Impossible",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111539.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075516",
-      "element_tag": "img",
-      "title": "A Serious Man",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "A Serious Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111560.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075573",
-      "element_tag": "img",
-      "title": "A Serious Man",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "A Serious Man",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406544.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075624",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "INTERIOR",
+        "ANAMORPHIC",
+        "2020S",
+        "ARRI ALEXA MINI LF",
+        "PANAVISION LENSES",
+        "PANAVISION ULTRA SPEED MKII",
+        "PANAVISION ULTRA PANATAR LENSES",
+        "PANAVISION G SERIES"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Dutch Angle",
+        "Ground Level",
+        "Split Diopter"
+      ],
+      "director": "Bryan Shaw",
+      "dop": "Dave Garbett",
+      "colorist": "Gary Curran",
+      "original_source": "",
+      "additional_info": "Evil Dead Rise (2023)\nA twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film. Shot breakdown: Dutch angle ground shot + split diopter lens + close up.\nTechnique - Close-Up , Dutch Angle , Ground Level , Split Diopter\nDirector - Lee Cronin\nDOP - Dave Garbett\nEditor - Bryan Shaw\nColorist - Gary Curran\nOriginal Source - Link\nTutorial - Link\nINTERIOR\n2.39\nANAMORPHIC\n2020S\nARRI ALEXA MINI LF\nPANAVISION LENSES\nPANAVISION ULTRA SPEED MKII\nPANAVISION ULTRA PANATAR LENSES\nPANAVISION G SERIES",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709545789.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075674",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "dutch-angle",
       "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:26:24.127789",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WOMAN",
+        "INTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Dutch Angle , Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nWOMAN\nINTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710034558.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-11T13:26:27.777135",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Low Angle"
+      ],
+      "director": "David Webb",
+      "dop": "Bjorn Charpentier",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Dutch Angle , Low Angle\nDOP - Bjorn Charpentier\nEditor - David Webb\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390482.webp",
+      "alt_text": "Halfprice - Fitting room",
+      "discovered_at": "2025-09-11T13:26:35.121162",
+      "title": "Halfprice - Fitting room (2022)",
+      "description": "",
+      "tags": [
+        "RED",
+        "CHANGING ROOM"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Dutch Angle"
+      ],
+      "director": "Nikodem Chabior",
+      "dop": "Mikołaj Syguda",
+      "colorist": "Florian Martiny",
+      "original_source": "",
+      "additional_info": "Halfprice - Fitting room (2022)\nDutch angled double exposure\nTechnique - Double Exposure , Dutch Angle\nDirector - Grajper\nDOP - Mikołaj Syguda\nEditor - Nikodem Chabior\nColorist - Florian Martiny\nOriginal Source - Link\nRED\nCHANGING ROOM",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/27/261709021613.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075721",
-      "element_tag": "img",
-      "title": "Festival of Slaps",
-      "description": "",
-      "category": "dutch-angle",
       "alt_text": "Festival of Slaps",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:26:38.778558",
+      "title": "Festival of Slaps (2023)",
+      "description": "A new action packed short film straight from the palms of a Nigerian mother who on one fateful night, serves her son a set of slaps so powerful that it changes his life forever. Full of twist and turns this film celebrates the most neglected heroes of today: Black Mums.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086563.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075768",
-      "element_tag": "img",
-      "title": "Chungking Express",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Chungking Express",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824876.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075814",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076286.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075858",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111836.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075903",
-      "element_tag": "img",
-      "title": "12 Monkeys",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "12 Monkeys",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826123.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.075947",
-      "element_tag": "img",
-      "title": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546179.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076000",
-      "element_tag": "img",
-      "title": "Riot & Set it off",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Riot & Set it off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110473.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076072",
-      "element_tag": "img",
-      "title": "Fear and Loathing in Las Vegas",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Fear and Loathing in Las Vegas",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703730065.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076122",
-      "element_tag": "img",
-      "title": "Evil Dead Rise",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Evil Dead Rise",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406463.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076170",
-      "element_tag": "img",
-      "title": "The Chronicles of Riddick",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "The Chronicles of Riddick",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703730550.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076239",
-      "element_tag": "img",
-      "title": "Evil Dead Rise",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Evil Dead Rise",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082452.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076481",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110192.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076554",
-      "element_tag": "img",
-      "title": "Memorials (TV Series)",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Memorials (TV Series)",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "NIGHT",
+        "INTERIOR",
+        "HALLWAY"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "André Rodrigues, Marvin Jay Alvarez",
+      "dop": "Anna Macdonald",
+      "colorist": "Jason Wallis",
+      "original_source": "",
+      "additional_info": "Festival of Slaps (2023)\nA new action packed short film straight from the palms of a Nigerian mother who on one fateful night, serves her son a set of slaps so powerful that it changes his life forever. Full of twist and turns this film celebrates the most neglected heroes of today: Black Mums.\nTechnique - Dutch Angle\nDirector - Abdou Cissé\nDOP - Anna Macdonald\nEditor - André Rodrigues, Marvin Jay Alvarez\nColorist - Jason Wallis\nOriginal Source - Link\nNIGHT\nINTERIOR\nHALLWAY",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082511.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076599",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "dutch-angle",
       "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:26:42.440356",
+      "title": "Do the Right Thing (1989)",
+      "description": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence. Shot breakdown: Close up dutch angle.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "CLOSE UP",
+        "EXTERIOR",
+        "FILM",
+        "1980S",
+        "NEW YORK CITY",
+        "BROOKLYN",
+        "35MM",
+        "ARRIFLEX BL4"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Close-Up",
+        "Dutch Angle"
+      ],
+      "director": "Barry Alexander Brown",
+      "dop": "Ernest R. Dickerson",
+      "colorist": "Bob Hagans, John Nicolard",
+      "original_source": "",
+      "additional_info": "Do the Right Thing (1989)\nOn the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence. Shot breakdown: Close up dutch angle.\nTechnique - 1980s , Close-Up , Dutch Angle\nDirector - Spike Lee\nDOP - Ernest R. Dickerson\nEditor - Barry Alexander Brown\nColorist - Bob Hagans, John Nicolard\nTutorial - Link\nDAY\nCLOSE UP\nEXTERIOR\nFILM\n1980S\nNEW YORK CITY\nBROOKLYN\n35MM\n1.85\n1989\nARRIFLEX BL4",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111986.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076646",
-      "element_tag": "img",
-      "title": "Methyl Ethel Eyes GIF By 4AD",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Methyl Ethel Eyes GIF By 4AD",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/25/261706155331.webp",
+      "alt_text": "Tetsuo: The Iron Man",
+      "discovered_at": "2025-09-11T13:26:46.109299",
+      "title": "Tetsuo: The Iron Man (1989)",
+      "description": "A businessman accidentally kills The Metal Fetishist, who gets his revenge by slowly turning the man into a grotesque hybrid of flesh and rusty metal.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Shinya Tsukamoto",
+      "dop": "Kei Fujiwara",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Tetsuo: The Iron Man (1989)\nA businessman accidentally kills The Metal Fetishist, who gets his revenge by slowly turning the man into a grotesque hybrid of flesh and rusty metal.\nTechnique - Dutch Angle\nDirector - Shinya Tsukamoto\nDOP - Kei Fujiwara\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706257792.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076691",
-      "element_tag": "img",
-      "title": "Lawrence of Arabia",
-      "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Lawrence of Arabia",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086797.webp",
+      "alt_text": "Chungking Express",
+      "discovered_at": "2025-09-11T13:26:49.753288",
+      "title": "Chungking Express (1994)",
+      "description": "Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "INTERIOR",
+        "TRAIN",
+        "SINGLE SHOT"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Chi-Leung Kwong, Hai Kit-Wai, William Chang",
+      "dop": "Andrew Lau, Christopher Doyle",
+      "colorist": "Joe Gawler",
+      "original_source": "",
+      "additional_info": "Chungking Express (1994)\nTwo melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.\nTechnique - Dutch Angle\nDirector - Wong Kar Wai\nDOP - Andrew Lau, Christopher Doyle\nEditor - Chi-Leung Kwong, Hai Kit-Wai, William Chang\nColorist - Joe Gawler\nDAY\nINTERIOR\nTRAIN\nSINGLE SHOT",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076501.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076747",
-      "element_tag": "img",
-      "title": "Ford Kuga - Levels",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703390480.webp",
+      "alt_text": "Halfprice - Fitting room",
+      "discovered_at": "2025-09-11T13:26:56.564116",
+      "title": "Halfprice - Fitting room (2022)",
       "description": "",
-      "category": "dutch-angle",
-      "alt_text": "Ford Kuga - Levels",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "RED",
+        "CHANGING ROOM"
+      ],
+      "technique_tags": [
+        "Double Exposure",
+        "Dutch Angle"
+      ],
+      "director": "Nikodem Chabior",
+      "dop": "Mikołaj Syguda",
+      "colorist": "Florian Martiny",
+      "original_source": "",
+      "additional_info": "Halfprice - Fitting room (2022)\nDutch angled double exposure\nTechnique - Double Exposure , Dutch Angle\nDirector - Grajper\nDOP - Mikołaj Syguda\nEditor - Nikodem Chabior\nColorist - Florian Martiny\nOriginal Source - Link\nRED\nCHANGING ROOM",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705107780.webp",
+      "alt_text": "Doechii - Crazy",
+      "discovered_at": "2025-09-11T13:27:00.742664",
+      "title": "Doechii - Crazy (2023)",
+      "description": "",
+      "tags": [
+        "RED",
+        "WOMAN",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Color Shift",
+        "Dutch Angle"
+      ],
+      "director": "Armen Harootun",
+      "dop": "Mika Altskan",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Doechii - Crazy (2023)\nShot: Snorricam transititon to first-person POV\nTechnique - Color Shift , Dutch Angle\nDirector - C Prinz\nDOP - Mika Altskan\nEditor - Armen Harootun\nOriginal Source - Link\nRED\nWOMAN\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703920812.webp",
+      "alt_text": "Quavo x Takeoff - Hotel Lobby",
+      "discovered_at": "2025-09-11T13:27:04.398177",
+      "title": "Quavo x Takeoff - Hotel Lobby (2022)",
+      "description": "Quavo and Takeoff go on a drug-fueled trip through the desert of Nevada and the streets of Las Vegas. Shot breakdown: high-angle dutch trip shot",
+      "tags": [
+        "HOTEL",
+        "INTERIOR",
+        "HALLWAY",
+        "2020S",
+        "K35S",
+        "QUAVO",
+        "ALEXA MINI LF",
+        "YELLOW WHITE"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "Drug trip",
+        "Dutch Angle"
+      ],
+      "director": "Keemotion., Quavo",
+      "dop": "Marcelo Pancote",
+      "colorist": "Arianna Shining Star",
+      "original_source": "",
+      "additional_info": "Quavo x Takeoff - Hotel Lobby (2022)\nQuavo and Takeoff go on a drug-fueled trip through the desert of Nevada and the streets of Las Vegas. Shot breakdown: high-angle dutch trip shot\nTechnique - Altered state , Drug trip , Dutch Angle\nDirector - Keemotion., Quavo\nDOP - Marcelo Pancote\nColorist - Arianna Shining Star\nOriginal Source - Link\nTutorial - Link\n2022\nHOTEL\nINTERIOR\nHALLWAY\n2020S\nK35S\nQUAVO\nALEXA MINI LF\nYELLOW WHITE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082657.webp",
-      "page_url": "https://eyecannndy.com/technique/dutch-angle",
-      "discovered_at": "2025-09-05T03:25:11.076791",
-      "element_tag": "img",
-      "title": "Do the Right Thing",
-      "description": "",
-      "category": "dutch-angle",
       "alt_text": "Do the Right Thing",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T13:27:08.032380",
+      "title": "Do the Right Thing (1989)",
+      "description": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence. Shot breakdown: Dutch angle dolly out.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "INTERIOR",
+        "FILM",
+        "1980S",
+        "NEW YORK CITY",
+        "BROOKLYN",
+        "35MM",
+        "ARRIFLEX BL4",
+        "ENTRANCE",
+        "GROUP SHOT",
+        "DUTCH ANGLE"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Dolly",
+        "Dutch Angle"
+      ],
+      "director": "Barry Alexander Brown",
+      "dop": "Ernest R. Dickerson",
+      "colorist": "Bob Hagans, John Nicolard",
+      "original_source": "",
+      "additional_info": "Do the Right Thing (1989)\nOn the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence. Shot breakdown: Dutch angle dolly out.\nTechnique - 1980s , Dolly , Dutch Angle\nDirector - Spike Lee\nDOP - Ernest R. Dickerson\nEditor - Barry Alexander Brown\nColorist - Bob Hagans, John Nicolard\nTutorial - Link\nINTERIOR\nFILM\n1980S\nNEW YORK CITY\nBROOKLYN\n35MM\n1.85\n1989\nARRIFLEX BL4\nENTRANCE\nGROUP SHOT\nDUTCH ANGLE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710824876.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T13:27:11.163501",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "WOMAN",
+        "RESTAURANT",
+        "EATING",
+        "TABLE",
+        "OLD"
+      ],
+      "technique_tags": [
+        "Direct address",
+        "Dutch Angle"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Direct address , Dutch Angle\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nWOMAN\nRESTAURANT\nEATING\nTABLE\nOLD",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111327.webp",
+      "alt_text": "Mission Impossible",
+      "discovered_at": "2025-09-11T13:27:14.821748",
+      "title": "Mission Impossible (1996)",
+      "description": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+      "tags": [
+        "LOW ANGLE",
+        "CLOSE UP",
+        "INTERIOR",
+        "PANAVISION PANAFLEX CAMERA",
+        "WESCAM CAMERAS"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Action",
+        "Dutch Angle",
+        "Intensity"
+      ],
+      "director": "Paul Hirsch",
+      "dop": "Stephen H. Burum",
+      "colorist": "Michael Healey",
+      "original_source": "",
+      "additional_info": "Mission Impossible (1996)\nAn American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.\nTechnique - 1990s , Action , Dutch Angle , Intensity\nDirector - Brian De Palma\nDOP - Stephen H. Burum\nEditor - Paul Hirsch\nColorist - Michael Healey\nOriginal Source - Link\nLOW ANGLE\nCLOSE UP\nINTERIOR\nPANAVISION PANAFLEX CAMERA\nWESCAM CAMERAS",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/05/261709634438.webp",
+      "alt_text": "Cowboy Bepop (TV Series)",
+      "discovered_at": "2025-09-11T13:27:18.476004",
+      "title": "Cowboy Bepop (TV Series) (2021)",
+      "description": "A ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.",
+      "tags": [
+        "YELLOW"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Rack Focus",
+        "Shallow Focus"
+      ],
+      "director": "Bridget Durnford, Elliot Greenberg",
+      "dop": "Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn",
+      "colorist": "Bill Ferwerda, Company 3",
+      "original_source": "",
+      "additional_info": "Cowboy Bepop (TV Series) (2021)\nA ragtag crew of bounty hunters chases down the galaxy's most dangerous criminals. They'll save the world--for the right price. Created by Christopher L. Yost.\nTechnique - Dutch Angle , Rack Focus , Shallow Focus\nDirector - Alex Garcia Lopez, Michael Katleman\nDOP - Dave Perkal, Jean-Philippe Gossart, Thomas Burstyn\nEditor - Bridget Durnford, Elliot Greenberg\nColorist - Bill Ferwerda, Company 3\nOriginal Source - Link\nYELLOW",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111836.webp",
+      "alt_text": "12 Monkeys",
+      "discovered_at": "2025-09-11T13:27:22.098728",
+      "title": "12 Monkeys (1995)",
+      "description": "In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.",
+      "tags": [
+        "INTERIOR",
+        "GREY",
+        "MUTED",
+        "DUTCH ANGLE"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Dutch Angle"
+      ],
+      "director": "Terry Gilliam",
+      "dop": "Roger Pratt",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "12 Monkeys (1995)\nIn a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.\nTechnique - 1990s , Dutch Angle\nDirector - Terry Gilliam\nDOP - Roger Pratt\nOriginal Source - Link\nINTERIOR\nGREY\nMUTED\nDUTCH ANGLE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710826123.webp",
+      "alt_text": "Dillon Francis, Good Times Ahead - LA On Acid",
+      "discovered_at": "2025-09-11T13:27:25.801198",
+      "title": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "description": "Dillon Francis, Good Times Ahead - LA On Acid (2023)",
+      "tags": [
+        "RESTAURANT",
+        "INTERIOR",
+        "TABLE"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Match Cut"
+      ],
+      "director": "Jacob Ehrlich",
+      "dop": "Franklin Ricart",
+      "colorist": "Josh Bohoskey",
+      "original_source": "",
+      "additional_info": "Dillon Francis, Good Times Ahead - LA On Acid (2023)\nA mesmerizing music video featuring a chaotic journey initiated by Diplo's spiked chicken nugget, showcasing wild camera angles, unusual characters, and intense visual effects set in a quirky vintage Chinese restaurant. Director Seaman's close collaboration with Francis ensures a deep connection with the song's rhythms and lyrics, bringing to life a vividly demented world that captivates viewers, with or without the influence of LSD.\nTechnique - Dutch Angle , Match Cut\nDirector - Parker Seaman\nDOP - Franklin Ricart\nEditor - Jacob Ehrlich\nColorist - Josh Bohoskey\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nTABLE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403321.webp",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "discovered_at": "2025-09-11T13:27:30.549435",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby (2006)",
+      "description": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
+      "tags": [
+        "RACING",
+        "NIGHT",
+        "INTERIOR",
+        "STADIUM",
+        "NASCAR",
+        "RACETRACK",
+        "RACE CAR",
+        "WILL FERRELL"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Dutch Angle"
+      ],
+      "director": "Brent White",
+      "dop": "Oliver Wood",
+      "colorist": "Joe Finley",
+      "original_source": "",
+      "additional_info": "Talladega Nights: The Ballad of Ricky Bobby (2006)\nNumber one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.\nTechnique - Close-Up , Dutch Angle\nDirector - Adam McKay\nDOP - Oliver Wood\nEditor - Brent White\nColorist - Joe Finley\nOriginal Source - Link\nRACING\nNIGHT\nINTERIOR\nSTADIUM\nNASCAR\nRACETRACK\nRACE CAR\nWILL FERRELL",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715575491.webp",
+      "alt_text": "Ariana Grande - Positions",
+      "discovered_at": "2025-09-11T13:27:34.718728",
+      "title": "Ariana Grande - Positions (2020)",
+      "description": "The music video for Ariana Grande's \"Positions\" creatively alternates between her role as the President in the White House and her personal life, showcasing her handling both leadership responsibilities and domestic bliss with ease and elegance.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "WHITE HOUSE"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Alyssa Oh",
+      "dop": "Scott Cunningham",
+      "colorist": "Company 3, Stefan Sonnenfeld",
+      "original_source": "",
+      "additional_info": "Ariana Grande - Positions (2020)\nThe music video for Ariana Grande's \"Positions\" creatively alternates between her role as the President in the White House and her personal life, showcasing her handling both leadership responsibilities and domestic bliss with ease and elegance.\nTechnique - Dutch Angle\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Alyssa Oh\nColorist - Company 3, Stefan Sonnenfeld\nOriginal Source - Link\nNIGHT\nEXTERIOR\nWHITE HOUSE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/16/261710576714.webp",
+      "alt_text": "Ken Carson - Fighting My Demons",
+      "discovered_at": "2025-09-11T13:27:38.408438",
+      "title": "Ken Carson - Fighting My Demons (2023)",
+      "description": "The music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.",
+      "tags": [
+        "ROOM"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Security footage"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Ken Carson - Fighting My Demons (2023)\nThe music video for \"Fighting My Demons\" by Ken Carson, directed by Cole Bennett, was released in 2023 and features unique, glitchy visuals. The video presents a series of grainy, 3D footage that gives off the impression of being shot with night-vision goggles, offering a surreal viewing experience. It mainly showcases Ken Carson partying and performing his lyrics, creating a montage that aligns with the song's themes. The video's eerie and dark aesthetics were noted for drawing inspiration from the style of 1990s Japanese cinema, culminating in a profound, existential moment where Ken faces a haunting black void, adding depth and narrative to the visual experience.\nTechnique - Dutch Angle , Security footage\nDirector - Cole Bennett\nDOP - Franklin Ricart\nEditor - Cole Bennett\nColorist - Loren White\nOriginal Source - Link\nTutorial - Link\nROOM",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706086563.webp",
+      "alt_text": "Chungking Express",
+      "discovered_at": "2025-09-11T13:27:42.029604",
+      "title": "Chungking Express (1994)",
+      "description": "Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.",
+      "tags": [
+        "BLACK AND WHITE",
+        "PHONE",
+        "DUTCH",
+        "CALL",
+        "TELEPHONE"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Chi-Leung Kwong, Hai Kit-Wai, William Chang",
+      "dop": "Andrew Lau, Christopher Doyle",
+      "colorist": "Joe Gawler",
+      "original_source": "",
+      "additional_info": "Chungking Express (1994)\nTwo melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents. Shot on Agfa stock and XT320 cameras.\nTechnique - Dutch Angle\nDirector - Wong Kar Wai\nDOP - Andrew Lau, Christopher Doyle\nEditor - Chi-Leung Kwong, Hai Kit-Wai, William Chang\nColorist - Joe Gawler\nBLACK AND WHITE\nPHONE\nDUTCH\nCALL\nTELEPHONE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082452.webp",
+      "alt_text": "Do the Right Thing",
+      "discovered_at": "2025-09-11T13:27:46.219515",
+      "title": "Do the Right Thing (1989)",
+      "description": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence. Shot breakdown: Low angle dutch.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "FILM",
+        "1980S",
+        "NEW YORK CITY",
+        "BROOKLYN",
+        "35MM",
+        "DUTCH",
+        "ARRIFLEX BL4"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Dutch Angle",
+        "Low Angle"
+      ],
+      "director": "Barry Alexander Brown",
+      "dop": "Ernest R. Dickerson",
+      "colorist": "Bob Hagans, John Nicolard",
+      "original_source": "",
+      "additional_info": "Do the Right Thing (1989)\nOn the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence. Shot breakdown: Low angle dutch.\nTechnique - 1980s , Dutch Angle , Low Angle\nDirector - Spike Lee\nDOP - Ernest R. Dickerson\nEditor - Barry Alexander Brown\nColorist - Bob Hagans, John Nicolard\nTutorial - Link\nDAY\nEXTERIOR\nFILM\n1980S\nNEW YORK CITY\nBROOKLYN\n35MM\n1.85\nDUTCH\n1989\nARRIFLEX BL4",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703730065.webp",
+      "alt_text": "Evil Dead Rise",
+      "discovered_at": "2025-09-11T13:27:50.418945",
+      "title": "Evil Dead Rise (2023)",
+      "description": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film.",
+      "tags": [
+        "INTERIOR",
+        "ANAMORPHIC",
+        "2020S",
+        "ARRI ALEXA MINI LF",
+        "PANAVISION LENSES",
+        "PANAVISION ULTRA SPEED MKII",
+        "PANAVISION ULTRA PANATAR LENSES",
+        "PANAVISION G SERIES"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Split Diopter"
+      ],
+      "director": "Bryan Shaw",
+      "dop": "Dave Garbett",
+      "colorist": "Gary Curran",
+      "original_source": "",
+      "additional_info": "Evil Dead Rise (2023)\nA twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film.\nTechnique - Dutch Angle , Split Diopter\nDirector - Lee Cronin\nDOP - Dave Garbett\nEditor - Bryan Shaw\nColorist - Gary Curran\nOriginal Source - Link\nTutorial - Link\nINTERIOR\n2.39\nANAMORPHIC\n2020S\nARRI ALEXA MINI LF\nPANAVISION LENSES\nPANAVISION ULTRA SPEED MKII\nPANAVISION ULTRA PANATAR LENSES\nPANAVISION G SERIES",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111640.webp",
+      "alt_text": "St. Louis City FC - The City Kit Is Here",
+      "discovered_at": "2025-09-11T13:27:54.080628",
+      "title": "St. Louis City FC - The City Kit Is Here (2022)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "SPORTS",
+        "EXTERIOR",
+        "SOCCER"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Bruton Stroube",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "St. Louis City FC - The City Kit Is Here (2022)\nTechnique - Dutch Angle\nDirector - Bruton Stroube\nOriginal Source - Link\nDAY\nSPORTS\nEXTERIOR\nSOCCER",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406463.webp",
+      "alt_text": "The Chronicles of Riddick",
+      "discovered_at": "2025-09-11T13:27:57.708522",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "tags": [
+        "FUTURE",
+        "FIGHT",
+        "BATTLE",
+        "SOLDIER"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Future"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Dutch Angle , Future\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link\nFUTURE\nFIGHT\nBATTLE\nSOLDIER",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076392.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T13:28:01.353049",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford.",
+      "tags": [
+        "CAR",
+        "DRIVING",
+        "NIGHT",
+        "CITY",
+        "NEON"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford.\nTechnique - Dutch Angle\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nCAR\nDRIVING\nNIGHT\nCITY\nNEON",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246624.webp",
+      "alt_text": "Latto - Sunday Service",
+      "discovered_at": "2025-09-11T13:28:07.631286",
+      "title": "Latto - Sunday Service (2024)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "HIDJI WORLD",
+      "dop": "Leroy Farrell",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Latto - Sunday Service (2024)\n2024 music video for Latto from renowned director HIDJI WORLD. Produced by North of Now films.\nTechnique - Dutch Angle\nDirector - HIDJI WORLD\nDOP - Leroy Farrell\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/28/261703730550.webp",
+      "alt_text": "Evil Dead Rise",
+      "discovered_at": "2025-09-11T13:28:11.831641",
+      "title": "Evil Dead Rise (2023)",
+      "description": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film. Shot breakdown: Dutch angle split diopter ground shot.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "CHILD",
+        "ANAMORPHIC",
+        "2020S",
+        "ARRI ALEXA MINI LF",
+        "PANAVISION LENSES",
+        "FLOOR",
+        "PANAVISION ULTRA SPEED MKII",
+        "PANAVISION ULTRA PANATAR LENSES",
+        "PANAVISION G SERIES",
+        "KEYS",
+        "CRAWL"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Ground Level",
+        "Split Diopter"
+      ],
+      "director": "Bryan Shaw",
+      "dop": "Dave Garbett",
+      "colorist": "Gary Curran",
+      "original_source": "",
+      "additional_info": "Evil Dead Rise (2023)\nA twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable. Stunning use of a split-diopter lens throughout the film. Shot breakdown: Dutch angle split diopter ground shot.\nTechnique - Dutch Angle , Ground Level , Split Diopter\nDirector - Lee Cronin\nDOP - Dave Garbett\nEditor - Bryan Shaw\nColorist - Gary Curran\nOriginal Source - Link\nTutorial - Link\nDAY\nINTERIOR\nCHILD\n2.39\nANAMORPHIC\n2020S\nARRI ALEXA MINI LF\nPANAVISION LENSES\nFLOOR\nPANAVISION ULTRA SPEED MKII\nPANAVISION ULTRA PANATAR LENSES\nPANAVISION G SERIES\nKEYS\nCRAWL",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076501.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T13:28:16.048205",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford.",
+      "tags": [
+        "CAR",
+        "DRIVING",
+        "NIGHT",
+        "CITY",
+        "NEON"
+      ],
+      "technique_tags": [
+        "Camera Roll",
+        "Dutch Angle"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford.\nTechnique - Camera Roll , Dutch Angle\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nCAR\nDRIVING\nNIGHT\nCITY\nNEON",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111539.webp",
+      "alt_text": "A Serious Man",
+      "discovered_at": "2025-09-11T13:28:21.320489",
+      "title": "A Serious Man (2009)",
+      "description": "Larry Gopnik, a Midwestern physics teacher, watches his life unravel over multiple sudden incidents. Though seeking meaning and answers amidst his turmoils, he seems to keep sinking.",
+      "tags": [
+        "FILM",
+        "35MM",
+        "2000S",
+        "ZEISS MASTER PRIMES",
+        "ARRI 535 / 535B"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Nervousness"
+      ],
+      "director": "Coen Brothers",
+      "dop": "Roger Deakins",
+      "colorist": "Michael Hatzer",
+      "original_source": "",
+      "additional_info": "A Serious Man (2009)\nLarry Gopnik, a Midwestern physics teacher, watches his life unravel over multiple sudden incidents. Though seeking meaning and answers amidst his turmoils, he seems to keep sinking.\nTechnique - Dutch Angle , Nervousness\nDirector - Coen Brothers\nDOP - Roger Deakins\nColorist - Michael Hatzer\nOriginal Source - Link\n2009\nFILM\n35MM\n2000S\n1.33\nZEISS MASTER PRIMES\nARRI 535 / 535B",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710489266.webp",
+      "alt_text": "21 Savage - redrum",
+      "discovered_at": "2025-09-11T13:28:25.508626",
+      "title": "21 Savage - redrum (2024)",
+      "description": "The music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.",
+      "tags": [
+        "WEED",
+        "INTERIOR",
+        "SMOKING",
+        "MARIJUANA"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Jump cut",
+        "Speed Ramp"
+      ],
+      "director": "Anders Mills, Trim Editing",
+      "dop": "Chewy Lodge, JAWMIDNIGHT, Thomas Marchese",
+      "colorist": "Vlad Barin",
+      "original_source": "",
+      "additional_info": "21 Savage - redrum (2024)\nThe music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.\nTechnique - Dutch Angle , Jump cut , Speed Ramp\nDirector - Danny Seth\nDOP - Chewy Lodge, JAWMIDNIGHT, Thomas Marchese\nEditor - Anders Mills, Trim Editing\nColorist - Vlad Barin\nOriginal Source - Link\nTutorial - Link\nWEED\nINTERIOR\nSMOKING\nMARIJUANA",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111560.webp",
+      "alt_text": "A Serious Man",
+      "discovered_at": "2025-09-11T13:28:29.155377",
+      "title": "A Serious Man (2009)",
+      "description": "Larry Gopnik, a Midwestern physics teacher, watches his life unravel over multiple sudden incidents. Though seeking meaning and answers amidst his turmoils, he seems to keep sinking.",
+      "tags": [
+        "FILM",
+        "35MM",
+        "2000S",
+        "ZEISS MASTER PRIMES",
+        "ARRI 535 / 535B"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Coen Brothers",
+      "dop": "Roger Deakins",
+      "colorist": "Michael Hatzer",
+      "original_source": "",
+      "additional_info": "A Serious Man (2009)\nLarry Gopnik, a Midwestern physics teacher, watches his life unravel over multiple sudden incidents. Though seeking meaning and answers amidst his turmoils, he seems to keep sinking.\nTechnique - Dutch Angle\nDirector - Coen Brothers\nDOP - Roger Deakins\nColorist - Michael Hatzer\nOriginal Source - Link\n2009\nFILM\n35MM\n2000S\n1.33\nZEISS MASTER PRIMES\nARRI 535 / 535B",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546179.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T13:28:33.349050",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Dutch Angle , Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369861.webp",
+      "alt_text": "PeeWee's Big Adventure",
+      "discovered_at": "2025-09-11T13:28:37.031638",
+      "title": "PeeWee's Big Adventure (1985)",
+      "description": "When eccentric man-child Pee-wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "PANAVISION",
+        "SCARY",
+        "HORROR",
+        "35MM",
+        "CLOWN"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Dutch Angle",
+        "Horror"
+      ],
+      "director": "Billy Weber",
+      "dop": "Victor J. Kemper",
+      "colorist": "Richard Garibaldi",
+      "original_source": "",
+      "additional_info": "PeeWee's Big Adventure (1985)\nWhen eccentric man-child Pee-wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life.\nTechnique - 1980s , Dutch Angle , Horror\nDirector - Tim Burton\nDOP - Victor J. Kemper\nEditor - Billy Weber\nColorist - Richard Garibaldi\nDAY\nEXTERIOR\nPANAVISION\nSCARY\nHORROR\n35MM\n1.85\n1.37\nCLOWN",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/23/261703369895.webp",
+      "alt_text": "PeeWee's Big Adventure",
+      "discovered_at": "2025-09-11T13:28:41.244010",
+      "title": "PeeWee's Big Adventure (1985)",
+      "description": "When eccentric man-child Pee-wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "PANAVISION",
+        "SCARY",
+        "HORROR",
+        "35MM",
+        "CLOWN"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Campy",
+        "Dutch Angle",
+        "Fear"
+      ],
+      "director": "Billy Weber",
+      "dop": "Victor J. Kemper",
+      "colorist": "Richard Garibaldi",
+      "original_source": "",
+      "additional_info": "PeeWee's Big Adventure (1985)\nWhen eccentric man-child Pee-wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life.\nTechnique - 1980s , Campy , Dutch Angle , Fear\nDirector - Tim Burton\nDOP - Victor J. Kemper\nEditor - Billy Weber\nColorist - Richard Garibaldi\nDAY\nEXTERIOR\nPANAVISION\nSCARY\nHORROR\n35MM\n1.85\n1.37\nCLOWN",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110257.webp",
+      "alt_text": "Do the Right Thing",
+      "discovered_at": "2025-09-11T13:28:44.920322",
+      "title": "Do the Right Thing (1989)",
+      "description": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence. Shot breakdown: Dutch angle dolly out.",
+      "tags": [
+        "WINDOW",
+        "FILM",
+        "1980S",
+        "NEW YORK CITY",
+        "BROOKLYN",
+        "BRICK",
+        "35MM",
+        "ARRIFLEX BL4",
+        "DUTCH ANGLE",
+        "EXTERIOR,"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Dutch Angle"
+      ],
+      "director": "Barry Alexander Brown",
+      "dop": "Ernest R. Dickerson",
+      "colorist": "Bob Hagans, John Nicolard",
+      "original_source": "",
+      "additional_info": "Do the Right Thing (1989)\nOn the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence. Shot breakdown: Dutch angle dolly out.\nTechnique - 1980s , Dutch Angle\nDirector - Spike Lee\nDOP - Ernest R. Dickerson\nEditor - Barry Alexander Brown\nColorist - Bob Hagans, John Nicolard\nTutorial - Link\nWINDOW\nFILM\n1980S\nNEW YORK CITY\nBROOKLYN\nBRICK\n35MM\n1.85\n1989\nARRIFLEX BL4\nDUTCH ANGLE\nEXTERIOR,",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709538123.webp",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "discovered_at": "2025-09-11T13:28:49.173262",
+      "title": "Miel De Montagne - Le Pigeon (2023)",
+      "description": "2023 music video directed and edited by Morgan Jouquand.",
+      "tags": [
+        "DAY",
+        "RUNNING",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Trucking"
+      ],
+      "director": "Morgan Jouquand",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Miel De Montagne - Le Pigeon (2023)\n2023 music video directed and edited by Morgan Jouquand.\nTechnique - Dutch Angle , Trucking\nDirector - Morgan Jouquand\nOriginal Source - Link\nDAY\nRUNNING\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110192.webp",
+      "alt_text": "Memorials (TV Series)",
+      "discovered_at": "2025-09-11T13:28:53.866557",
+      "title": "Memorials (TV Series) (2020)",
+      "description": "A dirt-born character chooses to join politics over getting a job and punishing rogue politicians with an elite official.",
+      "tags": [
+        "INTERIOR",
+        "COOL",
+        "MUTED",
+        "HAZE"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Choi Yeon Soo, Hwang Seung Gi",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Memorials (TV Series) (2020)\nA dirt-born character chooses to join politics over getting a job and punishing rogue politicians with an elite official.\nTechnique - Dutch Angle\nDirector - Choi Yeon Soo, Hwang Seung Gi\nINTERIOR\nCOOL\nMUTED\nHAZE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704111986.webp",
+      "alt_text": "Methyl Ethel Eyes GIF By 4AD",
+      "discovered_at": "2025-09-11T13:28:58.593561",
+      "title": "Methyl Ethel Eyes GIF By 4AD",
+      "description": "Shot breakdown: Dutch angle screen in screen w/ extreme close-up on screen.",
+      "tags": [
+        "EYES",
+        "TV",
+        "SCREEN"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Screen in Screen"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Methyl Ethel Eyes GIF By 4AD\nShot breakdown: Dutch angle screen in screen w/ extreme close-up on screen.\nTechnique - Dutch Angle , Screen in Screen\nOriginal Source - Link\nEYES\nTV\nSCREEN",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704386123.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-11T13:29:02.276621",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever. Shot: High angle fixed camera",
+      "tags": [
+        "WES ANDERSON",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "ARRICAM LT",
+        "ARRICAM ST"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Spotlight"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever. Shot: High angle fixed camera\nTechnique - Dutch Angle , Spotlight\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nWES ANDERSON\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nARRICAM LT\nARRICAM ST",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705107826.webp",
+      "alt_text": "Doechii - Crazy",
+      "discovered_at": "2025-09-11T13:29:08.562901",
+      "title": "Doechii - Crazy (2023)",
+      "description": "",
+      "tags": [
+        "RED",
+        "WOMAN",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Jump cut"
+      ],
+      "director": "Armen Harootun",
+      "dop": "Mika Altskan",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Doechii - Crazy (2023)\nShot: Dutch angle jump cuts\nTechnique - Dutch Angle , Jump cut\nDirector - C Prinz\nDOP - Mika Altskan\nEditor - Armen Harootun\nOriginal Source - Link\nRED\nWOMAN\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711406544.webp",
+      "alt_text": "The Chronicles of Riddick",
+      "discovered_at": "2025-09-11T13:29:12.252096",
+      "title": "The Chronicles of Riddick (2004)",
+      "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "tags": [
+        "MALE",
+        "FIGHT",
+        "BATTLE",
+        "SOLDIER"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Dutch Angle",
+        "Future"
+      ],
+      "director": "Dennis Virkler, Martin Hunter, Tracy Adams",
+      "dop": "Hugh Johnson",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "The Chronicles of Riddick (2004)\nThe wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.\nTechnique - Close-Up , Dutch Angle , Future\nDirector - David Twohy\nDOP - Hugh Johnson\nEditor - Dennis Virkler, Martin Hunter, Tracy Adams\nColorist - Stephen Nakamura\nOriginal Source - Link\nMALE\nFIGHT\nBATTLE\nSOLDIER",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110473.webp",
+      "alt_text": "Fear and Loathing in Las Vegas",
+      "discovered_at": "2025-09-11T13:29:15.899971",
+      "title": "Fear and Loathing in Las Vegas (1999)",
+      "description": "An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.",
+      "tags": [
+        "PINK",
+        "INTERIOR",
+        "DARK",
+        "1990S",
+        "FILM",
+        "BATHROOM",
+        "35MM",
+        "SUPER 35",
+        "MAGENTA",
+        "SPHERICAL",
+        "ARRIFLEX 35 IIA",
+        "ARRIFLEX BL4",
+        "BATHTUB",
+        "ZEISS STANDARD PRIMES"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Dutch Angle"
+      ],
+      "director": "Lesley Walker",
+      "dop": "Nicola Pecorini",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Fear and Loathing in Las Vegas (1999)\nAn oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.\nTechnique - 1990s , Dutch Angle\nDirector - Terry Gilliam\nDOP - Nicola Pecorini\nEditor - Lesley Walker\nPINK\nINTERIOR\nDARK\n1990S\nFILM\nBATHROOM\n35MM\n2.35\nSUPER 35\nMAGENTA\n1998\nSPHERICAL\nARRIFLEX 35 IIA\nARRIFLEX BL4\nBATHTUB\nZEISS STANDARD PRIMES",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076286.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T13:29:20.070051",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Aerial dutch angle speed ramp",
+      "tags": [
+        "NIGHT",
+        "DARK",
+        "CITY",
+        "NEON",
+        "AERIAL"
+      ],
+      "technique_tags": [
+        "Aerial",
+        "Dutch Angle",
+        "Speed Ramp"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Aerial dutch angle speed ramp\nTechnique - Aerial , Dutch Angle , Speed Ramp\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nNIGHT\nDARK\nCITY\nNEON\nAERIAL",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704386076.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-11T13:29:23.719786",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever. Shot: High angle fixed camera",
+      "tags": [
+        "WES ANDERSON",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "ARRICAM LT",
+        "ARRICAM ST"
+      ],
+      "technique_tags": [
+        "1950s",
+        "Dutch Angle",
+        "Intensity",
+        "Spotlight"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever. Shot: High angle fixed camera\nTechnique - 1950s , Dutch Angle , Intensity , Spotlight\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nWES ANDERSON\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nARRICAM LT\nARRICAM ST",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709546223.webp",
+      "alt_text": "Riot & Set it off",
+      "discovered_at": "2025-09-11T13:29:27.393309",
+      "title": "Riot & Set it off (2024)",
+      "description": "2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.",
+      "tags": [
+        "MALE",
+        "BLUE"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Light Flash"
+      ],
+      "director": "Alex Morrison",
+      "dop": "Franklin Ricart",
+      "colorist": "Company 3, Joseph Bicknell",
+      "original_source": "",
+      "additional_info": "Riot & Set it off (2024)\n2024 music video directed by Trey Lyons. Features beautiful slow motion sequences and frenetic sequences.\nTechnique - Dutch Angle , Light Flash\nDirector - Trey Lyons\nDOP - Franklin Ricart\nEditor - Alex Morrison\nColorist - Company 3, Joseph Bicknell\nOriginal Source - Link\nMALE\nBLUE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/25/261703488763.webp",
+      "alt_text": "Lil Yachty - TESLA",
+      "discovered_at": "2025-09-11T13:29:31.052114",
+      "title": "Lil Yachty - TESLA (2023)",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "ORANGE"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "High Angle"
+      ],
+      "director": "Cole Bennett",
+      "dop": "Franklin Ricart",
+      "colorist": "Loren White",
+      "original_source": "",
+      "additional_info": "Lil Yachty - TESLA (2023)\nRecipe: High angle dutch\nTechnique - Dutch Angle , High Angle\nDirector - Cole Bennett\nDOP - Franklin Ricart\nColorist - Loren White\nOriginal Source - Link\nINTERIOR\nORANGE",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706257792.webp",
+      "alt_text": "Lawrence of Arabia",
+      "discovered_at": "2025-09-11T13:29:35.236028",
+      "title": "Lawrence of Arabia (1962)",
+      "description": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "DESERT",
+        "SUN",
+        "CAMEL"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Anne V. Coates",
+      "dop": "Freddie Young",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Lawrence of Arabia (1962)\nThe story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.\nTechnique - Dutch Angle\nDirector - David Lean\nDOP - Freddie Young\nEditor - Anne V. Coates\nDAY\nEXTERIOR\nDESERT\nSUN\nCAMEL",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076467.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T13:29:39.950385",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford.",
+      "tags": [
+        "CAR",
+        "DRIVING",
+        "NIGHT",
+        "CITY",
+        "NEON"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford.\nTechnique - Dutch Angle\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nCAR\nDRIVING\nNIGHT\nCITY\nNEON",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704110124.webp",
+      "alt_text": "Memorials (TV Series)",
+      "discovered_at": "2025-09-11T13:29:43.625087",
+      "title": "Memorials (TV Series) (2020)",
+      "description": "A dirt-born character chooses to join politics over getting a job and punishing rogue politicians with an elite official.",
+      "tags": [
+        "WARM",
+        "NIGHT",
+        "INTERIOR",
+        "SATURATED",
+        "SATURATION"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Choi Yeon Soo, Hwang Seung Gi",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Memorials (TV Series) (2020)\nA dirt-born character chooses to join politics over getting a job and punishing rogue politicians with an elite official.\nTechnique - Dutch Angle\nDirector - Choi Yeon Soo, Hwang Seung Gi\nWARM\nNIGHT\nINTERIOR\nSATURATED\nSATURATION",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076351.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-11T13:29:47.811843",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford.",
+      "tags": [
+        "DRIVING",
+        "NIGHT",
+        "CITY",
+        "NEON"
+      ],
+      "technique_tags": [
+        "Dutch Angle"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford.\nTechnique - Dutch Angle\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nDRIVING\nNIGHT\nCITY\nNEON",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706505221.webp",
+      "alt_text": "Long Live Liborius",
+      "discovered_at": "2025-09-11T13:29:53.093831",
+      "title": "Long Live Liborius (2021)",
+      "description": "Catholic church turned sanctuary for skaters. Burned down in 2023.",
+      "tags": [
+        "INTERIOR",
+        "CHURCH",
+        "HAZE",
+        "STAIN GLASS"
+      ],
+      "technique_tags": [
+        "Dutch Angle",
+        "Low Angle"
+      ],
+      "director": "Bruton Stroube",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Long Live Liborius (2021)\nCatholic church turned sanctuary for skaters. Burned down in 2023.\nTechnique - Dutch Angle , Low Angle\nDirector - Bruton Stroube\nOriginal Source - Link\nINTERIOR\nCHURCH\nHAZE\nSTAIN GLASS",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704082595.webp",
+      "alt_text": "Do the Right Thing",
+      "discovered_at": "2025-09-11T13:29:56.773250",
+      "title": "Do the Right Thing (1989)",
+      "description": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence. Shot breakdown: Dutch angle close up first-person address on ultra-wide zero-distortion lens.",
+      "tags": [
+        "CLOSE UP",
+        "WARM",
+        "HOUSE",
+        "INTERIOR",
+        "FILM",
+        "1980S",
+        "NEW YORK CITY",
+        "BROOKLYN",
+        "35MM",
+        "ARRIFLEX BL4",
+        "SWEATY"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Close-Up",
+        "Direct address",
+        "Dutch Angle",
+        "Ultra Wide"
+      ],
+      "director": "Barry Alexander Brown",
+      "dop": "Ernest R. Dickerson",
+      "colorist": "Bob Hagans, John Nicolard",
+      "original_source": "",
+      "additional_info": "Do the Right Thing (1989)\nOn the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence. Shot breakdown: Dutch angle close up first-person address on ultra-wide zero-distortion lens.\nTechnique - 1980s , Close-Up , Direct address , Dutch Angle , Ultra Wide\nDirector - Spike Lee\nDOP - Ernest R. Dickerson\nEditor - Barry Alexander Brown\nColorist - Bob Hagans, John Nicolard\nTutorial - Link\nCLOSE UP\nWARM\nHOUSE\nINTERIOR\nFILM\n1980S\nNEW YORK CITY\nBROOKLYN\n35MM\n1.85\n1989\nARRIFLEX BL4\nSWEATY",
+      "page_url": "https://eyecannndy.com/technique/dutch-angle"
     }
   ]
 }

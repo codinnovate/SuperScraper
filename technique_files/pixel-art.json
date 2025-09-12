@@ -1,6 +1,1076 @@
 {
   "technique": "pixel-art",
-  "video_count": 0,
-  "generated_at": "2025-09-05T04:03:29.654064",
-  "videos": []
+  "scrape_info": {
+    "timestamp": "20250912_003545",
+    "total_videos": 48,
+    "scraper_type": "comprehensive_popup_modal"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704076080.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-12T00:33:05.066804",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Pixelation + dolly out",
+      "tags": [
+        "CAR",
+        "RACING",
+        "ROAD",
+        "DRIVING",
+        "PIXELATION"
+      ],
+      "technique_tags": [
+        "Pixel Art",
+        "Tracking",
+        "Video Game"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Pixelation + dolly out\nTechnique - Pixel Art , Tracking , Video Game\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nCAR\nRACING\nROAD\nDRIVING\nPIXELATION",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370261.webp",
+      "alt_text": "'Retro Pixel Rain' by 4kr0w",
+      "discovered_at": "2025-09-12T00:33:09.238348",
+      "title": "'Retro Pixel Rain' by 4kr0w",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "PURPLE",
+        "EXTERIOR",
+        "DARK",
+        "FUTURE",
+        "RAIN"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "'Retro Pixel Rain' by 4kr0w\nTechnique - Pixel Art\nNIGHT\nPURPLE\nEXTERIOR\nDARK\nFUTURE\nRAIN",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371829.webp",
+      "alt_text": "Artist - hAyDiRoKeT",
+      "discovered_at": "2025-09-12T00:33:12.874625",
+      "title": "Artist - hAyDiRoKeT",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE",
+        "8 BIT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Haydiroket",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - hAyDiRoKeT\nTechnique - Pixel Art\nDirector - Haydiroket\nBLACK AND WHITE\n8 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704936603.webp",
+      "alt_text": "Nike SB - Don't Make Plans",
+      "discovered_at": "2025-09-12T00:33:16.531989",
+      "title": "Nike SB - Don't Make Plans (2021)",
+      "description": "",
+      "tags": [
+        "SATURATION",
+        "COLOR",
+        "WARRIOR",
+        "COMIC BOOK",
+        "ISHOD WAIR",
+        "SPEED LINES"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Matt Carter, Pierre Lesnip",
+      "dop": "",
+      "colorist": "Company 3, Kath Rascih",
+      "original_source": "",
+      "additional_info": "Nike SB - Don't Make Plans (2021)\nDirector: Bennett Johnson Director's Assistant: Giselle Keena Creative Director: Matt Hoffman Producer: Holly Harding PM: Ashley Krick PC: Phaedra Neitzel 1st AD: Dylan Griffith 2nd AD: Noah Johnson DP: Mikey Van Beuren 1st AC: Loren Hamilton 2nd AC: Cameron Campbell Cam op: Chris Herr Gaffer: Ryan Oppedisano BB Electric: Danny Santandrea Electric: Hope Felt Key Grip: Matt Planer BB Grip: Nathone Giordano Grip: Hugo Martinez Grip Driver: Jose Aguilar PD: Kelly Fallon Art Director: Amanda Campanaro Propmaster: Sadie Moon Lead Man: Ramon Navarro Set Dresser: Jose Lopez, Bre Thompson, Marlena Pavich Art PA: Thomas Liwinski, Sophie Wier HMU: Leanna Tallmeister Stylist: Amanda Hipperson Movement Direction: Pascal Johnson DC Edit: Pierre Lesnip @ Chop Shop Client Edit: Matt Carter @ Final Cut Color: Kath Rascih @Co3 Animation VFX: Vlad Naboka Animation VFX EP: maxcolt @frender Additional VFX: @bradley Additional VFX EP: Evan Brown @ Dreambear Sound Designer:",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371136.webp",
+      "alt_text": "Studio - Xbox",
+      "discovered_at": "2025-09-12T00:33:19.674745",
+      "title": "Studio - Xbox",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Pixel Art",
+        "Subtitles"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Studio - Xbox\nTechnique - Pixel Art , Subtitles",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371003.webp",
+      "alt_text": "Studio - Raw Fury",
+      "discovered_at": "2025-09-12T00:33:22.811671",
+      "title": "Studio - Raw Fury",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "64 BIT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Raw Fury",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Studio - Raw Fury\nTechnique - Pixel Art\nDirector - Raw Fury\nDAY\nEXTERIOR\n64 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370683.webp",
+      "alt_text": "Artist - Sabato Visconti",
+      "discovered_at": "2025-09-12T00:33:25.971071",
+      "title": "Artist - Sabato Visconti",
+      "description": "",
+      "tags": [
+        "RED",
+        "EXPLOSION",
+        "FIRE",
+        "ORANGE",
+        "16 BIT",
+        "BLAST"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - Sabato Visconti\nTechnique - Pixel Art\nRED\nEXPLOSION\nFIRE\nORANGE\n16 BIT\nBLAST",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370008.webp",
+      "alt_text": "Artist — Lina____ / Reddit",
+      "discovered_at": "2025-09-12T00:33:29.133352",
+      "title": "Artist — Lina____ / Reddit",
+      "description": "",
+      "tags": [
+        "ANIMATION",
+        "NIGHT",
+        "PURPLE",
+        "EXTERIOR",
+        "64 BIT",
+        "PIXEL",
+        "32 BIT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist — Lina____ / Reddit\nTechnique - Pixel Art\nANIMATION\nNIGHT\nPURPLE\nEXTERIOR\n64 BIT\nPIXEL\n32 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371448.webp",
+      "alt_text": "Artist - Justin Gammon",
+      "discovered_at": "2025-09-12T00:33:32.796618",
+      "title": "Artist - Justin Gammon",
+      "description": "",
+      "tags": [
+        "DAY",
+        "TRUCKING",
+        "RACING",
+        "16 BIT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Justin Gammon",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - Justin Gammon\nTechnique - Pixel Art\nDirector - Justin Gammon\nDAY\nTRUCKING\nRACING\n16 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371236.webp",
+      "alt_text": "Artist - RubyRod",
+      "discovered_at": "2025-09-12T00:33:36.454884",
+      "title": "Artist - RubyRod",
+      "description": "",
+      "tags": [],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - RubyRod\nTechnique - Pixel Art",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370473.webp",
+      "alt_text": "Artist - Justin Gammon",
+      "discovered_at": "2025-09-12T00:33:40.126753",
+      "title": "Artist - Justin Gammon",
+      "description": "",
+      "tags": [
+        "DAY",
+        "TRUCKING",
+        "RUNNING",
+        "EXTERIOR",
+        "FOOD",
+        "16 BIT",
+        "HAMBURGER"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Justin Gammon",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - Justin Gammon\nTechnique - Pixel Art\nDirector - Justin Gammon\nDAY\nTRUCKING\nRUNNING\nEXTERIOR\nFOOD\n16 BIT\nHAMBURGER",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370596.webp",
+      "alt_text": "Artist: Marie Spénale",
+      "discovered_at": "2025-09-12T00:33:43.806261",
+      "title": "Artist: Marie Spénale",
+      "description": "",
+      "tags": [
+        "INTERIOR",
+        "WINDOW",
+        "RAIN",
+        "MUTED",
+        "DUOTONE",
+        "LIGHTENING"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: Marie Spénale\nTechnique - Pixel Art\nINTERIOR\nWINDOW\nRAIN\nMUTED\nDUOTONE\nLIGHTENING",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371194.webp",
+      "alt_text": "Studio - Dumativa",
+      "discovered_at": "2025-09-12T00:33:47.462773",
+      "title": "Studio - Dumativa",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "DARK"
+      ],
+      "technique_tags": [
+        "Levitation",
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Studio - Dumativa\nTechnique - Levitation , Pixel Art\nNIGHT\nEXTERIOR\nDARK",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370848.webp",
+      "alt_text": "Artist - Swimming Airplane",
+      "discovered_at": "2025-09-12T00:33:51.135965",
+      "title": "Artist - Swimming Airplane",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "DARK",
+        "RAIN"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - Swimming Airplane\nTechnique - Pixel Art\nNIGHT\nEXTERIOR\nDARK\nRAIN",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371745.webp",
+      "alt_text": "Artist - Paatrice / Giphy",
+      "discovered_at": "2025-09-12T00:33:54.284244",
+      "title": "Artist - Paatrice / Giphy",
+      "description": "",
+      "tags": [
+        "DAY",
+        "CAR",
+        "32 BIT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - Paatrice / Giphy\nTechnique - Pixel Art\nDAY\nCAR\n32 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370802.webp",
+      "alt_text": "Artist: Luis Miguel",
+      "discovered_at": "2025-09-12T00:33:57.431825",
+      "title": "Artist: Luis Miguel",
+      "description": "",
+      "tags": [
+        "GREEN",
+        "SCREEN"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: Luis Miguel\nTechnique - Pixel Art\nGREEN\nSCREEN",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370641.webp",
+      "alt_text": "Artist - Ioana Sopov",
+      "discovered_at": "2025-09-12T00:34:00.574851",
+      "title": "Artist - Ioana Sopov",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "DARK",
+        "RAIN"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - Ioana Sopov\nTechnique - Pixel Art\nNIGHT\nEXTERIOR\nDARK\nRAIN",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371792.webp",
+      "alt_text": "Artist - hAyDiRoKeT",
+      "discovered_at": "2025-09-12T00:34:03.715394",
+      "title": "Artist - hAyDiRoKeT",
+      "description": "",
+      "tags": [
+        "RED",
+        "WALKING",
+        "8 BIT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Haydiroket",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - hAyDiRoKeT\nTechnique - Pixel Art\nDirector - Haydiroket\nRED\nWALKING\n8 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370174.webp",
+      "alt_text": "Artist: GrandMasterSubZero / Reddit",
+      "discovered_at": "2025-09-12T00:34:06.881691",
+      "title": "Artist: GrandMasterSubZero / Reddit",
+      "description": "",
+      "tags": [
+        "RESTAURANT",
+        "NIGHT",
+        "INTERIOR",
+        "PURPLE",
+        "BAR",
+        "DARK",
+        "RAIN",
+        "16 BIT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: GrandMasterSubZero / Reddit\nTechnique - Pixel Art\nRESTAURANT\nNIGHT\nINTERIOR\nPURPLE\nBAR\nDARK\nRAIN\n16 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371304.webp",
+      "alt_text": "Artist - Justin Gammon",
+      "discovered_at": "2025-09-12T00:34:10.516480",
+      "title": "Artist - Justin Gammon",
+      "description": "",
+      "tags": [
+        "YELLOW",
+        "FOOD",
+        "16 BIT",
+        "PANCAKE"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Justin Gammon",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - Justin Gammon\nTechnique - Pixel Art\nDirector - Justin Gammon\nYELLOW\nFOOD\n16 BIT\nPANCAKE",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370135.webp",
+      "alt_text": "Artist: Vampirebil / Reddit",
+      "discovered_at": "2025-09-12T00:34:15.718513",
+      "title": "Artist: Vampirebil / Reddit",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "BLUE",
+        "EXTERIOR",
+        "DARK",
+        "16 BIT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: Vampirebil / Reddit\nTechnique - Pixel Art\nNIGHT\nBLUE\nEXTERIOR\nDARK\n16 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704933490.webp",
+      "alt_text": "Coca-Cola - Byte",
+      "discovered_at": "2025-09-12T00:34:18.865550",
+      "title": "Coca-Cola - Byte (2022)",
+      "description": "",
+      "tags": [
+        "PURPLE",
+        "TYPOGRAPHY",
+        "KINETIC",
+        "ART",
+        "PIXELS",
+        "BYTE"
+      ],
+      "technique_tags": [
+        "Kinetic",
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Coca-Cola - Byte (2022)\nTechnique - Kinetic , Pixel Art\nOriginal Source - Link\nPURPLE\nTYPOGRAPHY\nKINETIC\nART\nPIXELS\nBYTE",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075859.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-12T00:34:22.503279",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Pixelation + dolly out",
+      "tags": [
+        "BIKE",
+        "DUSK",
+        "SUNSET",
+        "OCEAN",
+        "PIXELATION"
+      ],
+      "technique_tags": [
+        "Pixel Art",
+        "Technocrane"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Pixelation + dolly out\nTechnique - Pixel Art , Technocrane\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nBIKE\nDUSK\nSUNSET\nOCEAN\nPIXELATION",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/26/261706250001.webp",
+      "alt_text": "Artist - hAyDiRoKeT",
+      "discovered_at": "2025-09-12T00:34:26.158709",
+      "title": "Artist - hAyDiRoKeT",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE",
+        "8 BIT"
+      ],
+      "technique_tags": [
+        "Collage",
+        "Glitch",
+        "Pixel Art"
+      ],
+      "director": "Haydiroket",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - hAyDiRoKeT\nTechnique - Collage , Glitch , Pixel Art\nDirector - Haydiroket\nBLACK AND WHITE\n8 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371693.webp",
+      "alt_text": "Artist - hAyDiRoKeT",
+      "discovered_at": "2025-09-12T00:34:29.252280",
+      "title": "Artist - hAyDiRoKeT",
+      "description": "",
+      "tags": [
+        "NIGHT",
+        "BAR",
+        "RAIN",
+        "FIGHT",
+        "32 BIT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Haydiroket",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - hAyDiRoKeT\nTechnique - Pixel Art\nDirector - Haydiroket\nNIGHT\nBAR\nRAIN\nFIGHT\n32 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371336.webp",
+      "alt_text": "Artist - Justin Gammon",
+      "discovered_at": "2025-09-12T00:34:32.390186",
+      "title": "Artist - Justin Gammon",
+      "description": "",
+      "tags": [
+        "TRUCKING",
+        "RESTAURANT",
+        "FOOD",
+        "16 BIT",
+        "PANCAKE"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Justin Gammon",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - Justin Gammon\nTechnique - Pixel Art\nDirector - Justin Gammon\nTRUCKING\nRESTAURANT\nFOOD\n16 BIT\nPANCAKE",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371280.webp",
+      "alt_text": "Artist - Justin Gammon",
+      "discovered_at": "2025-09-12T00:34:35.549004",
+      "title": "Artist - Justin Gammon",
+      "description": "",
+      "tags": [
+        "FOOD",
+        "16 BIT",
+        "HAMBURGER"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Justin Gammon",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - Justin Gammon\nTechnique - Pixel Art\nDirector - Justin Gammon\nFOOD\n16 BIT\nHAMBURGER",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370981.webp",
+      "alt_text": "Studio - Raw Fury",
+      "discovered_at": "2025-09-12T00:34:39.246048",
+      "title": "Studio - Raw Fury",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "64 BIT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Raw Fury",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Studio - Raw Fury\nTechnique - Pixel Art\nDirector - Raw Fury\nDAY\nEXTERIOR\n64 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370929.webp",
+      "alt_text": "Studio - Raw Fury",
+      "discovered_at": "2025-09-12T00:34:42.425177",
+      "title": "Studio - Raw Fury",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "64 BIT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Raw Fury",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Studio - Raw Fury\nTechnique - Pixel Art\nDirector - Raw Fury\nDAY\nEXTERIOR\n64 BIT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/11/261704933526.webp",
+      "alt_text": "Coca-Cola - Byte",
+      "discovered_at": "2025-09-12T00:34:45.569221",
+      "title": "Coca-Cola - Byte (2022)",
+      "description": "",
+      "tags": [
+        "PURPLE",
+        "TYPOGRAPHY",
+        "KINETIC",
+        "ART",
+        "PIXELS",
+        "BYTE"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Coca-Cola - Byte (2022)\nTechnique - Pixel Art\nOriginal Source - Link\nPURPLE\nTYPOGRAPHY\nKINETIC\nART\nPIXELS\nBYTE",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371475.webp",
+      "alt_text": "Artist - Justin Gammon",
+      "discovered_at": "2025-09-12T00:34:48.711027",
+      "title": "Artist - Justin Gammon",
+      "description": "",
+      "tags": [
+        "YELLOW",
+        "16 BIT",
+        "PANCAKE"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Justin Gammon",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - Justin Gammon\nTechnique - Pixel Art\nDirector - Justin Gammon\nYELLOW\n16 BIT\nPANCAKE",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704075776.webp",
+      "alt_text": "Ford Kuga - Levels",
+      "discovered_at": "2025-09-12T00:34:51.863395",
+      "title": "Ford Kuga - Levels (2021)",
+      "description": "Daniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Pixelation",
+      "tags": [
+        "BIKE",
+        "DUSK",
+        "SUNSET",
+        "OCEAN",
+        "PIXELATION"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Alex Jurkat",
+      "dop": "Ekkehart Pollack",
+      "colorist": "Mike Bothe",
+      "original_source": "",
+      "additional_info": "Ford Kuga - Levels (2021)\nDaniel Warwick invites us on an otherworldly virtual reality journey with Ford. Shot breakdown: Pixelation\nTechnique - Pixel Art\nDirector - Daniel Warwick\nDOP - Ekkehart Pollack\nEditor - Alex Jurkat\nColorist - Mike Bothe\nOriginal Source - Link\nTutorial - Link\nBIKE\nDUSK\nSUNSET\nOCEAN\nPIXELATION",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704370559.webp",
+      "alt_text": "Artist: galamotshaku / Giphy",
+      "discovered_at": "2025-09-12T00:34:55.023850",
+      "title": "Artist: galamotshaku / Giphy",
+      "description": "",
+      "tags": [
+        "PURPLE"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: galamotshaku / Giphy\nTechnique - Pixel Art\nPURPLE",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704371399.webp",
+      "alt_text": "Artist - Justin Gammon",
+      "discovered_at": "2025-09-12T00:34:58.181802",
+      "title": "Artist - Justin Gammon",
+      "description": "",
+      "tags": [
+        "FOOD",
+        "64 BIT",
+        "HAMBURGER",
+        "ROBOT"
+      ],
+      "technique_tags": [
+        "Pixel Art"
+      ],
+      "director": "Justin Gammon",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist - Justin Gammon\nTechnique - Pixel Art\nDirector - Justin Gammon\nFOOD\n64 BIT\nHAMBURGER\nROBOT",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/18/Snapinsta.app_video_332515724_1197909264928439_5751179866984760212_n/56fa43377872f2979f7a1ba17b5c4218.gif",
+      "alt_text": "Sylo - Fall Into Me",
+      "discovered_at": "2025-09-12T00:35:01.798783",
+      "title": "Sylo - Fall Into Me (2024)",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "GARAGE",
+        "PIXELS"
+      ],
+      "technique_tags": [
+        "Live action pixelation"
+      ],
+      "director": "Kevin Lien",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Sylo - Fall Into Me (2024)\nTechnique - Live action pixelation\nDirector - Kevin Lien\nOriginal Source - Link\nEXTERIOR\nGARAGE\nPIXELS",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/18/261708246680.webp",
+      "alt_text": "Latto - Sunday Service",
+      "discovered_at": "2025-09-12T00:35:04.929707",
+      "title": "Latto - Sunday Service (2024)",
+      "description": "",
+      "tags": [
+        "CONVENIENCE STORE",
+        "INTERIOR",
+        "BODEGA",
+        "COUNTER"
+      ],
+      "technique_tags": [
+        "Live action pixelation",
+        "Overhead"
+      ],
+      "director": "HIDJI WORLD",
+      "dop": "Leroy Farrell",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Latto - Sunday Service (2024)\n2024 music video for Latto from renowned director HIDJI WORLD. Produced by North of Now films.\nTechnique - Live action pixelation , Overhead\nDirector - HIDJI WORLD\nDOP - Leroy Farrell\nOriginal Source - Link\nCONVENIENCE STORE\nINTERIOR\nBODEGA\nCOUNTER",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707974084.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-12T00:35:08.567856",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [
+        "MALE",
+        "INTERIOR",
+        "LAB"
+      ],
+      "technique_tags": [
+        "Altered state",
+        "First-Person",
+        "Live action pixelation"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Altered state , First-Person , Live action pixelation\nDirector - Daniel Stessen\nMALE\nINTERIOR\nLAB",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710662333.webp",
+      "alt_text": "Flatbush ZOMBiES - Afterlife",
+      "discovered_at": "2025-09-12T00:35:12.212986",
+      "title": "Flatbush ZOMBiES - Afterlife (2020)",
+      "description": "The music video for Flatbush Zombies' \"Afterlife,\" produced by James Blake, is notable for its unique visual approach that features an eerie X-ray effect. This creative decision casts the group members and various elements within the video, such as strippers and guns, in a ghostly, skeletal form, aligning with the group's name and adding a macabre twist to typical rap video imagery. The video was directed by Arnaud Bresson, who, alongside a post-production team, developed a technical device to achieve this X-ray effect without endangering anyone, as no technology exists that can safely film living beings in this way. The process involved multi-camera tracking to record the positions and movements of characters, which were then applied to 3D compositions. This painstaking effort took four months to perfect, but the result effectively complements the song's menacing vibe and the group's exploration of nihilistic themes.",
+      "tags": [
+        "WOMAN",
+        "COUPLE",
+        "SEX"
+      ],
+      "technique_tags": [
+        "Live action pixelation",
+        "X-Ray"
+      ],
+      "director": "Maxime Caro",
+      "dop": "Téva Vasseur",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Flatbush ZOMBiES - Afterlife (2020)\nThe music video for Flatbush Zombies' \"Afterlife,\" produced by James Blake, is notable for its unique visual approach that features an eerie X-ray effect. This creative decision casts the group members and various elements within the video, such as strippers and guns, in a ghostly, skeletal form, aligning with the group's name and adding a macabre twist to typical rap video imagery. The video was directed by Arnaud Bresson, who, alongside a post-production team, developed a technical device to achieve this X-ray effect without endangering anyone, as no technology exists that can safely film living beings in this way. The process involved multi-camera tracking to record the positions and movements of characters, which were then applied to 3D compositions. This painstaking effort took four months to perfect, but the result effectively complements the song's menacing vibe and the group's exploration of nihilistic themes.\nTechnique - Live action pixelati",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715644445.webp",
+      "alt_text": "Oblé Reed - WESTON.",
+      "discovered_at": "2025-09-12T00:35:15.395129",
+      "title": "Oblé Reed - WESTON. (2023)",
+      "description": "",
+      "tags": [
+        "RED",
+        "MALE",
+        "NIGHT",
+        "INTERIOR"
+      ],
+      "technique_tags": [
+        "Live action pixelation",
+        "Locked-On",
+        "Pixilation"
+      ],
+      "director": "Nash Pearson",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Oblé Reed - WESTON. (2023)\nMusic video\nTechnique - Live action pixelation , Locked-On , Pixilation\nDirector - Nash Pearson\nEditor - Nash Pearson\nOriginal Source - Link\nRED\nMALE\nNIGHT\nINTERIOR",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/17/261710662420.webp",
+      "alt_text": "Flatbush ZOMBiES - Afterlife",
+      "discovered_at": "2025-09-12T00:35:19.083710",
+      "title": "Flatbush ZOMBiES - Afterlife (2020)",
+      "description": "The music video for Flatbush Zombies' \"Afterlife,\" produced by James Blake, is notable for its unique visual approach that features an eerie X-ray effect. This creative decision casts the group members and various elements within the video, such as strippers and guns, in a ghostly, skeletal form, aligning with the group's name and adding a macabre twist to typical rap video imagery. The video was directed by Arnaud Bresson, who, alongside a post-production team, developed a technical device to achieve this X-ray effect without endangering anyone, as no technology exists that can safely film living beings in this way. The process involved multi-camera tracking to record the positions and movements of characters, which were then applied to 3D compositions. This painstaking effort took four months to perfect, but the result effectively complements the song's menacing vibe and the group's exploration of nihilistic themes.",
+      "tags": [
+        "CAR",
+        "DRIVING",
+        "VEHICLE"
+      ],
+      "technique_tags": [
+        "Live action pixelation",
+        "X-Ray"
+      ],
+      "director": "Maxime Caro",
+      "dop": "Téva Vasseur",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Flatbush ZOMBiES - Afterlife (2020)\nThe music video for Flatbush Zombies' \"Afterlife,\" produced by James Blake, is notable for its unique visual approach that features an eerie X-ray effect. This creative decision casts the group members and various elements within the video, such as strippers and guns, in a ghostly, skeletal form, aligning with the group's name and adding a macabre twist to typical rap video imagery. The video was directed by Arnaud Bresson, who, alongside a post-production team, developed a technical device to achieve this X-ray effect without endangering anyone, as no technology exists that can safely film living beings in this way. The process involved multi-camera tracking to record the positions and movements of characters, which were then applied to 3D compositions. This painstaking effort took four months to perfect, but the result effectively complements the song's menacing vibe and the group's exploration of nihilistic themes.\nTechnique - Live action pixelati",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/10/261704861043.webp",
+      "alt_text": "A$AP Rocky - D.M.B.",
+      "discovered_at": "2025-09-12T00:35:22.258538",
+      "title": "A$AP Rocky - D.M.B. (2022)",
+      "description": "",
+      "tags": [
+        "EXTERIOR",
+        "PIXELATION",
+        "PIXELS",
+        "CENSOR"
+      ],
+      "technique_tags": [
+        "Live action pixelation",
+        "Zoom"
+      ],
+      "director": "A$AP Rocky",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "A$AP Rocky - D.M.B. (2022)\nDirected and produced by him for AWGE, this music video depicts a devoted relationship in challenging circumstances, filmed in New York. This specific clip features a flash cut photography technique inside a vintage film border that duplicates.\nTechnique - Live action pixelation , Zoom\nDirector - A$AP Rocky\nOriginal Source - Link\nEXTERIOR\nPIXELATION\nPIXELS\nCENSOR",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704621457.webp",
+      "alt_text": "B&W Pixel GIF By Dyan Jong",
+      "discovered_at": "2025-09-12T00:35:25.422549",
+      "title": "B&W Pixel GIF By Dyan Jong (2019)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Live action pixelation"
+      ],
+      "director": "Dylan Jong",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "B&W Pixel GIF By Dyan Jong (2019)\nTechnique - Live action pixelation\nDirector - Dylan Jong\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706401360.webp",
+      "alt_text": "Source unknown",
+      "discovered_at": "2025-09-12T00:35:28.580138",
+      "title": "Source unknown",
+      "description": "",
+      "tags": [
+        "FACE",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Live action pixelation",
+        "Morphing"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Source unknown\nKnow the source? Email jacobi@eycndy.com\nTechnique - Live action pixelation , Morphing\nFACE\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706402241.webp",
+      "alt_text": "Art Zach Dougherty GIF By Hateplow",
+      "discovered_at": "2025-09-12T00:35:32.227046",
+      "title": "Art Zach Dougherty GIF By Hateplow (2013)",
+      "description": "",
+      "tags": [
+        "FACE",
+        "CLOSE-UP"
+      ],
+      "technique_tags": [
+        "3D animation",
+        "Live action pixelation"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Art Zach Dougherty GIF By Hateplow (2013)\nTechnique - 3D animation , Live action pixelation\nOriginal Source - Link\nFACE\nCLOSE-UP",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707626396.webp",
+      "alt_text": "Lil Uzi Vert - Just Wanna Rock",
+      "discovered_at": "2025-09-12T00:35:35.368888",
+      "title": "Lil Uzi Vert - Just Wanna Rock (2022)",
+      "description": "2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.",
+      "tags": [
+        "NIGHT",
+        "EXTERIOR",
+        "CITY",
+        "CROWD"
+      ],
+      "technique_tags": [
+        "Live action pixelation"
+      ],
+      "director": "Chris Villa, Kenny Shimm (Editor)",
+      "dop": "Cory Burmester",
+      "colorist": "Josh Bohoskey, Matt Osborne",
+      "original_source": "",
+      "additional_info": "Lil Uzi Vert - Just Wanna Rock (2022)\n2022 music video for Lil Uzi Vert from renowned artist, Gibson Hazard. Produced in collaboration between House of Hazard and ShotClock. Visual effects from Black Hat VFX.\nTechnique - Live action pixelation\nDirector - Gibson Hazard\nDOP - Cory Burmester\nEditor - Chris Villa, Kenny Shimm (Editor)\nColorist - Josh Bohoskey, Matt Osborne\nOriginal Source - Link\nNIGHT\nEXTERIOR\nCITY\nCROWD",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/07/261704621510.webp",
+      "alt_text": "B&W Pixel GIF By Dyan Jong",
+      "discovered_at": "2025-09-12T00:35:39.027781",
+      "title": "B&W Pixel GIF By Dyan Jong (2019)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Live action pixelation",
+        "Void"
+      ],
+      "director": "Dylan Jong",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "B&W Pixel GIF By Dyan Jong (2019)\nTechnique - Live action pixelation , Void\nDirector - Dylan Jong\nOriginal Source - Link\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/22/261711140290.webp",
+      "alt_text": "Aminé - Charmander",
+      "discovered_at": "2025-09-12T00:35:42.189340",
+      "title": "Aminé - Charmander (2021)",
+      "description": "In the 2021 music video \"Charmander\" by Aminé, the artist retreats to a secluded cabin in the woods, symbolizing a quest for peace and introspection away from the pressures of fame. The video is characterized by a warm, earthy color palette and natural light, capturing the tranquil beauty of the forest setting. The nostalgic reference to Pokémon through the title \"Charmander\" adds a whimsical contrast to the mature themes of self-discovery and isolation.",
+      "tags": [
+        "DAY",
+        "DOG",
+        "LAWN",
+        "BACKYARD",
+        "PORTLAND",
+        "OREGON"
+      ],
+      "technique_tags": [
+        "Giant",
+        "Live action pixelation",
+        "Overhead",
+        "Scale Shift"
+      ],
+      "director": "Will Tooke",
+      "dop": "Ben Mullen",
+      "colorist": "Andrew Francis",
+      "original_source": "",
+      "additional_info": "Aminé - Charmander (2021)\nIn the 2021 music video \"Charmander\" by Aminé, the artist retreats to a secluded cabin in the woods, symbolizing a quest for peace and introspection away from the pressures of fame. The video is characterized by a warm, earthy color palette and natural light, capturing the tranquil beauty of the forest setting. The nostalgic reference to Pokémon through the title \"Charmander\" adds a whimsical contrast to the mature themes of self-discovery and isolation.\nTechnique - Giant , Live action pixelation , Overhead , Scale Shift\nDirector - Adam Daniel, Jack Begert\nDOP - Ben Mullen\nEditor - Will Tooke\nColorist - Andrew Francis\nOriginal Source - Link\nDAY\nDOG\nLAWN\nBACKYARD\nPORTLAND\nOREGON",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708424223.webp",
+      "alt_text": "Get Him to the Greek",
+      "discovered_at": "2025-09-12T00:35:45.369781",
+      "title": "Get Him to the Greek (2010)",
+      "description": "A record company intern is hired to accompany out-of-control British rock star Aldous Snow to a concert at L.A.'s Greek Theater.",
+      "tags": [
+        "INTERIOR",
+        "NEWS"
+      ],
+      "technique_tags": [
+        "2010s",
+        "Live action pixelation"
+      ],
+      "director": "Michael L. Sale, William Kerr",
+      "dop": "Robert Yeoman",
+      "colorist": "Mitch Rosin",
+      "original_source": "",
+      "additional_info": "Get Him to the Greek (2010)\nA record company intern is hired to accompany out-of-control British rock star Aldous Snow to a concert at L.A.'s Greek Theater.\nTechnique - 2010s , Live action pixelation\nDirector - Nicholas Stoller\nDOP - Robert Yeoman\nEditor - Michael L. Sale, William Kerr\nColorist - Mitch Rosin\nINTERIOR\nNEWS",
+      "page_url": "https://eyecannndy.com/technique/pixel-art"
+    }
+  ]
 }

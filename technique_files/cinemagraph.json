@@ -1,1639 +1,1642 @@
 {
   "technique": "cinemagraph",
-  "video_count": 84,
-  "generated_at": "2025-09-05T04:03:29.617317",
+  "scrape_info": {
+    "timestamp": "20250911_081411",
+    "total_videos": 66,
+    "scraper_type": "comprehensive_popup_modal"
+  },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704072003.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136053",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025039.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136159",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck - Tierra Patagonia",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck - Tierra Patagonia",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533339.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136217",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709960094.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136270",
-      "element_tag": "img",
-      "title": "The Tragedy of Macbeth",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "The Tragedy of Macbeth",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071442.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136321",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704070795.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136369",
-      "element_tag": "img",
-      "title": "Casino",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Casino",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533413.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136418",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024780.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136465",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck - The Train to Machu Picchu",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck - The Train to Machu Picchu",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071652.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136656",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533288.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136723",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025107.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136777",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck for Amazon",
-      "description": "",
-      "category": "cinemagraph",
       "alt_text": "Kevin Burg & Jamie Beck for Amazon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024563.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136828",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck for Armani",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck for Armani",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071690.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.136882",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024270.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137041",
-      "element_tag": "img",
-      "title": "Cinemagraph from Fight Club",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph from Fight Club",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071754.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137097",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025383.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137150",
-      "element_tag": "img",
-      "title": "Jamie Beck and Kevin Burg for Harpers Bazaar",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Jamie Beck and Kevin Burg for Harpers Bazaar",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709960114.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137198",
-      "element_tag": "img",
-      "title": "The Tragedy of Macbeth",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "The Tragedy of Macbeth",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024949.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137279",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck - Avenue Matignon",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck - Avenue Matignon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704072003.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137327",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025039.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137441",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck - Tierra Patagonia",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck - Tierra Patagonia",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533339.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137486",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709960094.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137528",
-      "element_tag": "img",
-      "title": "The Tragedy of Macbeth",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "The Tragedy of Macbeth",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071442.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137569",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704070795.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137609",
-      "element_tag": "img",
-      "title": "Casino",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Casino",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533413.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137649",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024780.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137689",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck - The Train to Machu Picchu",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck - The Train to Machu Picchu",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071652.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137729",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533288.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137769",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025107.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137812",
-      "element_tag": "img",
+      "discovered_at": "2025-09-11T08:10:18.977947",
       "title": "Kevin Burg & Jamie Beck for Amazon",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck for Amazon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
       "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024563.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137852",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck for Armani",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck for Armani",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071690.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137893",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024270.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.137935",
-      "element_tag": "img",
-      "title": "Cinemagraph from Fight Club",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph from Fight Club",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071754.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.138264",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025383.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.138330",
-      "element_tag": "img",
-      "title": "Jamie Beck and Kevin Burg for Harpers Bazaar",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Jamie Beck and Kevin Burg for Harpers Bazaar",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709960114.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.138380",
-      "element_tag": "img",
-      "title": "The Tragedy of Macbeth",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "The Tragedy of Macbeth",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024949.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.138450",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck - Avenue Matignon",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck - Avenue Matignon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_ show-it",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "Eyecandy",
-        "lazyImages1",
-        "lazy img",
-        "trigger_info_",
-        "show it"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071329.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.138546",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025292.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.138614",
-      "element_tag": "img",
-      "title": "Cinemagraph by Kevin Burg & Jamie Beck",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Kevin Burg & Jamie Beck",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533311.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.138676",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024988.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.138858",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck - Pont Louis-Philippe",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck - Pont Louis-Philippe",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071955.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.138932",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071923.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139032",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702829.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139108",
-      "element_tag": "img",
-      "title": "Train Spotting",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Train Spotting",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024882.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139162",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck for Lincoln",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck for Lincoln",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702848.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139250",
-      "element_tag": "img",
-      "title": "Artist: Tech Noir",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Artist: Tech Noir",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025257.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139321",
-      "element_tag": "img",
-      "title": "Cinemagraph by Kevin Burg & Jamie Beck",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Kevin Burg & Jamie Beck",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071793.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139380",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071823.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139435",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071509.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139490",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024626.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139538",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck for Saks Fifth Avenue",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck for Saks Fifth Avenue",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071721.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139585",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702658.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139630",
-      "element_tag": "img",
-      "title": "Golden Exits",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Golden Exits",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533476.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139675",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024293.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139720",
-      "element_tag": "img",
-      "title": "Cinemagraph from Fight Club",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph from Fight Club",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024502.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139765",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck for Chanel",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck for Chanel",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702573.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139809",
-      "element_tag": "img",
-      "title": "Brainstorm",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Brainstorm",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "INTERIOR",
+        "MUTED",
+        "FULL SHOT",
+        "DIRECT ADDRESS"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin Burg & Jamie Beck for Amazon\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nINTERIOR\nMUTED\nFULL SHOT\nDIRECT ADDRESS",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702703087.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139852",
-      "element_tag": "img",
-      "title": "The Life Aquatic with Steve Zissou",
-      "description": "",
-      "category": "cinemagraph",
       "alt_text": "The Life Aquatic with Steve Zissou",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:10:22.635262",
+      "title": "The Life Aquatic with Steve Zissou (2004)",
+      "description": "With a plan to exact revenge on a mythical shark that killed his partner, Oceanographer Steve Zissou (Bill Murray) rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702683.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.139943",
-      "element_tag": "img",
-      "title": "Artist: Kitchen Ghosts",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Artist: Kitchen Ghosts",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710312965.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140005",
-      "element_tag": "img",
-      "title": "New York Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "New York Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704069890.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140049",
-      "element_tag": "img",
-      "title": "Trent Jaklitsch - Alyssa Monks",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Trent Jaklitsch - Alyssa Monks",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709960228.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140094",
-      "element_tag": "img",
-      "title": "The Tragedy of Macbeth",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "The Tragedy of Macbeth",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024830.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140139",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck for Armani",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck for Armani",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704070605.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140188",
-      "element_tag": "img",
-      "title": "Léon",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Léon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025225.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140236",
-      "element_tag": "img",
-      "title": "Cinemagraph by Kevin Burg & Jamie Beck",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Kevin Burg & Jamie Beck",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702937.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140280",
-      "element_tag": "img",
-      "title": "Original source: Ferris Bueller's Day Off",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Original source: Ferris Bueller's Day Off",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025716.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140325",
-      "element_tag": "img",
-      "title": "Older Brother - Talk to Your Plants",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Older Brother - Talk to Your Plants",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533361.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140371",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533259.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140417",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706084730.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140465",
-      "element_tag": "img",
-      "title": "Peeping Tom",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Peeping Tom",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071291.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140511",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071058.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140556",
-      "element_tag": "img",
-      "title": "Memories of Murder",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Memories of Murder",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071889.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140601",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709960187.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140645",
-      "element_tag": "img",
-      "title": "The Tragedy of Macbeth",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "The Tragedy of Macbeth",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071479.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140688",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025189.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140732",
-      "element_tag": "img",
-      "title": "Cinemagraph by Kevin Burg & Jamie Beck",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Kevin Burg & Jamie Beck",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710312929.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140777",
-      "element_tag": "img",
-      "title": "New York Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "New York Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071547.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140820",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "WATER",
+        "UNDERWATER",
+        "WARM",
+        "WES ANDERSON",
+        "INTERIOR",
+        "OCEAN",
+        "BEANIE",
+        "ORCA",
+        "SYMMETRICAL",
+        "BILL MURRAY",
+        "LIFE AQUATIC",
+        "APPLE"
+      ],
+      "technique_tags": [
+        "1970s",
+        "Adventure",
+        "Central Framing",
+        "Cinemagraph"
+      ],
+      "director": "David Moritz",
+      "dop": "Robert Yeoman",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Life Aquatic with Steve Zissou (2004)\nWith a plan to exact revenge on a mythical shark that killed his partner, Oceanographer Steve Zissou (Bill Murray) rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.\nTechnique - 1970s , Adventure , Central Framing , Cinemagraph\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - David Moritz\nWATER\nUNDERWATER\nWARM\nWES ANDERSON\nINTERIOR\nOCEAN\nBEANIE\nORCA\nSYMMETRICAL\nBILL MURRAY\nLIFE AQUATIC\nAPPLE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702761.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140866",
-      "element_tag": "img",
-      "title": "Original Source: Till The End Of The Moon",
-      "description": "",
-      "category": "cinemagraph",
       "alt_text": "Original Source: Till The End Of The Moon",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:10:26.305517",
+      "title": "Original Source: Till The End Of The Moon (2023)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "RED",
+        "INTERIOR",
+        "DRESS",
+        "SURREALIST",
+        "WIND",
+        "HAIQI",
+        "SMOKE"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kuk Kok-Leung Wang Haiqi",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Original Source: Till The End Of The Moon (2023)\nTechnique - Cinemagraph\nDirector - Kuk Kok-Leung Wang Haiqi\nRED\nINTERIOR\nDRESS\nSURREALIST\nWIND\nHAIQI\nSMOKE\nTILL THE END OF THE MOON",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025383.webp",
+      "alt_text": "Jamie Beck and Kevin Burg for Harpers Bazaar",
+      "discovered_at": "2025-09-11T08:10:29.975474",
+      "title": "Jamie Beck and Kevin Burg for Harpers Bazaar (2016)",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "WOMAN",
+        "GREEN",
+        "NATURE",
+        "WEDDING",
+        "DRESS",
+        "MEDIUM",
+        "FLORAL",
+        "FLOWERS",
+        "DIRECT ADDRESS"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Jamie Beck and Kevin Burg for Harpers Bazaar (2016)\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nWOMAN\nGREEN\nNATURE\nWEDDING\nDRESS\nMEDIUM\nFLORAL\nFLOWERS\nDIRECT ADDRESS",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704070605.webp",
+      "alt_text": "Léon",
+      "discovered_at": "2025-09-11T08:10:33.621579",
+      "title": "Léon (1994)",
+      "description": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+      "tags": [
+        "INTERIOR",
+        "MUTED",
+        "KITCHEN",
+        "JEAN RENO"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Cinemagraph"
+      ],
+      "director": "Sylvie Landra",
+      "dop": "Thierry Arbogast",
+      "colorist": "Bruno Patin",
+      "original_source": "",
+      "additional_info": "Léon (1994)\n12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.\nTechnique - 1990s , Cinemagraph\nDirector - Luc Besson\nDOP - Thierry Arbogast\nEditor - Sylvie Landra\nColorist - Bruno Patin\nOriginal Source - Link\nINTERIOR\nMUTED\nKITCHEN\nJEAN RENO",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071547.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:10:36.795577",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "OVERHEAD",
+        "HIGH ANGLE",
+        "BOOK",
+        "PEDALS",
+        "TEA"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph\nDirector - Daria Khoroshavina\nOriginal Source - Link\nOVERHEAD\nHIGH ANGLE\nBOOK\nPEDALS\nTEA",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709960094.webp",
+      "alt_text": "The Tragedy of Macbeth",
+      "discovered_at": "2025-09-11T08:10:39.935397",
+      "title": "The Tragedy of Macbeth (2021)",
+      "description": "A Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Low Angle"
+      ],
+      "director": "Lucian Johnston",
+      "dop": "Bruno Delbonnel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Tragedy of Macbeth (2021)\nA Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.\nTechnique - Cinemagraph , Low Angle\nDirector - Joel Coen\nDOP - Bruno Delbonnel\nEditor - Lucian Johnston\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533443.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140909",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
       "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:10:43.061691",
+      "title": "Cinemagraph (2014)",
+      "description": "",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "BLACK AND WHITE",
+        "SMOKE",
+        "CHIMNEY"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Silhouette"
+      ],
+      "director": "Julien Douvier",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph (2014)\nTechnique - Cinemagraph , Silhouette\nDirector - Julien Douvier\nOriginal Source - Link\nBLACK AND WHITE\nSMOKE\nCHIMNEY",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533387.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140953",
-      "element_tag": "img",
-      "title": "Cinemagraph",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Cinemagraph",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024663.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.140997",
-      "element_tag": "img",
-      "title": "Kevin Burg & Jamie Beck for Chopard",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "Kevin Burg & Jamie Beck for Chopard",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707899425.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.141041",
-      "element_tag": "img",
-      "title": "The Red Circle",
-      "description": "",
-      "category": "cinemagraph",
-      "alt_text": "The Red Circle",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
-      "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071615.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.141084",
-      "element_tag": "img",
-      "title": "Cinemagraph by Daria Khoroshavina",
-      "description": "",
-      "category": "cinemagraph",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071823.webp",
       "alt_text": "Cinemagraph by Daria Khoroshavina",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:10:46.746151",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "INTERIOR",
+        "KITCHEN",
+        "POUR",
+        "SPOON",
+        "HONEY"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph\nDirector - Daria Khoroshavina\nOriginal Source - Link\nINTERIOR\nKITCHEN\nPOUR\nSPOON\nHONEY",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071955.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:10:49.872678",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "NIGHT",
+        "INTERIOR",
+        "BED",
+        "BOOK",
+        "CANDLE",
+        "MAGIC"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Levitation",
+        "Magical realism"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph , Levitation , Magical realism\nDirector - Daria Khoroshavina\nOriginal Source - Link\nNIGHT\nINTERIOR\nBED\nBOOK\nCANDLE\nMAGIC",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709960187.webp",
+      "alt_text": "The Tragedy of Macbeth",
+      "discovered_at": "2025-09-11T08:10:53.532497",
+      "title": "The Tragedy of Macbeth (2021)",
+      "description": "A Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.",
+      "tags": [
+        "WATER",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Middle Ages"
+      ],
+      "director": "Lucian Johnston",
+      "dop": "Bruno Delbonnel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Tragedy of Macbeth (2021)\nA Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.\nTechnique - Cinemagraph , Middle Ages\nDirector - Joel Coen\nDOP - Bruno Delbonnel\nEditor - Lucian Johnston\nWATER\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533288.webp",
+      "alt_text": "Cinemagraph",
+      "discovered_at": "2025-09-11T08:10:56.686807",
+      "title": "Cinemagraph (2014)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "WATER",
+        "BLACK AND WHITE",
+        "EXTERIOR",
+        "RIVER",
+        "UMBRELLA",
+        "CANAL"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Julien Douvier",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph (2014)\nTechnique - Cinemagraph\nDirector - Julien Douvier\nOriginal Source - Link\nDAY\nWATER\nBLACK AND WHITE\nEXTERIOR\nRIVER\nUMBRELLA\nCANAL",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071509.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:11:00.332028",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "DARK",
+        "DRINK",
+        "FOOD",
+        "COOKING",
+        "SPOON"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Magical realism"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph , Magical realism\nDirector - Daria Khoroshavina\nOriginal Source - Link\nDARK\nDRINK\nFOOD\nCOOKING\nSPOON",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704026169.webp",
-      "page_url": "https://eyecannndy.com/technique/cinemagraph",
-      "discovered_at": "2025-09-05T03:23:10.141128",
-      "element_tag": "img",
-      "title": "Joy",
-      "description": "",
-      "category": "cinemagraph",
       "alt_text": "Joy",
-      "css_classes": "lazy-img lazyImages1 trigger_info_",
-      "file_size": null,
-      "dimensions": null,
+      "discovered_at": "2025-09-11T08:11:03.994699",
+      "title": "Joy (2015)",
+      "description": "Joy is the story of the title character, who rose to become founder and matriarch of a powerful family business dynasty.",
       "tags": [
-        "lazy img",
-        "trigger_info_",
-        "lazyImages1",
-        "Eyecandy"
-      ]
+        "DAY",
+        "EXTERIOR",
+        "JENNIFER LAWRENCE",
+        "SNOWING",
+        "SUNGLASSES"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Alan Baumgarten, Christopher Tellefsen, Jay Cassidy (Editor), Tom Cross",
+      "dop": "Linus Sandgren",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "Joy (2015)\nJoy is the story of the title character, who rose to become founder and matriarch of a powerful family business dynasty.\nTechnique - Cinemagraph\nDirector - David O. Russell\nDOP - Linus Sandgren\nEditor - Alan Baumgarten, Christopher Tellefsen, Jay Cassidy (Editor), Tom Cross\nColorist - Stephen Nakamura\nOriginal Source - Link\nDAY\nEXTERIOR\nJENNIFER LAWRENCE\nSNOWING\nSUNGLASSES",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071615.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:11:07.658135",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "OVERHEAD",
+        "BOOK",
+        "LEAVES",
+        "TEA",
+        "LIME",
+        "PIE"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Overhead"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph , Overhead\nDirector - Daria Khoroshavina\nOriginal Source - Link\nOVERHEAD\nBOOK\nLEAVES\nTEA\nLIME\nPIE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071058.webp",
+      "alt_text": "Memories of Murder",
+      "discovered_at": "2025-09-11T08:11:11.338412",
+      "title": "Memories of Murder (2003)",
+      "description": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+      "tags": [
+        "INTERIOR",
+        "TWO SHOT"
+      ],
+      "technique_tags": [
+        "2000s",
+        "Cinemagraph",
+        "Two Shot"
+      ],
+      "director": "Sun-min Kim",
+      "dop": "Kim Hyung-ku",
+      "colorist": "Yong-gi Lee",
+      "original_source": "",
+      "additional_info": "Memories of Murder (2003)\nIn a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.\nTechnique - 2000s , Cinemagraph , Two Shot\nDirector - Bong Joon-ho\nDOP - Kim Hyung-ku\nEditor - Sun-min Kim\nColorist - Yong-gi Lee\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nTWO SHOT",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709960114.webp",
+      "alt_text": "The Tragedy of Macbeth",
+      "discovered_at": "2025-09-11T08:11:15.003828",
+      "title": "The Tragedy of Macbeth (2021)",
+      "description": "A Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.",
+      "tags": [
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Middle Ages"
+      ],
+      "director": "Lucian Johnston",
+      "dop": "Bruno Delbonnel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Tragedy of Macbeth (2021)\nA Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.\nTechnique - Cinemagraph , Middle Ages\nDirector - Joel Coen\nDOP - Bruno Delbonnel\nEditor - Lucian Johnston\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702658.webp",
+      "alt_text": "Golden Exits",
+      "discovered_at": "2025-09-11T08:11:18.684369",
+      "title": "Golden Exits (2017)",
+      "description": "",
+      "tags": [
+        "WOMAN",
+        "WIND",
+        "EXTERIOR",
+        "2010S",
+        "STAIRS",
+        "BROWNSTONE",
+        "GOLDEN EXITS",
+        "10S",
+        "BROWN",
+        "BEIGE"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Robert Greene",
+      "dop": "Sean Price Williams",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Golden Exits (2017)\nTechnique - Cinemagraph\nDirector - Alex Ross Perry\nDOP - Sean Price Williams\nEditor - Robert Greene\nWOMAN\n2017\nWIND\nEXTERIOR\n2010S\nSTAIRS\nBROWNSTONE\nGOLDEN EXITS\n10S\nBROWN\nBEIGE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710312965.webp",
+      "alt_text": "New York Cinemagraph",
+      "discovered_at": "2025-09-11T08:11:22.340680",
+      "title": "New York Cinemagraph (2017)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "TAXI",
+        "EXTERIOR",
+        "CITY",
+        "NEW YORK CITY"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Reflections"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "New York Cinemagraph (2017)\nFrom artist Julia Marie Werner\nTechnique - Cinemagraph , Reflections\nOriginal Source - Link\nDAY\nTAXI\nEXTERIOR\nCITY\nNEW YORK CITY",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071652.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:11:25.992412",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "GLASS",
+        "DRINK",
+        "RASPBERRY",
+        "ICED TEA"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph\nDirector - Daria Khoroshavina\nOriginal Source - Link\nGLASS\nDRINK\nRASPBERRY\nICED TEA",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071923.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:11:29.711635",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "STUDIO",
+        "GLASS",
+        "SMOKING",
+        "SMOKE",
+        "DRINK",
+        "BOOKS",
+        "HONEY",
+        "COCKTAIL"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph\nDirector - Daria Khoroshavina\nOriginal Source - Link\nSTUDIO\nGLASS\nSMOKING\nSMOKE\nDRINK\nBOOKS\nHONEY\nCOCKTAIL",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024949.webp",
+      "alt_text": "Kevin Burg & Jamie Beck - Avenue Matignon",
+      "discovered_at": "2025-09-11T08:11:33.365805",
+      "title": "Kevin Burg & Jamie Beck - Avenue Matignon",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "NIGHT",
+        "DUSK",
+        "SUNSET",
+        "EXTERIOR",
+        "DARK",
+        "CITY",
+        "PARIS",
+        "CARS",
+        "ARCHITECTURE",
+        "EUROPE"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin Burg & Jamie Beck - Avenue Matignon\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nNIGHT\nDUSK\nSUNSET\nEXTERIOR\nDARK\nCITY\nPARIS\nCARS\nARCHITECTURE\nEUROPE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024780.webp",
+      "alt_text": "Kevin Burg & Jamie Beck - The Train to Machu Picchu",
+      "discovered_at": "2025-09-11T08:11:37.031946",
+      "title": "Kevin Burg & Jamie Beck - The Train to Machu Picchu",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "INTERIOR",
+        "TRAIN",
+        "WIDE",
+        "MOTION",
+        "WARM WHITE",
+        "MOVING"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin Burg & Jamie Beck - The Train to Machu Picchu\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nDAY\nWOMAN\nINTERIOR\nTRAIN\nWIDE\nMOTION\nWARM WHITE\nMOVING",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025257.webp",
+      "alt_text": "Cinemagraph by Kevin Burg & Jamie Beck",
+      "discovered_at": "2025-09-11T08:11:40.175894",
+      "title": "Cinemagraph by Kevin Burg & Jamie Beck",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "NIGHT",
+        "INTERIOR",
+        "DUSK",
+        "DINNER",
+        "WINE",
+        "MEAL",
+        "CANDLE",
+        "POUR"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Kevin Burg & Jamie Beck\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nNIGHT\nINTERIOR\nDUSK\nDINNER\nWINE\nMEAL\nCANDLE\nPOUR",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025225.webp",
+      "alt_text": "Cinemagraph by Kevin Burg & Jamie Beck",
+      "discovered_at": "2025-09-11T08:11:44.333208",
+      "title": "Cinemagraph by Kevin Burg & Jamie Beck",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "NIGHT",
+        "DUSK",
+        "DARK",
+        "BUSY",
+        "CITY",
+        "NEWSPAPER",
+        "ARCHITECTURE",
+        "PEOPLE",
+        "NEWSSTAND"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Kevin Burg & Jamie Beck\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nNIGHT\nDUSK\nDARK\nBUSY\nCITY\nNEWSPAPER\nARCHITECTURE\nPEOPLE\nNEWSSTAND",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025292.webp",
+      "alt_text": "Cinemagraph by Kevin Burg & Jamie Beck",
+      "discovered_at": "2025-09-11T08:11:47.968554",
+      "title": "Cinemagraph by Kevin Burg & Jamie Beck",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "WOMAN",
+        "NIGHT",
+        "INTERIOR",
+        "DUSK",
+        "DRESS",
+        "INDOORS",
+        "STAIRS",
+        "FLAME",
+        "CANDLE",
+        "EVENING"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Kevin Burg & Jamie Beck\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nWOMAN\nNIGHT\nINTERIOR\nDUSK\nDRESS\nINDOORS\nSTAIRS\nFLAME\nCANDLE\nEVENING",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702683.webp",
+      "alt_text": "Artist: Kitchen Ghosts",
+      "discovered_at": "2025-09-11T08:11:51.119405",
+      "title": "Artist: Kitchen Ghosts",
+      "description": "",
+      "tags": [
+        "STUDIO",
+        "FLORAL",
+        "CINEMAGRAPH",
+        "KITCHEN GHOSTS",
+        "ARRANGEMENT",
+        "FRUIT",
+        "CUP",
+        "POMEGRANATE"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: Kitchen Ghosts\nTechnique - Cinemagraph\nSTUDIO\nFLORAL\nCINEMAGRAPH\nKITCHEN GHOSTS\nARRANGEMENT\nFRUIT\nCUP\nPOMEGRANATE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/03/04/dae8b414591981.56286660d14e2/b5870dd06fe411c50730273447b87ca5.gif",
+      "alt_text": "Cinemagraph",
+      "discovered_at": "2025-09-11T08:11:55.314192",
+      "title": "Cinemagraph (2014)",
+      "description": "",
+      "tags": [
+        "HOTEL",
+        "CLOUDS",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Fast Motion"
+      ],
+      "director": "Julien Douvier",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph (2014)\nTechnique - Cinemagraph , Fast Motion\nDirector - Julien Douvier\nOriginal Source - Link\nHOTEL\nCLOUDS\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071329.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:11:58.987418",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "BLACK",
+        "WITCHCRAFT",
+        "TAROT"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph\nDirector - Daria Khoroshavina\nOriginal Source - Link\nINTERIOR\nDARK\nBLACK\nWITCHCRAFT\nTAROT",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025189.webp",
+      "alt_text": "Cinemagraph by Kevin Burg & Jamie Beck",
+      "discovered_at": "2025-09-11T08:12:02.651089",
+      "title": "Cinemagraph by Kevin Burg & Jamie Beck",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "FRUIT",
+        "ORANGE",
+        "TABLE",
+        "SATURATED",
+        "SATURATION",
+        "FOOD",
+        "MANDARINE",
+        "ORANGE BOWL",
+        "FRUIT BOWL"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Kevin Burg & Jamie Beck\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nFRUIT\nORANGE\nTABLE\nSATURATED\nSATURATION\nFOOD\nMANDARINE\nORANGE BOWL\nFRUIT BOWL",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702848.webp",
+      "alt_text": "Artist: Tech Noir",
+      "discovered_at": "2025-09-11T08:12:06.316890",
+      "title": "Artist: Tech Noir",
+      "description": "",
+      "tags": [
+        "MALE",
+        "BLUE SKY",
+        "WOMAN",
+        "BEACH",
+        "SAND",
+        "SKY",
+        "COUPLE",
+        "OCEAN",
+        "TWO SHOT",
+        "VINTAGE",
+        "VACATION",
+        "PICNIC",
+        "SUNNY",
+        "RELAXING"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Artist: Tech Noir\nTechnique - Cinemagraph\nMALE\nBLUE SKY\nWOMAN\nBEACH\nSAND\nSKY\nCOUPLE\nOCEAN\nTWO SHOT\nVINTAGE\nVACATION\nPICNIC\nSUNNY\nRELAXING",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024293.webp",
+      "alt_text": "Cinemagraph from Fight Club",
+      "discovered_at": "2025-09-11T08:12:09.453234",
+      "title": "Cinemagraph from Fight Club (1999)",
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more. Panavision Primo Primes, Panavision Primo Zooms,",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "SMOKING",
+        "FILM",
+        "35MM",
+        "SUPER 35",
+        "PANAVISION PRIMO PRIMES",
+        "PANAVISION PRIMO ZOOMS",
+        "PANAVISION PLATINUM",
+        "SPHERICAL"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "James Haygood (Editor)",
+      "dop": "Jeff Cronenweth",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "Cinemagraph from Fight Club (1999)\nAn insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more. Panavision Primo Primes, Panavision Primo Zooms,\nTechnique - Cinemagraph\nDirector - David Fincher\nDOP - Jeff Cronenweth\nEditor - James Haygood (Editor)\nColorist - Stephen Nakamura\nOriginal Source - Link\nINTERIOR\nDARK\nSMOKING\nFILM\n35MM\nSUPER 35\nPANAVISION PRIMO PRIMES\n2.39\nPANAVISION PRIMO ZOOMS\nPANAVISION PLATINUM\nSPHERICAL",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024830.webp",
+      "alt_text": "Kevin Burg & Jamie Beck for Armani",
+      "discovered_at": "2025-09-11T08:12:13.112767",
+      "title": "Kevin Burg & Jamie Beck for Armani",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "DAY",
+        "GLASSES",
+        "EXTERIOR",
+        "COLORFUL",
+        "PARK",
+        "SATURATION",
+        "SEASONAL",
+        "LEAVES",
+        "FALL"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin Burg & Jamie Beck for Armani\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nDAY\nGLASSES\nEXTERIOR\nCOLORFUL\nPARK\nSATURATION\nSEASONAL\nLEAVES\nFALL",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704070795.webp",
+      "alt_text": "Casino",
+      "discovered_at": "2025-09-11T08:12:16.791912",
+      "title": "Casino (1995)",
+      "description": "In Las Vegas, two best friends - a casino executive and a mafia enforcer - compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "tags": [
+        "INTERIOR",
+        "REFLECTION"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Cinemagraph",
+        "Reflections",
+        "Window shot"
+      ],
+      "director": "Thelma Schoonmaker",
+      "dop": "Robert Richardson",
+      "colorist": "John Gardiner",
+      "original_source": "",
+      "additional_info": "Casino (1995)\nIn Las Vegas, two best friends - a casino executive and a mafia enforcer - compete for a gambling empire and a fast-living, fast-loving socialite.\nTechnique - 1990s , Cinemagraph , Reflections , Window shot\nDirector - Martin Scorsese\nDOP - Robert Richardson\nEditor - Thelma Schoonmaker\nColorist - John Gardiner\nOriginal Source - Link\nTutorial - Link\nINTERIOR\nREFLECTION",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533387.webp",
+      "alt_text": "Cinemagraph",
+      "discovered_at": "2025-09-11T08:12:19.959977",
+      "title": "Cinemagraph (2014)",
+      "description": "",
+      "tags": [
+        "WATER",
+        "BLACK AND WHITE",
+        "PUDDLE"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Reflections"
+      ],
+      "director": "Julien Douvier",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph (2014)\nTechnique - Cinemagraph , Reflections\nDirector - Julien Douvier\nOriginal Source - Link\nWATER\nBLACK AND WHITE\nPUDDLE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071793.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:12:23.110954",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "INTERIOR",
+        "SLOW MOTION",
+        "DARK",
+        "KITCHEN",
+        "POWDER",
+        "PLATE"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph\nDirector - Daria Khoroshavina\nOriginal Source - Link\nINTERIOR\nSLOW MOTION\nDARK\nKITCHEN\nPOWDER\nPLATE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533361.webp",
+      "alt_text": "Cinemagraph",
+      "discovered_at": "2025-09-11T08:12:26.799338",
+      "title": "Cinemagraph (2014)",
+      "description": "",
+      "tags": [
+        "WATER",
+        "BIKE",
+        "BLACK AND WHITE",
+        "BICYCLE"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Reflections"
+      ],
+      "director": "Julien Douvier",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph (2014)\nTechnique - Cinemagraph , Reflections\nDirector - Julien Douvier\nOriginal Source - Link\nWATER\nBIKE\nBLACK AND WHITE\nBICYCLE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071442.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:12:30.485264",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "LIGHT",
+        "WHITE",
+        "OVERHEAD",
+        "MAGICAL SURREALISM"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Magical realism"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph , Magical realism\nDirector - Daria Khoroshavina\nOriginal Source - Link\nLIGHT\nWHITE\nOVERHEAD\nMAGICAL SURREALISM",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071690.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:12:34.681290",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "SLOW MOTION",
+        "HIGH ANGLE",
+        "POUR",
+        "TEA"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph\nDirector - Daria Khoroshavina\nOriginal Source - Link\nSLOW MOTION\nHIGH ANGLE\nPOUR\nTEA",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/14/261707899425.webp",
+      "alt_text": "The Red Circle",
+      "discovered_at": "2025-09-11T08:12:38.886052",
+      "title": "The Red Circle (1970)",
+      "description": "After leaving prison, master thief Corey crosses paths with a notorious escapee and an alcoholic former policeman. The trio proceed to plot an elaborate heist.",
+      "tags": [
+        "MALE",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "1970s",
+        "Central Framing",
+        "Cinemagraph",
+        "Single shot"
+      ],
+      "director": "Marie Sophie Dubus",
+      "dop": "Henri Decaë",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Red Circle (1970)\nAfter leaving prison, master thief Corey crosses paths with a notorious escapee and an alcoholic former policeman. The trio proceed to plot an elaborate heist.\nTechnique - 1970s , Central Framing , Cinemagraph , Single shot\nDirector - Jean-Pierre Melville\nDOP - Henri Decaë\nEditor - Marie Sophie Dubus\nMALE\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533339.webp",
+      "alt_text": "Cinemagraph",
+      "discovered_at": "2025-09-11T08:12:43.081321",
+      "title": "Cinemagraph (2014)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE",
+        "WINDOW",
+        "RAIN",
+        "RAIN DROPS"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Julien Douvier",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph (2014)\nTechnique - Cinemagraph\nDirector - Julien Douvier\nOriginal Source - Link\nBLACK AND WHITE\nWINDOW\nRAIN\nRAIN DROPS",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024988.webp",
+      "alt_text": "Kevin Burg & Jamie Beck - Pont Louis-Philippe",
+      "discovered_at": "2025-09-11T08:12:46.764154",
+      "title": "Kevin Burg & Jamie Beck - Pont Louis-Philippe",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "DAY",
+        "BRIDGE",
+        "REFLECTION",
+        "CITY",
+        "FOG",
+        "RIVER",
+        "MIST",
+        "HAZE",
+        "SMOG"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin Burg & Jamie Beck - Pont Louis-Philippe\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nDAY\nBRIDGE\nREFLECTION\nCITY\nFOG\nRIVER\nMIST\nHAZE\nSMOG",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533476.webp",
+      "alt_text": "Cinemagraph",
+      "discovered_at": "2025-09-11T08:12:50.437659",
+      "title": "Cinemagraph (2014)",
+      "description": "",
+      "tags": [
+        "BLACK AND WHITE",
+        "HALLWAY",
+        "CITY",
+        "ALLEY"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Fast Motion"
+      ],
+      "director": "Julien Douvier",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph (2014)\nTechnique - Cinemagraph , Fast Motion\nDirector - Julien Douvier\nOriginal Source - Link\nBLACK AND WHITE\nHALLWAY\nCITY\nALLEY",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071479.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:12:54.076044",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "WHITE",
+        "INTERIOR",
+        "SLOW MOTION",
+        "COFFEE"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Slow Motion"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph , Slow Motion\nDirector - Daria Khoroshavina\nOriginal Source - Link\nWHITE\nINTERIOR\nSLOW MOTION\nCOFFEE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024663.webp",
+      "alt_text": "Kevin Burg & Jamie Beck for Chopard",
+      "discovered_at": "2025-09-11T08:12:57.210332",
+      "title": "Kevin Burg & Jamie Beck for Chopard",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "DRESS",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin Burg & Jamie Beck for Chopard\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nDAY\nWOMAN\nDRESS\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025716.webp",
+      "alt_text": "Older Brother - Talk to Your Plants",
+      "discovered_at": "2025-09-11T08:13:00.864954",
+      "title": "Older Brother - Talk to Your Plants (2016)",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "INTERIOR",
+        "TWO SHOT",
+        "BROWN",
+        "BEIGE",
+        "WIDE",
+        "MUTED"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Two Shot"
+      ],
+      "director": "Ryan Bush (Photographer)",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Older Brother - Talk to Your Plants (2016)\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph , Two Shot\nDirector - Ryan Bush (Photographer)\nOriginal Source - Link\nINTERIOR\nTWO SHOT\nBROWN\nBEIGE\nWIDE\nMUTED",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024502.webp",
+      "alt_text": "Kevin Burg & Jamie Beck for Chanel",
+      "discovered_at": "2025-09-11T08:13:04.541201",
+      "title": "Kevin Burg & Jamie Beck for Chanel",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [],
+      "technique_tags": [
+        "Cinemagraph",
+        "Void"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin Burg & Jamie Beck for Chanel\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph , Void\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071889.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:13:07.717890",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "STUDIO",
+        "ORANGE",
+        "TEA",
+        "HONEY",
+        "JAR"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph\nDirector - Daria Khoroshavina\nOriginal Source - Link\nSTUDIO\nORANGE\nTEA\nHONEY\nJAR",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024270.webp",
+      "alt_text": "Cinemagraph from Fight Club",
+      "discovered_at": "2025-09-11T08:13:11.397182",
+      "title": "Cinemagraph from Fight Club (1999)",
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more. Panavision Primo Primes, Panavision Primo Zooms,",
+      "tags": [
+        "INTERIOR",
+        "FILM",
+        "35MM",
+        "SUPER 35",
+        "PANAVISION PRIMO PRIMES",
+        "PANAVISION PRIMO ZOOMS",
+        "PANAVISION PLATINUM",
+        "SPHERICAL"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "James Haygood (Editor)",
+      "dop": "Jeff Cronenweth",
+      "colorist": "Stephen Nakamura",
+      "original_source": "",
+      "additional_info": "Cinemagraph from Fight Club (1999)\nAn insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more. Panavision Primo Primes, Panavision Primo Zooms,\nTechnique - Cinemagraph\nDirector - David Fincher\nDOP - Jeff Cronenweth\nEditor - James Haygood (Editor)\nColorist - Stephen Nakamura\nOriginal Source - Link\nINTERIOR\nFILM\n35MM\nSUPER 35\nPANAVISION PRIMO PRIMES\n2.39\nPANAVISION PRIMO ZOOMS\nPANAVISION PLATINUM\nSPHERICAL",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702573.webp",
+      "alt_text": "Brainstorm",
+      "discovered_at": "2025-09-11T08:13:15.097516",
+      "title": "Brainstorm (1983)",
+      "description": "Researchers develop a system where they can jump into people's minds. But when people involved bring their personal problems into the equation, it becomes dangerous - perhaps deadly.",
+      "tags": [
+        "MALE",
+        "WHITE",
+        "GREY",
+        "COOL",
+        "CINEMAGRAPH",
+        "MACHINE",
+        "BRAINSTORM",
+        "80S",
+        "1980S",
+        "GREYS",
+        "FUTURE",
+        "CHRISTOPHER WALKEN",
+        "EXPRESSIONLESS",
+        "WALKEN",
+        "TRUMBULL"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Central Framing",
+        "Cinemagraph",
+        "Medium Close-up"
+      ],
+      "director": "Edward Warschilka, Freeman A. Davies",
+      "dop": "Richard Yuricich",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Brainstorm (1983)\nResearchers develop a system where they can jump into people's minds. But when people involved bring their personal problems into the equation, it becomes dangerous - perhaps deadly.\nTechnique - 1980s , Central Framing , Cinemagraph , Medium Close-up\nDirector - Douglas Trumbull\nDOP - Richard Yuricich\nEditor - Edward Warschilka, Freeman A. Davies\nMALE\nWHITE\nGREY\nCOOL\nCINEMAGRAPH\nMACHINE\nBRAINSTORM\n80S\n1980S\nGREYS\nFUTURE\nCHRISTOPHER WALKEN\n1983\nEXPRESSIONLESS\nWALKEN\nTRUMBULL",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024563.webp",
+      "alt_text": "Kevin Burg & Jamie Beck for Armani",
+      "discovered_at": "2025-09-11T08:13:18.782297",
+      "title": "Kevin Burg & Jamie Beck for Armani",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "DAY",
+        "GLASSES",
+        "INTERIOR",
+        "MUTED",
+        "BOOK",
+        "COFFEE",
+        "OVERHEAD CLOSE UP"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin Burg & Jamie Beck for Armani\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nDAY\nGLASSES\nINTERIOR\nMUTED\nBOOK\nCOFFEE\nOVERHEAD CLOSE UP",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261709960228.webp",
+      "alt_text": "The Tragedy of Macbeth",
+      "discovered_at": "2025-09-11T08:13:22.454780",
+      "title": "The Tragedy of Macbeth (2021)",
+      "description": "A Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.",
+      "tags": [
+        "WATER",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Middle Ages",
+        "Reflections"
+      ],
+      "director": "Lucian Johnston",
+      "dop": "Bruno Delbonnel",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Tragedy of Macbeth (2021)\nA Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.\nTechnique - Cinemagraph , Middle Ages , Reflections\nDirector - Joel Coen\nDOP - Bruno Delbonnel\nEditor - Lucian Johnston\nWATER\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702937.webp",
+      "alt_text": "Original source: Ferris Bueller's Day Off",
+      "discovered_at": "2025-09-11T08:13:26.102571",
+      "title": "Original source: Ferris Bueller's Day Off (1986)",
+      "description": "",
+      "tags": [
+        "WHITE",
+        "WOMAN",
+        "WINDOW",
+        "REFLECTION",
+        "FERRIS BUELLER"
+      ],
+      "technique_tags": [
+        "1980s",
+        "Cinemagraph"
+      ],
+      "director": "Paul Hirsch",
+      "dop": "Tak Fujimoto",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Original source: Ferris Bueller's Day Off (1986)\nTechnique - 1980s , Cinemagraph\nDirector - John Hughes\nDOP - Tak Fujimoto\nEditor - Paul Hirsch\nWHITE\nWOMAN\nWINDOW\nREFLECTION\nFERRIS BUELLER\n1986",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071721.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:13:29.248785",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "BED",
+        "BOOKS",
+        "SHEETS",
+        "BUTTERFLY"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph\nDirector - Daria Khoroshavina\nOriginal Source - Link\nBED\nBOOKS\nSHEETS\nBUTTERFLY",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024626.webp",
+      "alt_text": "Kevin Burg & Jamie Beck for Saks Fifth Avenue",
+      "discovered_at": "2025-09-11T08:13:32.398397",
+      "title": "Kevin Burg & Jamie Beck for Saks Fifth Avenue",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "WHITE",
+        "FEET",
+        "INTERIOR",
+        "DINING",
+        "TABLE",
+        "LEGS",
+        "RABBIT",
+        "BUNNY"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin Burg & Jamie Beck for Saks Fifth Avenue\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nWHITE\nFEET\nINTERIOR\nDINING\nTABLE\nLEGS\nRABBIT\nBUNNY",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704025039.webp",
+      "alt_text": "Kevin Burg & Jamie Beck - Tierra Patagonia",
+      "discovered_at": "2025-09-11T08:13:36.061199",
+      "title": "Kevin Burg & Jamie Beck - Tierra Patagonia",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "WATER",
+        "POOL",
+        "NATURE",
+        "HOUSE",
+        "INTERIOR",
+        "GLASS",
+        "INDOORS",
+        "WINDOWS",
+        "MOUNTAINS",
+        "TIERRA PATAGONIA",
+        "STEAM",
+        "PATAGONIA"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin Burg & Jamie Beck - Tierra Patagonia\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nWATER\nPOOL\nNATURE\nHOUSE\nINTERIOR\nGLASS\nINDOORS\nWINDOWS\nMOUNTAINS\nTIERRA PATAGONIA\nSTEAM\nPATAGONIA",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704072003.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:13:39.734667",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "PINK",
+        "COLORFUL",
+        "DESSERT",
+        "FLOATING",
+        "DONUT",
+        "SATURATION",
+        "FOOD",
+        "LEVITATION",
+        "MAGIC",
+        "SWEETS"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Levitation",
+        "Magical realism"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph , Levitation , Magical realism\nDirector - Daria Khoroshavina\nOriginal Source - Link\nPINK\nCOLORFUL\nDESSERT\nFLOATING\nDONUT\nSATURATION\nFOOD\nLEVITATION\nMAGIC\nSWEETS",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533259.webp",
+      "alt_text": "Cinemagraph",
+      "discovered_at": "2025-09-11T08:13:43.411595",
+      "title": "Cinemagraph (2014)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "BLACK AND WHITE",
+        "EXTERIOR",
+        "TRAIN",
+        "CITY",
+        "BIKING",
+        "BICYCLE"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Julien Douvier",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph (2014)\nTechnique - Cinemagraph\nDirector - Julien Douvier\nOriginal Source - Link\nDAY\nBLACK AND WHITE\nEXTERIOR\nTRAIN\nCITY\nBIKING\nBICYCLE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071754.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:13:47.084415",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "INTERIOR",
+        "DARK",
+        "SMOKING",
+        "SMOKE",
+        "DRINK",
+        "KITCHEN",
+        "COOKING",
+        "PINECONE"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph\nDirector - Daria Khoroshavina\nOriginal Source - Link\nINTERIOR\nDARK\nSMOKING\nSMOKE\nDRINK\nKITCHEN\nCOOKING\nPINECONE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/31/261704024882.webp",
+      "alt_text": "Kevin Burg & Jamie Beck for Lincoln",
+      "discovered_at": "2025-09-11T08:13:50.751187",
+      "title": "Kevin Burg & Jamie Beck for Lincoln",
+      "description": "Cinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.",
+      "tags": [
+        "WOMAN",
+        "CAR",
+        "NATURE",
+        "DUSK",
+        "SUNSET",
+        "GRASS",
+        "EXTERIOR",
+        "FIELD",
+        "WIDE",
+        "LINCOLN"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Kevin Burg & Jamie Beck",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Kevin Burg & Jamie Beck for Lincoln\nCinemagraphs are a mesmerizing visual medium that combines a static image with subtle, isolated movements, creating an immersive and captivating experience.\nTechnique - Cinemagraph\nDirector - Kevin Burg & Jamie Beck\nOriginal Source - Link\nWOMAN\nCAR\nNATURE\nDUSK\nSUNSET\nGRASS\nEXTERIOR\nFIELD\nWIDE\nLINCOLN",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704071291.webp",
+      "alt_text": "Cinemagraph by Daria Khoroshavina",
+      "discovered_at": "2025-09-11T08:13:53.883805",
+      "title": "Cinemagraph by Daria Khoroshavina",
+      "description": "The project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.",
+      "tags": [
+        "GLASS",
+        "BEER"
+      ],
+      "technique_tags": [
+        "Cinemagraph"
+      ],
+      "director": "Daria Khoroshavina",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph by Daria Khoroshavina\nThe project Kitchen Ghosts is about food, drinks and other little precious moments of life captured and looped in live photographs.\nTechnique - Cinemagraph\nDirector - Daria Khoroshavina\nOriginal Source - Link\nGLASS\nBEER",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710312929.webp",
+      "alt_text": "New York Cinemagraph",
+      "discovered_at": "2025-09-11T08:13:57.554229",
+      "title": "New York Cinemagraph (2017)",
+      "description": "",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "CITY",
+        "NEW YORK CITY",
+        "BIRDS",
+        "BUS"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Low Angle"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "New York Cinemagraph (2017)\nFrom artist Julia Marie Werner\nTechnique - Cinemagraph , Low Angle\nOriginal Source - Link\nDAY\nEXTERIOR\nCITY\nNEW YORK CITY\nBIRDS\nBUS",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/24/261706084730.webp",
+      "alt_text": "Peeping Tom",
+      "discovered_at": "2025-09-11T08:14:01.229023",
+      "title": "Peeping Tom (1960)",
+      "description": "A young man murders women, using a movie camera to film their dying expressions of terror.",
+      "tags": [
+        "CAMERA",
+        "1960S",
+        "TOM"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Cinemagraph"
+      ],
+      "director": "Noreen Ackland",
+      "dop": "Otto Heller",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Peeping Tom (1960)\nA young man murders women, using a movie camera to film their dying expressions of terror.\nTechnique - 1960s , Cinemagraph\nDirector - Michael Powell\nDOP - Otto Heller\nEditor - Noreen Ackland\nCAMERA\n1960S\n1960\nTOM",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709533311.webp",
+      "alt_text": "Cinemagraph",
+      "discovered_at": "2025-09-11T08:14:04.893213",
+      "title": "Cinemagraph (2014)",
+      "description": "",
+      "tags": [
+        "WATER",
+        "BLACK AND WHITE"
+      ],
+      "technique_tags": [
+        "Cinemagraph",
+        "Reflections"
+      ],
+      "director": "Julien Douvier",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Cinemagraph (2014)\nTechnique - Cinemagraph , Reflections\nDirector - Julien Douvier\nOriginal Source - Link\nWATER\nBLACK AND WHITE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/01/261704069890.webp",
+      "alt_text": "Trent Jaklitsch - Alyssa Monks",
+      "discovered_at": "2025-09-11T08:14:08.079075",
+      "title": "Trent Jaklitsch - Alyssa Monks (2014)",
+      "description": "",
+      "tags": [
+        "WATER",
+        "CLOSE UP",
+        "LAKE",
+        "REFLECTION",
+        "HAND",
+        "BOAT",
+        "GROUND SHOT"
+      ],
+      "technique_tags": [
+        "2010s",
+        "Cinemagraph",
+        "Water Level"
+      ],
+      "director": "Trent Jaklitsch",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Trent Jaklitsch - Alyssa Monks (2014)\nTechnique - 2010s , Cinemagraph , Water Level\nDirector - Trent Jaklitsch\nOriginal Source - Link\nWATER\nCLOSE UP\nLAKE\nREFLECTION\nHAND\nBOAT\nGROUND SHOT",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/16/261702702829.webp",
+      "alt_text": "Train Spotting",
+      "discovered_at": "2025-09-11T08:14:11.787168",
+      "title": "Train Spotting (1996)",
+      "description": "",
+      "tags": [
+        "MALE",
+        "WHITE",
+        "WOMAN",
+        "CIGARETTE",
+        "INTERIOR",
+        "BED",
+        "COUPLE",
+        "SMOKING",
+        "TRAIN SPOTTING",
+        "DANNY BOYLE"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Cinemagraph",
+        "Suggestive"
+      ],
+      "director": "Masahiro Hirakubo",
+      "dop": "Brian Tufano",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Train Spotting (1996)\nTechnique - 1990s , Cinemagraph , Suggestive\nDirector - Danny Boyle\nDOP - Brian Tufano\nEditor - Masahiro Hirakubo\nMALE\nWHITE\nWOMAN\nCIGARETTE\nINTERIOR\nBED\nCOUPLE\nSMOKING\n1996\nTRAIN SPOTTING\nDANNY BOYLE",
+      "page_url": "https://eyecannndy.com/technique/cinemagraph"
     }
   ]
 }
