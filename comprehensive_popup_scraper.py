@@ -600,21 +600,27 @@ class ComprehensivePopupScraper:
         if not video_elements:
             return []
         
-        # Process videos (all videos if max_videos is None)
-        videos_to_process = video_elements[:max_videos] if max_videos else video_elements
+        # Apply max_videos limit and resume logic correctly
+        if max_videos:
+            # Limit total videos to process
+            total_videos_to_process = min(len(video_elements), max_videos)
+            video_elements = video_elements[:total_videos_to_process]
+            self.logger.info(f"Limited to {total_videos_to_process} videos (max_videos={max_videos})")
         
         # Resume from specific index
         if resume_index > 0:
-            videos_to_process = videos_to_process[resume_index:]
+            videos_to_process = video_elements[resume_index:]
             self.logger.info(f"Resuming from video {resume_index + 1}, processing {len(videos_to_process)} remaining videos")
         else:
+            videos_to_process = video_elements
             self.logger.info(f"Processing all {len(videos_to_process)} videos")
         
         extracted_videos = []
         
         for i, video_element in enumerate(videos_to_process):
             current_video_index = resume_index + i
-            self.logger.info(f"Processing video {current_video_index + 1}/{len(video_elements)} for {technique}")
+            total_videos_display = len(video_elements) if max_videos else len(video_elements)
+            self.logger.info(f"Processing video {current_video_index + 1}/{total_videos_display} for {technique}")
             
             # Save progress every CHECKPOINT_INTERVAL videos
             if i % CHECKPOINT_INTERVAL == 0:

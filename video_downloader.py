@@ -351,24 +351,24 @@ class VideoDownloader:
             self.logger.info(f"Progress file: {self.progress_file}")
         self.logger.info("="*50)
 
-def find_latest_json_file() -> str:
+def find_technique_json_files() -> List[str]:
     """
-    Find the latest eyecandy videos JSON file in the data directory.
+    Find all technique JSON files in the technique_files directory.
     
     Returns:
-        Path to the latest JSON file
+        List of paths to technique JSON files
     """
-    data_dir = Path('data')
+    data_dir = Path('technique_files')
     if not data_dir.exists():
-        raise FileNotFoundError("Data directory not found")
+        raise FileNotFoundError("technique_files directory not found")
     
-    json_files = list(data_dir.glob('eyecandy_videos_*.json'))
+    json_files = list(data_dir.glob('*.json'))
     if not json_files:
-        raise FileNotFoundError("No eyecandy videos JSON files found")
+        raise FileNotFoundError("No technique JSON files found in technique_files directory")
     
-    # Sort by modification time and get the latest
-    latest_file = max(json_files, key=lambda f: f.stat().st_mtime)
-    return str(latest_file)
+    # Sort by name for consistent processing
+    json_files.sort()
+    return [str(f) for f in json_files]
 
 def main():
     """
@@ -378,17 +378,29 @@ def main():
     print("=" * 30)
     
     try:
-        # Find the latest JSON file
-        json_file = find_latest_json_file()
-        print(f"Using metadata file: {json_file}")
+        # Find all technique JSON files
+        json_files = find_technique_json_files()
+        print(f"Found {len(json_files)} technique files to process")
         
         # Initialize downloader
         downloader = VideoDownloader()
         
-        # Download all videos (you can limit with max_videos parameter)
-        # For testing, you might want to start with a small number like max_videos=10
-        max_videos = MAX_VIDEOS_TO_DOWNLOAD if MAX_VIDEOS_TO_DOWNLOAD > 0 else None
-        downloader.download_all_videos(json_file, max_videos=max_videos)
+        # Process each technique file
+        max_videos_per_technique = MAX_VIDEOS_TO_DOWNLOAD if MAX_VIDEOS_TO_DOWNLOAD > 0 else None
+        
+        for json_file in json_files:
+            technique_name = Path(json_file).stem
+            print(f"\nProcessing technique: {technique_name}")
+            print(f"Using metadata file: {json_file}")
+            
+            try:
+                downloader.download_all_videos(json_file, max_videos=max_videos_per_technique)
+            except Exception as e:
+                print(f"Error processing {technique_name}: {e}")
+                continue
+        
+        # Print final stats
+        downloader.print_download_stats()
         
     except Exception as e:
         print(f"Error: {e}")

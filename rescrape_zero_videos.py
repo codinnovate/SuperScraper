@@ -4,6 +4,10 @@ Script to automatically re-scrape techniques that had zero videos in the previou
 Reads the scraping summary JSON file and re-scrapes all techniques with 'no_videos' status.
 """
 
+# Configuration: Set the maximum number of videos to scrape per technique
+# Options: 'full' (all videos), or a specific number like 30, 40, etc.
+MAX_VIDEOS_PER_TECHNIQUE = 30  # Change to 30, 40, or any number to limit videos
+
 import json
 import sys
 import os
@@ -45,7 +49,11 @@ def rescrape_techniques(techniques):
     for i, technique in enumerate(techniques, 1):
         print(f"  {i}. {technique}")
     
-    print("\nStarting re-scraping process...")
+    print(f"\nStarting re-scraping process...")
+    if MAX_VIDEOS_PER_TECHNIQUE == 'full':
+        print("Configuration: Scraping ALL videos per technique")
+    else:
+        print(f"Configuration: Limiting to {MAX_VIDEOS_PER_TECHNIQUE} videos per technique")
     
     # Initialize the scraper
     scraper = ComprehensivePopupScraper()
@@ -76,8 +84,11 @@ def rescrape_techniques(techniques):
                     with open(progress_file, 'w') as f:
                         json.dump(original_progress, f, indent=2)
                 
+                # Determine max_videos based on configuration
+                max_videos = None if MAX_VIDEOS_PER_TECHNIQUE == 'full' else MAX_VIDEOS_PER_TECHNIQUE
+                
                 # Scrape the technique directly (scraper handles URL construction)
-                videos = scraper.scrape_technique_page(technique)
+                videos = scraper.scrape_technique_page(technique, max_videos=max_videos)
                 
                 if videos:
                     # Count videos with descriptions

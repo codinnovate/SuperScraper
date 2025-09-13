@@ -1,0 +1,59 @@
+{
+  "technique": "wierdcore",
+  "scrape_info": {
+    "timestamp": "20250913_150924",
+    "total_videos": 2,
+    "scraper_type": "comprehensive_popup_modal",
+    "status": "in_progress"
+  },
+  "videos": [
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/08/261707405379.webp",
+      "alt_text": "Litterbug S1E7 (TV Series)",
+      "discovered_at": "2025-09-13T15:09:20.374401",
+      "title": "Litterbug S1E7 (TV Series)",
+      "description": "A horror claymation about recycling. Episode 7 of director Trent Shy's Death Vote series.",
+      "tags": [
+        "EXTERIOR",
+        "HORROR",
+        "FLOWER",
+        "CLAY",
+        "LITTER"
+      ],
+      "technique_tags": [
+        "Claymation",
+        "Stop Motion",
+        "Weirdcore"
+      ],
+      "director": "Trent Shy",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Litterbug S1E7 (TV Series)\nA horror claymation about recycling. Episode 7 of director Trent Shy's Death Vote series.\nTechnique - Claymation , Stop Motion , Weirdcore\nDirector - Trent Shy\nOriginal Source - Link\nEXTERIOR\nHORROR\nFLOWER\nCLAY\nLITTER",
+      "page_url": "https://eyecannndy.com/technique/wierdcore"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/04/261707007053.webp",
+      "alt_text": "Happy Pink And Blue GIF By Simon Falk",
+      "discovered_at": "2025-09-13T15:09:24.524238",
+      "title": "Happy Pink And Blue GIF By Simon Falk",
+      "description": "Happy Pink And Blue GIF By Simon Falk",
+      "tags": [
+        "WOMAN",
+        "DANCING",
+        "GRADIENT",
+        "CHECKERED",
+        "COLOR SHIFT"
+      ],
+      "technique_tags": [
+        "Weirdcore"
+      ],
+      "director": "",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Happy Pink And Blue GIF By Simon Falk\nTechnique - Weirdcore\nWOMAN\nDANCING\nGRADIENT\nCHECKERED\nCOLOR SHIFT",
+      "page_url": "https://eyecannndy.com/technique/wierdcore"
+    }
+  ]
+}
