@@ -1,46 +1,431 @@
 {
   "technique": "pan",
   "scrape_info": {
-    "timestamp": "20250912_002427",
-    "total_videos": 48,
+    "timestamp": "20250912_172022",
+    "total_videos": 47,
     "scraper_type": "comprehensive_popup_modal"
   },
   "videos": [
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384601.webp",
-      "alt_text": "Asteroid City",
-      "discovered_at": "2025-09-12T00:21:40.236735",
-      "title": "Asteroid City (2023)",
-      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710025907.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T17:17:28.976767",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
       "tags": [
-        "DAY",
-        "WES ANDERSON",
-        "EXTERIOR",
-        "SATURATED",
-        "2.39 ANAMORPHIC",
-        "FILM 35MM",
-        "ZEISS MASTER ANAMORPHICS",
-        "COOKE S4/ I",
-        "DESERT",
-        "ARRICAM LT",
-        "ARRICAM ST",
-        "CYAN"
+        "RUNNING",
+        "EXTERIOR"
       ],
       "technique_tags": [
-        "1950s",
         "Pan"
       ],
-      "director": "Barney Pilling",
-      "dop": "Robert Yeoman",
-      "colorist": "Gareth Spensley",
+      "director": "James Herbert",
+      "dop": "Ed Wild",
+      "colorist": "",
       "original_source": "",
-      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.\nTechnique - 1950s , Pan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nDAY\nWES ANDERSON\nEXTERIOR\nSATURATED\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nDESERT\nARRICAM LT\nARRICAM ST\nCYAN",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Pan\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nRUNNING\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715641625.webp",
+      "alt_text": "Vince Staples - Norf Norf",
+      "discovered_at": "2025-09-12T17:17:32.593442",
+      "title": "Vince Staples - Norf Norf (2015)",
+      "description": "The music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.",
+      "tags": [
+        "INTERIOR",
+        "BLACK AND WHITE",
+        "JAIL",
+        "ARRESTED",
+        "PRISON",
+        "VINCE STAPLES"
+      ],
+      "technique_tags": [
+        "Pan"
+      ],
+      "director": "Spike Jordan, Vince Staples",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Vince Staples - Norf Norf (2015)\nThe music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.\nTechnique - Pan\nDirector - Spike Jordan, Vince Staples\nOriginal Source - Link\nINTERIOR\nBLACK AND WHITE\nJAIL\nARRESTED\nPRISON\nVINCE STAPLES",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709094715.webp",
+      "alt_text": "Beethoven",
+      "discovered_at": "2025-09-12T17:17:35.765068",
+      "title": "Beethoven (1992)",
+      "description": "A slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.",
+      "tags": [
+        "DAY",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Pan"
+      ],
+      "director": "Sheldon Kahn, William D. Gordean",
+      "dop": "Victor J. Kemper",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - 1990s , Pan\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nOriginal Source - Link\nDAY\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709537573.webp",
+      "alt_text": "Miel De Montagne - Le Pigeon",
+      "discovered_at": "2025-09-12T17:17:39.390611",
+      "title": "Miel De Montagne - Le Pigeon (2023)",
+      "description": "2023 music video directed and edited by Morgan Jouquand.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "SKATING",
+        "SKATEBOARD",
+        "PAN",
+        "PIGEON"
+      ],
+      "technique_tags": [
+        "Ground Level",
+        "Pan",
+        "Ultra Wide"
+      ],
+      "director": "Morgan Jouquand",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Miel De Montagne - Le Pigeon (2023)\n2023 music video directed and edited by Morgan Jouquand.\nTechnique - Ground Level , Pan , Ultra Wide\nDirector - Morgan Jouquand\nOriginal Source - Link\nDAY\nEXTERIOR\nSKATING\nSKATEBOARD\nPAN\nPIGEON",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097296.webp",
+      "alt_text": "Beethoven",
+      "discovered_at": "2025-09-12T17:17:43.041873",
+      "title": "Beethoven (1992)",
+      "description": "A slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "INTERIOR",
+        "MIRROR",
+        "BEDROOM",
+        "ROOM"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Focal shift",
+        "Pan"
+      ],
+      "director": "Sheldon Kahn, William D. Gordean",
+      "dop": "Victor J. Kemper",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - 1990s , Focal shift , Pan\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nDAY\nWOMAN\nINTERIOR\nMIRROR\nBEDROOM\nROOM",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709095093.webp",
+      "alt_text": "Beethoven",
+      "discovered_at": "2025-09-12T17:17:46.179259",
+      "title": "Beethoven (1992)",
+      "description": "A slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.",
+      "tags": [
+        "DAY",
+        "WALKING",
+        "EXTERIOR",
+        "RAIN",
+        "DOG",
+        "POSTER"
+      ],
+      "technique_tags": [
+        "1990s",
+        "Pan"
+      ],
+      "director": "Sheldon Kahn, William D. Gordean",
+      "dop": "Victor J. Kemper",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - 1990s , Pan\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nDAY\nWALKING\nEXTERIOR\nRAIN\nDOG\nPOSTER",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706572377.webp",
+      "alt_text": "1917",
+      "discovered_at": "2025-09-12T17:17:49.791392",
+      "title": "1917 (2019)",
+      "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+      "tags": [
+        "EXPLOSION",
+        "RUNNING",
+        "NIGHT",
+        "WAR"
+      ],
+      "technique_tags": [
+        "Pan",
+        "Trucking"
+      ],
+      "director": "Lee Smith",
+      "dop": "Roger Deakins",
+      "colorist": "Greg Fisher",
+      "original_source": "",
+      "additional_info": "1917 (2019)\nApril 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.\nTechnique - Pan , Trucking\nDirector - Sam Mendes\nDOP - Roger Deakins\nEditor - Lee Smith\nColorist - Greg Fisher\nEXPLOSION\nRUNNING\nNIGHT\nWAR",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707641565.webp",
+      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
+      "discovered_at": "2025-09-12T17:17:53.410460",
+      "title": "Nu Genea - Marechià (with Célia Kameni) (2021)",
+      "description": "Nu Genea - Marechià (with Célia Kameni) (2021)",
+      "tags": [
+        "WALKING",
+        "EXTERIOR",
+        "TRAFFIC SIGN"
+      ],
+      "technique_tags": [
+        "Pan",
+        "Zoom out"
+      ],
+      "director": "Fabio Gargano, Guido Lombardi",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Nu Genea - Marechià (with Célia Kameni) (2021)\n2021 short film for Nu Genea from directors Guido Lombardi and Fabio Gargano.\nTechnique - Pan , Zoom out\nDirector - Fabio Gargano, Guido Lombardi\nOriginal Source - Link\nWALKING\nEXTERIOR\nTRAFFIC SIGN",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709095629.webp",
+      "alt_text": "Beethoven",
+      "discovered_at": "2025-09-12T17:17:57.066744",
+      "title": "Beethoven (1992)",
+      "description": "A slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "CHAIR"
+      ],
+      "technique_tags": [
+        "Campy",
+        "Pan"
+      ],
+      "director": "Sheldon Kahn, William D. Gordean",
+      "dop": "Victor J. Kemper",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - Campy , Pan\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nDAY\nEXTERIOR\nCHAIR",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998021.webp",
+      "alt_text": "Lil Dicky - HAHAHA",
+      "discovered_at": "2025-09-12T17:18:00.690671",
+      "title": "Lil Dicky - HAHAHA (2024)",
+      "description": "Lil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.",
+      "tags": [
+        "CAR",
+        "ROAD",
+        "DRIVING",
+        "NIGHT",
+        "EXTERIOR",
+        "CITY",
+        "VEHICLE",
+        "LIL DICKY",
+        "JOKER",
+        "CHASE"
+      ],
+      "technique_tags": [
+        "Pan"
+      ],
+      "director": "Phillip R Lopez",
+      "dop": "Benjamin Loeb",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Lil Dicky - HAHAHA (2024)\nLil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.\nTechnique - Pan\nDirector - Phillip R Lopez\nDOP - Benjamin Loeb\nColorist - Dante Pasquinelli\nOriginal Source - Link\nCAR\nROAD\nDRIVING\nNIGHT\nEXTERIOR\nCITY\nVEHICLE\nLIL DICKY\nJOKER\nCHASE",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123175.webp",
+      "alt_text": "Canon - Live for the Story",
+      "discovered_at": "2025-09-12T17:18:04.333600",
+      "title": "Canon - Live for the Story (2017)",
+      "description": "Canon - Live for the Story (2017)",
+      "tags": [
+        "CAR",
+        "ROAD",
+        "DRIVING",
+        "NIGHT",
+        "INTERIOR",
+        "FRIENDS",
+        "GROUP"
+      ],
+      "technique_tags": [
+        "Close-Up",
+        "Happiness",
+        "Pan"
+      ],
+      "director": "Joe Guest",
+      "dop": "Kasper Tuxen",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Canon - Live for the Story (2017)\nCreative Agency: VCCP ECD: Darren Bailes Creatives: Ben McCarthy / Seb Housden Account Handling: Emma Whitmarsh / Olivia Packshaw Agency Producer: Ed Mueller Director: Megaforce Film Production: Riff Raff Films Production Company Producer: Jane Lloyd Executive Producer: Matthew Fone Producer: Gemma Humphries Music Licensing: Finger Music Sound Mix: Ben Leeves @ Grand Central\nTechnique - Close-Up , Happiness , Pan\nDirector - Megaforce\nDOP - Kasper Tuxen\nEditor - Joe Guest\nOriginal Source - Link\nCAR\nROAD\nDRIVING\nNIGHT\nINTERIOR\nFRIENDS\nGROUP",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812867.webp",
+      "alt_text": "Sabrina Carpenter - Espresso",
+      "discovered_at": "2025-09-12T17:18:07.958969",
+      "title": "Sabrina Carpenter - Espresso (2024)",
+      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "tags": [
+        "BEACH",
+        "SAND",
+        "WALKING",
+        "POSE",
+        "SABRINA CARPENTER",
+        "MARILYN MONROE"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Away from Camera",
+        "Medium Close-up",
+        "Pan"
+      ],
+      "director": "Jai Shukla",
+      "dop": "Scott Cunningham",
+      "colorist": "Dante Pasquinelli",
+      "original_source": "",
+      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Away from Camera , Medium Close-up , Pan\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBEACH\nSAND\nWALKING\nPOSE\nSABRINA CARPENTER\nMARILYN MONROE",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710831605.webp",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "discovered_at": "2025-09-12T17:18:11.081616",
+      "title": "Oppo - Make Every Shot Stand Out (2024)",
+      "description": "Oppo - Make Every Shot Stand Out (2024)",
+      "tags": [
+        "WOMAN",
+        "INTERIOR",
+        "BARBERSHOP"
+      ],
+      "technique_tags": [
+        "Low Angle",
+        "Pan",
+        "Ultra Wide"
+      ],
+      "director": "Gramatova Katarina",
+      "dop": "Filip Marek",
+      "colorist": "Arthur Paux",
+      "original_source": "",
+      "additional_info": "Oppo - Make Every Shot Stand Out (2024)\nTechnique - Low Angle , Pan , Ultra Wide\nDirector - Jara Moravec\nDOP - Filip Marek\nEditor - Gramatova Katarina\nColorist - Arthur Paux\nOriginal Source - Link\nWOMAN\nINTERIOR\nBARBERSHOP",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480318.webp",
+      "alt_text": "Mula B - Blokke Gepikt",
+      "discovered_at": "2025-09-12T17:18:14.731838",
+      "title": "Mula B - Blokke Gepikt (2024)",
+      "description": "2024 music video for Mula B from director Folkert Verdoorn. Fire, snow, and a thrilling escape dance.",
+      "tags": [
+        "INTERIOR",
+        "HALLWAY",
+        "GUN",
+        "COPY",
+        "SOLDIER",
+        "RIFLE"
+      ],
+      "technique_tags": [
+        "Pan",
+        "Slow Motion"
+      ],
+      "director": "Folkert Verdoorn",
+      "dop": "Douwe Hennink",
+      "colorist": "De Grot",
+      "original_source": "",
+      "additional_info": "Mula B - Blokke Gepikt (2024)\n2024 music video for Mula B from director Folkert Verdoorn. Fire, snow, and a thrilling escape dance.\nTechnique - Pan , Slow Motion\nDirector - Folkert Verdoorn\nDOP - Douwe Hennink\nColorist - De Grot\nOriginal Source - Link\nINTERIOR\nHALLWAY\nGUN\nCOPY\nSOLDIER\nRIFLE",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409041.webp",
+      "alt_text": "Kendrick Lamar - Humble",
+      "discovered_at": "2025-09-12T17:18:18.361208",
+      "title": "Kendrick Lamar - Humble (2017)",
+      "description": "The visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.",
+      "tags": [
+        "CAR",
+        "ROAD",
+        "EXTERIOR",
+        "KENDRICK LAMAR",
+        "VEHICLE",
+        "COOL WHITE",
+        "GREY POUPON"
+      ],
+      "technique_tags": [
+        "Aside",
+        "Pan"
+      ],
+      "director": "Greg Scruton",
+      "dop": "Scott Cunningham",
+      "colorist": "Jaime O'Bradovich",
+      "original_source": "",
+      "additional_info": "Kendrick Lamar - Humble (2017)\nThe visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.\nTechnique - Aside , Pan\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Greg Scruton\nColorist - Jaime O'Bradovich\nOriginal Source - Link\nTutorial - Link\nCAR\nROAD\nEXTERIOR\nKENDRICK LAMAR\nVEHICLE\nCOOL WHITE\nGREY POUPON",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711005868.webp",
+      "alt_text": "Aminé - Charmander",
+      "discovered_at": "2025-09-12T17:18:22.521288",
+      "title": "Aminé - Charmander (2021)",
+      "description": "In the 2021 music video \"Charmander\" by Aminé, the artist retreats to a secluded cabin in the woods, symbolizing a quest for peace and introspection away from the pressures of fame. The video is characterized by a warm, earthy color palette and natural light, capturing the tranquil beauty of the forest setting. The nostalgic reference to Pokémon through the title \"Charmander\" adds a whimsical contrast to the mature themes of self-discovery and isolation.",
+      "tags": [
+        "GREEN",
+        "FOREST",
+        "NATURE",
+        "EXTERIOR",
+        "RAIN",
+        "WET",
+        "PORTLAND",
+        "OREGON"
+      ],
+      "technique_tags": [
+        "Fast Motion",
+        "Pan",
+        "Yo-Yo pan"
+      ],
+      "director": "Will Tooke",
+      "dop": "Ben Mullen",
+      "colorist": "Andrew Francis",
+      "original_source": "",
+      "additional_info": "Aminé - Charmander (2021)\nIn the 2021 music video \"Charmander\" by Aminé, the artist retreats to a secluded cabin in the woods, symbolizing a quest for peace and introspection away from the pressures of fame. The video is characterized by a warm, earthy color palette and natural light, capturing the tranquil beauty of the forest setting. The nostalgic reference to Pokémon through the title \"Charmander\" adds a whimsical contrast to the mature themes of self-discovery and isolation.\nTechnique - Fast Motion , Pan , Yo-Yo pan\nDirector - Adam Daniel, Jack Begert\nDOP - Ben Mullen\nEditor - Will Tooke\nColorist - Andrew Francis\nOriginal Source - Link\nGREEN\nFOREST\nNATURE\nEXTERIOR\nRAIN\nWET\nPORTLAND\nOREGON",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706478273.webp",
+      "alt_text": "Moonrise Kingdom",
+      "discovered_at": "2025-09-12T17:18:26.254166",
+      "title": "Moonrise Kingdom (2012)",
+      "description": "A whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.",
+      "tags": [
+        "DAY",
+        "EXTERIOR",
+        "BOAT",
+        "SHIP"
+      ],
+      "technique_tags": [
+        "1960s",
+        "Pan"
+      ],
+      "director": "Andrew Weisblum",
+      "dop": "Robert Yeoman",
+      "colorist": "Tim Stipan",
+      "original_source": "",
+      "additional_info": "Moonrise Kingdom (2012)\nA whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.\nTechnique - 1960s , Pan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Tim Stipan\nDAY\nEXTERIOR\nBOAT\nSHIP",
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702945156.webp",
       "alt_text": "PRADA presents \"CASTELLO CAVALCANTI\" by Wes Anderson",
-      "discovered_at": "2025-09-12T00:21:44.407867",
+      "discovered_at": "2025-09-12T17:18:29.881284",
       "title": "PRADA presents \"CASTELLO CAVALCANTI\" by Wes Anderson (2013)",
       "description": "PRADA presents \"CASTELLO CAVALCANTI\" by Wes Anderson (2013)",
       "tags": [
@@ -66,9 +451,57 @@
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710225341.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T17:18:33.525307",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Season 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "DAY",
+        "WOMAN",
+        "WALKING",
+        "EXTERIOR"
+      ],
+      "technique_tags": [
+        "Focal shift",
+        "Pan"
+      ],
+      "director": "Nick Allix",
+      "dop": "Callan Green",
+      "colorist": "Matthieu Toullet",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Focal shift , Pan\nDirector - Eran Creevy\nDOP - Callan Green\nEditor - Nick Allix\nColorist - Matthieu Toullet\nDAY\nWOMAN\nWALKING\nEXTERIOR",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706478354.webp",
+      "alt_text": "Hereditary",
+      "discovered_at": "2025-09-12T17:18:36.637760",
+      "title": "Hereditary (2018)",
+      "description": "A grieving family is haunted by tragic and disturbing occurrences.",
+      "tags": [
+        "DAY",
+        "CAR",
+        "DRIVING",
+        "SUNSET",
+        "EXTERIOR",
+        "VEHICLE",
+        "TELEPHONE POLE"
+      ],
+      "technique_tags": [
+        "Pan"
+      ],
+      "director": "Jennifer Lame, Lucian Johnston",
+      "dop": "Pawel Pogorzelski",
+      "colorist": "Andrew Francis",
+      "original_source": "",
+      "additional_info": "Hereditary (2018)\nA grieving family is haunted by tragic and disturbing occurrences.\nTechnique - Pan\nDirector - Ari Aster\nDOP - Pawel Pogorzelski\nEditor - Jennifer Lame, Lucian Johnston\nColorist - Andrew Francis\nOriginal Source - Link\nTutorial - Link\nDAY\nCAR\nDRIVING\nSUNSET\nEXTERIOR\nVEHICLE\nTELEPHONE POLE",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947181.webp",
       "alt_text": "The Grand Budapest Hotel",
-      "discovered_at": "2025-09-12T00:21:47.539401",
+      "discovered_at": "2025-09-12T17:18:40.259230",
       "title": "The Grand Budapest Hotel (2014)",
       "description": "A visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.",
       "tags": [
@@ -105,83 +538,11 @@
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/29/261706572377.webp",
-      "alt_text": "1917",
-      "discovered_at": "2025-09-12T00:21:50.692271",
-      "title": "1917 (2019)",
-      "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
-      "tags": [
-        "EXPLOSION",
-        "RUNNING",
-        "NIGHT",
-        "WAR"
-      ],
-      "technique_tags": [
-        "Pan",
-        "Trucking"
-      ],
-      "director": "Lee Smith",
-      "dop": "Roger Deakins",
-      "colorist": "Greg Fisher",
-      "original_source": "",
-      "additional_info": "1917 (2019)\nApril 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.\nTechnique - Pan , Trucking\nDirector - Sam Mendes\nDOP - Roger Deakins\nEditor - Lee Smith\nColorist - Greg Fisher\nEXPLOSION\nRUNNING\nNIGHT\nWAR",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704834942.webp",
-      "alt_text": "Nike - Nothing Beats a Londoner",
-      "discovered_at": "2025-09-12T00:21:54.369425",
-      "title": "Nike - Nothing Beats a Londoner (2018)",
-      "description": "Energetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.",
-      "tags": [
-        "DAY",
-        "WOMAN",
-        "SPORTS",
-        "BASKETBALL",
-        "BOXING",
-        "STREET COURT"
-      ],
-      "technique_tags": [
-        "Pan"
-      ],
-      "director": "Joe Guest",
-      "dop": "Nicolas Loir",
-      "colorist": "",
-      "original_source": "",
-      "additional_info": "Nike - Nothing Beats a Londoner (2018)\nEnergetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.\nTechnique - Pan\nDirector - Megaforce\nDOP - Nicolas Loir\nEditor - Joe Guest\nOriginal Source - Link\nDAY\nWOMAN\nSPORTS\nBASKETBALL\nBOXING\nSTREET COURT",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706478354.webp",
-      "alt_text": "Hereditary",
-      "discovered_at": "2025-09-12T00:21:58.013351",
-      "title": "Hereditary (2018)",
-      "description": "A grieving family is haunted by tragic and disturbing occurrences.",
-      "tags": [
-        "DAY",
-        "CAR",
-        "DRIVING",
-        "SUNSET",
-        "EXTERIOR",
-        "VEHICLE",
-        "TELEPHONE POLE"
-      ],
-      "technique_tags": [
-        "Pan"
-      ],
-      "director": "Jennifer Lame, Lucian Johnston",
-      "dop": "Pawel Pogorzelski",
-      "colorist": "Andrew Francis",
-      "original_source": "",
-      "additional_info": "Hereditary (2018)\nA grieving family is haunted by tragic and disturbing occurrences.\nTechnique - Pan\nDirector - Ari Aster\nDOP - Pawel Pogorzelski\nEditor - Jennifer Lame, Lucian Johnston\nColorist - Andrew Francis\nOriginal Source - Link\nTutorial - Link\nDAY\nCAR\nDRIVING\nSUNSET\nEXTERIOR\nVEHICLE\nTELEPHONE POLE",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710833003.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710833091.webp",
       "alt_text": "Oppo - Make Every Shot Stand Out",
-      "discovered_at": "2025-09-12T00:22:01.660676",
+      "discovered_at": "2025-09-12T17:18:43.898901",
       "title": "Oppo - Make Every Shot Stand Out (2024)",
-      "description": "",
+      "description": "Oppo - Make Every Shot Stand Out (2024)",
       "tags": [
         "DAY",
         "WOMAN",
@@ -189,46 +550,109 @@
         "EXTERIOR"
       ],
       "technique_tags": [
-        "Pan",
-        "Ultra Wide"
+        "Pan"
       ],
       "director": "Gramatova Katarina",
       "dop": "Filip Marek",
       "colorist": "Arthur Paux",
       "original_source": "",
-      "additional_info": "Oppo - Make Every Shot Stand Out (2024)\nTechnique - Pan , Ultra Wide\nDirector - Jara Moravec\nDOP - Filip Marek\nEditor - Gramatova Katarina\nColorist - Arthur Paux\nOriginal Source - Link\nDAY\nWOMAN\nWALKING\nEXTERIOR",
+      "additional_info": "Oppo - Make Every Shot Stand Out (2024)\nTechnique - Pan\nDirector - Jara Moravec\nDOP - Filip Marek\nEditor - Gramatova Katarina\nColorist - Arthur Paux\nOriginal Source - Link\nDAY\nWOMAN\nWALKING\nEXTERIOR",
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/13/261715641625.webp",
-      "alt_text": "Vince Staples - Norf Norf",
-      "discovered_at": "2025-09-12T00:22:05.288799",
-      "title": "Vince Staples - Norf Norf (2015)",
-      "description": "The music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947255.webp",
+      "alt_text": "The Grand Budapest Hotel",
+      "discovered_at": "2025-09-12T17:18:47.538390",
+      "title": "The Grand Budapest Hotel (2014)",
+      "description": "A visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.",
+      "tags": [
+        "WES ANDERSON",
+        "FILM",
+        "2010S",
+        "WHIP PAN",
+        "TRACKING",
+        "35MM",
+        "SATURATED",
+        "JILL BOGDANOWICZ",
+        "BARNEY PILLING",
+        "COOKE S4/ I",
+        "ARRICAM ST",
+        "COOKE VAROTAL LENSES",
+        "ROBERT YOEMAN",
+        "COOKE VAROTEL ZOOM LENSES",
+        "ANGENIEUX OPTIMO ZOOMS",
+        "MAGENTA",
+        "THE GRAND BUDAPEST HOTEL",
+        "PASTEL"
+      ],
+      "technique_tags": [
+        "Pan",
+        "Tracking"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Jill Bogdanowicz",
+      "original_source": "",
+      "additional_info": "The Grand Budapest Hotel (2014)\nA visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.\nTechnique - Pan , Tracking\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Jill Bogdanowicz\nTutorial - Link\n2014\nWES ANDERSON\nFILM\n2010S\nWHIP PAN\nTRACKING\n35MM\nSATURATED\n1.78\nJILL BOGDANOWICZ\nBARNEY PILLING\nCOOKE S4/ I\nARRICAM ST\nCOOKE VAROTAL LENSES\nROBERT YOEMAN\nCOOKE VAROTEL ZOOM LENSES\nANGENIEUX OPTIMO ZOOMS\nMAGENTA\nTHE GRAND BUDAPEST HOTEL\nPASTEL",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175733.webp",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "discovered_at": "2025-09-12T17:18:51.166670",
+      "title": "M.I.A. 'Bad Girls' (2012)",
+      "description": "M.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.",
+      "tags": [
+        "CAR",
+        "MUSIC VIDEO",
+        "DRIFTING",
+        "DUST",
+        "MOROCCO",
+        "STUNT"
+      ],
+      "technique_tags": [
+        "Pan",
+        "Tracking"
+      ],
+      "director": "Walter Mauriot",
+      "dop": "André Chemetoff",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "M.I.A. 'Bad Girls' (2012)\nM.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.\nTechnique - Pan , Tracking\nDirector - Romain Gavras\nDOP - André Chemetoff\nEditor - Walter Mauriot\nOriginal Source - Link\nTutorial - Link\nCAR\nMUSIC VIDEO\nDRIFTING\nDUST\nMOROCCO\nSTUNT",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403675.webp",
+      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
+      "discovered_at": "2025-09-12T17:18:54.276726",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby (2006)",
+      "description": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
       "tags": [
         "INTERIOR",
-        "BLACK AND WHITE",
-        "JAIL",
-        "ARRESTED",
-        "PRISON",
-        "VINCE STAPLES"
+        "BED",
+        "HOSPITAL",
+        "ROOM",
+        "WILL FERRELL",
+        "REST",
+        "RECOVERY",
+        "DOCTORS"
       ],
       "technique_tags": [
         "Pan"
       ],
-      "director": "Spike Jordan, Vince Staples",
-      "dop": "",
-      "colorist": "",
+      "director": "Brent White",
+      "dop": "Oliver Wood",
+      "colorist": "Joe Finley",
       "original_source": "",
-      "additional_info": "Vince Staples - Norf Norf (2015)\nThe music video for \"Norf Norf\" by Vince Staples, released in 2015, features documentary-style footage that portrays the harsh realities of life in North Long Beach, California. Through scenes of Vince in a police car and visuals of his neighborhood, the video underscores the song's themes of systemic injustice and police brutality.\nTechnique - Pan\nDirector - Spike Jordan, Vince Staples\nOriginal Source - Link\nINTERIOR\nBLACK AND WHITE\nJAIL\nARRESTED\nPRISON\nVINCE STAPLES",
+      "additional_info": "Talladega Nights: The Ballad of Ricky Bobby (2006)\nNumber one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.\nTechnique - Pan\nDirector - Adam McKay\nDOP - Oliver Wood\nEditor - Brent White\nColorist - Joe Finley\nOriginal Source - Link\nINTERIOR\nBED\nHOSPITAL\nROOM\nWILL FERRELL\nREST\nRECOVERY\nDOCTORS",
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/30/261703899338.webp",
       "alt_text": "Childish Gambino - Sweatpants ft. Problem",
-      "discovered_at": "2025-09-12T00:22:08.939667",
+      "discovered_at": "2025-09-12T17:18:57.912688",
       "title": "Childish Gambino - Sweatpants ft. Problem (2014)",
-      "description": "",
+      "description": "Childish Gambino - Sweatpants ft. Problem (2014)",
       "tags": [
         "RESTAURANT",
         "NIGHT",
@@ -250,102 +674,9 @@
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706478273.webp",
-      "alt_text": "Moonrise Kingdom",
-      "discovered_at": "2025-09-12T00:22:12.043648",
-      "title": "Moonrise Kingdom (2012)",
-      "description": "A whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.",
-      "tags": [
-        "DAY",
-        "EXTERIOR",
-        "BOAT",
-        "SHIP"
-      ],
-      "technique_tags": [
-        "1960s",
-        "Pan"
-      ],
-      "director": "Andrew Weisblum",
-      "dop": "Robert Yeoman",
-      "colorist": "Tim Stipan",
-      "original_source": "",
-      "additional_info": "Moonrise Kingdom (2012)\nA whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.\nTechnique - 1960s , Pan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Andrew Weisblum\nColorist - Tim Stipan\nDAY\nEXTERIOR\nBOAT\nSHIP",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/06/261709716598.webp",
-      "alt_text": "Poor Things",
-      "discovered_at": "2025-09-12T00:22:15.203644",
-      "title": "Poor Things (2023)",
-      "description": "The incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.",
-      "tags": [
-        "BLACK AND WHITE",
-        "CARRIAGE",
-        "EXTRERIOR"
-      ],
-      "technique_tags": [
-        "1800s",
-        "Pan"
-      ],
-      "director": "Yorgos Mavropsaridis",
-      "dop": "Robbie Ryan",
-      "colorist": "Greg Fisher",
-      "original_source": "",
-      "additional_info": "Poor Things (2023)\nThe incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.\nTechnique - 1800s , Pan\nDirector - Yorgos Lanthimos\nDOP - Robbie Ryan\nEditor - Yorgos Mavropsaridis\nColorist - Greg Fisher\nBLACK AND WHITE\nCARRIAGE\nEXTRERIOR",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341849.webp",
-      "alt_text": "Fantastic Mr. Fox",
-      "discovered_at": "2025-09-12T00:22:18.850088",
-      "title": "Fantastic Mr. Fox (2009)",
-      "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
-      "tags": [
-        "DAY",
-        "WARM",
-        "EXTERIOR",
-        "FARM",
-        "RURAL"
-      ],
-      "technique_tags": [
-        "Diorama",
-        "Pan",
-        "Stop Motion"
-      ],
-      "director": "Ralph Foster, Stephen Perkins",
-      "dop": "Tristan Oliver",
-      "colorist": "Max Horton",
-      "original_source": "",
-      "additional_info": "Fantastic Mr. Fox (2009)\nAn urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.\nTechnique - Diorama , Pan , Stop Motion\nDirector - Wes Anderson\nDOP - Tristan Oliver\nEditor - Ralph Foster, Stephen Perkins\nColorist - Max Horton\nDAY\nWARM\nEXTERIOR\nFARM\nRURAL",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709096140.webp",
-      "alt_text": "Beethoven",
-      "discovered_at": "2025-09-12T00:22:22.487543",
-      "title": "Beethoven (1992)",
-      "description": "",
-      "tags": [
-        "RUNNING",
-        "INTERIOR",
-        "WAREHOUSE"
-      ],
-      "technique_tags": [
-        "Pan",
-        "Towards camera",
-        "Tracking"
-      ],
-      "director": "Sheldon Kahn, William D. Gordean",
-      "dop": "Victor J. Kemper",
-      "colorist": "",
-      "original_source": "",
-      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - Pan , Towards camera , Tracking\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nRUNNING\nINTERIOR\nWAREHOUSE",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702950314.webp",
       "alt_text": "Whiplash",
-      "discovered_at": "2025-09-12T00:22:26.121328",
+      "discovered_at": "2025-09-12T17:19:01.537697",
       "title": "Whiplash (2014)",
       "description": "\"Whiplash\" is a 2014 film directed by Damien Chazelle, known for its intense portrayal of the relationship between a young jazz drummer and his demanding music instructor. Chazelle's dynamic direction in \"Whiplash\" earned him widespread acclaim, showcasing his ability to create tension and deliver a gripping narrative within the context of a music-driven story.",
       "tags": [
@@ -368,212 +699,100 @@
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/13/261705123175.webp",
-      "alt_text": "Canon - Live for the Story",
-      "discovered_at": "2025-09-12T00:22:29.753341",
-      "title": "Canon - Live for the Story (2017)",
-      "description": "",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707631563.webp",
+      "alt_text": "Valentino Khan - Deep Down Low",
+      "discovered_at": "2025-09-12T17:19:06.192852",
+      "title": "Valentino Khan - Deep Down Low (2016)",
+      "description": "One of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.",
       "tags": [
-        "CAR",
-        "ROAD",
-        "DRIVING",
-        "NIGHT",
+        "RESTAURANT",
         "INTERIOR",
-        "FRIENDS",
-        "GROUP"
+        "TABLE"
       ],
       "technique_tags": [
-        "Close-Up",
-        "Happiness",
+        "Altered state",
+        "Drug trip",
         "Pan"
       ],
-      "director": "Joe Guest",
-      "dop": "Kasper Tuxen",
-      "colorist": "",
+      "director": "Gaia Borretti",
+      "dop": "Naoki Noda",
+      "colorist": "Luke Morrison",
       "original_source": "",
-      "additional_info": "Canon - Live for the Story (2017)\nCreative Agency: VCCP ECD: Darren Bailes Creatives: Ben McCarthy / Seb Housden Account Handling: Emma Whitmarsh / Olivia Packshaw Agency Producer: Ed Mueller Director: Megaforce Film Production: Riff Raff Films Production Company Producer: Jane Lloyd Executive Producer: Matthew Fone Producer: Gemma Humphries Music Licensing: Finger Music Sound Mix: Ben Leeves @ Grand Central\nTechnique - Close-Up , Happiness , Pan\nDirector - Megaforce\nDOP - Kasper Tuxen\nEditor - Joe Guest\nOriginal Source - Link\nCAR\nROAD\nDRIVING\nNIGHT\nINTERIOR\nFRIENDS\nGROUP",
+      "additional_info": "Valentino Khan - Deep Down Low (2016)\nOne of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.\nTechnique - Altered state , Drug trip , Pan\nDirector - Ian Pons Jewell\nDOP - Naoki Noda\nEditor - Gaia Borretti\nColorist - Luke Morrison\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nTABLE",
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/23/261705998021.webp",
-      "alt_text": "Lil Dicky - HAHAHA",
-      "discovered_at": "2025-09-12T00:22:33.372286",
-      "title": "Lil Dicky - HAHAHA (2024)",
-      "description": "Lil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.",
-      "tags": [
-        "CAR",
-        "ROAD",
-        "DRIVING",
-        "NIGHT",
-        "EXTERIOR",
-        "CITY",
-        "VEHICLE",
-        "LIL DICKY",
-        "JOKER",
-        "CHASE"
-      ],
-      "technique_tags": [
-        "Pan"
-      ],
-      "director": "Phillip R Lopez",
-      "dop": "Benjamin Loeb",
-      "colorist": "Dante Pasquinelli",
-      "original_source": "",
-      "additional_info": "Lil Dicky - HAHAHA (2024)\nLil Dicky music video directed by Phillip R Lopez. Heavily influenced by the character of the Joker. Feels like a mini-action movie. Shot on Alexa35, Ember Freefly, and Sony FX3 for the slow-motion crash scenes inside the limo.\nTechnique - Pan\nDirector - Phillip R Lopez\nDOP - Benjamin Loeb\nColorist - Dante Pasquinelli\nOriginal Source - Link\nCAR\nROAD\nDRIVING\nNIGHT\nEXTERIOR\nCITY\nVEHICLE\nLIL DICKY\nJOKER\nCHASE",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/24/261703409041.webp",
-      "alt_text": "Kendrick Lamar - Humble",
-      "discovered_at": "2025-09-12T00:22:36.997690",
-      "title": "Kendrick Lamar - Humble (2017)",
-      "description": "The visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.",
-      "tags": [
-        "CAR",
-        "ROAD",
-        "EXTERIOR",
-        "KENDRICK LAMAR",
-        "VEHICLE",
-        "COOL WHITE",
-        "GREY POUPON"
-      ],
-      "technique_tags": [
-        "Aside",
-        "Pan"
-      ],
-      "director": "Greg Scruton",
-      "dop": "Scott Cunningham",
-      "colorist": "Jaime O'Bradovich",
-      "original_source": "",
-      "additional_info": "Kendrick Lamar - Humble (2017)\nThe visually striking \"Humble\" music video, directed by Dave Meyer and reminiscent of Hype Williams' style, breathes life into Kendrick Lamar's ideas, setting the tone for his upcoming album, which appears to focus on his status as a superstar rather than a complex concept.\nTechnique - Aside , Pan\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Greg Scruton\nColorist - Jaime O'Bradovich\nOriginal Source - Link\nTutorial - Link\nCAR\nROAD\nEXTERIOR\nKENDRICK LAMAR\nVEHICLE\nCOOL WHITE\nGREY POUPON",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/04/261709537573.webp",
-      "alt_text": "Miel De Montagne - Le Pigeon",
-      "discovered_at": "2025-09-12T00:22:40.637310",
-      "title": "Miel De Montagne - Le Pigeon (2023)",
-      "description": "2023 music video directed and edited by Morgan Jouquand.",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/25/261711341849.webp",
+      "alt_text": "Fantastic Mr. Fox",
+      "discovered_at": "2025-09-12T17:19:09.351477",
+      "title": "Fantastic Mr. Fox (2009)",
+      "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
       "tags": [
         "DAY",
+        "WARM",
         "EXTERIOR",
-        "SKATING",
-        "SKATEBOARD",
-        "PAN",
-        "PIGEON"
+        "FARM",
+        "RURAL"
       ],
       "technique_tags": [
-        "Ground Level",
+        "Diorama",
         "Pan",
-        "Ultra Wide"
+        "Stop Motion"
       ],
-      "director": "Morgan Jouquand",
+      "director": "Ralph Foster, Stephen Perkins",
+      "dop": "Tristan Oliver",
+      "colorist": "Max Horton",
+      "original_source": "",
+      "additional_info": "Fantastic Mr. Fox (2009)\nAn urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.\nTechnique - Diorama , Pan , Stop Motion\nDirector - Wes Anderson\nDOP - Tristan Oliver\nEditor - Ralph Foster, Stephen Perkins\nColorist - Max Horton\nDAY\nWARM\nEXTERIOR\nFARM\nRURAL",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702874412.webp",
+      "alt_text": "Wealthfront - French Toast",
+      "discovered_at": "2025-09-12T17:19:12.959591",
+      "title": "Wealthfront - French Toast (2022)",
+      "description": "Wealthfront - French Toast (2022)",
+      "tags": [],
+      "technique_tags": [
+        "Pan",
+        "Seamless Transition",
+        "Transitions",
+        "Wipe Transition"
+      ],
+      "director": "Jack Turits",
       "dop": "",
       "colorist": "",
       "original_source": "",
-      "additional_info": "Miel De Montagne - Le Pigeon (2023)\n2023 music video directed and edited by Morgan Jouquand.\nTechnique - Ground Level , Pan , Ultra Wide\nDirector - Morgan Jouquand\nOriginal Source - Link\nDAY\nEXTERIOR\nSKATING\nSKATEBOARD\nPAN\nPIGEON",
+      "additional_info": "Wealthfront - French Toast (2022)\nTechnique - Pan , Seamless Transition , Transitions , Wipe Transition\nDirector - Jack Turits\nOriginal Source - Link",
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/05/15/261715812867.webp",
-      "alt_text": "Sabrina Carpenter - Espresso",
-      "discovered_at": "2025-09-12T00:22:44.266284",
-      "title": "Sabrina Carpenter - Espresso (2024)",
-      "description": "The music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710833003.webp",
+      "alt_text": "Oppo - Make Every Shot Stand Out",
+      "discovered_at": "2025-09-12T17:19:16.082152",
+      "title": "Oppo - Make Every Shot Stand Out (2024)",
+      "description": "Oppo - Make Every Shot Stand Out (2024)",
       "tags": [
-        "BEACH",
-        "SAND",
+        "DAY",
+        "WOMAN",
         "WALKING",
-        "POSE",
-        "SABRINA CARPENTER",
-        "MARILYN MONROE"
-      ],
-      "technique_tags": [
-        "1960s",
-        "Away from Camera",
-        "Medium Close-up",
-        "Pan"
-      ],
-      "director": "Jai Shukla",
-      "dop": "Scott Cunningham",
-      "colorist": "Dante Pasquinelli",
-      "original_source": "",
-      "additional_info": "Sabrina Carpenter - Espresso (2024)\nThe music video for Sabrina Carpenter's song \"Espresso,\" released in 2024, was directed by Dave Meyers. The video features vibrant and sun-soaked visuals, showcasing Carpenter in various stylish outfits as she navigates a dreamy, retro-inspired setting. With a playful and energetic vibe, the video highlights Carpenter's charisma and the song's catchy, upbeat nature. The creative direction was managed by Jacobi Mehringer and Anna Arnell, adding to the video's polished and dynamic aesthetic.\nTechnique - 1960s , Away from Camera , Medium Close-up , Pan\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Jai Shukla\nColorist - Dante Pasquinelli\nOriginal Source - Link\nBEACH\nSAND\nWALKING\nPOSE\nSABRINA CARPENTER\nMARILYN MONROE",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710032318.webp",
-      "alt_text": "The Gentlemen (TV Series)",
-      "discovered_at": "2025-09-12T00:22:47.891510",
-      "title": "The Gentlemen (TV Series) (2024)",
-      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
-      "tags": [
-        "EXTERIOR",
-        "CARS",
-        "DEALERSHIP"
+        "EXTERIOR"
       ],
       "technique_tags": [
         "Pan",
-        "Title Card",
-        "Typography"
+        "Ultra Wide"
       ],
-      "director": "David Webb",
-      "dop": "Bjorn Charpentier, Ed Wild",
-      "colorist": "",
+      "director": "Gramatova Katarina",
+      "dop": "Filip Marek",
+      "colorist": "Arthur Paux",
       "original_source": "",
-      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Pan , Title Card , Typography\nDirector - Guy Ritchie, Nima Nourizadeh\nDOP - Bjorn Charpentier, Ed Wild\nEditor - David Webb\nEXTERIOR\nCARS\nDEALERSHIP",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709095629.webp",
-      "alt_text": "Beethoven",
-      "discovered_at": "2025-09-12T00:22:51.021245",
-      "title": "Beethoven (1992)",
-      "description": "",
-      "tags": [
-        "DAY",
-        "EXTERIOR",
-        "CHAIR"
-      ],
-      "technique_tags": [
-        "Campy",
-        "Pan"
-      ],
-      "director": "Sheldon Kahn, William D. Gordean",
-      "dop": "Victor J. Kemper",
-      "colorist": "",
-      "original_source": "",
-      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - Campy , Pan\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nDAY\nEXTERIOR\nCHAIR",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710023723.webp",
-      "alt_text": "The Gentlemen (TV Series)",
-      "discovered_at": "2025-09-12T00:22:54.669316",
-      "title": "The Gentlemen (TV Series) (2024)",
-      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
-      "tags": [
-        "INTERIOR",
-        "HELICOPTER",
-        "THEO JAMES",
-        "CHOPPER"
-      ],
-      "technique_tags": [
-        "Halation",
-        "Handheld",
-        "Pan"
-      ],
-      "director": "James Herbert",
-      "dop": "Ed Wild",
-      "colorist": "",
-      "original_source": "",
-      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Halation , Handheld , Pan\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nINTERIOR\nHELICOPTER\nTHEO JAMES\nCHOPPER",
+      "additional_info": "Oppo - Make Every Shot Stand Out (2024)\nTechnique - Pan , Ultra Wide\nDirector - Jara Moravec\nDOP - Filip Marek\nEditor - Gramatova Katarina\nColorist - Arthur Paux\nOriginal Source - Link\nDAY\nWOMAN\nWALKING\nEXTERIOR",
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947097.webp",
       "alt_text": "The Grand Budapest Hotel",
-      "discovered_at": "2025-09-12T00:22:58.314829",
+      "discovered_at": "2025-09-12T17:19:19.207446",
       "title": "The Grand Budapest Hotel (2014)",
       "description": "A visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.",
       "tags": [
@@ -607,55 +826,11 @@
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710833091.webp",
-      "alt_text": "Oppo - Make Every Shot Stand Out",
-      "discovered_at": "2025-09-12T00:23:01.948290",
-      "title": "Oppo - Make Every Shot Stand Out (2024)",
-      "description": "",
-      "tags": [
-        "DAY",
-        "WOMAN",
-        "WALKING",
-        "EXTERIOR"
-      ],
-      "technique_tags": [
-        "Pan"
-      ],
-      "director": "Gramatova Katarina",
-      "dop": "Filip Marek",
-      "colorist": "Arthur Paux",
-      "original_source": "",
-      "additional_info": "Oppo - Make Every Shot Stand Out (2024)\nTechnique - Pan\nDirector - Jara Moravec\nDOP - Filip Marek\nEditor - Gramatova Katarina\nColorist - Arthur Paux\nOriginal Source - Link\nDAY\nWOMAN\nWALKING\nEXTERIOR",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707641565.webp",
-      "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
-      "discovered_at": "2025-09-12T00:23:05.619196",
-      "title": "Nu Genea - Marechià (with Célia Kameni) (2021)",
-      "description": "",
-      "tags": [
-        "WALKING",
-        "EXTERIOR",
-        "TRAFFIC SIGN"
-      ],
-      "technique_tags": [
-        "Pan",
-        "Zoom out"
-      ],
-      "director": "Fabio Gargano, Guido Lombardi",
-      "dop": "",
-      "colorist": "",
-      "original_source": "",
-      "additional_info": "Nu Genea - Marechià (with Célia Kameni) (2021)\n2021 short film for Nu Genea from directors Guido Lombardi and Fabio Gargano.\nTechnique - Pan , Zoom out\nDirector - Fabio Gargano, Guido Lombardi\nOriginal Source - Link\nWALKING\nEXTERIOR\nTRAFFIC SIGN",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707642245.webp",
       "alt_text": "Nu Genea - Marechià (with Célia Kameni)",
-      "discovered_at": "2025-09-12T00:23:09.269506",
+      "discovered_at": "2025-09-12T17:19:22.357104",
       "title": "Nu Genea - Marechià (with Célia Kameni) (2021)",
-      "description": "",
+      "description": "Nu Genea - Marechià (with Célia Kameni) (2021)",
       "tags": [
         "WALKING",
         "EXTERIOR"
@@ -672,151 +847,76 @@
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709094715.webp",
-      "alt_text": "Beethoven",
-      "discovered_at": "2025-09-12T00:23:12.919513",
-      "title": "Beethoven (1992)",
-      "description": "",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/09/261704834942.webp",
+      "alt_text": "Nike - Nothing Beats a Londoner",
+      "discovered_at": "2025-09-12T17:19:25.518627",
+      "title": "Nike - Nothing Beats a Londoner (2018)",
+      "description": "Energetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.",
       "tags": [
         "DAY",
-        "EXTERIOR"
-      ],
-      "technique_tags": [
-        "1990s",
-        "Pan"
-      ],
-      "director": "Sheldon Kahn, William D. Gordean",
-      "dop": "Victor J. Kemper",
-      "colorist": "",
-      "original_source": "",
-      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - 1990s , Pan\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nOriginal Source - Link\nDAY\nEXTERIOR",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/18/261702874412.webp",
-      "alt_text": "Wealthfront - French Toast",
-      "discovered_at": "2025-09-12T00:23:16.032005",
-      "title": "Wealthfront - French Toast (2022)",
-      "description": "",
-      "tags": [],
-      "technique_tags": [
-        "Pan",
-        "Seamless Transition",
-        "Transitions",
-        "Wipe Transition"
-      ],
-      "director": "Jack Turits",
-      "dop": "",
-      "colorist": "",
-      "original_source": "",
-      "additional_info": "Wealthfront - French Toast (2022)\nTechnique - Pan , Seamless Transition , Transitions , Wipe Transition\nDirector - Jack Turits\nOriginal Source - Link",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706480318.webp",
-      "alt_text": "Mula B - Blokke Gepikt",
-      "discovered_at": "2025-09-12T00:23:19.653304",
-      "title": "Mula B - Blokke Gepikt (2024)",
-      "description": "",
-      "tags": [
-        "INTERIOR",
-        "HALLWAY",
-        "GUN",
-        "COPY",
-        "SOLDIER",
-        "RIFLE"
-      ],
-      "technique_tags": [
-        "Pan",
-        "Slow Motion"
-      ],
-      "director": "Folkert Verdoorn",
-      "dop": "Douwe Hennink",
-      "colorist": "De Grot",
-      "original_source": "",
-      "additional_info": "Mula B - Blokke Gepikt (2024)\n2024 music video for Mula B from director Folkert Verdoorn. Fire, snow, and a thrilling escape dance.\nTechnique - Pan , Slow Motion\nDirector - Folkert Verdoorn\nDOP - Douwe Hennink\nColorist - De Grot\nOriginal Source - Link\nINTERIOR\nHALLWAY\nGUN\nCOPY\nSOLDIER\nRIFLE",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/19/261710831605.webp",
-      "alt_text": "Oppo - Make Every Shot Stand Out",
-      "discovered_at": "2025-09-12T00:23:22.764123",
-      "title": "Oppo - Make Every Shot Stand Out (2024)",
-      "description": "",
-      "tags": [
         "WOMAN",
-        "INTERIOR",
-        "BARBERSHOP"
+        "SPORTS",
+        "BASKETBALL",
+        "BOXING",
+        "STREET COURT"
       ],
       "technique_tags": [
-        "Low Angle",
-        "Pan",
-        "Ultra Wide"
+        "Pan"
       ],
-      "director": "Gramatova Katarina",
-      "dop": "Filip Marek",
-      "colorist": "Arthur Paux",
+      "director": "Joe Guest",
+      "dop": "Nicolas Loir",
+      "colorist": "",
       "original_source": "",
-      "additional_info": "Oppo - Make Every Shot Stand Out (2024)\nTechnique - Low Angle , Pan , Ultra Wide\nDirector - Jara Moravec\nDOP - Filip Marek\nEditor - Gramatova Katarina\nColorist - Arthur Paux\nOriginal Source - Link\nWOMAN\nINTERIOR\nBARBERSHOP",
+      "additional_info": "Nike - Nothing Beats a Londoner (2018)\nEnergetic and competitive, London's youth, portrayed in Nike's now iconic commercial showcase their city and sporting prowess, inspired by local icons.\nTechnique - Pan\nDirector - Megaforce\nDOP - Nicolas Loir\nEditor - Joe Guest\nOriginal Source - Link\nDAY\nWOMAN\nSPORTS\nBASKETBALL\nBOXING\nSTREET COURT",
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709095093.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709096140.webp",
       "alt_text": "Beethoven",
-      "discovered_at": "2025-09-12T00:23:26.413514",
+      "discovered_at": "2025-09-12T17:19:29.170153",
       "title": "Beethoven (1992)",
-      "description": "",
+      "description": "A slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.",
       "tags": [
-        "DAY",
-        "WALKING",
-        "EXTERIOR",
-        "RAIN",
-        "DOG",
-        "POSTER"
+        "RUNNING",
+        "INTERIOR",
+        "WAREHOUSE"
       ],
       "technique_tags": [
-        "1990s",
-        "Pan"
+        "Pan",
+        "Towards camera",
+        "Tracking"
       ],
       "director": "Sheldon Kahn, William D. Gordean",
       "dop": "Victor J. Kemper",
       "colorist": "",
       "original_source": "",
-      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - 1990s , Pan\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nDAY\nWALKING\nEXTERIOR\nRAIN\nDOG\nPOSTER",
+      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - Pan , Towards camera , Tracking\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nRUNNING\nINTERIOR\nWAREHOUSE",
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/21/261711005868.webp",
-      "alt_text": "Aminé - Charmander",
-      "discovered_at": "2025-09-12T00:23:30.036753",
-      "title": "Aminé - Charmander (2021)",
-      "description": "In the 2021 music video \"Charmander\" by Aminé, the artist retreats to a secluded cabin in the woods, symbolizing a quest for peace and introspection away from the pressures of fame. The video is characterized by a warm, earthy color palette and natural light, capturing the tranquil beauty of the forest setting. The nostalgic reference to Pokémon through the title \"Charmander\" adds a whimsical contrast to the mature themes of self-discovery and isolation.",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707628194.webp",
+      "alt_text": "Drake, 21 Savage - Spin Bout U",
+      "discovered_at": "2025-09-12T17:19:32.290955",
+      "title": "Drake, 21 Savage - Spin Bout U (2023)",
+      "description": "2023 music video in collaboration between Drake and 21 Savage, directed by the iconic Dave Meyers.",
       "tags": [
-        "GREEN",
-        "FOREST",
-        "NATURE",
-        "EXTERIOR",
-        "RAIN",
-        "WET",
-        "PORTLAND",
-        "OREGON"
+        "WINDOW",
+        "21 SAVAGE"
       ],
       "technique_tags": [
-        "Fast Motion",
-        "Pan",
-        "Yo-Yo pan"
+        "Pan"
       ],
-      "director": "Will Tooke",
-      "dop": "Ben Mullen",
-      "colorist": "Andrew Francis",
+      "director": "Nathan Rodgers",
+      "dop": "Scott Cunningham",
+      "colorist": "Stefan Sonnenfeld",
       "original_source": "",
-      "additional_info": "Aminé - Charmander (2021)\nIn the 2021 music video \"Charmander\" by Aminé, the artist retreats to a secluded cabin in the woods, symbolizing a quest for peace and introspection away from the pressures of fame. The video is characterized by a warm, earthy color palette and natural light, capturing the tranquil beauty of the forest setting. The nostalgic reference to Pokémon through the title \"Charmander\" adds a whimsical contrast to the mature themes of self-discovery and isolation.\nTechnique - Fast Motion , Pan , Yo-Yo pan\nDirector - Adam Daniel, Jack Begert\nDOP - Ben Mullen\nEditor - Will Tooke\nColorist - Andrew Francis\nOriginal Source - Link\nGREEN\nFOREST\nNATURE\nEXTERIOR\nRAIN\nWET\nPORTLAND\nOREGON",
+      "additional_info": "Drake, 21 Savage - Spin Bout U (2023)\n2023 music video in collaboration between Drake and 21 Savage, directed by the iconic Dave Meyers.\nTechnique - Pan\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Stefan Sonnenfeld\nOriginal Source - Link\nWINDOW\n21 SAVAGE",
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/28/261706478243.webp",
       "alt_text": "Moonrise Kingdom",
-      "discovered_at": "2025-09-12T00:23:33.703580",
+      "discovered_at": "2025-09-12T17:19:35.416834",
       "title": "Moonrise Kingdom (2012)",
       "description": "A whimsical film set in 1965 New England, portraying the adventures of two young runaways exploring love and adolescence.",
       "tags": [
@@ -838,9 +938,32 @@
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174604.webp",
+      "alt_text": "M.I.A. 'Bad Girls'",
+      "discovered_at": "2025-09-12T17:19:38.550042",
+      "title": "M.I.A. 'Bad Girls' (2012)",
+      "description": "M.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.",
+      "tags": [
+        "MALE",
+        "GROUP",
+        "DESERT",
+        "MOROCCO"
+      ],
+      "technique_tags": [
+        "Halation",
+        "Pan"
+      ],
+      "director": "Walter Mauriot",
+      "dop": "André Chemetoff",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "M.I.A. 'Bad Girls' (2012)\nM.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.\nTechnique - Halation , Pan\nDirector - Romain Gavras\nDOP - André Chemetoff\nEditor - Walter Mauriot\nOriginal Source - Link\nTutorial - Link\nMALE\nGROUP\nDESERT\nMOROCCO",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
       "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947334.webp",
       "alt_text": "The Grand Budapest Hotel",
-      "discovered_at": "2025-09-12T00:23:37.336851",
+      "discovered_at": "2025-09-12T17:19:42.193449",
       "title": "The Grand Budapest Hotel (2014)",
       "description": "A visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.",
       "tags": [
@@ -881,77 +1004,137 @@
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710025907.webp",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/06/261709716598.webp",
+      "alt_text": "Poor Things",
+      "discovered_at": "2025-09-12T17:19:45.807699",
+      "title": "Poor Things (2023)",
+      "description": "The incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.",
+      "tags": [
+        "BLACK AND WHITE",
+        "CARRIAGE",
+        "EXTRERIOR"
+      ],
+      "technique_tags": [
+        "1800s",
+        "Pan"
+      ],
+      "director": "Yorgos Mavropsaridis",
+      "dop": "Robbie Ryan",
+      "colorist": "Greg Fisher",
+      "original_source": "",
+      "additional_info": "Poor Things (2023)\nThe incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.\nTechnique - 1800s , Pan\nDirector - Yorgos Lanthimos\nDOP - Robbie Ryan\nEditor - Yorgos Mavropsaridis\nColorist - Greg Fisher\nBLACK AND WHITE\nCARRIAGE\nEXTRERIOR",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/10/261710032318.webp",
       "alt_text": "The Gentlemen (TV Series)",
-      "discovered_at": "2025-09-12T00:23:40.997180",
+      "discovered_at": "2025-09-12T17:19:48.970122",
       "title": "The Gentlemen (TV Series) (2024)",
       "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
       "tags": [
-        "RUNNING",
-        "EXTERIOR"
+        "EXTERIOR",
+        "CARS",
+        "DEALERSHIP"
       ],
       "technique_tags": [
+        "Pan",
+        "Title Card",
+        "Typography"
+      ],
+      "director": "David Webb",
+      "dop": "Bjorn Charpentier, Ed Wild",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Pan , Title Card , Typography\nDirector - Guy Ritchie, Nima Nourizadeh\nDOP - Bjorn Charpentier, Ed Wild\nEditor - David Webb\nEXTERIOR\nCARS\nDEALERSHIP",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384601.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-12T17:19:52.635388",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
+      "tags": [
+        "DAY",
+        "WES ANDERSON",
+        "EXTERIOR",
+        "SATURATED",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "DESERT",
+        "ARRICAM LT",
+        "ARRICAM ST",
+        "CYAN"
+      ],
+      "technique_tags": [
+        "1950s",
+        "Pan"
+      ],
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
+      "original_source": "",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.\nTechnique - 1950s , Pan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nDAY\nWES ANDERSON\nEXTERIOR\nSATURATED\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nDESERT\nARRICAM LT\nARRICAM ST\nCYAN",
+      "page_url": "https://eyecannndy.com/technique/pan"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/09/261710023723.webp",
+      "alt_text": "The Gentlemen (TV Series)",
+      "discovered_at": "2025-09-12T17:19:56.268566",
+      "title": "The Gentlemen (TV Series) (2024)",
+      "description": "Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
+      "tags": [
+        "INTERIOR",
+        "HELICOPTER",
+        "THEO JAMES",
+        "CHOPPER"
+      ],
+      "technique_tags": [
+        "Halation",
+        "Handheld",
         "Pan"
       ],
       "director": "James Herbert",
       "dop": "Ed Wild",
       "colorist": "",
       "original_source": "",
-      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Pan\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nRUNNING\nEXTERIOR",
+      "additional_info": "The Gentlemen (TV Series) (2024)\nEddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Halation , Handheld , Pan\nDirector - Guy Ritchie\nDOP - Ed Wild\nEditor - James Herbert\nINTERIOR\nHELICOPTER\nTHEO JAMES\nCHOPPER",
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726175733.webp",
-      "alt_text": "M.I.A. 'Bad Girls'",
-      "discovered_at": "2025-09-12T00:23:44.146754",
-      "title": "M.I.A. 'Bad Girls' (2012)",
-      "description": "M.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.",
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384948.webp",
+      "alt_text": "Asteroid City",
+      "discovered_at": "2025-09-12T17:19:59.400458",
+      "title": "Asteroid City (2023)",
+      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
       "tags": [
-        "CAR",
-        "MUSIC VIDEO",
-        "DRIFTING",
-        "DUST",
-        "MOROCCO",
-        "STUNT"
+        "GREEN",
+        "NIGHT",
+        "WES ANDERSON",
+        "EXTERIOR",
+        "2.39 ANAMORPHIC",
+        "FILM 35MM",
+        "ZEISS MASTER ANAMORPHICS",
+        "COOKE S4/ I",
+        "ARRICAM LT",
+        "ARRICAM ST"
       ],
       "technique_tags": [
-        "Pan",
-        "Tracking"
-      ],
-      "director": "Walter Mauriot",
-      "dop": "André Chemetoff",
-      "colorist": "",
-      "original_source": "",
-      "additional_info": "M.I.A. 'Bad Girls' (2012)\nM.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.\nTechnique - Pan , Tracking\nDirector - Romain Gavras\nDOP - André Chemetoff\nEditor - Walter Mauriot\nOriginal Source - Link\nTutorial - Link\nCAR\nMUSIC VIDEO\nDRIFTING\nDUST\nMOROCCO\nSTUNT",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/09/12/261726174604.webp",
-      "alt_text": "M.I.A. 'Bad Girls'",
-      "discovered_at": "2025-09-12T00:23:47.306901",
-      "title": "M.I.A. 'Bad Girls' (2012)",
-      "description": "M.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.",
-      "tags": [
-        "MALE",
-        "GROUP",
-        "DESERT",
-        "MOROCCO"
-      ],
-      "technique_tags": [
-        "Halation",
         "Pan"
       ],
-      "director": "Walter Mauriot",
-      "dop": "André Chemetoff",
-      "colorist": "",
+      "director": "Barney Pilling",
+      "dop": "Robert Yeoman",
+      "colorist": "Gareth Spensley",
       "original_source": "",
-      "additional_info": "M.I.A. 'Bad Girls' (2012)\nM.I.A.'s \"Bad Girls\" music video is a visually stunning showcase of Saudi-inspired car stunts, with drifting vehicles on two wheels and empowered women in a desert setting, blending Middle Eastern cultural elements with modern rebellion. Directed by Romain Gavras, the video highlights themes of female empowerment and defiance, all set against a backdrop of high-octane action and surreal imagery.\nTechnique - Halation , Pan\nDirector - Romain Gavras\nDOP - André Chemetoff\nEditor - Walter Mauriot\nOriginal Source - Link\nTutorial - Link\nMALE\nGROUP\nDESERT\nMOROCCO",
+      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.\nTechnique - Pan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nGREEN\nNIGHT\nWES ANDERSON\nEXTERIOR\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nARRICAM LT\nARRICAM ST",
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704383883.webp",
       "alt_text": "Asteroid City",
-      "discovered_at": "2025-09-12T00:23:50.986632",
+      "discovered_at": "2025-09-12T17:20:02.523876",
       "title": "Asteroid City (2023)",
       "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
       "tags": [
@@ -980,214 +1163,9 @@
       "page_url": "https://eyecannndy.com/technique/pan"
     },
     {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/01/04/261704384948.webp",
-      "alt_text": "Asteroid City",
-      "discovered_at": "2025-09-12T00:23:54.621490",
-      "title": "Asteroid City (2023)",
-      "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
-      "tags": [
-        "GREEN",
-        "NIGHT",
-        "WES ANDERSON",
-        "EXTERIOR",
-        "2.39 ANAMORPHIC",
-        "FILM 35MM",
-        "ZEISS MASTER ANAMORPHICS",
-        "COOKE S4/ I",
-        "ARRICAM LT",
-        "ARRICAM ST"
-      ],
-      "technique_tags": [
-        "Pan"
-      ],
-      "director": "Barney Pilling",
-      "dop": "Robert Yeoman",
-      "colorist": "Gareth Spensley",
-      "original_source": "",
-      "additional_info": "Asteroid City (2023)\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.\nTechnique - Pan\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Gareth Spensley\nGREEN\nNIGHT\nWES ANDERSON\nEXTERIOR\n2.39 ANAMORPHIC\nFILM 35MM\nZEISS MASTER ANAMORPHICS\nCOOKE S4/ I\nARRICAM LT\nARRICAM ST",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707628194.webp",
-      "alt_text": "Drake, 21 Savage - Spin Bout U",
-      "discovered_at": "2025-09-12T00:23:58.271690",
-      "title": "Drake, 21 Savage - Spin Bout U (2023)",
-      "description": "2023 music video in collaboration between Drake and 21 Savage, directed by the iconic Dave Meyers.",
-      "tags": [
-        "WINDOW",
-        "21 SAVAGE"
-      ],
-      "technique_tags": [
-        "Pan"
-      ],
-      "director": "Nathan Rodgers",
-      "dop": "Scott Cunningham",
-      "colorist": "Stefan Sonnenfeld",
-      "original_source": "",
-      "additional_info": "Drake, 21 Savage - Spin Bout U (2023)\n2023 music video in collaboration between Drake and 21 Savage, directed by the iconic Dave Meyers.\nTechnique - Pan\nDirector - Dave Meyers\nDOP - Scott Cunningham\nEditor - Nathan Rodgers\nColorist - Stefan Sonnenfeld\nOriginal Source - Link\nWINDOW\n21 SAVAGE",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709097296.webp",
-      "alt_text": "Beethoven",
-      "discovered_at": "2025-09-12T00:24:01.420539",
-      "title": "Beethoven (1992)",
-      "description": "",
-      "tags": [
-        "DAY",
-        "WOMAN",
-        "INTERIOR",
-        "MIRROR",
-        "BEDROOM",
-        "ROOM"
-      ],
-      "technique_tags": [
-        "1990s",
-        "Focal shift",
-        "Pan"
-      ],
-      "director": "Sheldon Kahn, William D. Gordean",
-      "dop": "Victor J. Kemper",
-      "colorist": "",
-      "original_source": "",
-      "additional_info": "Beethoven (1992)\nA slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen. Suggested by a brilliant Creative Director.\nTechnique - 1990s , Focal shift , Pan\nDirector - Brian Levant\nDOP - Victor J. Kemper\nEditor - Sheldon Kahn, William D. Gordean\nDAY\nWOMAN\nINTERIOR\nMIRROR\nBEDROOM\nROOM",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/20/261708403675.webp",
-      "alt_text": "Talladega Nights: The Ballad of Ricky Bobby",
-      "discovered_at": "2025-09-12T00:24:05.059934",
-      "title": "Talladega Nights: The Ballad of Ricky Bobby (2006)",
-      "description": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
-      "tags": [
-        "INTERIOR",
-        "BED",
-        "HOSPITAL",
-        "ROOM",
-        "WILL FERRELL",
-        "REST",
-        "RECOVERY",
-        "DOCTORS"
-      ],
-      "technique_tags": [
-        "Pan"
-      ],
-      "director": "Brent White",
-      "dop": "Oliver Wood",
-      "colorist": "Joe Finley",
-      "original_source": "",
-      "additional_info": "Talladega Nights: The Ballad of Ricky Bobby (2006)\nNumber one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.\nTechnique - Pan\nDirector - Adam McKay\nDOP - Oliver Wood\nEditor - Brent White\nColorist - Joe Finley\nOriginal Source - Link\nINTERIOR\nBED\nHOSPITAL\nROOM\nWILL FERRELL\nREST\nRECOVERY\nDOCTORS",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/12/261710225341.webp",
-      "alt_text": "The Gentlemen (TV Series)",
-      "discovered_at": "2025-09-12T00:24:08.697659",
-      "title": "The Gentlemen (TV Series) (2024)",
-      "description": "Season 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.",
-      "tags": [
-        "DAY",
-        "WOMAN",
-        "WALKING",
-        "EXTERIOR"
-      ],
-      "technique_tags": [
-        "Focal shift",
-        "Pan"
-      ],
-      "director": "Nick Allix",
-      "dop": "Callan Green",
-      "colorist": "Matthieu Toullet",
-      "original_source": "",
-      "additional_info": "The Gentlemen (TV Series) (2024)\nSeason 1. Episode 5. Eddie Horniman inherits a family estate, initially unaware its home to a drug empire run by a syndicate that has no plans to vacate. Created by Guy Ritchie.\nTechnique - Focal shift , Pan\nDirector - Eran Creevy\nDOP - Callan Green\nEditor - Nick Allix\nColorist - Matthieu Toullet\nDAY\nWOMAN\nWALKING\nEXTERIOR",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2023/12/19/261702947255.webp",
-      "alt_text": "The Grand Budapest Hotel",
-      "discovered_at": "2025-09-12T00:24:12.355563",
-      "title": "The Grand Budapest Hotel (2014)",
-      "description": "A visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.",
-      "tags": [
-        "WES ANDERSON",
-        "FILM",
-        "2010S",
-        "WHIP PAN",
-        "TRACKING",
-        "35MM",
-        "SATURATED",
-        "JILL BOGDANOWICZ",
-        "BARNEY PILLING",
-        "COOKE S4/ I",
-        "ARRICAM ST",
-        "COOKE VAROTAL LENSES",
-        "ROBERT YOEMAN",
-        "COOKE VAROTEL ZOOM LENSES",
-        "ANGENIEUX OPTIMO ZOOMS",
-        "MAGENTA",
-        "THE GRAND BUDAPEST HOTEL",
-        "PASTEL"
-      ],
-      "technique_tags": [
-        "Pan",
-        "Tracking"
-      ],
-      "director": "Barney Pilling",
-      "dop": "Robert Yeoman",
-      "colorist": "Jill Bogdanowicz",
-      "original_source": "",
-      "additional_info": "The Grand Budapest Hotel (2014)\nA visually stunning and comedic masterpiece set in an eccentric Eastern European hotel.\nTechnique - Pan , Tracking\nDirector - Wes Anderson\nDOP - Robert Yeoman\nEditor - Barney Pilling\nColorist - Jill Bogdanowicz\nTutorial - Link\n2014\nWES ANDERSON\nFILM\n2010S\nWHIP PAN\nTRACKING\n35MM\nSATURATED\n1.78\nJILL BOGDANOWICZ\nBARNEY PILLING\nCOOKE S4/ I\nARRICAM ST\nCOOKE VAROTAL LENSES\nROBERT YOEMAN\nCOOKE VAROTEL ZOOM LENSES\nANGENIEUX OPTIMO ZOOMS\nMAGENTA\nTHE GRAND BUDAPEST HOTEL\nPASTEL",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/11/261707631563.webp",
-      "alt_text": "Valentino Khan - Deep Down Low",
-      "discovered_at": "2025-09-12T00:24:16.015698",
-      "title": "Valentino Khan - Deep Down Low (2016)",
-      "description": "One of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.",
-      "tags": [
-        "RESTAURANT",
-        "INTERIOR",
-        "TABLE"
-      ],
-      "technique_tags": [
-        "Altered state",
-        "Drug trip",
-        "Pan"
-      ],
-      "director": "Gaia Borretti",
-      "dop": "Naoki Noda",
-      "colorist": "Luke Morrison",
-      "original_source": "",
-      "additional_info": "Valentino Khan - Deep Down Low (2016)\nOne of the weirdest music videos you'll ever watch. We don't recommend watching while high. Actually scratch that. Even better when high. Fever, hallucinogens, or the hypnotic beat at the track make his nightmares increasingly bizarre. In the restaurant, dancing facial features and tentacles sprouting from a waitress's eyes push him to flee the surreal scene.\nTechnique - Altered state , Drug trip , Pan\nDirector - Ian Pons Jewell\nDOP - Naoki Noda\nEditor - Gaia Borretti\nColorist - Luke Morrison\nOriginal Source - Link\nRESTAURANT\nINTERIOR\nTABLE",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
-      "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/13/261710335520.webp",
-      "alt_text": "#LoveYourz",
-      "discovered_at": "2025-09-12T00:24:19.697456",
-      "title": "#LoveYourz (2018)",
-      "description": "A teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.",
-      "tags": [
-        "SUNSET",
-        "LAKE",
-        "DAWN"
-      ],
-      "technique_tags": [
-        "Pan",
-        "Shallow Focus"
-      ],
-      "director": "Eavvon O’Neal",
-      "dop": "Greta Zozula, Sam Wootton",
-      "colorist": "Sam Daley",
-      "original_source": "",
-      "additional_info": "#LoveYourz (2018)\nA teenage self-love creative collective searches for love and adventure as they explore the outer boroughs of NYC.\nTechnique - Pan , Shallow Focus\nDirector - Nick Bentgen\nDOP - Greta Zozula, Sam Wootton\nEditor - Eavvon O’Neal\nColorist - Sam Daley\nOriginal Source - Link\nSUNSET\nLAKE\nDAWN",
-      "page_url": "https://eyecannndy.com/technique/pan"
-    },
-    {
       "video_url": "https://asset.eyecannndy.com/media/CACHE/images/clip/2024/01/04/Jan-04-2024_07-49-19/b80f794572e9e4bd891623ee99f6f9bf.gif",
       "alt_text": "Asteroid City",
-      "discovered_at": "2025-09-12T00:24:23.857445",
+      "discovered_at": "2025-09-12T17:20:19.477234",
       "title": "Asteroid City (2023)",
       "description": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
       "tags": [
@@ -1217,7 +1195,7 @@
     {
       "video_url": "https://asset.eyecannndy.com/media/clip/2024/03/15/261710488661.webp",
       "alt_text": "21 Savage - redrum",
-      "discovered_at": "2025-09-12T00:24:27.017292",
+      "discovered_at": "2025-09-12T17:20:22.568916",
       "title": "21 Savage - redrum (2024)",
       "description": "The music video for \"Redrum\" by 21 Savage, featured on his album \"American Dream,\" is directed by Danny Seth and showcases a return to the artist's roots in London. It contrasts iconic landmarks with the grittier areas of Brixton, symbolizing the song's themes. The track itself, produced by London on da Track, samples \"Serenata do Adeus\" and incorporates elements from \"The Shining,\" including the famous line \"Here's Johnny!\" Despite some opinions that the video could have more directly referenced \"The Shining's\" iconic scenes, it has been well-received for its artistic representation and Savage's performance.",
       "tags": [

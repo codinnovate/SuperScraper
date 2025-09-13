@@ -22,13 +22,16 @@ def load_scraping_summary(summary_file):
         return None
 
 def get_zero_video_techniques(summary_data):
-    """Extract techniques that had zero videos."""
+    """Extract techniques that had zero videos, sorted in reverse alphabetical order."""
     zero_video_techniques = []
     
     if 'techniques_results' in summary_data:
         for technique, result in summary_data['techniques_results'].items():
             if result.get('videos_count', 0) == 0 and result.get('status') == 'no_videos':
                 zero_video_techniques.append(technique)
+    
+    # Sort in reverse alphabetical order (Z to A) to start from the end
+    zero_video_techniques.sort(reverse=True)
     
     return zero_video_techniques
 

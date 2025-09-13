@@ -630,6 +630,9 @@ class ComprehensivePopupScraper:
                         video_data['page_url'] = url
                         extracted_videos.append(video_data)
                         self.processed_videos += 1
+                        
+                        # Save incrementally after each video
+                        self.save_technique_data_incremental(technique, extracted_videos)
                     break
                 except Exception as e:
                     self.logger.error(f"Error processing video {current_video_index + 1} (attempt {video_attempt + 1}): {e}")
@@ -641,8 +644,11 @@ class ComprehensivePopupScraper:
             # Minimal delay between videos for extreme speed
             time.sleep(VIDEO_PROCESSING_DELAY)
         
-        # Mark technique as completed
+        # Mark technique as completed and save final data
         self.save_progress(technique, 0, completed=True)
+        if extracted_videos:
+            # Update final save with completed status
+            self.save_technique_data_final(technique, extracted_videos)
         self.logger.info(f"Completed technique {technique}: extracted data from {len(extracted_videos)} videos")
         return extracted_videos
     
@@ -687,6 +693,70 @@ class ComprehensivePopupScraper:
                 f.write(f'"{video_url}","{alt_text}","{title}","{description}","{director}","{dop}","{colorist}","{tags}","{technique_tags}"\n')
         
         self.logger.info(f"Saved {len(videos)} videos for {technique} to {json_file} and {csv_file}")
+    
+    def save_technique_data_incremental(self, technique, videos):
+        """Save technique data incrementally in real-time as videos are processed"""
+        output_dir = "technique_files"
+        os.makedirs(output_dir, exist_ok=True)
+        
+        # Create JSON file with current videos
+        json_data = {
+            "technique": technique,
+            "scrape_info": {
+                "timestamp": datetime.now().strftime("%Y%m%d_%H%M%S"),
+                "total_videos": len(videos),
+                "scraper_type": "comprehensive_popup_modal",
+                "status": "in_progress"
+            },
+            "videos": videos
+        }
+        
+        json_file = os.path.join(output_dir, f"{technique}.json")
+        with open(json_file, 'w', encoding='utf-8') as f:
+            json.dump(json_data, f, indent=2, ensure_ascii=False)
+        
+        # Create CSV file with current videos
+        csv_file = os.path.join(output_dir, f"{technique}.csv")
+        with open(csv_file, 'w', encoding='utf-8') as f:
+            f.write("video_url,alt_text,title,description,director,dop,colorist,tags,technique_tags\n")
+            for video in videos:
+                # Clean and format fields for CSV
+                video_url = video.get('video_url', '').replace('"', '""')
+                alt_text = video.get('alt_text', '').replace('"', '""')
+                title = video.get('title', '').replace('"', '""')
+                description = video.get('description', '').replace('"', '""').replace('\n', ' ')
+                director = video.get('director', '').replace('"', '""')
+                dop = video.get('dop', '').replace('"', '""')
+                colorist = video.get('colorist', '').replace('"', '""')
+                
+                # Handle arrays
+                tags = ' | '.join(video.get('tags', [])).replace('"', '""').replace('\n', ' ')
+                technique_tags = ' | '.join(video.get('technique_tags', [])).replace('"', '""')
+                
+                f.write(f'"{video_url}","{alt_text}","{title}","{description}","{director}","{dop}","{colorist}","{tags}","{technique_tags}"\n')
+    
+    def save_technique_data_final(self, technique, videos):
+        """Save final technique data with completed status"""
+        output_dir = "technique_files"
+        os.makedirs(output_dir, exist_ok=True)
+        
+        # Create JSON file with completed status
+        json_data = {
+            "technique": technique,
+            "scrape_info": {
+                "timestamp": datetime.now().strftime("%Y%m%d_%H%M%S"),
+                "total_videos": len(videos),
+                "scraper_type": "comprehensive_popup_modal",
+                "status": "completed"
+            },
+            "videos": videos
+        }
+        
+        json_file = os.path.join(output_dir, f"{technique}.json")
+        with open(json_file, 'w', encoding='utf-8') as f:
+            json.dump(json_data, f, indent=2, ensure_ascii=False)
+        
+        self.logger.info(f"Final save: {len(videos)} videos for {technique} marked as completed")
     
     def cleanup(self):
         """Clean up resources"""
