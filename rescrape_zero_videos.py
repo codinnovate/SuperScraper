@@ -25,14 +25,58 @@ def load_scraping_summary(summary_file):
         print(f"Error: Invalid JSON in '{summary_file}'.")
         return None
 
-def get_zero_video_techniques(summary_data):
-    """Extract techniques that had zero videos, sorted in reverse alphabetical order."""
+def get_zero_video_techniques_from_files():
+    """Find techniques that have zero videos by comparing discovered techniques with existing files."""
     zero_video_techniques = []
     
-    if 'techniques_results' in summary_data:
-        for technique, result in summary_data['techniques_results'].items():
-            if result.get('videos_count', 0) == 0 and result.get('status') == 'no_videos':
-                zero_video_techniques.append(technique)
+    # Load discovered techniques
+    discovered_file = 'discovered_techniques.json'
+    if not os.path.exists(discovered_file):
+        print(f"Error: '{discovered_file}' not found.")
+        return []
+    
+    try:
+        with open(discovered_file, 'r') as f:
+            discovered_data = json.load(f)
+    except Exception as e:
+        print(f"Error reading {discovered_file}: {e}")
+        return []
+    
+    # Get all discovered technique names
+    discovered_techniques = set()
+    for technique in discovered_data.get('techniques', []):
+        technique_name = technique.get('name')
+        if technique_name:
+            discovered_techniques.add(technique_name)
+    
+    # Get existing technique files
+    technique_files_dir = 'technique_files'
+    existing_techniques = set()
+    
+    if os.path.exists(technique_files_dir):
+        json_files = [f for f in os.listdir(technique_files_dir) if f.endswith('.json')]
+        for json_file in json_files:
+            technique_name = json_file.replace('.json', '')
+            existing_techniques.add(technique_name)
+    
+    # Find techniques that were discovered but don't have files (zero videos)
+    zero_video_techniques = list(discovered_techniques - existing_techniques)
+    
+    # Also check existing files for empty videos arrays
+    for technique_name in existing_techniques:
+        file_path = os.path.join(technique_files_dir, f"{technique_name}.json")
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+            
+            # Check if videos array exists and has content
+            videos = data.get('videos', [])
+            if len(videos) == 0:
+                zero_video_techniques.append(technique_name)
+                
+        except Exception as e:
+            print(f"Warning: Could not read {technique_name}.json: {e}")
+            continue
     
     # Sort in reverse alphabetical order (Z to A) to start from the end
     zero_video_techniques.sort(reverse=True)
@@ -135,30 +179,13 @@ def rescrape_techniques(techniques):
         print(f"⚠ {failed_rescrapes} techniques still have no videos available.")
 
 def main():
-    # Default to the most recent summary file
-    summary_file = 'scraping_summary_20250911_163745.json'
+    print("Checking technique files for zero videos...")
     
-    # Allow custom summary file as argument
-    if len(sys.argv) > 1:
-        summary_file = sys.argv[1]
-    
-    if not os.path.exists(summary_file):
-        print(f"Error: Summary file '{summary_file}' not found.")
-        print("Usage: python3 rescrape_zero_videos.py [summary_file.json]")
-        sys.exit(1)
-    
-    print(f"Loading scraping summary from: {summary_file}")
-    
-    # Load summary data
-    summary_data = load_scraping_summary(summary_file)
-    if not summary_data:
-        sys.exit(1)
-    
-    # Get techniques with zero videos
-    zero_video_techniques = get_zero_video_techniques(summary_data)
+    # Get techniques with zero videos from actual files
+    zero_video_techniques = get_zero_video_techniques_from_files()
     
     if not zero_video_techniques:
-        print("No techniques with zero videos found in the summary.")
+        print("No techniques with zero videos found in technique_files directory.")
         sys.exit(0)
     
     # Confirm before proceeding
