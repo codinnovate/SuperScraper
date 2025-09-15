@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455587013670",
+    "project_id": "eazyfit-fashion",
+    "storage_bucket": "eazyfit-fashion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455587013670:android:90ea803543e8eda2a1f2e7",
+        "android_client_info": {
+          "package_name": "com.anonymous.eazyfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD5JmAzCXlxTaeumGBScp1231AD67kxHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
