@@ -1,8 +1,8 @@
 {
   "technique": "transition",
   "scrape_info": {
-    "timestamp": "20250915_121138",
-    "total_videos": 40,
+    "timestamp": "20250915_121537",
+    "total_videos": 44,
     "scraper_type": "comprehensive_popup_modal",
     "status": "in_progress"
   },
@@ -878,6 +878,93 @@
       "colorist": "Matt Turner",
       "original_source": "",
       "additional_info": "A$AP Rocky - L$D (2015)\nShot entirely in Tokyo, L$D borrows heavily from Gaspar Noé’s 2009 psychedelic fantasy film Enter the Void (which, if you ask Noé, also inspired Kanye West’s 2010 music video “All of the Lights”).\nTechnique - Altered state , Drug trip , Transitions\nDirector - Dexter Navy\nDOP - Oliver Millar\nColorist - Matt Turner\nOriginal Source - Link\nTutorial - Link",
+      "page_url": "https://eyecannndy.com/technique/transition"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709101809.webp",
+      "alt_text": "Watchtower of Turkey",
+      "discovered_at": "2025-09-15T12:12:35.835790",
+      "title": "Watchtower of Turkey (2014)",
+      "description": "Described as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.",
+      "tags": [],
+      "technique_tags": [
+        "Transitions"
+      ],
+      "director": "Leonardo Dalessandri",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Watchtower of Turkey (2014)\nDescribed as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.\nTechnique - Transitions\nDirector - Leonardo Dalessandri\nOriginal Source - Link",
+      "page_url": "https://eyecannndy.com/technique/transition"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/28/261709102285.webp",
+      "alt_text": "Watchtower of Turkey",
+      "discovered_at": "2025-09-15T12:13:34.500379",
+      "title": "Watchtower of Turkey (2014)",
+      "description": "Described as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.",
+      "tags": [
+        "DAY",
+        "INTERIOR",
+        "BIRD",
+        "BUILDING",
+        "BRICK",
+        "PIGEON",
+        "TURKEY"
+      ],
+      "technique_tags": [
+        "Crash cut",
+        "Transitions"
+      ],
+      "director": "Leonardo Dalessandri",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Watchtower of Turkey (2014)\nDescribed as a visual masterpiece, \"Watchtower of Turkey\" is praised for its breathtaking cinematography, dynamic soundtrack, and impeccable editing. The film takes viewers through vibrant cities and awe-inspiring landscapes, showcasing the country's remarkable diversity and beauty. It's more than just a travel video; it's a tribute to Turkey's rich culture, history, and natural wonders, crafted with an eye for detail and a knack for storytelling.\nTechnique - Crash cut , Transitions\nDirector - Leonardo Dalessandri\nOriginal Source - Link\nDAY\nINTERIOR\nBIRD\nBUILDING\nBRICK\nPIGEON\nTURKEY",
+      "page_url": "https://eyecannndy.com/technique/transition"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/02/15/261707975899.webp",
+      "alt_text": "Dream Corp LLC",
+      "discovered_at": "2025-09-15T12:14:35.835594",
+      "title": "Dream Corp LLC (2016)",
+      "description": "An absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.",
+      "tags": [],
+      "technique_tags": [
+        "Altered state",
+        "Dreamcore",
+        "Drug trip",
+        "Object Portal",
+        "Rotoscope",
+        "Transitions"
+      ],
+      "director": "Daniel Stessen",
+      "dop": "",
+      "colorist": "",
+      "original_source": "",
+      "additional_info": "Dream Corp LLC (2016)\nAn absurd workplace comedy set in a neglected dream therapy facility where a rotating cast of desperate patients have their dreams recorded and analyzed by Dream Corp's absent-minded professor.\nTechnique - Altered state , Dreamcore , Drug trip , Object Portal , Rotoscope , Transitions\nDirector - Daniel Stessen",
+      "page_url": "https://eyecannndy.com/technique/transition"
+    },
+    {
+      "video_url": "https://asset.eyecannndy.com/media/clip/2024/07/13/261720913884.webp",
+      "alt_text": "AJ Tracey - Bubble Bath",
+      "discovered_at": "2025-09-15T12:15:37.721819",
+      "title": "AJ Tracey - Bubble Bath (2024)",
+      "description": "The music video for \"Bubble Bath\" by AJ Tracey, released in 2024, is set in a lively West London nail shop, directed by LateMilk. The video features vibrant, energetic scenes that reflect the song's upbeat and catchy vibe. It highlights the fusion of contemporary urban culture with playful, colorful visuals, showcasing AJ Tracey in various stylish setups, interacting with people in the nail shop, and performing the song with charisma and flair. The setting and visuals create a fun, engaging atmosphere that complements the track's infectious rhythm and lyrics.",
+      "tags": [
+        "TRANSITION",
+        "SCREEN"
+      ],
+      "technique_tags": [
+        "Crash Transition",
+        "Crash Zoom",
+        "Transitions"
+      ],
+      "director": "LateMilk",
+      "dop": "Ethan Lodge",
+      "colorist": "Andi Chu",
+      "original_source": "",
+      "additional_info": "AJ Tracey - Bubble Bath (2024)\nThe music video for \"Bubble Bath\" by AJ Tracey, released in 2024, is set in a lively West London nail shop, directed by LateMilk. The video features vibrant, energetic scenes that reflect the song's upbeat and catchy vibe. It highlights the fusion of contemporary urban culture with playful, colorful visuals, showcasing AJ Tracey in various stylish setups, interacting with people in the nail shop, and performing the song with charisma and flair. The setting and visuals create a fun, engaging atmosphere that complements the track's infectious rhythm and lyrics.\nTechnique - Crash Transition , Crash Zoom , Transitions\nDirector - LateMilk\nDOP - Ethan Lodge\nColorist - Andi Chu\nOriginal Source - Link\nTRANSITION\nSCREEN",
       "page_url": "https://eyecannndy.com/technique/transition"
     }
   ]
